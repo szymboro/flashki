@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #fff5f0;
+  --color-primary-100: #ffe6d9;
+  --color-primary-200: #ffcdb3;
+  --color-primary-300: #ffb48c;
+  --color-primary-400: #ff9b66;
+  --color-primary-500: #ff6b35;
+  --color-primary-600: #e65a28;
+  --color-primary-700: #cc491b;
+  --color-primary-800: #b3380e;
+  --color-primary-900: #992701;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-gray-100;
+  }
+}
+
+@layer utilities {
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+
+  .transform-style-3d {
+    transform-style: preserve-3d;
+  }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+}
