@@ -47,7 +47,7 @@ export default function ShareOptions<T extends FlashcardSet | QuizSet>({
   };
 
   return (
-    <div className="fixed inset-0 bg-black opacity-80 flex items-center justify-center z-50">
+    <div className="fixed inset-0 bg-[#000000ab] flex items-center justify-center z-50">
       <div className="bg-gray-800 rounded-2xl p-6 max-w-md w-full mx-4 border border-gray-700">
         <div className="flex items-center justify-between mb-6">
           <h3 className="text-xl font-bold text-white">
