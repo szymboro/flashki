@@ -2,11 +2,12 @@
 
 import FlashcardViewer from "@/components/FlashcardViewer";
 import JsonImport from "@/components/JsonImport";
+import ShareOptions from "@/components/ShareOptions";
 import { deleteFlashcardSet, getFlashcardSets } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
-import { Edit, Plus, Repeat, Shuffle, Trash2 } from "lucide-react";
+import { Edit, Plus, Repeat, Share2, Shuffle, Trash2 } from "lucide-react";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function FiszkiPage() {
   const [flashcardSet, setFlashcardSet] = useState<FlashcardSet | null>(null);
@@ -23,6 +24,39 @@ export default function FiszkiPage() {
   const [shuffledFlashcards, setShuffledFlashcards] = useState<
     FlashcardSet["flashcards"]
   >([]);
+  const [shareSet, setShareSet] = useState<FlashcardSet | null>(null);
+  const [mounted, setMounted] = useState(false);
+
+  // Handle shared data from URL
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      const encodedData = urlParams.get("data");
+      if (encodedData) {
+        try {
+          const decodedBytes = Uint8Array.from(
+            atob(decodeURIComponent(encodedData)),
+            (c) => c.charCodeAt(0),
+          );
+          const decodedString = new TextDecoder().decode(decodedBytes);
+          const decodedData = JSON.parse(decodedString);
+          if (decodedData.flashcards && Array.isArray(decodedData.flashcards)) {
+            setFlashcardSet(decodedData);
+            setShowImport(false);
+            setShowSaved(false);
+            // Clear URL
+            window.history.replaceState({}, "", window.location.pathname);
+          }
+        } catch (err) {
+          console.error("Failed to load shared flashcards:", err);
+        }
+      }
+    }
+  }, []);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const shuffleArray = <T,>(array: T[]): T[] => {
     const shuffled = [...array];
@@ -195,7 +229,9 @@ export default function FiszkiPage() {
                   </button>
                 </div>
               </div>
-              {savedSets.length === 0 ? (
+              {!mounted ? (
+                <p className="text-gray-400">Ładowanie...</p>
+              ) : savedSets.length === 0 ? (
                 <p className="text-gray-400">
                   Brak zapisanych zestawów fiszek.
                 </p>
@@ -363,6 +399,13 @@ export default function FiszkiPage() {
                           </div>
                           <div className="flex gap-2 self-end sm:self-start">
                             <button
+                              onClick={() => setShareSet(set)}
+                              className="p-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
+                              title="Udostępnij zestaw"
+                            >
+                              <Share2 size={18} />
+                            </button>
+                            <button
                               onClick={() => startEditing(set)}
                               className="p-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
                               title="Edytuj zestaw"
@@ -405,6 +448,14 @@ export default function FiszkiPage() {
           <JsonImport onImport={handleImport} />
         )}
       </div>
+
+      {shareSet && (
+        <ShareOptions
+          set={shareSet}
+          type="flashcards"
+          onClose={() => setShareSet(null)}
+        />
+      )}
     </main>
   );
 }

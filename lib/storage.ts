@@ -47,3 +47,11 @@ export function deleteQuizSet(id: string): void {
   const sets = getQuizSets().filter((s) => s.id !== id);
   localStorage.setItem(QUIZ_STORAGE_KEY, JSON.stringify(sets));
 }
+
+export function exportFlashcardSet(set: FlashcardSet): string {
+  return JSON.stringify(set, null, 2);
+}
+
+export function exportQuizSet(set: QuizSet): string {
+  return JSON.stringify(set, null, 2);
+}

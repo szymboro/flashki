@@ -2,6 +2,7 @@
 
 import QuizImport from "@/components/QuizImport";
 import QuizRunner from "@/components/QuizRunner";
+import ShareOptions from "@/components/ShareOptions";
 import { deleteQuizSet, getQuizSets } from "@/lib/storage";
 import { QuizSet } from "@/types/quiz";
 import { Plus } from "lucide-react";
@@ -13,6 +14,34 @@ export default function QuizPage() {
   const [showImport, setShowImport] = useState(false);
   const [showSaved, setShowSaved] = useState(true);
   const [savedSets, setSavedSets] = useState<QuizSet[]>([]);
+  const [shareSet, setShareSet] = useState<QuizSet | null>(null);
+
+  // Handle shared data from URL
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      const encodedData = urlParams.get("data");
+      if (encodedData) {
+        try {
+          const decodedBytes = Uint8Array.from(
+            atob(decodeURIComponent(encodedData)),
+            (c) => c.charCodeAt(0),
+          );
+          const decodedString = new TextDecoder().decode(decodedBytes);
+          const decodedData = JSON.parse(decodedString);
+          if (decodedData.questions && Array.isArray(decodedData.questions)) {
+            setQuizSet(decodedData);
+            setShowImport(false);
+            setShowSaved(false);
+            // Clear URL
+            window.history.replaceState({}, "", window.location.pathname);
+          }
+        } catch (err) {
+          console.error("Failed to load shared quiz:", err);
+        }
+      }
+    }
+  }, []);
 
   useEffect(() => {
     setSavedSets(getQuizSets());
@@ -135,6 +164,12 @@ export default function QuizPage() {
                         </div>
                         <div className="flex gap-2">
                           <button
+                            onClick={() => setShareSet(set)}
+                            className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors text-sm"
+                          >
+                            Udostępnij
+                          </button>
+                          <button
                             onClick={() => handleLoadSaved(set)}
                             className="px-4 py-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors text-sm"
                           >
@@ -175,6 +210,14 @@ export default function QuizPage() {
           <QuizImport onImport={handleImport} />
         )}
       </div>
+
+      {shareSet && (
+        <ShareOptions
+          set={shareSet}
+          type="quiz"
+          onClose={() => setShareSet(null)}
+        />
+      )}
     </main>
   );
 }
