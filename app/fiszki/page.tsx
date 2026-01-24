@@ -6,13 +6,15 @@ import { deleteFlashcardSet, getFlashcardSets } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
 import { Edit, Plus, Repeat, Shuffle, Trash2 } from "lucide-react";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function FiszkiPage() {
   const [flashcardSet, setFlashcardSet] = useState<FlashcardSet | null>(null);
   const [showImport, setShowImport] = useState(false);
   const [showSaved, setShowSaved] = useState(true);
-  const [savedSets, setSavedSets] = useState<FlashcardSet[]>([]);
+  const [savedSets, setSavedSets] = useState<FlashcardSet[]>(() =>
+    getFlashcardSets(),
+  );
   const [editingSetId, setEditingSetId] = useState<string | null>(null);
   const [editedFlashcards, setEditedFlashcards] = useState<
     FlashcardSet["flashcards"]
@@ -34,19 +36,11 @@ export default function FiszkiPage() {
   const toggleShuffle = () => {
     if (!shuffleEnabled && flashcardSet) {
       setShuffledFlashcards(shuffleArray(flashcardSet.flashcards));
+    } else if (shuffleEnabled) {
+      setShuffledFlashcards([]);
     }
     setShuffleEnabled(!shuffleEnabled);
   };
-
-  useEffect(() => {
-    setSavedSets(getFlashcardSets());
-  }, []);
-
-  useEffect(() => {
-    if (flashcardSet && shuffleEnabled) {
-      setShuffledFlashcards(shuffleArray(flashcardSet.flashcards));
-    }
-  }, [flashcardSet, shuffleEnabled]);
 
   const handleImport = (newSet: FlashcardSet) => {
     setFlashcardSet(newSet);
@@ -63,28 +57,6 @@ export default function FiszkiPage() {
   const handleDeleteSaved = (id: string) => {
     deleteFlashcardSet(id);
     setSavedSets(getFlashcardSets());
-  };
-
-  const handleFlashcardsChange = (
-    updatedFlashcards: FlashcardSet["flashcards"],
-  ) => {
-    if (flashcardSet) {
-      const updatedSet = { ...flashcardSet, flashcards: updatedFlashcards };
-      setFlashcardSet(updatedSet);
-      // Zaktualizuj w localStorage jeśli to zapisany set
-      const savedSets = getFlashcardSets();
-      const existingIndex = savedSets.findIndex(
-        (s) => s.id === flashcardSet.id,
-      );
-      if (existingIndex >= 0) {
-        savedSets[existingIndex] = updatedSet;
-        localStorage.setItem(
-          "flashki_flashcard_sets",
-          JSON.stringify(savedSets),
-        );
-        setSavedSets(savedSets);
-      }
-    }
   };
 
   const startEditing = (set: FlashcardSet) => {
@@ -145,7 +117,7 @@ export default function FiszkiPage() {
         <header className="flex items-center justify-between gap-4 mb-10">
           <Link
             href="/"
-            className="text-2xl font-bold bg-gradient-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent hover:from-primary-300 hover:to-primary-500 transition-colors"
+            className="text-2xl font-bold bg-linear-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent hover:from-primary-300 hover:to-primary-500 transition-colors"
             aria-label="Flashki - menu główne"
           >
             Flashki
@@ -337,7 +309,11 @@ export default function FiszkiPage() {
                                       updateFlashcard(
                                         index,
                                         "difficulty",
-                                        e.target.value as any,
+                                        e.target.value as
+                                          | "easy"
+                                          | "medium"
+                                          | "hard"
+                                          | "",
                                       )
                                     }
                                     className="w-full p-2 bg-gray-700 border border-gray-600 rounded-lg text-gray-100 text-sm focus:outline-none focus:border-primary-500"

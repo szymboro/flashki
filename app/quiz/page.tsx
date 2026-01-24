@@ -41,7 +41,7 @@ export default function QuizPage() {
         <header className="flex items-center justify-between gap-4 mb-10">
           <Link
             href="/"
-            className="text-2xl font-bold bg-gradient-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent hover:from-primary-300 hover:to-primary-500 transition-colors"
+            className="text-2xl font-bold bg-linear-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent hover:from-primary-300 hover:to-primary-500 transition-colors"
             aria-label="Flashki - menu główne"
           >
             Flashki
