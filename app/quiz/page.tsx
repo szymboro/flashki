@@ -4,6 +4,7 @@ import QuizImport from "@/components/QuizImport";
 import QuizRunner from "@/components/QuizRunner";
 import { deleteQuizSet, getQuizSets } from "@/lib/storage";
 import { QuizSet } from "@/types/quiz";
+import { Plus } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -105,19 +106,7 @@ export default function QuizPage() {
                   className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
                   title="Dodaj nowy quiz"
                 >
-                  <svg
-                    className="w-5 h-5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 4v16m8-8H4"
-                    />
-                  </svg>
+                  <Plus size={20} />
                 </button>
               </div>
               {savedSets.length === 0 ? (

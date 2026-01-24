@@ -1,6 +1,7 @@
 "use client";
 
 import { Flashcard as FlashcardType } from "@/types/flashcard";
+import { ArrowLeft, ArrowRight } from "lucide-react";
 import { useState } from "react";
 import Flashcard from "./Flashcard";
 
@@ -115,7 +116,7 @@ export default function FlashcardViewer({ flashcards }: FlashcardViewerProps) {
               disabled={isFirst}
               className="px-6 py-3 bg-gray-800 hover:bg-gray-700 disabled:bg-gray-900 disabled:text-gray-600 disabled:border-gray-800 disabled:cursor-not-allowed text-white rounded-lg transition-colors border border-gray-700"
             >
-              ← Poprzednia
+              <ArrowLeft />
             </button>
             <span className="text-gray-400 font-medium">
               {currentIndex + 1} / {flashcards.length}
@@ -124,7 +125,7 @@ export default function FlashcardViewer({ flashcards }: FlashcardViewerProps) {
               onClick={goToNext}
               className="px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors font-semibold"
             >
-              {isLast ? "Zakończ" : "Następna →"}
+              {isLast ? "Zakończ" : <ArrowRight />}
             </button>
           </div>
 

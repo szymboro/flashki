@@ -4,6 +4,7 @@ import FlashcardViewer from "@/components/FlashcardViewer";
 import JsonImport from "@/components/JsonImport";
 import { deleteFlashcardSet, getFlashcardSets } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
+import { Edit, Plus, Repeat, Shuffle, Trash2 } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -16,10 +17,36 @@ export default function FiszkiPage() {
   const [editedFlashcards, setEditedFlashcards] = useState<
     FlashcardSet["flashcards"]
   >([]);
+  const [shuffleEnabled, setShuffleEnabled] = useState(false);
+  const [shuffledFlashcards, setShuffledFlashcards] = useState<
+    FlashcardSet["flashcards"]
+  >([]);
+
+  const shuffleArray = <T,>(array: T[]): T[] => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  };
+
+  const toggleShuffle = () => {
+    if (!shuffleEnabled && flashcardSet) {
+      setShuffledFlashcards(shuffleArray(flashcardSet.flashcards));
+    }
+    setShuffleEnabled(!shuffleEnabled);
+  };
 
   useEffect(() => {
     setSavedSets(getFlashcardSets());
   }, []);
+
+  useEffect(() => {
+    if (flashcardSet && shuffleEnabled) {
+      setShuffledFlashcards(shuffleArray(flashcardSet.flashcards));
+    }
+  }, [flashcardSet, shuffleEnabled]);
 
   const handleImport = (newSet: FlashcardSet) => {
     setFlashcardSet(newSet);
@@ -146,19 +173,6 @@ export default function FiszkiPage() {
           >
             Moje fiszki
           </button>
-          <button
-            onClick={() => {
-              setShowImport(false);
-              setShowSaved(false);
-            }}
-            className={`px-6 py-3 rounded-lg transition-colors ${
-              !showImport && !showSaved && flashcardSet
-                ? "bg-primary-600 text-white"
-                : "bg-gray-800 text-gray-300 hover:bg-gray-700"
-            }`}
-          >
-            Fiszki
-          </button>
         </div>
 
         {showImport ? (
@@ -177,28 +191,37 @@ export default function FiszkiPage() {
                 <h2 className="text-2xl font-bold text-primary-400">
                   Moje zapisane zestawy fiszek
                 </h2>
-                <button
-                  onClick={() => {
-                    setShowImport(true);
-                    setShowSaved(false);
-                  }}
-                  className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
-                  title="Dodaj nowy zestaw fiszek"
-                >
-                  <svg
-                    className="w-5 h-5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={toggleShuffle}
+                    className={`p-2 rounded-lg transition-colors ${
+                      shuffleEnabled
+                        ? "bg-primary-600 text-white"
+                        : "bg-gray-700 text-gray-300 hover:bg-gray-600"
+                    }`}
+                    title={
+                      shuffleEnabled
+                        ? "Wyłącz mieszanie fiszek"
+                        : "Włącz mieszanie fiszek"
+                    }
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 4v16m8-8H4"
-                    />
-                  </svg>
-                </button>
+                    {shuffleEnabled ? (
+                      <Shuffle size={20} />
+                    ) : (
+                      <Repeat size={20} />
+                    )}
+                  </button>
+                  <button
+                    onClick={() => {
+                      setShowImport(true);
+                      setShowSaved(false);
+                    }}
+                    className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
+                    title="Dodaj nowy zestaw fiszek"
+                  >
+                    <Plus size={20} />
+                  </button>
+                </div>
               </div>
               {savedSets.length === 0 ? (
                 <p className="text-gray-400">
@@ -344,9 +367,12 @@ export default function FiszkiPage() {
                         key={set.id}
                         className="bg-gray-900 rounded-lg p-4 border border-gray-700"
                       >
-                        <div className="flex justify-between items-start">
+                        <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
                           <div className="flex-1">
-                            <h3 className="text-lg font-semibold text-white">
+                            <h3
+                              className="text-lg font-semibold text-primary-400 hover:text-primary-300 cursor-pointer transition-colors"
+                              onClick={() => handleLoadSaved(set)}
+                            >
                               {set.title}
                             </h3>
                             {set.description && (
@@ -359,24 +385,20 @@ export default function FiszkiPage() {
                               {new Date(set.createdAt).toLocaleDateString()}
                             </p>
                           </div>
-                          <div className="flex gap-2">
+                          <div className="flex gap-2 self-end sm:self-start">
                             <button
                               onClick={() => startEditing(set)}
-                              className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors text-sm"
+                              className="p-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
+                              title="Edytuj zestaw"
                             >
-                              Edytuj
-                            </button>
-                            <button
-                              onClick={() => handleLoadSaved(set)}
-                              className="px-4 py-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors text-sm"
-                            >
-                              Załaduj
+                              <Edit size={18} />
                             </button>
                             <button
                               onClick={() => handleDeleteSaved(set.id)}
-                              className="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg transition-colors text-sm"
+                              className="p-2 bg-red-600 hover:bg-red-700 text-white rounded-lg transition-colors"
+                              title="Usuń zestaw"
                             >
-                              Usuń
+                              <Trash2 size={18} />
                             </button>
                           </div>
                         </div>
@@ -397,7 +419,11 @@ export default function FiszkiPage() {
                 <p className="text-gray-400">{flashcardSet.description}</p>
               )}
             </div>
-            <FlashcardViewer flashcards={flashcardSet.flashcards} />
+            <FlashcardViewer
+              flashcards={
+                shuffleEnabled ? shuffledFlashcards : flashcardSet.flashcards
+              }
+            />
           </div>
         ) : (
           <JsonImport onImport={handleImport} />
