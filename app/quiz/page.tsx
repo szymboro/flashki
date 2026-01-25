@@ -5,15 +5,17 @@ import QuizRunner from "@/components/QuizRunner";
 import ShareOptions from "@/components/ShareOptions";
 import { deleteQuizSet, getQuizSets } from "@/lib/storage";
 import { QuizSet } from "@/types/quiz";
-import { Play, Plus, Share2, Trash2 } from "lucide-react";
+import { Play, Plus, Repeat, Share2, Shuffle, Trash2 } from "lucide-react";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 export default function QuizPage() {
   const [quizSet, setQuizSet] = useState<QuizSet | null>(null);
   const [showImport, setShowImport] = useState(false);
   const [savedSets, setSavedSets] = useState<QuizSet[]>([]);
   const [shareSet, setShareSet] = useState<QuizSet | null>(null);
+  const [shuffleEnabled, setShuffleEnabled] = useState(false);
+  const [questionLimit, setQuestionLimit] = useState<number | null>(null);
 
   // Handle shared data from URL
   useEffect(() => {
@@ -44,6 +46,31 @@ export default function QuizPage() {
   useEffect(() => {
     setSavedSets(getQuizSets());
   }, []);
+
+  const shuffleArray = <T,>(array: T[]): T[] => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  };
+
+  const toggleShuffle = () => {
+    setShuffleEnabled(!shuffleEnabled);
+  };
+
+  const processedQuestions = useMemo(() => {
+    if (!quizSet) return [];
+    let questions = [...quizSet.questions];
+    if (shuffleEnabled) {
+      questions = shuffleArray(questions);
+    }
+    if (questionLimit && questionLimit < questions.length) {
+      questions = questions.slice(0, questionLimit);
+    }
+    return questions;
+  }, [quizSet, shuffleEnabled, questionLimit]);
 
   const handleImport = (newQuiz: QuizSet) => {
     setQuizSet(newQuiz);
@@ -88,7 +115,7 @@ export default function QuizPage() {
               )}
             </div>
             <QuizRunner
-              questions={quizSet.questions}
+              questions={processedQuestions}
               onRestart={() => {
                 // no-op for now
               }}
@@ -109,13 +136,64 @@ export default function QuizPage() {
                 <h2 className="text-2xl font-bold text-primary-400">
                   Moje zapisane quizy
                 </h2>
-                <button
-                  onClick={() => setShowImport(true)}
-                  className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
-                  title="Dodaj nowy quiz"
-                >
-                  <Plus size={20} />
-                </button>
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={toggleShuffle}
+                    className={`p-2 rounded-lg transition-colors ${
+                      shuffleEnabled
+                        ? "bg-primary-600 text-white"
+                        : "bg-gray-700 text-gray-300 hover:bg-gray-600"
+                    }`}
+                    title={
+                      shuffleEnabled
+                        ? "Wyłącz mieszanie pytań"
+                        : "Włącz mieszanie pytań"
+                    }
+                  >
+                    {shuffleEnabled ? (
+                      <Shuffle size={20} />
+                    ) : (
+                      <Repeat size={20} />
+                    )}
+                  </button>
+                  <div className="flex items-center gap-2">
+                    <input
+                      type="checkbox"
+                      id="limit-questions"
+                      checked={questionLimit !== null}
+                      onChange={(e) =>
+                        setQuestionLimit(e.target.checked ? 10 : null)
+                      }
+                      className="w-4 h-4 text-primary-600 bg-gray-700 border-gray-600 rounded focus:ring-primary-500 focus:ring-2"
+                    />
+                    <label
+                      htmlFor="limit-questions"
+                      className="text-gray-300 text-sm"
+                    >
+                      Limituj liczbę pytań do
+                    </label>
+                    <input
+                      type="number"
+                      min="1"
+                      max="100"
+                      value={questionLimit || ""}
+                      onChange={(e) =>
+                        setQuestionLimit(
+                          e.target.value ? parseInt(e.target.value) : null,
+                        )
+                      }
+                      disabled={questionLimit === null}
+                      className="bg-gray-700 border border-gray-600 rounded-lg px-3 py-1 text-gray-100 text-sm focus:outline-none focus:border-primary-500 disabled:opacity-50 disabled:cursor-not-allowed w-16"
+                    />
+                  </div>
+                  <button
+                    onClick={() => setShowImport(true)}
+                    className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
+                    title="Dodaj nowy quiz"
+                  >
+                    <Plus size={20} />
+                  </button>
+                </div>
               </div>
               {savedSets.length === 0 ? (
                 <p className="text-gray-400">Brak zapisanych quizów.</p>
