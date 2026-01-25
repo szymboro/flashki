@@ -5,14 +5,13 @@ import QuizRunner from "@/components/QuizRunner";
 import ShareOptions from "@/components/ShareOptions";
 import { deleteQuizSet, getQuizSets } from "@/lib/storage";
 import { QuizSet } from "@/types/quiz";
-import { Plus } from "lucide-react";
+import { Play, Plus, Share2, Trash2 } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
 export default function QuizPage() {
   const [quizSet, setQuizSet] = useState<QuizSet | null>(null);
   const [showImport, setShowImport] = useState(false);
-  const [showSaved, setShowSaved] = useState(true);
   const [savedSets, setSavedSets] = useState<QuizSet[]>([]);
   const [shareSet, setShareSet] = useState<QuizSet | null>(null);
 
@@ -32,7 +31,6 @@ export default function QuizPage() {
           if (decodedData.questions && Array.isArray(decodedData.questions)) {
             setQuizSet(decodedData);
             setShowImport(false);
-            setShowSaved(false);
             // Clear URL
             window.history.replaceState({}, "", window.location.pathname);
           }
@@ -50,13 +48,11 @@ export default function QuizPage() {
   const handleImport = (newQuiz: QuizSet) => {
     setQuizSet(newQuiz);
     setShowImport(false);
-    setShowSaved(false);
   };
 
   const handleLoadSaved = (set: QuizSet) => {
     setQuizSet(set);
     setShowImport(false);
-    setShowSaved(false);
   };
 
   const handleDeleteSaved = (id: string) => {
@@ -81,115 +77,7 @@ export default function QuizPage() {
           </div>
         </header>
 
-        <div className="flex justify-center mb-8 gap-4">
-          <button
-            onClick={() => {
-              setShowImport(false);
-              setShowSaved(true);
-              setSavedSets(getQuizSets());
-            }}
-            className={`px-6 py-3 rounded-lg transition-colors ${
-              showSaved && !quizSet
-                ? "bg-primary-600 text-white"
-                : "bg-gray-800 text-gray-300 hover:bg-gray-700"
-            }`}
-          >
-            Moje quizy
-          </button>
-          <button
-            onClick={() => {
-              setShowImport(false);
-              setShowSaved(false);
-            }}
-            className={`px-6 py-3 rounded-lg transition-colors ${
-              !showImport && !showSaved && quizSet
-                ? "bg-primary-600 text-white"
-                : "bg-gray-800 text-gray-300 hover:bg-gray-700"
-            }`}
-          >
-            Quiz
-          </button>
-        </div>
-
-        {showImport ? (
-          <QuizImport
-            onImport={handleImport}
-            onSave={() => {
-              setShowImport(false);
-              setShowSaved(true);
-              setSavedSets(getQuizSets());
-            }}
-          />
-        ) : showSaved ? (
-          <div className="w-full max-w-4xl mx-auto">
-            <div className="bg-gray-800 rounded-2xl p-6 md:p-8 border border-gray-700">
-              <div className="flex items-center justify-between mb-6">
-                <h2 className="text-2xl font-bold text-primary-400">
-                  Moje zapisane quizy
-                </h2>
-                <button
-                  onClick={() => {
-                    setShowImport(true);
-                    setShowSaved(false);
-                  }}
-                  className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
-                  title="Dodaj nowy quiz"
-                >
-                  <Plus size={20} />
-                </button>
-              </div>
-              {savedSets.length === 0 ? (
-                <p className="text-gray-400">Brak zapisanych quizów.</p>
-              ) : (
-                <div className="space-y-4">
-                  {savedSets.map((set) => (
-                    <div
-                      key={set.id}
-                      className="bg-gray-900 rounded-lg p-4 border border-gray-700"
-                    >
-                      <div className="flex justify-between items-start">
-                        <div className="flex-1">
-                          <h3 className="text-lg font-semibold text-white">
-                            {set.title}
-                          </h3>
-                          {set.description && (
-                            <p className="text-gray-400 text-sm mt-1">
-                              {set.description}
-                            </p>
-                          )}
-                          <p className="text-gray-500 text-xs mt-2">
-                            {set.questions.length} pytań • Utworzono:{" "}
-                            {new Date(set.createdAt).toLocaleDateString()}
-                          </p>
-                        </div>
-                        <div className="flex gap-2">
-                          <button
-                            onClick={() => setShareSet(set)}
-                            className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors text-sm"
-                          >
-                            Udostępnij
-                          </button>
-                          <button
-                            onClick={() => handleLoadSaved(set)}
-                            className="px-4 py-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors text-sm"
-                          >
-                            Załaduj
-                          </button>
-                          <button
-                            onClick={() => handleDeleteSaved(set.id)}
-                            className="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg transition-colors text-sm"
-                          >
-                            Usuń
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
-        ) : quizSet ? (
+        {quizSet ? (
           <div>
             <div className="text-center mb-8">
               <h2 className="text-2xl font-bold text-white mb-2">
@@ -206,8 +94,86 @@ export default function QuizPage() {
               }}
             />
           </div>
+        ) : showImport ? (
+          <QuizImport
+            onImport={handleImport}
+            onSave={() => {
+              setShowImport(false);
+              setSavedSets(getQuizSets());
+            }}
+          />
         ) : (
-          <QuizImport onImport={handleImport} />
+          <div className="w-full max-w-4xl mx-auto">
+            <div className="bg-gray-800 rounded-2xl p-6 md:p-8 border border-gray-700">
+              <div className="flex items-center justify-between mb-6">
+                <h2 className="text-2xl font-bold text-primary-400">
+                  Moje zapisane quizy
+                </h2>
+                <button
+                  onClick={() => setShowImport(true)}
+                  className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
+                  title="Dodaj nowy quiz"
+                >
+                  <Plus size={20} />
+                </button>
+              </div>
+              {savedSets.length === 0 ? (
+                <p className="text-gray-400">Brak zapisanych quizów.</p>
+              ) : (
+                <div className="space-y-4">
+                  {savedSets.map((set) => (
+                    <div
+                      key={set.id}
+                      className="bg-gray-900 rounded-lg p-4 border border-gray-700"
+                    >
+                      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
+                        <div className="flex-1">
+                          <h3
+                            className="text-lg font-semibold text-primary-400 hover:text-primary-300 cursor-pointer transition-colors"
+                            onClick={() => handleLoadSaved(set)}
+                          >
+                            {set.title}
+                          </h3>
+                          {set.description && (
+                            <p className="text-gray-400 text-sm mt-1">
+                              {set.description}
+                            </p>
+                          )}
+                          <p className="text-gray-500 text-xs mt-2">
+                            {set.questions.length} pytań • Utworzono:{" "}
+                            {new Date(set.createdAt).toLocaleDateString()}
+                          </p>
+                        </div>
+                        <div className="flex gap-2 self-end sm:self-start">
+                          <button
+                            onClick={() => setShareSet(set)}
+                            className="p-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
+                            title="Udostępnij quiz"
+                          >
+                            <Share2 size={18} />
+                          </button>
+                          <button
+                            onClick={() => handleLoadSaved(set)}
+                            className="p-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors"
+                            title="Załaduj quiz"
+                          >
+                            <Play size={18} />
+                          </button>
+                          <button
+                            onClick={() => handleDeleteSaved(set.id)}
+                            className="p-2 bg-red-600 hover:bg-red-700 text-white rounded-lg transition-colors"
+                            title="Usuń quiz"
+                          >
+                            <Trash2 size={18} />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
         )}
       </div>
 

@@ -3,6 +3,7 @@
 import { saveFlashcardSet } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
 import { useState } from "react";
+import toast from "react-hot-toast";
 
 interface JsonImportProps {
   onImport: (flashcards: FlashcardSet) => void;
@@ -119,7 +120,7 @@ export default function JsonImport({ onImport, onSave }: JsonImportProps) {
       saveFlashcardSet(setToSave);
       setJsonInput("");
       setError("");
-      alert("Zestaw fiszek został zapisany!");
+      toast.success("Zestaw fiszek został zapisany!");
       onSave?.();
 
       // Przejdź do "Moje zapisane" - to będzie obsłużone przez rodzica

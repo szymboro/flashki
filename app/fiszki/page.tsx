@@ -12,7 +12,6 @@ import { useEffect, useState } from "react";
 export default function FiszkiPage() {
   const [flashcardSet, setFlashcardSet] = useState<FlashcardSet | null>(null);
   const [showImport, setShowImport] = useState(false);
-  const [showSaved, setShowSaved] = useState(true);
   const [savedSets, setSavedSets] = useState<FlashcardSet[]>(() =>
     getFlashcardSets(),
   );
@@ -43,7 +42,6 @@ export default function FiszkiPage() {
           if (decodedData.flashcards && Array.isArray(decodedData.flashcards)) {
             setFlashcardSet(decodedData);
             setShowImport(false);
-            setShowSaved(false);
             // Clear URL
             window.history.replaceState({}, "", window.location.pathname);
           }
@@ -79,13 +77,11 @@ export default function FiszkiPage() {
   const handleImport = (newSet: FlashcardSet) => {
     setFlashcardSet(newSet);
     setShowImport(false);
-    setShowSaved(false);
   };
 
   const handleLoadSaved = (set: FlashcardSet) => {
     setFlashcardSet(set);
     setShowImport(false);
-    setShowSaved(false);
   };
 
   const handleDeleteSaved = (id: string) => {
@@ -164,33 +160,31 @@ export default function FiszkiPage() {
           </div>
         </header>
 
-        <div className="flex justify-center mb-8 gap-4">
-          <button
-            onClick={() => {
-              setShowImport(false);
-              setShowSaved(true);
-              setSavedSets(getFlashcardSets());
-            }}
-            className={`px-6 py-3 rounded-lg transition-colors ${
-              showSaved && !flashcardSet
-                ? "bg-primary-600 text-white"
-                : "bg-gray-800 text-gray-300 hover:bg-gray-700"
-            }`}
-          >
-            Moje fiszki
-          </button>
-        </div>
-
-        {showImport ? (
+        {flashcardSet ? (
+          <div>
+            <div className="text-center mb-8">
+              <h2 className="text-2xl font-bold text-white mb-2">
+                {flashcardSet.title}
+              </h2>
+              {flashcardSet.description && (
+                <p className="text-gray-400">{flashcardSet.description}</p>
+              )}
+            </div>
+            <FlashcardViewer
+              flashcards={
+                shuffleEnabled ? shuffledFlashcards : flashcardSet.flashcards
+              }
+            />
+          </div>
+        ) : showImport ? (
           <JsonImport
             onImport={handleImport}
             onSave={() => {
               setShowImport(false);
-              setShowSaved(true);
               setSavedSets(getFlashcardSets());
             }}
           />
-        ) : showSaved ? (
+        ) : (
           <div className="w-full max-w-4xl mx-auto">
             <div className="bg-gray-800 rounded-2xl p-6 md:p-8 border border-gray-700">
               <div className="flex items-center justify-between mb-6">
@@ -218,10 +212,7 @@ export default function FiszkiPage() {
                     )}
                   </button>
                   <button
-                    onClick={() => {
-                      setShowImport(true);
-                      setShowSaved(false);
-                    }}
+                    onClick={() => setShowImport(true)}
                     className="p-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors"
                     title="Dodaj nowy zestaw fiszek"
                   >
@@ -428,24 +419,6 @@ export default function FiszkiPage() {
               )}
             </div>
           </div>
-        ) : flashcardSet ? (
-          <div>
-            <div className="text-center mb-8">
-              <h2 className="text-2xl font-bold text-white mb-2">
-                {flashcardSet.title}
-              </h2>
-              {flashcardSet.description && (
-                <p className="text-gray-400">{flashcardSet.description}</p>
-              )}
-            </div>
-            <FlashcardViewer
-              flashcards={
-                shuffleEnabled ? shuffledFlashcards : flashcardSet.flashcards
-              }
-            />
-          </div>
-        ) : (
-          <JsonImport onImport={handleImport} />
         )}
       </div>
 
