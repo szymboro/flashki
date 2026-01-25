@@ -5,7 +5,15 @@ import JsonImport from "@/components/JsonImport";
 import ShareOptions from "@/components/ShareOptions";
 import { deleteFlashcardSet, getFlashcardSets } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
-import { Edit, Plus, Repeat, Share2, Shuffle, Trash2 } from "lucide-react";
+import {
+  Edit,
+  Play,
+  Plus,
+  Repeat,
+  Share2,
+  Shuffle,
+  Trash2,
+} from "lucide-react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -25,6 +33,7 @@ export default function FiszkiPage() {
   >([]);
   const [shareSet, setShareSet] = useState<FlashcardSet | null>(null);
   const [mounted, setMounted] = useState(false);
+  const [availableFlashcards, setAvailableFlashcards] = useState<any[]>([]);
 
   // Handle shared data from URL
   useEffect(() => {
@@ -56,6 +65,22 @@ export default function FiszkiPage() {
     setMounted(true);
   }, []);
 
+  useEffect(() => {
+    const fetchAvailableFlashcards = async () => {
+      try {
+        const response = await fetch("/api/flashcards");
+        if (response.ok) {
+          const flashcards = await response.json();
+          setAvailableFlashcards(flashcards);
+        }
+      } catch (error) {
+        console.error("Failed to fetch available flashcards:", error);
+      }
+    };
+
+    fetchAvailableFlashcards();
+  }, []);
+
   const shuffleArray = <T,>(array: T[]): T[] => {
     const shuffled = [...array];
     for (let i = shuffled.length - 1; i > 0; i--) {
@@ -82,6 +107,19 @@ export default function FiszkiPage() {
   const handleLoadSaved = (set: FlashcardSet) => {
     setFlashcardSet(set);
     setShowImport(false);
+  };
+
+  const handleLoadAvailable = async (flashcardId: string) => {
+    try {
+      const response = await fetch(`/api/flashcards/${flashcardId}`);
+      if (response.ok) {
+        const flashcardData = await response.json();
+        setFlashcardSet(flashcardData);
+        setShowImport(false);
+      }
+    } catch (error) {
+      console.error("Failed to load flashcard set:", error);
+    }
   };
 
   const handleDeleteSaved = (id: string) => {
@@ -418,6 +456,48 @@ export default function FiszkiPage() {
                 </div>
               )}
             </div>
+
+            {availableFlashcards.length > 0 && (
+              <div className="mt-8">
+                <h3 className="text-xl font-bold text-primary-400 mb-4">
+                  Dostępne zestawy fiszek
+                </h3>
+                <div className="space-y-4">
+                  {availableFlashcards.map((flashcard) => (
+                    <div
+                      key={flashcard.id}
+                      className="bg-gray-900 rounded-lg p-4 border border-gray-700"
+                    >
+                      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
+                        <div className="flex-1">
+                          <h3
+                            className="text-lg font-semibold text-green-400 hover:text-green-300 cursor-pointer transition-colors"
+                            onClick={() => handleLoadAvailable(flashcard.id)}
+                          >
+                            {flashcard.title}
+                          </h3>
+                          {flashcard.description && (
+                            <p className="text-gray-400 text-sm mt-1">
+                              {flashcard.description}
+                            </p>
+                          )}
+                          <p className="text-gray-500 text-xs mt-2">
+                            {flashcard.flashcardCount} fiszek
+                          </p>
+                        </div>
+                        <button
+                          onClick={() => handleLoadAvailable(flashcard.id)}
+                          className="p-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors self-end sm:self-start"
+                          title="Załaduj zestaw"
+                        >
+                          <Play size={18} />
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         )}
       </div>
