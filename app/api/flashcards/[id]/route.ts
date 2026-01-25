@@ -19,6 +19,16 @@ export async function GET(
     );
 
     if (!flashcardFile) {
+      // Find flashcard file by reading each flashcard file and checking the ID
+      for (const file of files) {
+        if (!file.startsWith("quiz_") && file.endsWith(".json")) {
+          const filePath = path.join(materialsDir, file);
+          const content = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+          if (content.id === id) {
+            return NextResponse.json(content);
+          }
+        }
+      }
       return NextResponse.json(
         { error: "Flashcard set not found" },
         { status: 404 },

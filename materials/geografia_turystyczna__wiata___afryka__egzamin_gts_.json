@@ -1,0 +1,778 @@
+{
+  "id": "flashcard-set-1769281313498",
+  "title": "Geografia Turystyczna Świata – Afryka (egzamin GTS)",
+  "description": "Zestaw fiszek obejmujący położenie, środowisko przyrodnicze, klimat, hydrografię, roślinność, faunę, ochronę przyrody, historię, ludność, religie, miasta oraz rozwój turystyki w Afryce.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jaką pozycję zajmuje Afryka pod względem wielkości na świecie?",
+      "answer": "Afryka jest trzecim co do wielkości kontynentem na świecie.",
+      "category": "Położenie i wielkość",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jakie ważne linie geograficzne przecinają Afrykę?",
+      "answer": "Afrykę przecinają równik oraz południk zerowy.",
+      "category": "Położenie i wielkość",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jaka zatoka jest największa w Afryce?",
+      "answer": "Największą zatoką Afryki jest Zatoka Gwinejska.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Dlaczego basen Morza Śródziemnego jest ważnym regionem turystycznym Afryki?",
+      "answer": "Ze względu na klimat podzwrotnikowy, zróżnicowane wybrzeża, makię, zabytki dawnych cywilizacji oraz sprzyjające warunki wypoczynkowe typu 3S.",
+      "category": "Regiony turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Jakie cechy wybrzeża występują w Tunezji?",
+      "answer": "Na północy wysokie i strome wybrzeża, a na wschodzie płaskie i piaszczyste.",
+      "category": "Regiony turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Kiedy rozpoczął się intensywny rozwój turystyki w Tunezji?",
+      "answer": "W latach 60. XX wieku, z dużą promocją w latach 90.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Czym jest platforma afrykańska?",
+      "answer": "Jest to prekambryjska struktura geologiczna będąca częścią dawnego prakontynentu Gondwana.",
+      "category": "Budowa geologiczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Jakie znaczenie dla turystyki ma system Wielkich Rowów Afrykańskich?",
+      "answer": "Tworzy jeziora tektoniczne, masywy wulkaniczne i obszary o dużej bioróżnorodności atrakcyjne turystycznie.",
+      "category": "Budowa geologiczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Które jeziora Afryki są związane z ryftami?",
+      "answer": "Jezioro Tanganika i Jezioro Malawi.",
+      "category": "Hydrografia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Dlaczego góry Atlas mają potencjał turystyczny?",
+      "answer": "Ze względu na zróżnicowane krajobrazy, możliwość trekkingu, narciarstwa oraz bazę noclegową w kasbach.",
+      "category": "Regiony górskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Jaką strukturę hipsometryczną ma Afryka?",
+      "answer": "Dominuje kontynent wyżynny: wyżyny 83%, niziny 10%, góry 7%.",
+      "category": "Ukształtowanie powierzchni",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Jaki jest najwyższy i najniższy punkt Afryki?",
+      "answer": "Najwyższy: Kilimandżaro (~6000 m n.p.m.), najniższy: jezioro Assal (-150 m).",
+      "category": "Ukształtowanie powierzchni",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Dlaczego Afryka jest najgorętszym kontynentem?",
+      "answer": "Ze względu na położenie międzyzwrotnikowe, zwartą budowę kontynentu i duże nasłonecznienie.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Jakie prądy morskie wpływają na klimat Afryki?",
+      "answer": "Chłodne: Kanaryjski i Benguelski; ciepłe: Gwinejski, Mozambicki i Madagaskarski.",
+      "category": "Klimat",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Jakie warunki klimatyczne są najkorzystniejsze dla turystyki masowej w Afryce?",
+      "answer": "Klimat podzwrotnikowy – ciepły, suchy, z wpływem morza.",
+      "category": "Klimat a turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Dlaczego Sahara jest atrakcyjna turystycznie mimo skrajnych warunków?",
+      "answer": "Ze względu na krajobrazy pustynne, kulturę nomadów, sztukę naskalną i turystykę przygodową.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Jakie są trzy typy pustyń w Afryce?",
+      "answer": "Hamada (skalista), serir (żwirowa), erg (piaskowa).",
+      "category": "Pustynie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "18",
+      "question": "Dlaczego Nil ma kluczowe znaczenie historyczne i turystyczne?",
+      "answer": "Umożliwił rozwój cywilizacji egipskiej i dziś stanowi oś zabytków oraz rejsów turystycznych.",
+      "category": "Hydrografia i historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Jakie funkcje spełniała Tama Asuańska?",
+      "answer": "Regulacja powodzi, produkcja energii i zapewnienie wody w czasie suszy.",
+      "category": "Hydrografia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "20",
+      "question": "Czym wyróżnia się Delta Okawango?",
+      "answer": "Jest największą deltą wewnętrzną świata i ważnym obszarem safari wodnego.",
+      "category": "Hydrografia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Jakie znaczenie ma PN Serengeti?",
+      "answer": "Chroni sawanny i wielkie migracje zwierząt oraz jest jednym z najważniejszych obszarów safari.",
+      "category": "Ochrona przyrody",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Czym jest Wielka Piątka Afryki?",
+      "answer": "Słoń, nosorożec, lew, lampart i bawół.",
+      "category": "Fauna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "question": "Dlaczego ochrona przyrody w Afryce bywa konfliktem społecznym?",
+      "answer": "Ponieważ często wiąże się z wysiedleniami ludności lokalnej i ograniczeniem dostępu do ziemi.",
+      "category": "Ochrona przyrody",
+      "difficulty": "hard"
+    },
+    {
+      "id": "24",
+      "question": "Jakie cywilizacje ukształtowały północną Afrykę?",
+      "answer": "Egipska, fenicka, rzymska i arabska.",
+      "category": "Historia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "question": "Dlaczego piramidy w Gizie są wyjątkowe?",
+      "answer": "Są jedynym zachowanym do dziś antycznym cudem świata.",
+      "category": "Dziedzictwo kulturowe",
+      "difficulty": "easy"
+    },
+    {
+      "id": "26",
+      "question": "Jakie znaczenie miała kolonizacja europejska dla Afryki?",
+      "answer": "Przyniosła rozwój infrastruktury, ale też wyzysk, uzależnienie i rozbicie struktur społecznych.",
+      "category": "Historia nowożytna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym był apartheid?",
+      "answer": "System segregacji rasowej obowiązujący w RPA.",
+      "category": "Historia współczesna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "28",
+      "question": "Kim byli Berberowie?",
+      "answer": "Rdzenną ludnością Afryki Północnej i Sahary, posługującą się własnymi językami i tradycjami.",
+      "category": "Ludność",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Jakie są główne religie Afryki?",
+      "answer": "Chrześcijaństwo (~50%) i islam (~45%).",
+      "category": "Religia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "30",
+      "question": "Dlaczego turystyka jest ważna gospodarczo dla Afryki?",
+      "answer": "Stanowi istotne źródło dochodów dewizowych dla wielu państw, zwłaszcza Afryki Północnej i Wschodniej.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Dlaczego mówi się, że Afryka jest kontynentem zwartym?",
+      "answer": "Ponieważ ma słabo rozwiniętą linię brzegową i niewiele półwyspów oraz wysp.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Jakie oceany oblewają Afrykę?",
+      "answer": "Ocean Atlantycki od zachodu i Ocean Indyjski od wschodu.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "33",
+      "question": "Który ocean ma najdłuższą linię brzegową Afryki?",
+      "answer": "Ocean Atlantycki.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "34",
+      "question": "Jakie przylądki wyznaczają skrajne punkty Afryki?",
+      "answer": "Przylądek Igielny, Przylądek Zielony, Przylądek Biały, Półwysep Hafun.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "35",
+      "question": "Dlaczego Afryka dzieli się na Afrykę Niską i Wysoką?",
+      "answer": "Ze względu na wyraźne zróżnicowanie wysokościowe między północą a południem kontynentu.",
+      "category": "Ukształtowanie powierzchni",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Jakie są procentowe udziały nizin, wyżyn i gór w Afryce?",
+      "answer": "Niziny 10%, wyżyny 83%, góry 7%.",
+      "category": "Ukształtowanie powierzchni",
+      "difficulty": "easy"
+    },
+    {
+      "id": "37",
+      "question": "Czym jest system Wielkich Rowów Afrykańskich?",
+      "answer": "Strefą tektoniczną powstałą w wyniku rozpadu Gondwany, obejmującą zapadliska, wulkany i jeziora.",
+      "category": "Budowa geologiczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "question": "Dlaczego w ryftach afrykańskich występuje dużo jezior?",
+      "answer": "Ponieważ są to obszary zapadlisk tektonicznych, w których gromadzi się woda.",
+      "category": "Budowa geologiczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "question": "Jakie góry są przykładem młodych struktur fałdowych w Afryce?",
+      "answer": "Góry Atlas i Góry Przylądkowe.",
+      "category": "Budowa geologiczna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "40",
+      "question": "Dlaczego Atlas jest najlepiej zagospodarowany turystycznie w Maroku?",
+      "answer": "Ze względu na infrastrukturę, bazę noclegową i bliskość regionów wypoczynkowych.",
+      "category": "Regiony turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "question": "Jakie formy turystyki dominują w górach Atlas?",
+      "answer": "Trekking, turystyka piesza, narciarstwo i turystyka poznawcza.",
+      "category": "Regiony turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "42",
+      "question": "Dlaczego Afryka ma symetryczny układ stref klimatycznych?",
+      "answer": "Ponieważ jest prawie równomiernie położona względem równika.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "question": "Jakie wiatry lokalne występują w Afryce Północnej?",
+      "answer": "Sirocco i chamsin.",
+      "category": "Klimat",
+      "difficulty": "easy"
+    },
+    {
+      "id": "44",
+      "question": "Dlaczego Sahara ma najwyższe nasłonecznienie na świecie?",
+      "answer": "Ze względu na położenie zwrotnikowe, brak chmur i roślinności.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "question": "Która strefa klimatyczna Afryki jest najmniej przyjazna masowej turystyce?",
+      "answer": "Strefa równikowa – gorąca, wilgotna, z regularnymi opadami.",
+      "category": "Klimat a turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "46",
+      "question": "Jakie są główne cechy klimatu zwrotnikowego w Afryce?",
+      "answer": "Wysokie temperatury, brak opadów, duże amplitudy dobowe.",
+      "category": "Klimat",
+      "difficulty": "easy"
+    },
+    {
+      "id": "47",
+      "question": "Dlaczego Nil płynie przez wszystkie strefy klimatyczne Afryki?",
+      "answer": "Ponieważ ma południkowy przebieg od strefy równikowej do podzwrotnikowej.",
+      "category": "Hydrografia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "48",
+      "question": "Jakie znaczenie turystyczne mają katarakty Nilu?",
+      "answer": "Stanowią przeszkody żeglugowe, ale są atrakcją krajobrazową.",
+      "category": "Hydrografia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "49",
+      "question": "Dlaczego Delta Okawango jest ewenementem hydrologicznym?",
+      "answer": "Ponieważ jest deltą śródlądową bez ujścia do morza.",
+      "category": "Hydrografia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "50",
+      "question": "Czym charakteryzuje się wiecznie zielony las równikowy Afryki?",
+      "answer": "Warstwową budową, wysoką wilgotnością, epifitami i szybkim obiegiem materii.",
+      "category": "Formacje roślinne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "51",
+      "question": "Dlaczego sawanna jest idealnym obszarem safari?",
+      "answer": "Ze względu na otwartą przestrzeń, koncentrację zwierząt i dobrą widoczność w porze suchej.",
+      "category": "Fauna i safari",
+      "difficulty": "medium"
+    },
+    {
+      "id": "52",
+      "question": "Jakie są trzy główne typy sawanny w Afryce?",
+      "answer": "Sahelska, sudańska i gwinejska.",
+      "category": "Formacje roślinne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "53",
+      "question": "Dlaczego pora sucha jest najlepsza na safari?",
+      "answer": "Zwierzęta gromadzą się przy zbiornikach wodnych, a roślinność jest niska.",
+      "category": "Fauna i safari",
+      "difficulty": "easy"
+    },
+    {
+      "id": "54",
+      "question": "Czym różni się walking safari od self-drive safari?",
+      "answer": "Walking safari odbywa się pieszo z przewodnikiem, a self-drive własnym samochodem.",
+      "category": "Fauna i safari",
+      "difficulty": "easy"
+    },
+    {
+      "id": "55",
+      "question": "Dlaczego PN Krugera jest jednym z najczęściej odwiedzanych parków w Afryce?",
+      "answer": "Ze względu na dużą dostępność, infrastrukturę i występowanie Wielkiej Piątki.",
+      "category": "Ochrona przyrody",
+      "difficulty": "medium"
+    },
+    {
+      "id": "56",
+      "question": "Jakie są główne problemy ochrony przyrody w Afryce?",
+      "answer": "Kłusownictwo, konflikty z ludnością lokalną i wysokie koszty ochrony.",
+      "category": "Ochrona przyrody",
+      "difficulty": "hard"
+    },
+    {
+      "id": "57",
+      "question": "Dlaczego mediny są ważnym walorem turystycznym Afryki Północnej?",
+      "answer": "Stanowią dobrze zachowane historyczne centra miast arabskich.",
+      "category": "Dziedzictwo kulturowe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "58",
+      "question": "Jakie funkcje pełnił Nil w starożytnym Egipcie?",
+      "answer": "Transportową, rolniczą, religijną i osadniczą.",
+      "category": "Historia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "59",
+      "question": "Dlaczego Wielkie Zimbabwe jest ważnym zabytkiem Afryki Subsaharyjskiej?",
+      "answer": "Jest dowodem istnienia zaawansowanego państwa przedkolonialnego.",
+      "category": "Historia Afryki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "60",
+      "question": "Dlaczego 1960 rok nazywany jest Rokiem Afryki?",
+      "answer": "Ponieważ większość państw afrykańskich uzyskała wtedy niepodległość.",
+      "category": "Historia współczesna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "61",
+      "question": "Dlaczego linia brzegowa Afryki jest słabo rozwinięta?",
+      "answer": "Ponieważ Afryka jest kontynentem zwartym i pozbawionym licznych półwyspów oraz zatok.",
+      "category": "Położenie i linia brzegowa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "62",
+      "question": "Jakie znaczenie dla handlu i turystyki ma Kanał Sueski?",
+      "answer": "Łączy Morze Śródziemne z Morzem Czerwonym i skraca drogę morską między Europą a Azją.",
+      "category": "Transport i położenie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "63",
+      "question": "Dlaczego Afryka jest kontynentem starym geologicznie?",
+      "answer": "Ponieważ dominuje na niej prekambryjska platforma afrykańska.",
+      "category": "Budowa geologiczna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "64",
+      "question": "Jakie surowce mineralne występują licznie w Afryce?",
+      "answer": "Złoto, diamenty, ropa naftowa, miedź, uran i fosforyty.",
+      "category": "Surowce mineralne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "65",
+      "question": "Dlaczego bogactwo surowców nie zawsze przekłada się na rozwój Afryki?",
+      "answer": "Z powodu korupcji, konfliktów, neokolonializmu i słabej infrastruktury.",
+      "category": "Problemy rozwoju",
+      "difficulty": "hard"
+    },
+    {
+      "id": "66",
+      "question": "Jakie cechy mają góry zrębowe Afryki?",
+      "answer": "Są stare, rozczłonkowane i powstały w wyniku ruchów tektonicznych.",
+      "category": "Ukształtowanie powierzchni",
+      "difficulty": "medium"
+    },
+    {
+      "id": "67",
+      "question": "Dlaczego Kilimandżaro jest atrakcyjne turystycznie?",
+      "answer": "Jako najwyższy szczyt Afryki oferuje trekking i piętrowość klimatyczno-roślinną.",
+      "category": "Regiony górskie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "68",
+      "question": "Czym jest piętrowość klimatyczno-roślinna?",
+      "answer": "Zmiana klimatu i roślinności wraz ze wzrostem wysokości.",
+      "category": "Klimat i roślinność",
+      "difficulty": "easy"
+    },
+    {
+      "id": "69",
+      "question": "Jakie strefy klimatyczne występują w Afryce?",
+      "answer": "Równikowa, podrównikowa, zwrotnikowa i podzwrotnikowa.",
+      "category": "Klimat",
+      "difficulty": "easy"
+    },
+    {
+      "id": "70",
+      "question": "Dlaczego opady w Afryce są nierównomierne?",
+      "answer": "Ze względu na cyrkulację pasatów i wpływ prądów morskich.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "71",
+      "question": "Czym jest Sahel?",
+      "answer": "Strefą przejściową między Saharą a sawanną, zagrożoną pustynnieniem.",
+      "category": "Strefy krajobrazowe",
+      "difficulty": "easy"
+    },
+    {
+      "id": "72",
+      "question": "Jakie są skutki pustynnienia Sahelu?",
+      "answer": "Spadek plonów, migracje ludności i konflikty o zasoby.",
+      "category": "Problemy środowiskowe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "73",
+      "question": "Dlaczego lasy równikowe są trudne do zagospodarowania?",
+      "answer": "Z powodu gleb laterytowych i szybkiego wyjaławiania po wylesieniu.",
+      "category": "Formacje roślinne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "74",
+      "question": "Jakie zwierzęta są typowe dla sawanny?",
+      "answer": "Słonie, żyrafy, zebry, antylopy, lwy i gepardy.",
+      "category": "Fauna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "75",
+      "question": "Dlaczego migracje zwierząt są atrakcją turystyczną?",
+      "answer": "Ponieważ są zjawiskiem masowym i widowiskowym, np. w Serengeti.",
+      "category": "Fauna i safari",
+      "difficulty": "easy"
+    },
+    {
+      "id": "76",
+      "question": "Czym jest ekoturystyka?",
+      "answer": "Forma turystyki nastawiona na ochronę przyrody i korzyści dla lokalnych społeczności.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "77",
+      "question": "Dlaczego ekoturystyka jest ważna w Afryce?",
+      "answer": "Ponieważ ogranicza degradację środowiska i daje dochód lokalnym społecznościom.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "78",
+      "question": "Jakie są najczęściej odwiedzane kraje Afryki?",
+      "answer": "Egipt, Maroko, Tunezja i RPA.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "79",
+      "question": "Dlaczego Egipt jest liderem turystyki w Afryce?",
+      "answer": "Dzięki zabytkom starożytnym, Morzu Czerwonemu i rozwiniętej infrastrukturze.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "80",
+      "question": "Jakie zagrożenia ograniczają turystykę w Afryce?",
+      "answer": "Konflikty zbrojne, niestabilność polityczna i choroby tropikalne.",
+      "category": "Turystyka – bariery",
+      "difficulty": "medium"
+    },
+    {
+      "id": "81",
+      "question": "Dlaczego malaria jest problemem turystyki?",
+      "answer": "Ponieważ stanowi zagrożenie zdrowotne dla turystów w strefach tropikalnych.",
+      "category": "Zdrowie i turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "82",
+      "question": "Jakie miasta są największymi metropoliami Afryki?",
+      "answer": "Kair, Lagos, Johannesburg.",
+      "category": "Urbanizacja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "83",
+      "question": "Dlaczego urbanizacja Afryki jest chaotyczna?",
+      "answer": "Z powodu szybkiego przyrostu naturalnego i migracji ze wsi.",
+      "category": "Urbanizacja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "84",
+      "question": "Czym są slumsy?",
+      "answer": "Nieformalne dzielnice ubóstwa o niskim standardzie życia.",
+      "category": "Problemy społeczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "85",
+      "question": "Dlaczego Lagos jest przykładem megamiasta problemowego?",
+      "answer": "Z powodu przeludnienia, korków, zanieczyszczeń i slumsów.",
+      "category": "Urbanizacja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "86",
+      "question": "Jakie są główne rasy Afryki?",
+      "answer": "Negroidalna, kaukaska i mongoloidalna.",
+      "category": "Ludność",
+      "difficulty": "easy"
+    },
+    {
+      "id": "87",
+      "question": "Dlaczego Afryka ma najwyższy przyrost naturalny?",
+      "answer": "Z powodu wysokiej dzietności i niskiego poziomu edukacji.",
+      "category": "Demografia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "88",
+      "question": "Jakie skutki ma szybki przyrost ludności?",
+      "answer": "Bezrobocie, bieda, presja na środowisko i migracje.",
+      "category": "Demografia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "89",
+      "question": "Czym jest gospodarka monokulturowa?",
+      "answer": "Gospodarka oparta na jednym produkcie eksportowym.",
+      "category": "Gospodarka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "90",
+      "question": "Dlaczego monokultura jest niebezpieczna?",
+      "answer": "Uzależnia kraj od cen jednego surowca na rynku światowym.",
+      "category": "Gospodarka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "91",
+      "question": "Jakie uprawy dominują w Afryce?",
+      "answer": "Kawa, kakao, bawełna, banany i palma olejowa.",
+      "category": "Rolnictwo",
+      "difficulty": "easy"
+    },
+    {
+      "id": "92",
+      "question": "Dlaczego rolnictwo Afryki jest mało wydajne?",
+      "answer": "Z powodu klimatu, braku mechanizacji i degradacji gleb.",
+      "category": "Rolnictwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "93",
+      "question": "Czym jest neokolonializm?",
+      "answer": "Gospodarcze uzależnienie krajów Afryki od państw rozwiniętych.",
+      "category": "Problemy polityczne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "94",
+      "question": "Dlaczego granice państw afrykańskich są problematyczne?",
+      "answer": "Ponieważ zostały wyznaczone sztucznie przez kolonizatorów.",
+      "category": "Problemy polityczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "95",
+      "question": "Jakie konflikty są skutkiem sztucznych granic?",
+      "answer": "Konflikty etniczne i wojny domowe.",
+      "category": "Problemy polityczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "96",
+      "question": "Dlaczego RPA jest najbogatszym krajem Afryki?",
+      "answer": "Dzięki surowcom, przemysłowi i rozwiniętej infrastrukturze.",
+      "category": "Gospodarka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "97",
+      "question": "Jakie formy turystyki dominują w RPA?",
+      "answer": "Safari, turystyka miejska, winiarska i wypoczynkowa.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "98",
+      "question": "Dlaczego Morze Czerwone jest ważne turystycznie?",
+      "answer": "Ze względu na rafy koralowe i warunki do nurkowania.",
+      "category": "Turystyka wypoczynkowa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "99",
+      "question": "Czym jest turystyka 3S?",
+      "answer": "Sun, Sea, Sand – wypoczynek nad morzem.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "100",
+      "question": "Dlaczego Zanzibar jest popularnym kierunkiem turystycznym?",
+      "answer": "Dzięki plażom, zabytkom i kulturze suahili.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "101",
+      "question": "Jakie znaczenie ma kultura suahili?",
+      "answer": "Łączy wpływy afrykańskie, arabskie i europejskie.",
+      "category": "Kultura",
+      "difficulty": "medium"
+    },
+    {
+      "id": "102",
+      "question": "Dlaczego Timbuktu było ważnym miastem?",
+      "answer": "Jako ośrodek handlu i nauki w Afryce Zachodniej.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "103",
+      "question": "Czym była transsaharyjska wymiana handlowa?",
+      "answer": "Handlem złotem, solą i niewolnikami przez Saharę.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "104",
+      "question": "Jakie były skutki handlu niewolnikami?",
+      "answer": "Wyludnienie, destabilizacja i zahamowanie rozwoju.",
+      "category": "Historia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "105",
+      "question": "Dlaczego Afryka Subsaharyjska jest biedniejsza?",
+      "answer": "Z powodu kolonializmu, konfliktów i słabej infrastruktury.",
+      "category": "Rozwój społeczny",
+      "difficulty": "medium"
+    },
+    {
+      "id": "106",
+      "question": "Jakie choroby są charakterystyczne dla Afryki?",
+      "answer": "Malaria, AIDS, żółta febra.",
+      "category": "Zdrowie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "107",
+      "question": "Dlaczego AIDS stanowi problem demograficzny?",
+      "answer": "Zmniejsza liczbę osób w wieku produkcyjnym.",
+      "category": "Zdrowie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "108",
+      "question": "Czym jest pomoc humanitarna?",
+      "answer": "Wsparciem międzynarodowym w sytuacjach kryzysowych.",
+      "category": "Rozwój społeczny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "109",
+      "question": "Dlaczego pomoc humanitarna bywa krytykowana?",
+      "answer": "Może prowadzić do uzależnienia od pomocy z zewnątrz.",
+      "category": "Rozwój społeczny",
+      "difficulty": "hard"
+    },
+    {
+      "id": "110",
+      "question": "Jakie są perspektywy rozwoju turystyki w Afryce?",
+      "answer": "Wzrost znaczenia ekoturystyki i turystyki kulturowej.",
+      "category": "Turystyka - przyszłość",
+      "difficulty": "medium"
+    }
+  ],
+  "createdAt": "2026-01-24T19:01:53.498Z"
+}
