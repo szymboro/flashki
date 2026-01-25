@@ -1,0 +1,1233 @@
+{
+  "id": "flashcard-set-1769375105084",
+  "title": "Fiszki - Kontynenty (pełny zestaw z PDF)",
+  "description": "175 fiszek pokrywających 100% informacji z tabel PDF",
+  "flashcards": [
+    {
+      "id": "AF1",
+      "question": "Główne atrakcje Egiptu?",
+      "answer": "Zabytki faraonów, turystyka nad Morzem Czerwonym (Hurghada, Sharm el Sheikh).",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF2",
+      "question": "Dlaczego Nil to dar Egiptu?",
+      "answer": "Najdłuższa rzeka Afryki; 95% Egipcjan mieszka w dolinie.",
+      "category": "Rzeki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF3",
+      "question": "Piramidy w Gizie?",
+      "answer": "Cheopsa (cud świata), Chefrena, Mykerinosa; UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF4",
+      "question": "Sakkara – co tam jest?",
+      "answer": "Piramida schodkowa Dżosera, Serapeum.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF5",
+      "question": "Karnak – najważniejsze cechy?",
+      "answer": "Największy zespół sakralny Egiptu, centrum kultu Amona-Re.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF6",
+      "question": "Abu Simbel – dlaczego przeniesiony?",
+      "answer": "Świątynie Ramzesa II przeniesione przed zalaniem przez Zbiornik Nasera (UNESCO).",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF7",
+      "question": "Sharm el Sheikh – cechy?",
+      "answer": "Luksusowy kurort, centrum nurkowe, baza na Synaj.",
+      "category": "Kurorty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF8",
+      "question": "Hurghada – z czego słynie?",
+      "answer": "Rafy koralowe, masowa turystyka, sporty wodne.",
+      "category": "Kurorty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF9",
+      "question": "Kartagina – historia?",
+      "answer": "Założona przez Fenicjan IX w. p.n.e., rywal Rzymu, UNESCO.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF10",
+      "question": "Berberowie – gdzie żyją i czym się zajmują?",
+      "answer": "Północna Afryka, hodowla, rzemiosło, nomadyczny tryb życia.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF11",
+      "question": "Sahara – typy pustyni?",
+      "answer": "Erg (piaszczysta), serir, hamada; oazy, malowidła naskalne.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF12",
+      "question": "Kilimandżaro – wysokość i cechy?",
+      "answer": "5895 m, uśpiony wulkan, śnieg przez cały rok, UNESCO.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF13",
+      "question": "Serengeti – co to za park?",
+      "answer": "Słynne migracje ssaków kopytnych, safari.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF14",
+      "question": "Kibera – co to?",
+      "answer": "Największe slumsy Afryki (Nairobi), ok. 1 mln mieszkańców.",
+      "category": "Społeczeństwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF15",
+      "question": "Górée (Gorée) – znaczenie?",
+      "answer": "Wyspa UNESCO, dawna baza handlu niewolnikami.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF16",
+      "question": "Apartheid – gdzie i do kiedy?",
+      "answer": "System segregacji w RPA do lat 90.",
+      "category": "Historia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF17",
+      "question": "Soweto – powiązanie z Mandeli?",
+      "answer": "Dzielnica Johannesburgu związana z Mandeli i historią apartheidu.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF18",
+      "question": "Delta Okawango – unikalność?",
+      "answer": "Największa delta śródlądowa świata, UNESCO.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF19",
+      "question": "Buszmeni – cechy?",
+      "answer": "Lud Khoisan, języki mlaskające, malowidła naskalne.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF20",
+      "question": "Wielkie Zimbabwe – co to?",
+      "answer": "Największy kamienny zabytek Afryki subsaharyjskiej, UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF21",
+      "question": "Masajowie – gdzie i kultura?",
+      "answer": "Kenia/Tanzania, wioski manyatta, czerwone stroje, taniec.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF22",
+      "question": "Wielkie Rowy Afrykańskie – pochodzenie?",
+      "answer": "Pozostałość rozpadu Gondwany, wulkany, jeziora tektoniczne.",
+      "category": "Geologia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF23",
+      "question": "Synaj – znaczenie religijne?",
+      "answer": "Ziemia biblijna, klasztor św. Katarzyny, Góra Mojżesza.",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF24",
+      "question": "El Djem – co tam jest?",
+      "answer": "Jeden z największych amfiteatrów rzymskich, UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF25",
+      "question": "Dougga – inne nazwy?",
+      "answer": "Tunezyjskie Pompeje, ruiny punickie i rzymskie, UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF26",
+      "question": "Zambezi – atrakcje turystyczne?",
+      "answer": "Wodospady Wiktorii, rafting, spływy, zapory Kariba i Cabora Bassa.",
+      "category": "Rzeki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF27",
+      "question": "Namib – wiek i atrakcje?",
+      "answer": "Jedna z najstarszych pustyń (80 mln lat), najwyższe wydmy Sossusvlei.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF28",
+      "question": "Virunga – fauna?",
+      "answer": "Park z gorylami górskimi, wulkany, jezioro Edward.",
+      "category": "Parki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF29",
+      "question": "Ruwenzori – trzeci szczyt Afryki?",
+      "answer": "Góra Margherita, park UNESCO.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF30",
+      "question": "Stone Town (Zanzibar) – UNESCO?",
+      "answer": "Mieszanka kultur, dawne centrum handlu niewolnikami.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF31",
+      "question": "Dolina Omo – dlaczego UNESCO?",
+      "answer": "Unikalne plemiona (Mursi, Hamer), tradycje skaryfikacji.",
+      "category": "Ludy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF32",
+      "question": "Sidi Bou Said – styl zabudowy?",
+      "answer": "Biało-niebieska zabudowa, artystyczna dzielnica Tunezji.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF33",
+      "question": "Góry Atlas – najwyższy szczyt?",
+      "answer": "Dżabal Toubkal (Maroko).",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF34",
+      "question": "Slumming – co to za forma turystyki?",
+      "answer": "Zwiedzanie slumsów (Kibera, Soweto).",
+      "category": "Turystyka",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF35",
+      "question": "Egipt – główne problemy turystyczne?",
+      "answer": "Terroryzm, niewystarczająca baza noclegowa.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA1",
+      "question": "Denali – wysokość?",
+      "answer": "6190 m n.p.m., najwyższy szczyt Ameryki Północnej.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA2",
+      "question": "Yellowstone – co słynie?",
+      "answer": "Najstarszy park narodowy świata, gejzery, Old Faithful, Grand Prismatic.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA3",
+      "question": "Grand Canyon – rzeka?",
+      "answer": "Kolorado, Skywalk.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA4",
+      "question": "Niagara – liczba wodospadów?",
+      "answer": "Trzy wodospady.",
+      "category": "Wodospady",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA5",
+      "question": "Chichen Itza – nowy cud świata?",
+      "answer": "Piramida Kukulkana Majów.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA6",
+      "question": "Cenoty – znaczenie dla Majów?",
+      "answer": "Święte studnie krasowe, wejście do zaświatów.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA7",
+      "question": "Aztekowie – stolica?",
+      "answer": "Tenochtitlan na jeziorze Texcoco.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA8",
+      "question": "Majowie – główne miasta na Jukatanie?",
+      "answer": "Chichen Itza, Uxmal, Coba, Tulum, Palenque.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA9",
+      "question": "Route 66 – długość?",
+      "answer": "Ok. 4000 km.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA10",
+      "question": "Las Vegas – rozwój?",
+      "answer": "Lata 40.–60. XX w. pod wpływem mafii.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA11",
+      "question": "San Francisco – słynie z?",
+      "answer": "Golden Gate, Alcatraz, Lombard Street, Haight-Ashbury.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA12",
+      "question": "Nowy Jork – dzielnica biznesu?",
+      "answer": "Manhattan, Wall Street.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA13",
+      "question": "Ellis Island – rola?",
+      "answer": "Główny punkt imigracyjny 1892–1924.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA14",
+      "question": "Quebec – cecha unikalna?",
+      "answer": "Jedno miasto w Ameryce Północnej otoczone murami XVII w.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA15",
+      "question": "Banff – co to?",
+      "answer": "Najstarszy park narodowy Kanady.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA16",
+      "question": "Jasper – cecha?",
+      "answer": "Największy park narodowy Kanady.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA17",
+      "question": "Death Valley – najgorętsze miejsce?",
+      "answer": "Najgorętsze i najsuchsze w Ameryce Północnej.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA18",
+      "question": "Bryce Canyon – hoodoos?",
+      "answer": "Iglicowe formacje skalne.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA19",
+      "question": "Mesa Verde – co chroni?",
+      "answer": "Osady Anasazi w skalnych niszach.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA20",
+      "question": "Mount Rushmore – czyje twarze?",
+      "answer": "Washington, Jefferson, Roosevelt, Lincoln.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA21",
+      "question": "Waszyngton – główne budynki?",
+      "answer": "Biały Dom, Kapitol, Pentagon.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA22",
+      "question": "Nowy Orlean – dzielnica?",
+      "answer": "French Quarter, Mardi Gras, jazz.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA23",
+      "question": "Kuba – stolica?",
+      "answer": "Hawana (UNESCO).",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA24",
+      "question": "Dominikana – pierwsze miasto Kolumba?",
+      "answer": "Isabela (1493), zniszczona przez huragan.",
+      "category": "Historia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA25",
+      "question": "Varadero – cecha?",
+      "answer": "Enklawa turystyczna na półwyspie Hicacos.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA26",
+      "question": "Grenlandia – pokrycie lodem?",
+      "answer": "80% powierzchni.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA27",
+      "question": "Alaska – największy stan USA?",
+      "answer": "Tak, najrzadziej zaludniony.",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA28",
+      "question": "Kanion Antylopy – ryzyko?",
+      "answer": "Nagłe powodzie flash floods, tylko z przewodnikiem.",
+      "category": "Parki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA29",
+      "question": "Huragany – sezon?",
+      "answer": "Głównie wrzesień–październik.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA30",
+      "question": "Cortez – podbił kogo?",
+      "answer": "Imperium Azteków 1519–1521.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA31",
+      "question": "Tulum – cecha unikalna?",
+      "answer": "Jedno z miast Majów nad morzem.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA32",
+      "question": "Palenque – grobowiec?",
+      "answer": "Świątynia Inskrypcji, król Pakal.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA33",
+      "question": "Riwiera Majów – gdzie?",
+      "answer": "Wybrzeże Jukatanu, All Inclusive.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA34",
+      "question": "Santo Domingo – co najstarsze?",
+      "answer": "Najstarsze miasto europejskie w Amerykach.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA35",
+      "question": "Appalachy – najdłuższy szlak?",
+      "answer": "Szlak Appalachów ok. 3500 km.",
+      "category": "Góry",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA1",
+      "question": "Co to jest Península Valdés?",
+      "answer": "Obszar w Argentynie (Patagonia) wpisany na listę UNESCO; kluczowe miejsce obserwacji wielorybów południowych, słoni morskich, orek, lwów morskich i pingwinów magellańskich. Baza: Puerto Pirámides.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA2",
+      "question": "Jakie zwierzęta symbolizują Galápagos i rola w teorii Darwina?",
+      "answer": "Żółwie słoniowe; archipelag wulkaniczny (Ekwador, UNESCO), naturalny ogród zoologiczny, podstawa teorii ewolucji Darwina.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA3",
+      "question": "Co słynie z Wyspy Wielkanocnej (Rapa Nui)?",
+      "answer": "Gigantyczne rzeźby moai; park narodowy (Chile, UNESCO), świadectwo kultur polinezyjskich, bardzo oddalona.",
+      "category": "UNESCO",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA4",
+      "question": "Najwyższy szczyt obu Ameryk – nazwa, wysokość, kraj, baza?",
+      "answer": "Aconcagua, 6959 m n.p.m., Argentyna (Andy Patagońskie), Korona Ziemi, baza Mendoza.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA5",
+      "question": "Dlaczego Huascarán (Peru) jest UNESCO?",
+      "answer": "Park narodowy z najwyższym szczytem Peru, lodowcami, wąwozami, jeziorami polodowcowymi.",
+      "category": "Parki narodowe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA6",
+      "question": "Główne atrakcje Los Glaciares?",
+      "answer": "Lodowiec patagoński (największy poza polarnymi), Perito Moreno, Fitz Roy, Cerro Torre; baza El Calafate.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA7",
+      "question": "Llullaillaco – wysokość i położenie?",
+      "answer": "6773 m n.p.m., wulkan na pograniczu Chile/Argentyny, część parku narodowego.",
+      "category": "Wulkany",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA8",
+      "question": "Wysokość Chimborazo i państwo?",
+      "answer": "6263 m n.p.m., najwyższy szczyt Ekwadoru, wygasły stratowulkan na Alei Wulkanów.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA9",
+      "question": "Dlaczego Titicaca jest wyjątkowe?",
+      "answer": "Najwyżej położone jezioro żeglowne świata; kolebka Inków, wyspy Uros z trzciny totora, jezioro tektoniczne (Boliwia/Peru).",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA10",
+      "question": "Najwyższy wodospad świata – nazwa, wysokość, lokalizacja?",
+      "answer": "Salto Ángel, 979 m, Wenezuela, Park Narodowy Canaima, Auyan-tepui, dostęp wodny.",
+      "category": "Wodospady",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA11",
+      "question": "Cechy jeziora San Martín/O'Higgins?",
+      "answer": "Najgłębsze jezioro Ameryki Południowej; pogranicze Argentyna/Chile, fiordy, doliny, hodowla koni.",
+      "category": "Jeziora",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA12",
+      "question": "Atrakcje jeziora General Carrera?",
+      "answer": "Jezioro polodowcowe wzdłuż Carretera Austral; Marmurowe Jaskinie (Capillas de Mármol).",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA13",
+      "question": "Charakterystyka Patagonii?",
+      "answer": "Surowy region gór, lodowców, fiordów, stepów (Argentyna/Chile); turystyka aktywna, baza na Antarktydę.",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA14",
+      "question": "Dlaczego Salar de Uyuni staje się lustrem?",
+      "answer": "Największe solnisko świata (Boliwia, >3600 m); po deszczu tworzy płaskie białe lustro.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA15",
+      "question": "Główne atrakcje pustyni Atacama?",
+      "answer": "Najsuchsza pustynia świata (Chile); Dolina Księżycowa, gejzery El Tatio, Salar de Atacama z flamingami, baza San Pedro de Atacama.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA16",
+      "question": "Co to jest Chavín de Huántar?",
+      "answer": "Najstarsze stanowisko archeologiczne Peru (UNESCO), kultura matka, monumentalna architektura, tunele, rzeźby bestii.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA17",
+      "question": "Znaczenie geoglifów Nasca?",
+      "answer": "Gigantyczne rysunki zwierząt i figur na pustyni (Peru, UNESCO); widoczne z lotu ptaka, dawny kalendarz astronomiczny.",
+      "category": "UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA18",
+      "question": "Cechy Tiwanaku?",
+      "answer": "Najwyżej położone miasto (3800 m, Boliwia, UNESCO); precyzyjna obróbka kamienia, Brama Słońca, poprzedza Inków.",
+      "category": "Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA19",
+      "question": "Kultura Chimu – stolica i cechy?",
+      "answer": "Chan Chan – największe miasto z adobe; zaawansowane nawadnianie, cytadele, podbite przez Inków XV w.",
+      "category": "Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA20",
+      "question": "Główne osiągnięcia Inków?",
+      "answer": "Imperium z Cuzco; sieć dróg Qhapaq Ñan (20 tys. km), rolnictwo tarasowe, Machu Picchu; podbój hiszpański.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA21",
+      "question": "Dlaczego Quito jest pierwsze na liście UNESCO?",
+      "answer": "Pierwsza stolica świata wpisana na UNESCO; kolonialne na ruinach Inków, najlepsza architektura hiszpańska.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA22",
+      "question": "Zabytki centrum Limy?",
+      "answer": "Założone 1535 przez Pizarra; UNESCO, balkony, katedra z kaplicą Pizarra.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA23",
+      "question": "Czym wyróżnia się Cuzco?",
+      "answer": "Dawna stolica Inków; kolonialne budowle na inkańskich murach, baza do Machu Picchu.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA24",
+      "question": "Dlaczego Sucre to Białe Miasto?",
+      "answer": "Konstytucyjna stolica Boliwii; bielone elewacje, UNESCO, kościoły XVI w.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA25",
+      "question": "Czym były redukcje jezuickie?",
+      "answer": "Zamknięte osady misyjne (Argentyna/Boliwia/Brazylia/Paragwaj) dla Guarani; rzemiosło, nauka, UNESCO.",
+      "category": "Kultura",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA26",
+      "question": "Kto posługuje się językiem quechua?",
+      "answer": "Ludy Andów (Peru/Boliwia/Ekwador); rolnictwo, hodowla lam, tkactwo.",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA27",
+      "question": "Cechy ludu Mapuche?",
+      "answer": "Waleczny, nigdy w pełni ujarzmiony; język mapudungun, obrzędy, tkactwo (Chile/Argentyna).",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA28",
+      "question": "Kim są cholitas?",
+      "answer": "Kobiety w La Paz/El Alto w tradycyjnym stroju (meloniki, spódnice); dynamiczna aglomeracja.",
+      "category": "Kultura",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA29",
+      "question": "Dlaczego Potosí było bogate?",
+      "answer": "Złoża srebra Cerro Rico; architektura kolonialna, ciężka praca kopalń.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA30",
+      "question": "Co symbolizuje Brasília?",
+      "answer": "Planowana stolica Brazylii XX w., symbol modernizmu.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA31",
+      "question": "Kto żyje na wyspach Titicaca?",
+      "answer": "Indianie Uros; pływające wyspy z trzciny totora, rybołówstwo, turystyka.",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA32",
+      "question": "Aymara – pochodzenie i zajęcia?",
+      "answer": "Rdzenni wokół Titicaca; cywilizacja Tiwanaku, rolnictwo, hodowla, górnictwo.",
+      "category": "Ludność rdzenna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA33",
+      "question": "Guarani – gdzie i kultura?",
+      "answer": "Dorzecze La Plata; picie yerba mate, wpływ na redukcje jezuickie.",
+      "category": "Ludność rdzenna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA34",
+      "question": "Atacama – baza turystyczna?",
+      "answer": "Oaza San Pedro de Atacama.",
+      "category": "Pustynie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA35",
+      "question": "Salar de Uyuni – wysokość?",
+      "answer": "Ponad 3600 m n.p.m.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU1",
+      "question": "Wielka Rafa Koralowa – długość?",
+      "answer": "Ok. 2000 km, UNESCO.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU2",
+      "question": "Uluru (Ayers Rock) – znaczenie?",
+      "answer": "Największy monolit skalny, święte miejsce Aborygenów, zakaz wspinaczki.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU3",
+      "question": "Aborygeni – przybycie do Australii?",
+      "answer": "40–60 tys. lat temu z Azji.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU4",
+      "question": "Kakadu – cechy?",
+      "answer": "Park UNESCO, lasy równikowe, pustynie, malowidła Aborygenów.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU5",
+      "question": "12 Apostołów – gdzie?",
+      "answer": "Park Narodowy Port Campbell, formacje skalne erozji morskiej.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU6",
+      "question": "Pinnacles (Nambung) – co to?",
+      "answer": "Tysiące ostańców skalnych na pustyni piasku.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU7",
+      "question": "Stolen Generations – co to?",
+      "answer": "Przymusowe odbieranie dzieci Aborygenów w latach 1869–1970.",
+      "category": "Historia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU8",
+      "question": "Haka – co to?",
+      "answer": "Tradycyjny taniec Maorysów, wykonywany przez All Blacks.",
+      "category": "Kultura",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU9",
+      "question": "Maorysi – przybycie do Nowej Zelandii?",
+      "answer": "VIII–XII wiek, polinezyjscy.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU10",
+      "question": "Tongariro – co słynie?",
+      "answer": "Park UNESCO, wulkany, plan filmowy Władcy Pierścieni.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU11",
+      "question": "Fiordland – największy park?",
+      "answer": "Największy park Nowej Zelandii, fiord Milforda, UNESCO.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU12",
+      "question": "Hawaje – ile wysp?",
+      "answer": "137 wysp wulkanicznych.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU13",
+      "question": "Kilauea – cechy?",
+      "answer": "Jeden z najaktywniejszych wulkanów świata, Hawaje.",
+      "category": "Wulkany",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU14",
+      "question": "Mauna Kea – wysokość od dna oceanu?",
+      "answer": "Ponad 10 km – największa góra świata.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU15",
+      "question": "Aloha – znaczenie?",
+      "answer": "Powitanie, pożegnanie, miłość, szacunek.",
+      "category": "Kultura",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU16",
+      "question": "Pearl Harbor – wydarzenie?",
+      "answer": "Japoński atak 1941, USS Arizona Memorial.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU17",
+      "question": "Fidżi – liczba wysp?",
+      "answer": "Ponad 300 wysp.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU18",
+      "question": "Tahiti – stolica?",
+      "answer": "Papeete.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU19",
+      "question": "Outback – co to?",
+      "answer": "Dziki interior Australii.",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU20",
+      "question": "Route 66 – długość?",
+      "answer": "Prawie 4000 km.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU21",
+      "question": "Canberra – dlaczego zbudowana?",
+      "answer": "Kompromis między Sydney a Melbourne.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU22",
+      "question": "Boomerang miejski – co oznacza?",
+      "answer": "Układ największych miast Australii na obrzeżach kontynentu.",
+      "category": "Regiony",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU23",
+      "question": "Góry Cooka – najwyższy szczyt?",
+      "answer": "Aoraki / Mount Cook, 3724 m.",
+      "category": "Góry",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU24",
+      "question": "Rotorua – geotermia i kultura?",
+      "answer": "Gejzery, źródła, ośrodek kultury Maorysów.",
+      "category": "Atrakcje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU25",
+      "question": "Traktat z Waitangi – rok?",
+      "answer": "1840, fundament Nowej Zelandii.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU26",
+      "question": "Marlborough – słynie z wina?",
+      "answer": "Sauvignon Blanc.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU27",
+      "question": "Guam – status?",
+      "answer": "Terytorium USA, baza wojskowa.",
+      "category": "Wyspy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU28",
+      "question": "Motu – co to?",
+      "answer": "Małe prywatne wysepki/atole w Polinezji Francuskiej.",
+      "category": "Wyspy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU29",
+      "question": "Pustynia Simpson – cecha?",
+      "answer": "Najdłuższe równoległe wydmy świata.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU30",
+      "question": "Jezioro Eyre – cecha?",
+      "answer": "Największe jezioro Australii, okresowo wysycha.",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU31",
+      "question": "Dolina Barossa – uprawy?",
+      "answer": "Najstarszy region winiarski Australii, Shiraz, Riesling.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU32",
+      "question": "Góry Flindersa – turystyka?",
+      "answer": "Wędrówki, rower, obserwacja zwierząt.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU33",
+      "question": "Mikronezja – cecha?",
+      "answer": "Małe wyspy (Marian, Karoliny, Marshalla).",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU34",
+      "question": "Melanezja – przykłady wysp?",
+      "answer": "Nowa Gwinea, Fidżi, Vanuatu.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU35",
+      "question": "Polinezja – przykłady?",
+      "answer": "Samoa, Tonga, Hawaje, Polinezja Francuska.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS1",
+      "question": "Ramadan – co to?",
+      "answer": "Miesięczny post muzułmański od wschodu do zachodu słońca.",
+      "category": "Religia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS2",
+      "question": "Hagia Sophia – funkcje w historii?",
+      "answer": "Kościół, muzeum, obecnie meczet; ogromna kopuła.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS3",
+      "question": "Błękitny Meczet – liczba minaretów?",
+      "answer": "Sześć minaretów, jedyny taki na świecie.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS4",
+      "question": "Kapadocja – słynie z czego?",
+      "answer": "Formacje skalne kominy wróżek, podziemne miasta, loty balonem.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS5",
+      "question": "Pamukkale – co to za miejsce?",
+      "answer": "Bawełniany zamek – białe tarasy wapienne, Basen Kleopatry, UNESCO.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS6",
+      "question": "Taj Mahal – kto zbudował i ile lat?",
+      "answer": "Grobowiec muzułmański, budowany 22 lata, nowy cud świata.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS7",
+      "question": "Wielki Mur Chiński – długość?",
+      "answer": "Ponad 2500 km.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS8",
+      "question": "Terrakotowa Armia – gdzie i ile figur?",
+      "answer": "Koło Xi'an, ok. 8000 posągów wojowników.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS9",
+      "question": "Everest – wysokość i baza?",
+      "answer": "Najwyższy szczyt świata, baza Base Camp, szlaki trekkingowe.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS10",
+      "question": "Phi Phi – cechy?",
+      "answer": "Archipelag wysp, piękne plaże, odbudowany po tsunami.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS11",
+      "question": "Mekka – co to za miejsce?",
+      "answer": "Najważniejsze centrum islamu, pielgrzymka hadżdż.",
+      "category": "Religia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS12",
+      "question": "Jerozolima – święte dla których religii?",
+      "answer": "Judaizm (Ściana Płaczu), chrześcijaństwo (Grobu Świętego), islam (Kopula na Skale).",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS13",
+      "question": "Malediwy – liczba wysp?",
+      "answer": "Ok. 1200 małych wysepek koralowych.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS14",
+      "question": "Wielki Mur Chiński – główne zagrożenie historyczne?",
+      "answer": "Najazdy Mongołów.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS15",
+      "question": "Bangkok – słynie z czego?",
+      "answer": "Street food, Wielki Pałac, Świątynia Szmaragdowego Buddy.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS16",
+      "question": "Petronas Towers – gdzie?",
+      "answer": "Kuala Lumpur, Malezja.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS17",
+      "question": "Tybet – wysokość średnia?",
+      "answer": "Ok. 4600 m n.p.m.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS18",
+      "question": "Ganges – dlaczego najświętsza rzeka Indii?",
+      "answer": "Rytualne kąpiele w Varanasi, zanieczyszczona mimo znaczenia religijnego.",
+      "category": "Rzeki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS19",
+      "question": "Khajuraho – słynie z?",
+      "answer": "Świątynie z bogatymi rzeźbami, w tym erotycznymi (Kamasutra).",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS20",
+      "question": "Varanasi – co to za miasto?",
+      "answer": "Jedno z najstarszych miast świata, ghaty nad Gangesem, kremacje.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS21",
+      "question": "Huashan – cechy szlaków?",
+      "answer": "Ekstremalnie wąskie i wiszące szlaki trekkingowe.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS22",
+      "question": "Sentosa – co to?",
+      "answer": "Wyspa-park rozrywki w Singapurze (Universal Studios).",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS23",
+      "question": "Mae Klong – unikalność?",
+      "answer": "Targ na torach kolejowych – stoiska składane przed pociągiem.",
+      "category": "Atrakcje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS24",
+      "question": "Cameron Highlands – klimat i uprawy?",
+      "answer": "Chłodniejszy klimat, pola herbaty, pola golfowe.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS25",
+      "question": "Mihrab – co to?",
+      "answer": "Wnęka w meczecie wskazująca kierunek na Mekkę.",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS26",
+      "question": "Ladakh – stolica?",
+      "answer": "Leh.",
+      "category": "Regiony",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS27",
+      "question": "Kaszmir – główne miasto?",
+      "answer": "Srinagar z jeziorem Dal.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS28",
+      "question": "Jaipur – dlaczego Różowe Miasto?",
+      "answer": "Kolor budynków na starówce, Hawa Mahal (Pałac Wiatrów).",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS29",
+      "question": "Jaisalmer – słynie z?",
+      "answer": "Fort na ostancu skalnym, wielokrotnie zdobywany.",
+      "category": "Miasta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS30",
+      "question": "Goa – wpływy kolonialne?",
+      "answer": "Portugalskie (kościoły, katedry), plaże.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS31",
+      "question": "Makau – co słynie obecnie?",
+      "answer": "Największe centrum hazardu świata.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS32",
+      "question": "Pekin – najważniejsze miejsca?",
+      "answer": "Plac Tiananmen, Zakazane Miasto, Świątynia Nieba.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS33",
+      "question": "Szanghaj – dzielnica Bund?",
+      "answer": "Historyczna dzielnica z europejską zabudową XIX w.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS34",
+      "question": "Sri Lanka (Cejlon) – atrakcje?",
+      "answer": "Plantacje herbaty, Park Narodowy Yala, Lwia Skała.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS35",
+      "question": "Kanchanaburi – most na rzece Kwai?",
+      "answer": "Część kolei śmierci z II wojny światowej.",
+      "category": "Historia",
+      "difficulty": "medium"
+    }
+  ],
+  "createdAt": "2026-01-25T21:05:05.084Z"
+}
