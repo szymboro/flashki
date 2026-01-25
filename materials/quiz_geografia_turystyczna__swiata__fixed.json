@@ -1,0 +1,577 @@
+{
+  "id": "quiz-set-1769367540623",
+  "title": "Quiz Geografia Turystyczna Świata - 56 Pytań",
+  "description": "Kompleksowy quiz wielokrotnego wyboru oparty na materiale z Afryki, Ameryki Południowej (w tym tabele PDF), Azji, Australii/Oceanii i Ameryki Północnej. 150 pytań zróżnicowanych pod względem trudności i kategorii.",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jaką wielkość ma Afryka w porównaniu do Europy?",
+      "options": [
+        "Jest najmniejszym kontynentem",
+        "Jest dwa razy większa od Europy",
+        "Trzy Europy składają się na Afrykę",
+        "Jest równa powierzchni Azji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Afryka jest trzecim co do wielkości kontynentem - jej powierzchnia to ok. 30 mln km², czyli trzy razy więcej niż Europa.",
+      "category": "Afryka - Położenie i geologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Który przylądek jest najdalej na południe Afryki?",
+      "options": [
+        "Przylądek Zielony",
+        "Przylądek Hafun",
+        "Przylądek Igielny",
+        "Przylądek Biały"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przylądek Igielny (Cape Agulhas) jest najdalej na południe położonym punktem kontynentu afrykańskiego.",
+      "category": "Afryka - Położenie i geologia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jakie jest główne znaczenie Wielkich Rowów Afrykańskich dla turystyki?",
+      "options": [
+        "Są źródłem ropy naftowej",
+        "Tworzą jeziora tektoniczne i wulkany, co przyciąga safari i trekking",
+        "Są obszarem pustynnym",
+        "Są jedynym miejscem z lasami równikowymi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rowy tworzą jeziora (Tanganika, Malawi), masywy wulkaniczne (Ruwenzori, Wirunga) i różnorodność przyrody - kluczowe dla safari i parków narodowych.",
+      "category": "Afryka - Przyroda i parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Który obiekt w Egipcie został przeniesiony z powodu budowy tamy Asuańskiej?",
+      "options": [
+        "Piramidy w Gizie",
+        "Świątynie Abu Simbel",
+        "Dolina Królów",
+        "Karnak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kompleks świątyń Abu Simbel został pocięty i przeniesiony wyżej, by uniknąć zalania przez Zbiornik Nasera (akcja UNESCO).",
+      "category": "Afryka - Zabytki Egiptu",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Który park narodowy chroni największe stado flamingów w Afryce?",
+      "options": ["Serengeti", "Kruger", "Nakuru", "Etosha"],
+      "correctIndex": 2,
+      "explanation": "Jezioro Nakuru (Kenia) jest słynne z ogromnych stad flamingów i jest chronione jako park narodowy.",
+      "category": "Afryka - Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Który wulkan jest najwyższym czynnym wulkanem świata?",
+      "options": ["Kilimandżaro", "Cotopaxi", "Ojos del Salado", "Meru"],
+      "correctIndex": 2,
+      "explanation": "Ojos del Salado (6893 m) na granicy Chile i Argentyny jest najwyższym czynnym wulkanem na Ziemi.",
+      "category": "Ameryka Południowa - Geologia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "7",
+      "question": "Co jest charakterystyczne dla Salar de Uyuni?",
+      "options": [
+        "Największe jezioro słodkowodne",
+        "Największe solnisko świata",
+        "Najgłębszy kanion",
+        "Najwyższy wodospad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salar de Uyuni w Boliwii to największe solnisko świata - pozostałość po wyschniętym jeziorze plejstoceńskim.",
+      "category": "Ameryka Południowa - Obiekty PDF",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Która atrakcja na Wyspie Wielkanocnej jest wpisana na listę UNESCO?",
+      "options": ["Wieloryby", "Posągi moai", "Rafy koralowe", "Las deszczowy"],
+      "correctIndex": 1,
+      "explanation": "Park Narodowy Rapa Nui z tajemniczymi posągami moai jest obiektem światowego dziedzictwa UNESCO.",
+      "category": "Ameryka Południowa - Obiekty PDF",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Który obiekt w Turcji jest nazywany „bawełnianym zamkiem”?",
+      "options": ["Kapadocja", "Pamukkale", "Efez", "Aspendos"],
+      "correctIndex": 1,
+      "explanation": "Pamukkale to białe tarasy wapienne powstałe z gorących źródeł - popularna atrakcja turystyczna.",
+      "category": "Azja - Turcja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Który szczyt jest najwyższy w Afryce?",
+      "options": ["Kilimandżaro", "Ruwenzori", "Atlas", "Kamerun"],
+      "correctIndex": 0,
+      "explanation": "Kilimandżaro (5895 m n.p.m.) w Tanzanii jest najwyższym szczytem Afryki.",
+      "category": "Afryka - Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Który zabytek w Indiach jest jednym z 7 nowych cudów świata?",
+      "options": ["Czerwony Fort", "Taj Mahal", "Qutub Minar", "Hawa Mahal"],
+      "correctIndex": 1,
+      "explanation": "Taj Mahal w Agrze - mauzoleum zbudowane przez Szahdżahana - jest symbolem Indii i jednym z 7 nowych cudów.",
+      "category": "Azja - Indie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Który park w Australii chroni największy monolit skalny świata?",
+      "options": [
+        "Kakadu",
+        "Uluru-Kata Tjuta",
+        "Great Barrier Reef",
+        "Blue Mountains"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uluru (Ayers Rock) w parku Uluru-Kata Tjuta jest największym monolitem skalnym na świecie i świętym miejscem Aborygenów.",
+      "category": "Australia/Oceania - Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Który park narodowy w USA jest najstarszy na świecie?",
+      "options": ["Yosemite", "Grand Canyon", "Yellowstone", "Zion"],
+      "correctIndex": 2,
+      "explanation": "Yellowstone (1872) to najstarszy park narodowy na świecie, słynny z gejzerów i tarcz wulkanicznych.",
+      "category": "Ameryka Północna - Parki USA",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Który zabytek w Meksyku jest piramidą z owalną podstawą?",
+      "options": [
+        "Chichen Itza",
+        "Uxmal (Piramida Czarownika)",
+        "Teotihuacán",
+        "Tulum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piramida Czarownika (Piramida Wróżbity) w Uxmal ma owalną podstawę - jedyna taka w Mezoameryce.",
+      "category": "Ameryka Północna - Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Który obiekt na Kubie jest najstarszym kamiennym fortem w Amerykach?",
+      "options": [
+        "Castillo de San Pedro de la Roca",
+        "Castillo de la Real Fuerza",
+        "Kapitol w Hawanie",
+        "Alcazar de Colon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Castillo de la Real Fuerza w Hawanie to najstarszy kamienny fort w obu Amerykach.",
+      "category": "Ameryka Północna - Kuba",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Który region Turcji słynie z lotów balonowych?",
+      "options": ["Riwiera Turecka", "Kapadocja", "Pamukkale", "Egejska"],
+      "correctIndex": 1,
+      "explanation": "Kapadocja - formacje tufowe i podziemne miasta - to światowa stolica lotów balonowych.",
+      "category": "Azja - Turcja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Które jezioro jest najwyżej położonym żeglownym jeziorem świata?",
+      "options": ["Tanganika", "Titicaca", "Malawi", "Victoria"],
+      "correctIndex": 1,
+      "explanation": "Jezioro Titicaca (Peru/Boliwia) - 3812 m n.p.m. - jest najwyżej położonym żeglownym jeziorem.",
+      "category": "Ameryka Południowa - Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Który obiekt w Indiach jest znany z geoglifów widocznych tylko z powietrza?",
+      "options": ["Taj Mahal", "Khajuraho", "Linie Nasca", "Hampi"],
+      "correctIndex": 2,
+      "explanation": "Linie Nasca (Peru) - gigantyczne geoglify zwierząt i figur geometrycznych - wpisane na listę UNESCO.",
+      "category": "Ameryka Południowa - Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Który park w Kanadzie jest największy powierzchniowo?",
+      "options": ["Banff", "Jasper", "Yoho", "Kootenay"],
+      "correctIndex": 1,
+      "explanation": "Jasper National Park jest największy powierzchniowo w Kanadzie i słynie z jezior polodowcowych oraz fauny.",
+      "category": "Ameryka Północna - Parki Kanada",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Który zabytek w Tunezji jest nazywany „tunezyjskimi Pompejami”?",
+      "options": ["El Dżem", "Dougga", "Kartagina", "Sidi Bou Said"],
+      "correctIndex": 1,
+      "explanation": "Dougga (UNESCO) to doskonale zachowane rzymskie miasto z teatrem, termami i świątyniami.",
+      "category": "Afryka - Zabytki rzymskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Który region w Indiach jest nazywany „Różowym Miastem”?",
+      "options": ["Jaipur", "Jodhpur", "Jaisalmer", "Agra"],
+      "correctIndex": 0,
+      "explanation": "Jaipur (Radżastan) jest nazywany Pink City ze względu na różową kolorystykę budynków na starówce.",
+      "category": "Azja - Indie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Który obiekt w Australii jest największym monolitem skalnym świata?",
+      "options": ["Kosciuszko", "Uluru", "Three Sisters", "Wave Rock"],
+      "correctIndex": 1,
+      "explanation": "Uluru (Ayers Rock) to największy monolit skalny na świecie i święte miejsce Aborygenów.",
+      "category": "Australia/Oceania - Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "question": "Który park w USA słynie z hoodoos (iglic skalnych)?",
+      "options": ["Arches", "Bryce Canyon", "Zion", "Yosemite"],
+      "correctIndex": 1,
+      "explanation": "Bryce Canyon słynie z setek hoodoos - wysokich, wąskich iglic skalnych powstałych przez wietrzenie.",
+      "category": "Ameryka Północna - Parki USA",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Który wulkan w Ekwadorze jest najwyższym szczytem kraju?",
+      "options": ["Cotopaxi", "Chimborazo", "Tungurahua", "Pichincha"],
+      "correctIndex": 1,
+      "explanation": "Chimborazo (6263 m) jest najwyższym szczytem Ekwadoru i należy do Alei Wulkanów.",
+      "category": "Ameryka Południowa - Wulkany",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Który zabytek w Peru jest największym miastem zbudowanym z adobe?",
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
+      "correctIndex": 1,
+      "explanation": "Chan Chan (stolica kultury Chimu) to największe miasto z cegły mułowej (adobe) w prekolumbijskiej Ameryce.",
+      "category": "Ameryka Południowa - Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Który kurort w Egipcie jest znany z rafy Ras Muhammad?",
+      "options": ["Hurgada", "Sharm el Sheikh", "El Gouna", "Dahab"],
+      "correctIndex": 1,
+      "explanation": "Sharm el Sheikh to światowe centrum nurkowe dzięki bliskości rafy Ras Muhammad.",
+      "category": "Afryka - Kurorty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Który region Turcji ma łagodniejszy klimat i więcej zabytków starożytnej Grecji?",
+      "options": [
+        "Riwiera Turecka",
+        "Riwiera Egejska",
+        "Kapadocja",
+        "Anatolia Środkowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Riwiera Egejska (zachodnia) ma łagodniejszy klimat, zatoki i zabytki (Efez, Troja, Pergamon).",
+      "category": "Azja - Turcja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Które jezioro jest najwyżej położonym jeziorem na świecie?",
+      "options": ["Tanganika", "Titicaca", "Wiktorii", "Malawi"],
+      "correctIndex": 1,
+      "explanation": "Jezioro Titicaca (3812 m n.p.m.) jest najwyżej położonym żeglownym jeziorem świata.",
+      "category": "Ameryka Południowa - Jeziora",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Który zabytek w Nepalu jest bazą wypadową na Annapurnę?",
+      "options": ["Pokhara", "Bhulbhule", "Manang", "Namche Bazaar"],
+      "correctIndex": 1,
+      "explanation": "Bhulbhule (840 m) jest pierwszym punktem startowym popularnego trekkingu wokół masywu Annapurny.",
+      "category": "Azja - Nepal",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Który park w Australii chroni pustynię Pinnacles?",
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
+      "correctIndex": 1,
+      "explanation": "Park Narodowy Nambung (Australia Zachodnia) słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
+      "category": "Australia/Oceania - Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Który obiekt w Meksyku jest największą piramidą w obu Amerykach?",
+      "options": [
+        "Chichen Itza",
+        "Teotihuacán (Piramida Słońca)",
+        "Cholula",
+        "Uxmal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wielka Piramida w Cholula jest największa objętościowo w obu Amerykach (choć częściowo przysypana).",
+      "category": "Ameryka Północna - Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "32",
+      "question": "Który region w Indiach jest znany z drewnianych meczetów i architektury tybetańskiej?",
+      "options": ["Goa", "Radżastan", "Kaszmir", "Kerala"],
+      "correctIndex": 2,
+      "explanation": "Kaszmir - region muzułmański w Himalajach - słynie z drewnianych meczetów i architektury nawiązującej do Tybetu.",
+      "category": "Azja - Indie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Który zabytek w Peru jest uznawany za „kulturę matkę” Andów?",
+      "options": ["Nasca", "Chavín de Huántar", "Tiwanaku", "Chan Chan"],
+      "correctIndex": 1,
+      "explanation": "Chavín de Huántar (ok. 1200-400 p.n.e.) jest uznawany za „kulturę matkę” Andów.",
+      "category": "Ameryka Południowa - Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Który park w USA słynie z tarcz wulkanicznych i gejzerów?",
+      "options": ["Yosemite", "Grand Canyon", "Yellowstone", "Arches"],
+      "correctIndex": 2,
+      "explanation": "Yellowstone leży w kalderze superwulkanu i ma ponad 300 gejzerów, w tym Old Faithful.",
+      "category": "Ameryka Północna - Parki USA",
+      "difficulty": "easy"
+    },
+    {
+      "id": "35",
+      "question": "Który zabytek w Tunezji jest największym amfiteatrem rzymskim w Afryce Północnej?",
+      "options": ["Dougga", "El Dżem", "Kartagina", "Sabratha"],
+      "correctIndex": 1,
+      "explanation": "Amfiteatr w El Dżem (III w.) jest jednym z najlepiej zachowanych i największych poza Italią.",
+      "category": "Afryka - Zabytki rzymskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
+      "correctIndex": 1,
+      "explanation": "Manang (3540 m) jest ostatnią większą osadą przed wysoką przełęczą Thorung La.",
+      "category": "Azja - Nepal",
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "question": "Który region w Australii jest nazywany „outback”?",
+      "options": [
+        "Wielkie Góry Wododziałowe",
+        "Wyżyna Zachodnioaustralijska",
+        "Centralny interior",
+        "Tasmania"
+      ],
+      "correctIndex": 2,
+      "explanation": "Outback to suchy, bezludny interior Australii - obszar ekstremalnego klimatu i turystyki przygodowej.",
+      "category": "Australia/Oceania - Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "question": "Który obiekt w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
+      "correctIndex": 1,
+      "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
+      "category": "Afryka - Zabytki Egiptu",
+      "difficulty": "easy"
+    },
+    {
+      "id": "39",
+      "question": "Który park w Tanzanii jest częścią wielkiego obszaru transgranicznego z Kenią?",
+      "options": ["Serengeti", "Tarangire", "Ruaha", "Selous"],
+      "correctIndex": 0,
+      "explanation": "Serengeti jest połączony z Masai Mara (Kenia) i tworzy jeden z największych obszarów ochrony przyrody na świecie.",
+      "category": "Afryka - Par ki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "40",
+      "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną na świecie?",
+      "options": ["Taj Mahal", "Khajuraho", "Madurai Meenakshi", "Konark"],
+      "correctIndex": 2,
+      "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
+      "category": "Azja - Indie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "question": "Który obiekt w Chile jest najwyższym wulkanem świata?",
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
+      "correctIndex": 1,
+      "explanation": "Ojos del Salado (6893 m) na granicy Chile i Argentyny jest najwyższym czynnym wulkanem świata.",
+      "category": "Ameryka Południowa - Wulkany",
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "question": "Który region w Turcji jest popularny wśród turystów indywidualnych i rowerowych?",
+      "options": ["Riwiera Turecka", "Kapadocja", "Pamukkale", "Egejska"],
+      "correctIndex": 1,
+      "explanation": "Kapadocja oferuje szlaki piesze, rowerowe i loty balonowe wśród unikalnych formacji skalnych.",
+      "category": "Azja - Turcja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "question": "Który zabytek w Peru jest wpisany na listę UNESCO jako „kultura matka”?",
+      "options": ["Nasca", "Chavín de Huántar", "Tiwanaku", "Chan Chan"],
+      "correctIndex": 1,
+      "explanation": "Chavín de Huántar (ok. 1200-400 p.n.e.) jest uznawany za „kulturę matkę” Andów.",
+      "category": "Ameryka Południowa - Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "44",
+      "question": "Który park w USA słynie z wędrujących kamieni?",
+      "options": ["Death Valley", "Joshua Tree", "Zion", "Arches"],
+      "correctIndex": 0,
+      "explanation": "Death Valley słynie z zjawiska „wędrujących kamieni” - kamieni przesuwających się po płaskim dnie wyschniętego jeziora.",
+      "category": "Ameryka Północna - Parki USA",
+      "difficulty": "medium"
+    },
+    {
+      "id": "45",
+      "question": "Który zabytek w Tunezji jest największym amfiteatrem rzymskim w Afryce Północnej?",
+      "options": ["Dougga", "El Dżem", "Kartagina", "Sabratha"],
+      "correctIndex": 1,
+      "explanation": "Amfiteatr w El Dżem (III w.) jest jednym z najlepiej zachowanych i największych poza Italią.",
+      "category": "Afryka - Zabytki rzymskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "46",
+      "question": "Który region w Nepalu jest ostatnim punktem samochodowym przed wysoką przełęczą na trekkingu wokół Annapurny?",
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
+      "correctIndex": 1,
+      "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
+      "category": "Azja - Nepal",
+      "difficulty": "medium"
+    },
+    {
+      "id": "47",
+      "question": "Który wulkan w Hawajach jest najaktywniejszy na świecie?",
+      "options": ["Mauna Loa", "Kilauea", "Mauna Kea", "Hualalai"],
+      "correctIndex": 1,
+      "explanation": "Kilauea jest jednym z najaktywniejszych wulkanów na świecie - ciągłe erupcje od 1983 roku.",
+      "category": "Ameryka Północna - Hawaje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "48",
+      "question": "Który zabytek w Indiach jest największym fortem na ostańcu skalnym?",
+      "options": ["Jaipur", "Jaisalmer", "Jodhpur", "Udaipur"],
+      "correctIndex": 1,
+      "explanation": "Fort w Jaisalmer jest jednym z największych fortów zbudowanych na ostańcu skalnym w Indiach.",
+      "category": "Azja - Indie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "49",
+      "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
+      "correctIndex": 1,
+      "explanation": "Arches National Park w Utah ma ponad 2000 naturalnych łuków skalnych.",
+      "category": "Ameryka Północna - Parki USA",
+      "difficulty": "medium"
+    },
+    {
+      "id": "50",
+      "question": "Który zabytek w Boliwii jest najwyżej położonym miastem starożytnym?",
+      "options": ["Potosi", "Tiwanaku", "Sucre", "La Paz"],
+      "correctIndex": 1,
+      "explanation": "Tiwanaku (ok. 3800 m n.p.m.) jest najwyżej położonym starożytnym miastem.",
+      "category": "Ameryka Południowa - Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "51",
+      "question": "Który obiekt w Turcji ma największy i najlepiej zachowany teatr rzymski w Azji?",
+      "options": ["Efez", "Aspendos", "Pergamon", "Side"],
+      "correctIndex": 1,
+      "explanation": "Teatr w Aspendos jest największy i najlepiej zachowany rzymski teatr w Azji Mniejszej.",
+      "category": "Azja - Turcja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "52",
+      "question": "Który obiekt w Turcji ma sześć minaretów?",
+      "options": [
+        "Hagia Sophia",
+        "Meczet Sulejmana",
+        "Meczet Błękitny",
+        "Meczet Selimiye"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meczet Błękitny w Stambule jest jedynym meczetem na świecie z sześcioma minaretami.",
+      "category": "Azja - Turcja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "53",
+      "question": "Który obiekt w Chile jest częścią parku narodowego na pograniczu z Argentyną?",
+      "options": ["Aconcagua", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
+      "correctIndex": 1,
+      "explanation": "Ojos del Salado leży w parku narodowym o tej samej nazwie na granicy Chile i Argentyny.",
+      "category": "Ameryka Południowa - Obiekty PDF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "54",
+      "question": "Który region w Australii jest najstarszą pustynią świata?",
+      "options": ["Simpson", "Gibson", "Namib", "Great Sandy"],
+      "correctIndex": 2,
+      "explanation": "Pustynia Namib (częściowo w Namibii) jest jedną z najstarszych pustyń świata (ok. 80 mln lat).",
+      "category": "Afryka - Pustynie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "55",
+      "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
+      "correctIndex": 1,
+      "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu, centrum kultu Amona-Re.",
+      "category": "Afryka - Zabytki Egiptu",
+      "difficulty": "medium"
+    },
+    {
+      "id": "56",
+      "question": "Która pustynia jest jedną z najstarszych na świecie (ok. 55-80 mln lat)?",
+      "options": [
+        "Pustynia Simpson (Australia)",
+        "Pustynia Atakama (Chile)",
+        "Pustynia Namib (Namibia)",
+        "Pustynia Gobi (Mongolia/Chiny)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pustynia Namib w Namibii jest uznawana za jedną z najstarszych pustyń świata - ma około 55-80 milionów lat.",
+      "category": "Afryka - Pustynie",
+      "difficulty": "hard"
+    }
+  ],
+  "createdAt": "2026-01-25T18:59:00.623Z"
+}
