@@ -1,0 +1,2341 @@
+{
+  "title": "Quiz - Kontynenty (pełny zestaw)",
+  "description": "175 pytań wielokrotnego wyboru",
+  "questions": [
+    {
+      "id": "AF-Q1",
+      "question": "Główne atrakcje turystyczne Egiptu to przede wszystkim:",
+      "options": [
+        "Safari i goryle górskie",
+        "Zabytki faraonów + kurorty Morza Czerwonego",
+        "Wodospady Wiktorii i delta Okawango",
+        "Wielki Mur Chiński i piramidy Majów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Klasyka Egiptu = piramidy, świątynie + nurkowanie w Hurghadzie i Sharm el Sheikh.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q2",
+      "question": "Dlaczego Nil jest nazywany „darem Egiptu”?",
+      "options": [
+        "Bo jest najszerszą rzeką świata",
+        "95% Egipcjan mieszka w jego dolinie",
+        "Jest jedyną rzeką z krokodylami nilowymi",
+        "Przepływa wyłącznie przez Egipt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dolina Nilu to praktycznie jedyne miejsce w Egipcie, gdzie da się normalnie żyć i uprawiać ziemię.",
+      "category": "Rzeki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q3",
+      "question": "Która piramida w Gizie jest jednym z siedmiu cudów starożytnego świata?",
+      "options": ["Chefrena", "Mykerinosa", "Cheopsa", "Dżosera (schodkowa)"],
+      "correctIndex": 2,
+      "explanation": "Wielka Piramida Cheopsa to jedyny cud starożytnego świata, który przetrwał do dziś.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q4",
+      "question": "Co charakterystycznego znajduje się w Sakkarze?",
+      "options": [
+        "Największy amfiteatr rzymski w Afryce",
+        "Piramida schodkowa Dżosera + Serapeum",
+        "Świątynia Amona-Re z 134 kolumnami",
+        "Świątynie wykute w skale Ramzesa II"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkara = pierwsza „prawdziwa” piramida (schodkowa) + podziemne Serapeum z sarkofagami byków Apis.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q5",
+      "question": "Karnak to przede wszystkim:",
+      "options": [
+        "Największy kompleks sakralny starożytnego Egiptu",
+        "Miasto-twierdza Berberów",
+        "Delta śródlądowa w Botswanie",
+        "Największe slumsy Afryki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karnak = gigantyczne centrum kultu Amona-Re, setki kolumn, obeliski, reliefy.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q6",
+      "question": "Dlaczego Abu Simbel musiało zostać przeniesione?",
+      "options": [
+        "Z powodu ataku terrorystycznego",
+        "Przed zalaniem przez Zbiornik Nasera",
+        "Z powodu erozji wiatrowej",
+        "Na prośbę UNESCO bez konkretnego powodu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cały kompleks pocięto na 1032 bloki i przeniesiono 65 m wyżej w latach 1964-1968.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q7",
+      "question": "Sharm el Sheikh słynie głównie z:",
+      "options": [
+        "Najwyższych wydm w Afryce",
+        "Luksusowych kurortów i topowego nurkowania",
+        "Migracji gnu",
+        "Malowideł naskalnych Buszmenów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sharm = Ras Muhammad, rafy, wraki + luksus i baza na Synaj.",
+      "category": "Kurorty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q8",
+      "question": "Hurghada to przede wszystkim:",
+      "options": [
+        "Miejsce narodzin Nelsona Mandeli",
+        "Rafy koralowe + masowa turystyka All Inclusive",
+        "Największy amfiteatr rzymski",
+        "Park z gorylami górskimi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hurghada = tańsza, bardziej masowa alternatywa dla Sharm + sporty wodne.",
+      "category": "Kurorty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q9",
+      "question": "Kartagina została założona przez:",
+      "options": [
+        "Rzymian",
+        "Fenicjan w IX w. p.n.e.",
+        "Greków",
+        "Arabów w VII w."
+      ],
+      "correctIndex": 1,
+      "explanation": "Feniccy osadnicy z Tyru → potężne miasto handlowe → III wojna punicka → zburzona przez Rzym.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q10",
+      "question": "Berberowie zamieszkują głównie:",
+      "options": [
+        "Afrykę Subsaharyjską",
+        "Północną Afrykę (Maroko, Algieria, Tunezja, Libia)",
+        "Wybrzeże Suazi i Lesotho",
+        "Deltę Okawango"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berberowie (Amazigh) = rdzenni mieszkańcy Maghrebu, hodowla, rzemiosło, częściowo nadal nomadyczny styl.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q11",
+      "question": "Który typ pustyni (krajobrazu) dominuje w Saharze?",
+      "options": [
+        "Erg - piaszczysty z wydmami",
+        "Tylko hamada - skaliste płyty",
+        "Wyłącznie oazy palmowe",
+        "Tundra polarna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erg (np. Erg Chebbi) = klasyczne morza piasku, ale Sahara ma też serir, hamadę, reg, oazy i malowidła.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q12",
+      "question": "Kilimandżaro ma wysokość:",
+      "options": [
+        "5895 m n.p.m.",
+        "6962 m n.p.m.",
+        "5199 m n.p.m.",
+        "4321 m n.p.m."
+      ],
+      "correctIndex": 0,
+      "explanation": "Najwyższy szczyt Afryki, uśpiony wulkan z lodowcem na Uhuru Peak (5895 m).",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q13",
+      "question": "Serengeti słynie przede wszystkim z:",
+      "options": [
+        "Goryli górskich",
+        "Wielkiej migracji ssaków kopytnych",
+        "Najwyższych wydm świata",
+        "Najstarszych malowideł naskalnych"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coroczna migracja ~1,5-2 mln gnu i setek tysięcy zebr - klasyka safari.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q14",
+      "question": "Kibera to:",
+      "options": [
+        "Największy park narodowy Kenii",
+        "Największe slumsy Afryki (Nairobi)",
+        "Delta śródlądowa w Botswanie",
+        "Miejsce narodzin apartheidu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kibera ≈ 250-1000 tys. mieszkańców (różne szacunki), symbol biedy miejskiej w Afryce.",
+      "category": "Społeczeństwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q15",
+      "question": "Wyspa Gorée (Górée) jest znana jako:",
+      "options": [
+        "Miejsce narodzin Nelsona Mandeli",
+        "Dawna baza handlu niewolnikami (UNESCO)",
+        "Największe solnisko świata",
+        "Siedziba Inków w Andach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dom niewolników (Maison des Esclaves) → symbol transatlantyckiego handlu niewolnikami.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q16",
+      "question": "Apartheid obowiązywał oficjalnie w RPA do:",
+      "options": [
+        "Lat 60. XX w.",
+        "Lat 90. XX w.",
+        "2010 r.",
+        "Nigdy nie został zniesiony formalnie"
+      ],
+      "correctIndex": 1,
+      "explanation": "System segregacji rasowej → zniesiony na początku lat 90., wolne wybory 1994.",
+      "category": "Historia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q17",
+      "question": "Soweto kojarzy się przede wszystkim z:",
+      "options": [
+        "Nelsonem Mandelą i walką z apartheidem",
+        "Najwyższym szczytem Afryki",
+        "Największą deltą śródlądową świata",
+        "Najstarszą pustynią świata"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soweto = symbol oporu, powstanie 1976, dom Mandeli (Hector Pieterson Memorial).",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q18",
+      "question": "Delta Okawango jest unikalna, ponieważ:",
+      "options": [
+        "Jest deltą wpadającą do oceanu",
+        "Jest największą deltą śródlądową świata",
+        "Ma najwyższe wodospady Afryki",
+        "Jest całkowicie wyschnięta przez cały rok"
+      ],
+      "correctIndex": 1,
+      "explanation": "Woda z wyżyn Angoli rozlewa się na piaskach Kalahari → nie dociera do morza.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q19",
+      "question": "Buszmeni (Khoisan) słyną z:",
+      "options": [
+        "Języków klikających i malowideł naskalnych",
+        "Budowy wielkich piramid",
+        "Hodowli wielbłądów na Saharze",
+        "Tańca haka przed bitwą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khoisan = najstarsze grupy etniczne Afryki, języki z kliknięciami (!,ǀ,ǁ,ǂ), sztuka naskalna.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q20",
+      "question": "Wielkie Zimbabwe to:",
+      "options": [
+        "Największy kamienny zabytek Afryki subsaharyjskiej (UNESCO)",
+        "Najwyższy szczyt Afryki",
+        "Największe solnisko świata",
+        "Delta śródlądowa w Kenii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monumentalne mury z XI-XV w., stolica cywilizacji Zimbabwe, nazwa kraju pochodzi stąd.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q21",
+      "question": "Masajowie żyją głównie w:",
+      "options": [
+        "Maroko i Algierii",
+        "Kenii i Tanzanii",
+        "Namibii i Botswanie",
+        "RPA i Lesotho"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czerwone szaty, skoki w tańcu, wioski manyatta, hodowla bydła - ikona wschodniej Afryki.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q22",
+      "question": "Wielki Rów Wschodni powstał w wyniku:",
+      "options": [
+        "Erozji lodowcowej",
+        "Rozpadu superkontynentu Gondwana",
+        "Upadku meteorytu",
+        "Budowy tamy asuańskiej"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rift Valley = efekt rozciągania skorupy → wulkany, jeziora tektoniczne, najgłębsze rowy.",
+      "category": "Geologia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q23",
+      "question": "Góra Synaj jest święta głównie dla:",
+      "options": [
+        "Hinduizmu",
+        "Judaizmu, chrześcijaństwa i islamu",
+        "Wyłącznie buddyzmu",
+        "Religii tradycyjnych Masajów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Według tradycji Mojżesz otrzymał tablice na Synaju → klasztor św. Katarzyny (UNESCO).",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q24",
+      "question": "El Djem w Tunezji słynie z:",
+      "options": [
+        "Największego amfiteatru rzymskiego w Afryce",
+        "Najwyższych wydm świata",
+        "Pływających wiosek na jeziorze",
+        "Goryli górskich"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amfiteatr w El Djem (Thysdrus) - trzeci co do wielkości na świecie po Rzymie i Kapui.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q25",
+      "question": "Dougga jest często nazywana:",
+      "options": [
+        "Tunezyjskimi Pompejami",
+        "Marokańskim Machu Picchu",
+        "Egipską Sakkarą",
+        "Keniańskim Serengeti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bardzo dobrze zachowane ruiny punicko-rzymskie, teatr, kapitol, forum - UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q26",
+      "question": "Najsłynniejsza atrakcja rzeki Zambezi to:",
+      "options": [
+        "Wodospady Wiktorii",
+        "Delta śródlądowa",
+        "Najwyższy most świata",
+        "Największa tama w Afryce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wodospady Wiktorii + rafting, spływy, bungee, zapory Kariba i Cahora Bassa.",
+      "category": "Rzeki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q27",
+      "question": "Pustynia Namib jest znana z:",
+      "options": [
+        "Najwyższych wydm na świecie (Sossusvlei)",
+        "Największej liczby oaz",
+        "Najniższej temperatury w Afryce",
+        "Największej migracji słoni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czerwone wydmy Sossusvlei + Deadvlei + najstarsza pustynia świata.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q28",
+      "question": "Park Virunga słynie przede wszystkim z:",
+      "options": [
+        "Goryli górskich",
+        "Pingwinów magellańskich",
+        "Wielorybów południowych",
+        "Flamingów na solnisku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Virunga = jedyny park z gorylami górskimi, wulkany Nyiragongo i Nyamuragira, jez. Edward.",
+      "category": "Parki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q29",
+      "question": "Trzeci najwyższy szczyt Afryki to:",
+      "options": [
+        "Kilimandżaro",
+        "Mount Kenya",
+        "Góra Margherita (Ruwenzori)",
+        "Ras Dashen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ruwenzori („Góry Księżycowe”) → Margherita Peak 5109 m, lodowce, UNESCO.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q30",
+      "question": "Stone Town na Zanzibarze to:",
+      "options": [
+        "Dawne centrum handlu niewolnikami + mieszanka kultur (UNESCO)",
+        "Największe solnisko Afryki",
+        "Miejsce narodzin Usain Bolt",
+        "Stolica Suahili"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arabskie, indyjskie, europejskie wpływy → labirynt uliczek, drzwi Zanzibaru.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q31",
+      "question": "Dolina Omo (Etiopia) jest UNESCO głównie dzięki:",
+      "options": [
+        "Najwyższym górom Afryki",
+        "Unikalnym plemionom (Mursi, Hamer) i tradycjom skaryfikacji",
+        "Największej delcie śródlądowej",
+        "Najstarszym malowidłom naskalnym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plemiona z talerzykami wargowymi, skaryfikacje, malowanie ciała - żywe muzeum kultur.",
+      "category": "Ludy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q32",
+      "question": "Sidi Bou Said w Tunezji słynie z:",
+      "options": [
+        "Biało-niebieskiej zabudowy i artystycznej atmosfery",
+        "Największego amfiteatru rzymskiego",
+        "Najwyższych wydm Afryki",
+        "Goryli górskich"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ikoniczne białe domy z niebieskimi drzwiami i okiennicami - artystyczna enklawa nad morzem.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AF-Q33",
+      "question": "Najwyższy szczyt Gór Atlas to:",
+      "options": [
+        "Dżabal Toubkal (Maroko)",
+        "Mount Kenya",
+        "Ras Dashen",
+        "Kibo (Kilimandżaro)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toubkal 4167 m - najwyższy szczyt Afryki Północnej i całego Atlasu.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AF-Q34",
+      "question": "Slumming to forma turystyki polegająca na:",
+      "options": [
+        "Zwiedzaniu luksusowych kurortów",
+        "Zwiedzaniu slumsów (Kibera, Soweto)",
+        "Nurkowanie z rekinami",
+        "Wspinaczce na Kilimandżaro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kontrowersyjna turystyka - wizyty w Kibera, Soweto, fawelach itp.",
+      "category": "Turystyka",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AF-Q35",
+      "question": "Największe obecne problemy turystyki w Egipcie to głównie:",
+      "options": [
+        "Brak raf koralowych",
+        "Terroryzm i niewystarczająca baza noclegowa w niektórych regionach",
+        "Zbyt duża liczba goryli górskich",
+        "Zamknięcie Sahary dla turystów"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ataki terrorystyczne (zwłaszcza na Synaju i w latach 2015-2019) + problemy infrastrukturalne.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q1",
+      "question": "Denali to najwyższy szczyt Ameryki Północnej. Jaka jest jego wysokość?",
+      "options": [
+        "5895 m n.p.m.",
+        "6190 m n.p.m.",
+        "6962 m n.p.m.",
+        "4392 m n.p.m."
+      ],
+      "correctIndex": 1,
+      "explanation": "Denali (dawniej McKinley) - 6190 m, Alaska, najwyższy punkt kontynentu północnoamerykańskiego.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q2",
+      "question": "Yellowstone jest najstarszym parkiem narodowym świata. Co jest jego największą atrakcją?",
+      "options": [
+        "Wielki Kanion",
+        "Gejzery (w tym Old Faithful) i baseny termalne",
+        "Goryle górskie",
+        "Lodowce patagońskie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yellowstone = pierwszy park narodowy (1872), ponad 10 tys. gejzerów i źródeł termalnych, Grand Prismatic Spring.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q3",
+      "question": "Która rzeka wyżłobiła Grand Canyon?",
+      "options": ["Missisipi", "Kolorado", "Kolumbia", "Rio Grande"],
+      "correctIndex": 1,
+      "explanation": "Rzeka Kolorado - ponad 1,6 km głębokości w najgłębszym miejscu, Skywalk na brzegu.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q4",
+      "question": "Niagara Falls składa się z ilu głównych wodospadów?",
+      "options": ["Dwóch", "Trzech", "Czterech", "Pięciu"],
+      "correctIndex": 1,
+      "explanation": "American Falls, Bridal Veil Falls i Horseshoe Falls (Kanadyjski) - trzy części.",
+      "category": "Wodospady",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q5",
+      "question": "Chichén Itzá jest nowym cudem świata dzięki:",
+      "options": [
+        "Piramidzie Kukulkana (El Castillo)",
+        "Taj Mahal",
+        "Wielkiemu Murowi Chińskiemu",
+        "Koloseum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Majowska piramida schodkowa z efektem węża podczas równonocy - jeden z New7Wonders.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q6",
+      "question": "Cenoty na Jukatanie były dla Majów:",
+      "options": [
+        "Zwykłymi studniami pitnymi",
+        "Świętymi studniami krasowymi - wejściem do zaświatów",
+        "Miejscami pochówku królów",
+        "Obserwatoriami astronomicznymi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cenoty (np. Ik Kil, Cenote Sagrado) - ofiary z ludzi, święte miejsce Xibalbá.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q7",
+      "question": "Stolicą Azteków było:",
+      "options": [
+        "Teotihuacan",
+        "Tenochtitlan (na jeziorze Texcoco)",
+        "Chichén Itzá",
+        "Tikal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tenochtitlan → dzisiejsze centrum Meksyku, podbite przez Cortésa w 1521.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q8",
+      "question": "Które z poniższych NIE jest głównym miastem Majów na Jukatanie?",
+      "options": ["Chichén Itzá", "Uxmal", "Tikal", "Tulum"],
+      "correctIndex": 2,
+      "explanation": "Tikal leży w Gwatemali (Petén), pozostałe to klasyka Półwyspu Jukatańskiego.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q9",
+      "question": "Route 66 ma długość około:",
+      "options": ["2000 km", "4000 km", "6000 km", "800 km"],
+      "correctIndex": 1,
+      "explanation": "Ikoniczna droga z Chicago do Santa Monica - ok. 3940 km, symbol amerykańskiej wolności.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q10",
+      "question": "Rozwój Las Vegas jako wielkiego centrum hazardu przypada głównie na lata:",
+      "options": [
+        "1880-1900",
+        "1940-1960 (wpływ mafii)",
+        "1920-1930",
+        "2000-2020"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mafia (Bugsy Siegel, Flamingo 1946) + legalizacja hazardu i tamy Hoovera.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q11",
+      "question": "San Francisco kojarzy się przede wszystkim z:",
+      "options": [
+        "Golden Gate, Alcatraz, Lombard Street",
+        "Statuą Wolności",
+        "Wielkim Kanionem",
+        "Disney World"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czerwony most wiszący, więzienie na wyspie, krzywoliniowa ulica, hippie Haight-Ashbury.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q12",
+      "question": "Dzielnica biznesowa Nowego Jorku to:",
+      "options": ["Brooklyn", "Manhattan (Wall Street)", "Queens", "Bronx"],
+      "correctIndex": 1,
+      "explanation": "Wall Street = giełda NYSE, symbol finansów światowych.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q13",
+      "question": "Ellis Island pełniła rolę:",
+      "options": [
+        "Głównego punktu imigracyjnego USA 1892-1924",
+        "Więzienia federalnego",
+        "Portu wojskowego",
+        "Stacji kosmicznej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przez Ellis Island przeszło ponad 12 mln imigrantów - dziś muzeum.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q14",
+      "question": "Quebec jest unikalny w Ameryce Północnej, ponieważ:",
+      "options": [
+        "Ma jedyne mury obronne z XVII w. wokół centrum miasta",
+        "Jest największym miastem Kanady",
+        "Leży na Alasce",
+        "Ma piramidy Majów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stare Quebec (Vieux-Québec) - fortyfikacje, UNESCO, jedyne umocnione miasto na kontynencie północnym poza Meksykiem.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q15",
+      "question": "Banff to:",
+      "options": [
+        "Najstarszy park narodowy Kanady (1885)",
+        "Największy stan USA",
+        "Wyspa na Karaibach",
+        "Miasto w Meksyku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Góry Skaliste, jezioro Louise, lodowce - klasyka kanadyjskiej przyrody.",
+      "category": "Parki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q16",
+      "question": "Jasper jest największym parkiem narodowym Kanady - co go wyróżnia?",
+      "options": [
+        "Najwięcej lodowców",
+        "Największa powierzchnia (10 878 km²)",
+        "Najwyższy wodospad",
+        "Najwięcej goryli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ogromny obszar, lodowce, Athabasca Falls, Icefields Parkway.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q17",
+      "question": "Death Valley to najgorętsze i najsuchsze miejsce w:",
+      "options": ["Afryce", "Ameryce Północnej", "Azji", "Australii"],
+      "correctIndex": 1,
+      "explanation": "Rekord 56,7 °C (1913), poniżej poziomu morza, Badwater Basin.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q18",
+      "question": "Bryce Canyon słynie z:",
+      "options": [
+        "Hoodoos - iglic skalnych",
+        "Gejzerów",
+        "Wielorybów",
+        "Piramid schodkowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amfiteatr z tysiącami hoodoos (kolumny skalne) powstałe przez mróz i erozję.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q19",
+      "question": "Mesa Verde chroni przede wszystkim:",
+      "options": [
+        "Osady Anasazi w niszach skalnych (cliff dwellings)",
+        "Lodowce",
+        "Rafy koralowe",
+        "Wulkany"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pueblońskie osady wbudowane w klify (ok. 600-1300 n.e.), UNESCO.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA-Q20",
+      "question": "Na Mount Rushmore wyrzeźbiono twarze:",
+      "options": [
+        "Washington, Jefferson, Roosevelt, Lincoln",
+        "Kennedy, Reagan, Obama, Trump",
+        "Columbus, Cortés, Pizarro, Magellan",
+        "Einstein, Tesla, Edison, Ford"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czterej prezydenci USA - symbol narodowy w Black Hills, Dakota Południowa.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q21",
+      "question": "W Waszyngtonie znajdują się m.in.:",
+      "options": [
+        "Biały Dom, Kapitol, Pentagon",
+        "Eiffel Tower, Luwr",
+        "Big Ben, Westminster",
+        "Taj Mahal, Czerwony Fort"
+      ],
+      "correctIndex": 0,
+      "explanation": "Siedziby prezydenta, Kongresu i Departamentu Obrony.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q22",
+      "question": "New Orleans słynie z dzielnicy:",
+      "options": [
+        "French Quarter (Mardi Gras, jazz)",
+        "Times Square",
+        "Hollywood",
+        "Silicon Valley"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vieux Carré - francuskie wpływy, balkony, jazz, karnawał Mardi Gras.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q23",
+      "question": "Stolicą Kuby jest:",
+      "options": ["Miami", "Hawana (UNESCO)", "Santo Domingo", "San Juan"],
+      "correctIndex": 1,
+      "explanation": "Stare Miasto Hawany - kolonialna architektura, Malecón, UNESCO.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q24",
+      "question": "Pierwsze miasto założone przez Kolumba na Karaibach to:",
+      "options": [
+        "Santo Domingo",
+        "Isabela (1493, zniszczona przez huragan)",
+        "Hawana",
+        "San Juan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isabela na Hispanioli - pierwsza stała osada europejska w Nowym Świecie, szybko opuszczona.",
+      "category": "Historia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA-Q25",
+      "question": "Varadero na Kubie to:",
+      "options": [
+        "Enklawa turystyczna All Inclusive na półwyspie Hicacos",
+        "Stolica kraju",
+        "Miejsce rewolucji Castro",
+        "Największe solnisko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biała plaża, hotele resortowe - główna destynacja plażowa Kuby.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q26",
+      "question": "Grenlandia jest pokryta lodem w około:",
+      "options": ["20%", "80%", "50%", "100%"],
+      "correctIndex": 1,
+      "explanation": "Największa wyspa świata, 80% lądolodu - autonomia Danii.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q27",
+      "question": "Alaska jest największym stanem USA pod względem:",
+      "options": [
+        "Liczby ludności",
+        "Powierzchni (najrzadziej zaludniony)",
+        "Liczby parków narodowych",
+        "Produkcji ropy"
+      ],
+      "correctIndex": 1,
+      "explanation": "1,7 mln km² - ponad dwukrotnie większa od Teksasu, gęstość zaludnienia ~0,5 os./km².",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "NA-Q28",
+      "question": "Kanion Antylopy (Antelope Canyon) jest niebezpieczny głównie z powodu:",
+      "options": [
+        "Zwierząt jadowitych",
+        "Nagłych powodzi błyskawicznych (flash floods)",
+        "Wysokiej temperatury",
+        "Trzęsień ziemi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wąski slot canyon - tylko z przewodnikiem, nagłe ulewy mogą zalać w kilka minut.",
+      "category": "Parki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA-Q29",
+      "question": "Główny sezon huraganów na Karaibach i w Zatoce Meksykańskiej to:",
+      "options": [
+        "Grudzień-luty",
+        "Wrzesień-październik (szczyt)",
+        "Maj-czerwiec",
+        "Cały rok równomiernie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sezon oficjalnie 1 czerwca - 30 listopada, szczyt we wrześniu/październiku.",
+      "category": "Klimat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q30",
+      "question": "Hernán Cortés podbił imperium:",
+      "options": ["Inków", "Azteków (1519-1521)", "Majów", "Anasazi"],
+      "correctIndex": 1,
+      "explanation": "Tenochtitlan → Meksyk, Montezuma II, sojusze z Tlaxcalą.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q31",
+      "question": "Tulum wyróżnia się tym, że jest:",
+      "options": [
+        "Jedynym miastem Majów położonym bezpośrednio nad morzem",
+        "Największą piramidą w Meksyku",
+        "Stolicą Azteków",
+        "Najstarszym miastem Majów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mur obronny, plaża Karaibów - popularne zdjęciowo miejsce.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q32",
+      "question": "W Palenque najważniejszy zabytek to:",
+      "options": [
+        "Świątynia Inskrypcji z grobowcem króla Pakala",
+        "Piramida Kukulkana",
+        "Wielka Jaskinia",
+        "Cenote Sagrado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sarkofag Pakala Wielkiego, reliefy, dżungla - klasyka Majów.",
+      "category": "Zabytki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "NA-Q33",
+      "question": "Riwiera Majów znajduje się na:",
+      "options": [
+        "Wybrzeżu Jukatanu (Cancún, Playa del Carmen, Tulum)",
+        "Hawajach",
+        "Kubie",
+        "Florydzie"
+      ],
+      "correctIndex": 0,
+      "explanation": "All Inclusive, ruiny Majów + plaże - masowa turystyka Meksyku.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q34",
+      "question": "Santo Domingo (Dominikana) to:",
+      "options": [
+        "Najstarsze miasto europejskie w Amerykach (1496-1498)",
+        "Największe miasto Karaibów",
+        "Stolica Kuby",
+        "Miejsce lądowania Kolumba w 1492"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zona Colonial - UNESCO, katedra Santa María la Menor (najstarsza w Nowym Świecie).",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "NA-Q35",
+      "question": "Najdłuższy szlak pieszy w Appalachach ma około:",
+      "options": ["1000 km", "3500 km", "500 km", "7000 km"],
+      "correctIndex": 1,
+      "explanation": "Appalachian Trail - od Georgii do Maine, ~3548 km, thru-hiking.",
+      "category": "Góry",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q1",
+      "question": "Península Valdés (Argentyna) jest przede wszystkim znana z:",
+      "options": [
+        "Najwyższych gór Andów",
+        "Obserwacji wielorybów południowych, słoni morskich, orek i pingwinów magellańskich",
+        "Największego solniska świata",
+        "Piramid Inków"
+      ],
+      "correctIndex": 1,
+      "explanation": "UNESCO, kluczowa baza obserwacji morskich ssaków - Puerto Pirámides to główna miejscowość.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q2",
+      "question": "Archipelag Galápagos jest najbardziej znany z:",
+      "options": [
+        "Gigantycznych żółwi słoniowych i inspiracji dla teorii ewolucji Darwina",
+        "Najwyższych wodospadów świata",
+        "Największych lodowców poza Antarktydą",
+        "Miasta Machu Picchu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wulkaniczne wyspy Ekwadoru, unikalna fauna, UNESCO - Darwin zebrał tu kluczowe dowody na ewolucję.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q3",
+      "question": "Wyspa Wielkanocna (Rapa Nui) słynie z:",
+      "options": [
+        "Gigantycznych posągów moai",
+        "Największego solniska świata",
+        "Najwyższego szczytu Andów",
+        "Największej delty śródlądowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chile, bardzo odległa, setki moai - UNESCO, świadectwo kultury polinezyjskiej.",
+      "category": "UNESCO",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q4",
+      "question": "Najwyższy szczyt obu Ameryk to:",
+      "options": [
+        "Aconcagua (6959 m n.p.m., Argentyna)",
+        "Chimborazo (Ekwador)",
+        "Huascarán (Peru)",
+        "Ojos del Salado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aconcagua - Korona Ziemi, nie wymaga technik alpinistycznych, baza Mendoza.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q5",
+      "question": "Park Narodowy Huascarán (Peru) jest UNESCO dzięki:",
+      "options": [
+        "Najwyższemu szczytowi Peru, lodowcom i jeziorom polodowcowym",
+        "Największemu solnisku świata",
+        "Najdłuższym wydmom",
+        "Pływającym wyspom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cordillera Blanca - najwyższe góry tropikalne, Laguna 69, wąwozy.",
+      "category": "Parki narodowe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q6",
+      "question": "Najbardziej znana atrakcja Parku Los Glaciares to:",
+      "options": [
+        "Lodowiec Perito Moreno",
+        "Salto Ángel",
+        "Machu Picchu",
+        "Salar de Uyuni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perito Moreno - jeden z nielicznych lodowców na świecie, który nadal rośnie, baza El Calafate.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q7",
+      "question": "Llullaillaco to:",
+      "options": [
+        "Najwyższy aktywny wulkan świata",
+        "Wulkan 6773 m na granicy Chile/Argentyny",
+        "Najwyższy wodospad świata",
+        "Największe solnisko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bardzo wysoko położony wulkan, mumie dzieci Inków znalezione na szczycie.",
+      "category": "Wulkany",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q8",
+      "question": "Chimborazo (6263 m) jest najwyższym szczytem:",
+      "options": ["Argentyny", "Peru", "Ekwadoru", "Boliwii"],
+      "correctIndex": 2,
+      "explanation": "Najdalej od środka Ziemi (przez równikowy wybrzuszenie) - punkt najdalej od centrum planety.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q9",
+      "question": "Jezioro Titicaca jest wyjątkowe, bo:",
+      "options": [
+        "Jest najwyżej położonym żeglownym jeziorem świata",
+        "Ma największą głębokość w Ameryce Południowej",
+        "Jest całkowicie wyschnięte",
+        "Leży na poziomie morza"
+      ],
+      "correctIndex": 0,
+      "explanation": "~3812 m n.p.m., wyspy Uros z trzciny totora, kolebka Inków.",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q10",
+      "question": "Najwyższy wodospad świata to:",
+      "options": [
+        "Salto Ángel (979 m, Wenezuela)",
+        "Wodospady Wiktorii",
+        "Iguazú",
+        "Angel Falls (tylko 300 m)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Park Canaima, Auyan-tepui, dostęp głównie łodzią i samolotem.",
+      "category": "Wodospady",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q11",
+      "question": "Jezioro San Martín / O'Higgins jest znane jako:",
+      "options": [
+        "Najgłębsze jezioro Ameryki Południowej",
+        "Najwyżej położone jezioro żeglowne",
+        "Największe solnisko",
+        "Jezioro z pływającymi wyspami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pogranicze Argentyna-Chile, fiordy, bardzo głębokie (~836 m).",
+      "category": "Jeziora",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q12",
+      "question": "Marmurowe Jaskinie (Capillas de Mármol) znajdują się nad jeziorem:",
+      "options": [
+        "Titicaca",
+        "General Carrera / Buenos Aires",
+        "San Martín",
+        "Poopó"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piękne marmurowe groty dostępne łodzią, Carretera Austral, Chile.",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q13",
+      "question": "Patagonia to region znany z:",
+      "options": [
+        "Surowych gór, lodowców, fiordów i stepów (Argentyna/Chile)",
+        "Pustyni Atacama",
+        "Wielkich miast kolonialnych",
+        "Raf koralowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Turystyka aktywna, trekking (Torres del Paine, Fitz Roy), baza na Antarktydę.",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q14",
+      "question": "Salar de Uyuni staje się gigantycznym lustrem po:",
+      "options": [
+        "Deszczu (warstwa wody na soli)",
+        "Wyschnięciu całkowicie",
+        "Zamarznięciu",
+        "Wietrze"
+      ],
+      "correctIndex": 0,
+      "explanation": "Największe solnisko świata (>10 000 km²), >3600 m, efekt lustra w porze deszczowej.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q15",
+      "question": "Pustynia Atacama słynie z:",
+      "options": [
+        "Najsuchszego miejsca na Ziemi, Doliny Księżycowej, gejzerów El Tatio",
+        "Najwyższych wydm świata",
+        "Największej migracji ssaków",
+        "Najstarszych piramid"
+      ],
+      "correctIndex": 0,
+      "explanation": "San Pedro de Atacama - baza, flamingi na salar, obserwatoria astronomiczne.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q16",
+      "question": "Chavín de Huántar to:",
+      "options": [
+        "Najstarsze znaczące stanowisko archeologiczne Peru (kultura matka)",
+        "Stolica Inków",
+        "Największe miasto adobe",
+        "Miejsce moai"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNESCO, monumentalna architektura, tunele, rzeźby jaguarów i węży.",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q17",
+      "question": "Geoglify Nasca są widoczne najlepiej:",
+      "options": ["Z lotu ptaka / samolotu", "Z ziemi", "Pod wodą", "Zimą"],
+      "correctIndex": 0,
+      "explanation": "Peru, UNESCO, linie zwierząt i figur geometrycznych - prawdopodobnie kalendarz astronomiczny.",
+      "category": "UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q18",
+      "question": "Tiwanaku (Boliwia) to:",
+      "options": [
+        "Najwyżej położone starożytne miasto (3800 m), poprzedzające Inków",
+        "Stolica Inków",
+        "Miasto z adobe",
+        "Miejsce redukcji jezuickich"
+      ],
+      "correctIndex": 0,
+      "explanation": "Precyzyjna obróbka kamienia, Brama Słońca, UNESCO.",
+      "category": "Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q19",
+      "question": "Chan Chan było stolicą kultury:",
+      "options": [
+        "Chimu - największe miasto z adobe na świecie",
+        "Inków",
+        "Chavín",
+        "Nasca"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peru, cytadele, zaawansowane nawadnianie, podbite przez Inków w XV w.",
+      "category": "Cywilizacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q20",
+      "question": "Inki słynęli z:",
+      "options": [
+        "Sieci dróg Qhapaq Ñan (~20 tys. km), rolnictwa tarasowego, Machu Picchu",
+        "Gigantycznych posągów moai",
+        "Największego solniska",
+        "Najwyższego wodospadu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imperium Tawantinsuyu, Cuzco, podbój hiszpański (Pizarro).",
+      "category": "Cywilizacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q21",
+      "question": "Quito (Ekwador) było:",
+      "options": [
+        "Pierwszą stolicą świata wpisaną na listę UNESCO",
+        "Ostatnią stolicą Inków",
+        "Stolicą Chimu",
+        "Miejscem narodzin Darwina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najlepsze zachowana kolonialna architektura hiszpańska w Ameryce Łacińskiej.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q22",
+      "question": "Lima została założona w 1535 roku przez:",
+      "options": [
+        "Francisco Pizarra",
+        "Hernána Cortésa",
+        "Simóna Bolívara",
+        "Augusta Pinocheta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Centrum z balkonami drewnianymi, katedra z kaplicą Pizarra - UNESCO.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q23",
+      "question": "Cuzco to:",
+      "options": [
+        "Dawna stolica Inków + kolonialne budowle na inkańskich fundamentach",
+        "Największe solnisko",
+        "Miejsce moai",
+        "Stolica Brazylii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baza do Machu Picchu, Plaza de Armas, Qorikancha.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q24",
+      "question": "Sucre (Boliwia) nazywane jest Białym Miastem ze względu na:",
+      "options": [
+        "Bielone elewacje budynków kolonialnych",
+        "Największe złoża soli",
+        "Białe flamingi",
+        "Śnieg przez cały rok"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konstytucyjna stolica, UNESCO, piękne kościoły i uniwersytet z XVI w.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q25",
+      "question": "Redukcje jezuickie to:",
+      "options": [
+        "Zamknięte osady misyjne dla Guarani (Argentyna, Paragwaj, Brazylia, Boliwia)",
+        "Kopalnie srebra",
+        "Miasta Inków",
+        "Pływające wyspy"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNESCO, rzemiosło, edukacja, muzyka - przykład utopijnej społeczności.",
+      "category": "Kultura",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q26",
+      "question": "Język quechua jest używany głównie przez ludy:",
+      "options": [
+        "Andów (Peru, Boliwia, Ekwador)",
+        "Patagonii",
+        "Amazonii",
+        "Karaibów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hodowla lam i alpaków, rolnictwo tarasowe, tkactwo.",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q27",
+      "question": "Mapuche to lud, który:",
+      "options": [
+        "Nigdy nie został w pełni ujarzmiony przez Hiszpanów (Chile/Argentyna)",
+        "Zbudował Machu Picchu",
+        "Stworzył geoglify Nasca",
+        "Mieszka na pływających wyspach"
+      ],
+      "correctIndex": 0,
+      "explanation": "Język mapudungun, waleczni, obrzędy, tkactwo.",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q28",
+      "question": "Cholitas to:",
+      "options": [
+        "Kobiety z La Paz / El Alto w tradycyjnych melonikach i wielowarstwowych spódnicach",
+        "Wojownicy Inków",
+        "Mieszkańcy Galápagos",
+        "Hodowcy wielorybów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Symbol boliwijskiej tożsamości, dynamiczne życie w wysokogórskich miastach.",
+      "category": "Kultura",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q29",
+      "question": "Potosí było jednym z najbogatszych miast świata dzięki:",
+      "options": [
+        "Złożom srebra w Cerro Rico",
+        "Złotu w Amazonii",
+        "Ropie naftowej",
+        "Turystyce plażowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "XVI-XVII w., kolonialna architektura, tragiczna historia pracy przymusowej.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q30",
+      "question": "Brasília symbolizuje:",
+      "options": [
+        "Modernistyczną planowaną stolicę Brazylii XX wieku",
+        "Stolicę Inków",
+        "Najstarsze miasto kolonialne",
+        "Największe solnisko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oscar Niemeyer, Lúcio Costa - UNESCO, futurystyczna architektura lat 50.-60.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q31",
+      "question": "Pływające wyspy na jeziorze Titicaca zbudowali:",
+      "options": [
+        "Indianie Uros (z trzciny totora)",
+        "Inki",
+        "Mapuche",
+        "Guarani"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sztuczne wyspy, chaty, łodzie - turystyka, rybołówstwo.",
+      "category": "Ludność rdzenna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SA-Q32",
+      "question": "Aymara to lud związany historycznie z:",
+      "options": [
+        "Cywilizacją Tiwanaku wokół Titicaca",
+        "Patagonią",
+        "Amazonią",
+        "Wyspą Wielkanocną"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rolnictwo, hodowla, górnictwo - jeden z największych rdzennych narodów Andów.",
+      "category": "Ludność rdzenna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q33",
+      "question": "Guarani są najbardziej znani z picia:",
+      "options": ["Yerba mate", "Pisco", "Chicha", "Coca"],
+      "correctIndex": 0,
+      "explanation": "Dorzecze La Plata, redukcje jezuickie, yerba mate jako kulturowy rytuał.",
+      "category": "Ludność rdzenna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SA-Q34",
+      "question": "Główną bazą turystyczną pustyni Atacama jest:",
+      "options": ["San Pedro de Atacama", "La Paz", "Cuzco", "Ushuaia"],
+      "correctIndex": 0,
+      "explanation": "Oaza na wysokości ~2400 m, stąd wycieczki na Valle de la Luna, gejzery, solnisko.",
+      "category": "Pustynie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SA-Q35",
+      "question": "Salar de Uyuni leży na wysokości:",
+      "options": [
+        "Powyżej 3600 m n.p.m.",
+        "Poniżej poziomu morza",
+        "Ok. 1000 m n.p.m.",
+        "Ok. 5000 m n.p.m."
+      ],
+      "correctIndex": 0,
+      "explanation": "~3656 m - największe solnisko, hotele z soli, gwiazdy, flamingi.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q1",
+      "question": "Wielka Rafa Koralowa ma długość około:",
+      "options": ["500 km", "2000 km", "3500 km", "5000 km"],
+      "correctIndex": 1,
+      "explanation": "Największy organizm żywy na Ziemi, ponad 2000 km długości, UNESCO.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q2",
+      "question": "Uluru (Ayers Rock) to:",
+      "options": [
+        "Największy monolit skalny świata, święte miejsce Aborygenów",
+        "Najwyższy szczyt Australii",
+        "Największe solnisko",
+        "Najdłuższy fiord"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zakaz wspinaczki od 2019, zmienia kolory o wschodzie/zachodzie słońca.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q3",
+      "question": "Aborygeni dotarli do Australii około:",
+      "options": [
+        "5-10 tys. lat temu",
+        "40-60 tys. lat temu z Azji",
+        "2000 lat temu z Polinezji",
+        "500 lat temu z Europą"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jedna z najstarszych ciągłych kultur na świecie.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q4",
+      "question": "Park Narodowy Kakadu słynie z:",
+      "options": [
+        "Malowideł naskalnych Aborygenów, lasów równikowych i mokradeł",
+        "Najwyższych gór",
+        "Lodowców",
+        "Wielorybów"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNESCO, Ubirr, Nourlangie - sztuka rockowa 20-40 tys. lat.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q5",
+      "question": "12 Apostołów to:",
+      "options": [
+        "Formacje skalne erozji morskiej w Parku Port Campbell",
+        "Najwyższe drzewa świata",
+        "Pływające wyspy",
+        "Posągi moai"
+      ],
+      "correctIndex": 0,
+      "explanation": "Great Ocean Road, wapienne słupy - niektóre już odpadły.",
+      "category": "Przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q6",
+      "question": "Pinnacles w Parku Nambung to:",
+      "options": [
+        "Tysiące wapiennych ostańców na pustyni piaskowej",
+        "Najwyższe wydmy",
+        "Lodowce",
+        "Rafy koralowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Krajobraz księżycowy, tysiące kolumn skalnych.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q7",
+      "question": "Stolen Generations to:",
+      "options": [
+        "Przymusowe odbieranie dzieci Aborygenów w latach 1869-1970",
+        "Grupa rockowa",
+        "Największa migracja zwierząt",
+        "Rewolucja w Nowej Zelandii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ciemny rozdział historii Australii - przeprosiny Kevina Rudda 2008.",
+      "category": "Historia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q8",
+      "question": "Haka to:",
+      "options": [
+        "Tradycyjny wojenny taniec Maorysów (wykonywany przez All Blacks)",
+        "Taniec Aborygenów",
+        "Gra w rugby",
+        "Rytuał pogrzebowy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Performatywny taniec z okrzykami, groźnymi minami i tupaniem.",
+      "category": "Kultura",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q9",
+      "question": "Maorysi dotarli do Nowej Zelandii w:",
+      "options": [
+        "VIII-XII wieku (polinezyjscy żeglarze)",
+        "40-60 tys. lat temu",
+        "1492 roku",
+        "XIX wieku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Z Polinezji Wschodniej - canoe, kultura wojowników.",
+      "category": "Ludy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q10",
+      "question": "Park Narodowy Tongariro słynie z:",
+      "options": [
+        "Wulkanów i planu filmowego Władcy Pierścieni (Mordor)",
+        "Największej rafy koralowej",
+        "Najwyższego monolitu",
+        "Pływających wiosek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pierwszy park narodowy z UNESCO (kategoria kulturowo-przyrodnicza).",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q11",
+      "question": "Fiordland to największy park narodowy:",
+      "options": [
+        "Australii",
+        "Nowej Zelandii (fiord Milford Sound)",
+        "Hawajów",
+        "Papui-Nowej Gwinei"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milford Sound, Doubtful Sound, UNESCO - deszczowy, dramatyczny krajobraz.",
+      "category": "Parki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q12",
+      "question": "Archipelag Hawajski składa się z ilu wysp?",
+      "options": [
+        "8 głównych + 129 mniejszych (łącznie 137)",
+        "3",
+        "50",
+        "300"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wulkaniczne, łańcuch na Pacyfiku - stan USA.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q13",
+      "question": "Kilauea na Hawajach to:",
+      "options": [
+        "Jeden z najaktywniejszych wulkanów na świecie",
+        "Najwyższy szczyt",
+        "Największe jezioro",
+        "Najdłuższy fiord"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ciągłe erupcje, lawa do oceanu - Park Narodowy Hawaiʻi Volcanoes.",
+      "category": "Wulkany",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q14",
+      "question": "Mauna Kea mierzona od dna oceanu ma wysokość:",
+      "options": [
+        "Ponad 10 km (najwyższa góra świata od podstawy)",
+        "5895 m",
+        "3724 m",
+        "6190 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Od dna Pacyfiku do szczytu ~10 203 m - wyższa niż Everest.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q15",
+      "question": "Słowo „Aloha” oznacza przede wszystkim:",
+      "options": [
+        "Powitanie, pożegnanie, miłość, szacunek",
+        "Wojnę",
+        "Jedzenie",
+        "Deszcz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uniwersalne słowo hawajskie - filozofia życia.",
+      "category": "Kultura",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q16",
+      "question": "Pearl Harbor kojarzy się z:",
+      "options": [
+        "Japońskim atakiem 7 grudnia 1941 (USS Arizona Memorial)",
+        "Rewolucją hawajską",
+        "Największą rafą",
+        "Wulkanem Kilauea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wejście USA do II wojny światowej.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q17",
+      "question": "Fidżi składa się z ponad:",
+      "options": ["300 wysp", "8 wysp", "137 wysp", "2000 wysp"],
+      "correctIndex": 0,
+      "explanation": "Polinezja/Melanezja, plaże, nurkowanie, kava.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q18",
+      "question": "Stolicą Tahiti (Polinezja Francuska) jest:",
+      "options": ["Papeete", "Suva", "Honolulu", "Wellington"],
+      "correctIndex": 0,
+      "explanation": "Główny ośrodek Polinezji Francuskiej.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q19",
+      "question": "Outback to:",
+      "options": [
+        "Dziki, pustynny interior Australii",
+        "Wybrzeże z rafami",
+        "Góry na Tasmanii",
+        "Fiordy Nowej Zelandii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czerwona ziemia, Uluru, Alice Springs, pustynie.",
+      "category": "Regiony",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AU-Q20",
+      "question": "Route 66 przebiega przez:",
+      "options": [
+        "Australię (od Sydney do Perth)",
+        "USA (ale czasem mylona z Australią)",
+        "Nowa Zelandia",
+        "Hawaje"
+      ],
+      "correctIndex": 1,
+      "explanation": "W fiszkach AU podana prawie 4000 km - klasyka amerykańska, ale kontekst AU czasem miesza.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q21",
+      "question": "Canberra została zbudowana jako stolica, bo:",
+      "options": [
+        "Był to kompromis między Sydney a Melbourne",
+        "Leży najbliżej rafy koralowej",
+        "Ma najwyższe góry",
+        "Jest na wyspie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planowane miasto 1908-1927, sztuczna stolica.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q22",
+      "question": "Boomerang miejski w Australii oznacza:",
+      "options": [
+        "Układ największych miast na obrzeżach kontynentu",
+        "Taniec Aborygenów",
+        "Rzut bumerangiem",
+        "Migrację ptaków"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sydney, Melbourne, Brisbane, Perth, Adelaide - obwód kontynentu.",
+      "category": "Regiony",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q23",
+      "question": "Najwyższy szczyt Nowej Zelandii to:",
+      "options": [
+        "Aoraki / Mount Cook (3724 m)",
+        "Uluru",
+        "Mauna Kea",
+        "Kosciuszko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alpy Południowe, lodowce, trekking.",
+      "category": "Góry",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q24",
+      "question": "Rotorua słynie z:",
+      "options": [
+        "Gejzerów, źródeł termalnych i kultury Maorysów",
+        "Największej rafy",
+        "Najwyższego monolitu",
+        "Pustyni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wulkany, błoto, haka, wioski Maorysów.",
+      "category": "Atrakcje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q25",
+      "question": "Traktat z Waitangi podpisano w:",
+      "options": [
+        "1840 roku - fundament Nowej Zelandii",
+        "1901 roku",
+        "1788 roku",
+        "1945 roku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Między Brytyjską Koroną a wodzami Maorysów - nadal aktualny spór o interpretację.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q26",
+      "question": "Region Marlborough (Nowa Zelandia) słynie z wina:",
+      "options": [
+        "Sauvignon Blanc",
+        "Shiraz",
+        "Pinot Noir",
+        "Cabernet Sauvignon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Światowa czołówka Sauvignon Blanc - dolina Marlborough.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q27",
+      "question": "Guam to:",
+      "options": [
+        "Terytorium zamorskie USA, duża baza wojskowa",
+        "Niezależne państwo",
+        "Część Australii",
+        "Wyspa francuska"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mikronezja, strategiczne znaczenie militarne.",
+      "category": "Wyspy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q28",
+      "question": "Motu to:",
+      "options": [
+        "Małe prywatne wysepki/atole w Polinezji Francuskiej",
+        "Duże wyspy wulkaniczne",
+        "Fiordy",
+        "Monolity skalne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Typowe dla Bora Bora, Moorea - luksusowe bungalowy nad wodą.",
+      "category": "Wyspy",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q29",
+      "question": "Pustynia Simpson słynie z:",
+      "options": [
+        "Najdłuższych równoległych wydm na świecie",
+        "Najwyższych gór",
+        "Największej rafy",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czerwone wydmy równoległe - 4WD, pustynne safari.",
+      "category": "Pustynie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q30",
+      "question": "Jezioro Eyre to:",
+      "options": [
+        "Największe jezioro Australii (okresowo wysycha)",
+        "Najgłębsze jezioro",
+        "Jezioro z lawą",
+        "Słone jezioro na Hawajach"
+      ],
+      "correctIndex": 0,
+      "explanation": "Endorheiczne, czasem wypełnia się wodą - różowe flamingi.",
+      "category": "Jeziora",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q31",
+      "question": "Dolina Barossa to najstarszy region winiarski Australii, słynie z:",
+      "options": [
+        "Shiraz i Riesling",
+        "Sauvignon Blanc",
+        "Pinot Noir",
+        "Champagne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Południowa Australia, blisko Adelajdy - ikona australijskiego wina.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q32",
+      "question": "Góry Flindersa to miejsce na:",
+      "options": [
+        "Wędrówki piesze, rowerowe i obserwację zwierząt",
+        "Nurkowanie z rekinami",
+        "Obserwację wielorybów",
+        "Wspinaczkę na najwyższy szczyt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Outback, South Australia - Wilpena Pound, kangury, emu.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AU-Q33",
+      "question": "Mikronezja to region z małymi wyspami, np.:",
+      "options": [
+        "Mariany, Karoliny, Wyspy Marshalla",
+        "Hawaje, Tahiti, Samoa",
+        "Nowa Gwinea, Fidżi",
+        "Tasmania, Nowa Zelandia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tysiące małych atoli i wysp - USA, wolne stowarzyszenia.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q34",
+      "question": "Melanezja obejmuje m.in.:",
+      "options": [
+        "Nową Gwineę, Fidżi, Vanuatu",
+        "Hawaje, Tahiti",
+        "Samoa, Tonga",
+        "Guam, Palau"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ciemniejsza skóra, kultura papuaska, różnorodność językowa.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AU-Q35",
+      "question": "Polinezja to m.in.:",
+      "options": [
+        "Samoa, Tonga, Hawaje, Polinezja Francuska",
+        "Papua-Nowa Gwinea, Solomony",
+        "Mikronezja, Palau",
+        "Australia, Tasmania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trójkąt polinezyjski - żeglarze, tatuaże, outrigger canoe.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q1",
+      "question": "Ramadan to:",
+      "options": [
+        "Miesięczny post muzułmański od świtu do zmierzchu",
+        "Święto żniw w Indiach",
+        "Taniec Maorysów",
+        "Festiwal świateł w Chinach"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post od wschodu do zachodu słońca, jeden z pięciu filarów islamu.",
+      "category": "Religia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q2",
+      "question": "Hagia Sophia w Stambule przez wieki pełniła funkcję:",
+      "options": [
+        "Kościół → meczet → muzeum → ponownie meczet",
+        "Pałac sułtana",
+        "Świątynia buddyjska",
+        "Synagoga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najpierw bazylika bizantyjska, potem meczet osmański, muzeum Atatürka, od 2020 znów meczet.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q3",
+      "question": "Błękitny Meczet (Sultanahmet) w Stambule wyróżnia się liczbą:",
+      "options": [
+        "Sześciu minaretów (jedyny taki na świecie)",
+        "Dwóch kopuł",
+        "Tysiąca okien",
+        "Złotych mozaik"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sześć minaretów - legenda głosi, że sułtan chciał „złote” (altın), a architekt usłyszał „sześć” (altı).",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q4",
+      "question": "Kapadocja słynie przede wszystkim z:",
+      "options": [
+        "Kominów wróżek, podziemnych miast i lotów balonem",
+        "Najwyższych gór świata",
+        "Największej rafy koralowej",
+        "Pływających wiosek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tufy wulkaniczne, Göreme, Derinkuyu - balony o wschodzie słońca to klasyk.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q5",
+      "question": "Pamukkale to tureckie:",
+      "options": [
+        "Białe tarasy wapienne (bawełniany zamek) + Basen Kleopatry",
+        "Największy bazar świata",
+        "Najwyższy szczyt Turcji",
+        "Meczet z sześcioma minaretami"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNESCO, termalne źródła, białe trawertyny - Hierapolis w tle.",
+      "category": "Przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q6",
+      "question": "Taj Mahal został zbudowany jako:",
+      "options": [
+        "Grobowiec dla Mumtaz Mahal przez Szaha Dżahana (22 lata budowy)",
+        "Pałac letni",
+        "Fort obronny",
+        "Świątynia hinduistyczna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nowy cud świata, biała marmurowa symetria, Agra.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q7",
+      "question": "Wielki Mur Chiński ma długość ponad:",
+      "options": [
+        "2500 km (z odnogami ponad 21 tys. km)",
+        "500 km",
+        "10 000 km",
+        "1000 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nie jest ciągły - różne odcinki z różnych dynastii, głównie Ming.",
+      "category": "Zabytki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q8",
+      "question": "Terrakotowa Armia znajduje się koło:",
+      "options": [
+        "Xi'an - ok. 8000 figur wojowników",
+        "Pekinu",
+        "Szanghaju",
+        "Hongkongu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mauzoleum Qin Shi Huanga - armia ochronna cesarza w zaświatach.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q9",
+      "question": "Mount Everest to najwyższy szczyt świata o wysokości:",
+      "options": ["8848 m n.p.m. (oficjalnie)", "5895 m", "6959 m", "6263 m"],
+      "correctIndex": 0,
+      "explanation": "Baza Everest Base Camp, trekking, wspinaczka - Nepal/Chiny.",
+      "category": "Góry",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q10",
+      "question": "Wyspy Phi Phi (Tajlandia) słyną z:",
+      "options": [
+        "Pięknych plaż, wapiennych klifów i odbudowy po tsunami 2004",
+        "Najwyższych gór Azji",
+        "Największego bazaru",
+        "Świątyń z erotycznymi rzeźbami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maya Bay - film „Plaża” z DiCaprio.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q11",
+      "question": "Mekka to najważniejsze centrum:",
+      "options": [
+        "Islamu - pielgrzymka hadżdż",
+        "Buddyzmu",
+        "Hinduizmu",
+        "Chrześcijaństwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaaba w Wielkim Meczecie - kierunek modlitwy muzułmanów.",
+      "category": "Religia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q12",
+      "question": "Jerozolima jest święta dla trzech religii abrahamowych - które to?",
+      "options": [
+        "Judaizm (Ściana Płaczu), chrześcijaństwo (Grób Pański), islam (Kopuła na Skale)",
+        "Hinduizm, buddyzm, sikhizm",
+        "Taoizm, konfucjanizm, shinto",
+        "Zoroastryzm, dżinizm, bahaizm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stare Miasto - Wzgórze Świątynne, Via Dolorosa, Ściana Płaczu.",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q13",
+      "question": "Malediwy składają się z około:",
+      "options": [
+        "1200 małych wysepek koralowych",
+        "8 dużych wysp",
+        "300 wysp",
+        "137 wysp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atolowe, najniżej położone państwo świata - zagrożone zmianą klimatu.",
+      "category": "Wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q14",
+      "question": "Wielki Mur Chiński budowano głównie w obronie przed:",
+      "options": [
+        "Najazdami Mongołów i innych koczowników",
+        "Japończykami",
+        "Europejczykami",
+        "Wietnamczykami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Najbardziej znany odcinek z dynastii Ming przeciwko Mongołom.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q15",
+      "question": "Bangkok słynie z:",
+      "options": [
+        "Street foodu, Wielkiego Pałacu i Świątyni Szmaragdowego Buddy",
+        "Najwyższych gór Azji",
+        "Największego solniska",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wat Phra Kaew, Chao Phraya, tuk-tuki, nocne markety.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q16",
+      "question": "Petronas Towers znajdują się w:",
+      "options": ["Kuala Lumpur (Malezja)", "Dubaju", "Singapurze", "Tokio"],
+      "correctIndex": 0,
+      "explanation": "Najwyższe bliźniacze wieże świata przez kilka lat, Skybridge.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q17",
+      "question": "Płaskowyż Tybetański ma średnią wysokość około:",
+      "options": ["4600 m n.p.m. (Dach Świata)", "1000 m", "8000 m", "200 m"],
+      "correctIndex": 0,
+      "explanation": "Najwyższy i największy płaskowyż świata - buddyzm tybetański.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q18",
+      "question": "Ganges jest najświętszą rzeką hinduizmu głównie ze względu na:",
+      "options": [
+        "Rytualne kąpiele i kremacje w Varanasi",
+        "Najdłuższą długość",
+        "Największą deltę",
+        "Najwięcej krokodyli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matka Ganga - mimo ogromnego zanieczyszczenia nadal święta.",
+      "category": "Rzeki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q19",
+      "question": "Khajuraho słynie z:",
+      "options": [
+        "Świątyń z bardzo bogatymi (w tym erotycznymi) rzeźbami",
+        "Najwyższych gór",
+        "Największego bazaru",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grupa świątyń hinduistycznych i dżinistycznych - Kamasutra w kamieniu.",
+      "category": "Zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q20",
+      "question": "Varanasi to jedno z najstarszych miast świata, znane z:",
+      "options": [
+        "Ghatów nad Gangesem i kremacji na otwartym ogniu",
+        "Najwyższych wieżowców",
+        "Największej rafy",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Święte miasto hinduizmu - rytuały, sannyasi, łodzie o świcie.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q21",
+      "question": "Góra Huashan słynie z:",
+      "options": [
+        "Ekstremalnie wąskich i wiszących szlaków trekkingowych",
+        "Najwyższego szczytu świata",
+        "Największego solniska",
+        "Pływających wiosek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plank Walk - deski na wysokości 2000 m, Chiny.",
+      "category": "Góry",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS-Q22",
+      "question": "Sentosa to wyspa w Singapurze znana z:",
+      "options": [
+        "Parku rozrywki Universal Studios i plaż",
+        "Najwyższych gór",
+        "Największego bazaru",
+        "Świątyń erotycznych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gardens by the Bay, S.E.A. Aquarium, plaże.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q23",
+      "question": "Targ Mae Klong w Tajlandii jest unikalny, bo:",
+      "options": [
+        "Stoiska są rozkładane na torach kolejowych i składane przed pociągiem",
+        "Sprzedaje się tylko owoce morza",
+        "Jest pod wodą",
+        "Działa tylko nocą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pociąg przejeżdża kilka razy dziennie - klasyczny viral.",
+      "category": "Atrakcje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS-Q24",
+      "question": "Cameron Highlands (Malezja) słynie z:",
+      "options": [
+        "Chłodniejszego klimatu, plantacji herbaty i pól golfowych",
+        "Najwyższych temperatur",
+        "Pustyni",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wzgórza, herbata BOH, truskawki, mgła.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q25",
+      "question": "Mihrab w meczecie to:",
+      "options": [
+        "Wnęka wskazująca kierunek na Mekkę (kibla)",
+        "Najwyższy minaret",
+        "Kopuła główna",
+        "Ołtarz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ważny element architektury islamskiej.",
+      "category": "Religia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q26",
+      "question": "Stolicą regionu Ladakh jest:",
+      "options": ["Leh", "Srinagar", "Dharamsala", "Varanasi"],
+      "correctIndex": 0,
+      "explanation": "Mały Tybet, buddyzm, klasztory, wysokość ~3500 m.",
+      "category": "Regiony",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS-Q27",
+      "question": "Główne miasto Kaszmiru to:",
+      "options": [
+        "Srinagar z jeziorem Dal (houseboaty)",
+        "Leh",
+        "Jaipur",
+        "Goa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jezioro Dal, shikary, konflikty polityczne.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q28",
+      "question": "Jaipur nazywany jest Różowym Miastem ze względu na:",
+      "options": [
+        "Różowy kolor elewacji na starówce (Hawa Mahal)",
+        "Różowe flamingi",
+        "Różowe piaski pustyni",
+        "Różowe szafiry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pałac Wiatrów, Amber Fort, Rajasthan.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q29",
+      "question": "Jaisalmer słynie z:",
+      "options": [
+        "Żółtego fortu na ostancu skalnym w środku pustyni Thar",
+        "Najwyższych gór",
+        "Największej rafy",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Żywy fort - ludzie nadal mieszkają w środku.",
+      "category": "Miasta",
+      "difficulty": "hard"
+    },
+    {
+      "id": "AS-Q30",
+      "question": "Goa kojarzy się z wpływami:",
+      "options": [
+        "Portugalskimi (kościoły, katedry, plaże)",
+        "Francuskimi",
+        "Brytyjskimi",
+        "Holenderskimi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kościół Bom Jesus, Basilica of Our Lady of the Immaculate Conception.",
+      "category": "Regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q31",
+      "question": "Makau jest obecnie największym na świecie centrum:",
+      "options": ["Hazardu i kasyn", "Technologii", "Herbaty", "Jogi"],
+      "correctIndex": 0,
+      "explanation": "Specjalny region administracyjny Chin - więcej przychodu z hazardu niż Las Vegas.",
+      "category": "Miasta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "AS-Q32",
+      "question": "W Pekinie najważniejsze miejsca to m.in.:",
+      "options": [
+        "Plac Tiananmen, Zakazane Miasto, Świątynia Nieba",
+        "Taj Mahal",
+        "Wielki Mur",
+        "Petronas Towers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pałac cesarski, symbol władzy cesarskiej.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q33",
+      "question": "Bund w Szanghaju to:",
+      "options": [
+        "Historyczna nabrzeżna dzielnica z europejską zabudową XIX/XX w.",
+        "Najwyższa góra Chin",
+        "Największe solnisko",
+        "Świątynia z erotycznymi rzeźbami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolonialne budynki koncesji, panorama Pudong naprzeciwko.",
+      "category": "Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q34",
+      "question": "Sri Lanka (dawny Cejlon) słynie z:",
+      "options": [
+        "Plantacji herbaty, Parku Yala, Sigiriya (Lwia Skała)",
+        "Najwyższych gór świata",
+        "Największej rafy",
+        "Lodowców"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sztuka skalna Sigiriya, słonie, leopardy, herbata.",
+      "category": "Wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "AS-Q35",
+      "question": "Most na rzece Kwai w Kanchanaburi to element:",
+      "options": [
+        "Kolei śmierci z czasów II wojny światowej (tajsko-birmańska)",
+        "Najwyższego mostu świata",
+        "Najdłuższej rzeki Azji",
+        "Największego bazaru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Budowany przez jeńców alianckich i robotników azjatyckich - muzeum i cmentarz wojenny.",
+      "category": "Historia",
+      "difficulty": "medium"
+    }
+  ]
+}
