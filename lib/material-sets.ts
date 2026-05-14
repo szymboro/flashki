@@ -5,8 +5,8 @@ type MaterialContent = {
   id?: string;
   title?: string;
   description?: string;
-  questions?: unknown;
-  flashcards?: unknown;
+  questions?: unknown[];
+  flashcards?: unknown[];
 };
 
 export function getAllJsonFiles(dir: string): string[] {
