@@ -1,17 +1,10 @@
-import fs from "fs";
+import {
+  getAllJsonFiles,
+  isQuizSet,
+  readMaterialFile,
+} from "@/lib/material-sets";
 import { NextResponse } from "next/server";
 import path from "path";
-
-function getAllJsonFiles(dir: string): string[] {
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
-  return entries.flatMap((entry) => {
-    const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) {
-      return getAllJsonFiles(fullPath);
-    }
-    return entry.name.endsWith(".json") ? [fullPath] : [];
-  });
-}
 
 export async function GET() {
   try {
@@ -19,12 +12,12 @@ export async function GET() {
     const allFiles = getAllJsonFiles(materialsDir);
 
     const quizzes = allFiles
-      .filter((filePath) => {
-        const name = path.basename(filePath);
-        return name.startsWith("quiz_");
-      })
       .map((filePath) => {
-        const content = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+        const content = readMaterialFile(filePath);
+        return { content, filePath };
+      })
+      .filter(({ content }) => isQuizSet(content))
+      .map(({ content, filePath }) => {
         const filename = path.relative(materialsDir, filePath);
 
         return {
