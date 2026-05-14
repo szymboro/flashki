@@ -1,0 +1,112 @@
+{
+  "id": "flashcard-set-san-marino",
+  "title": "San Marino – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące ustrój, geografię, Trzy Wieże i zabytki San Marino.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jakie jest wyjątkowe historyczne znaczenie San Marino?",
+      "answer": "Najstarsza republika na świecie.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak San Marino jest geograficznie związane z Włochami?",
+      "answer": "Enklawy w środkowych Włoszech, otoczona regionami Emilia-Romania i Marche, blisko Rimini.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jaki jest ustrój San Marino?",
+      "answer": "Republika. Na czele państwa stoją dwaj Kapitanowie Regenci wybierani co 6 miesięcy.",
+      "category": "Ustrój",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Ile wynosi liczba ludności San Marino?",
+      "answer": "Ok. 34 000 mieszkańców.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Jakie są główne rodzaje turystyki w San Marino?",
+      "answer": "Kulturowa (centrum historyczne UNESCO), jednodniowe wycieczki, bezcelna strefa zakupowa, filatelistyka i numizmatyka.",
+      "category": "Turystyka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Jak nazywają się Trzy Wieże San Marino i gdzie ich sylwetki widnieją?",
+      "answer": "La Rocca (Guaita), La Cesta (Fratta), Montale (Terza Torre). Są w godle i na fladze państwa.",
+      "category": "Trzy Wieże",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Jaka jest rola La Rocca (Guaita)?",
+      "answer": "Pierwsza i największa wieża, najstarsza na Monte Titano. Dawniej więzienie, dziś główny punkt widokowy i pomnik militarny.",
+      "category": "Trzy Wieże – La Rocca",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Co mieści się w La Cesta (Fratta) i gdzie leży?",
+      "answer": "Druga wieża, położona na najwyższym szczycie Monte Titano. Mieści Muzeum Dawnej Broni.",
+      "category": "Trzy Wieże – La Cesta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Jaka jest specyfika wieży Montale (Terza Torre)?",
+      "answer": "Trzecia i najmniejsza wieża, punkt obserwacyjny. Niedostępna w środku dla zwiedzających.",
+      "category": "Trzy Wieże – Montale",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Co to jest Palazzo Pubblico i gdzie stoi?",
+      "answer": "Pałac Rządowy na Piazza della Libertà. Siedziba rządu i parlamentu, miejsce ceremonii zaprzysiężenia Kapitanów Regentów i zmiany warty.",
+      "category": "Centrum historyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Dlaczego znaczki pocztowe i monety San Marino są ważne gospodarczo?",
+      "answer": "Znaczki i monety San Marino są bardzo cenione przez kolekcjonerów na całym świecie i stanowią ważne źródło dochodów państwa.",
+      "category": "Gospodarka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Kościół Świętego Franciszka w San Marino?",
+      "answer": "Najstarszy kościół w San Marino. Przy nim muzeum sztuki klasztornej.",
+      "category": "Zabytki sakralne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Bazylika Świętego Maryna (Basilica di San Marino)?",
+      "answer": "Główna świątynia San Marino wzniesiona w stylu neoklasycznym w XIX wieku. Przechowuje relikwie patrona państwa – Świętego Maryna, który według tradycji założył republikę w 301 roku. Bazylika dominuje nad głównym placem – Piazza della Libertà.",
+      "category": "Bazylika Świętego Maryna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Kościół Świętego Piotra (Chiesa di San Pietro) w San Marino?",
+      "answer": "Jeden z najstarszych kościołów w republice, wydrążony częściowo w skale Monte Titano. Zawiera dwie nisze skalne z posłaniami (legowiskami) ze skały, które według tradycji należały do Świętego Maryna i jego przyjaciela Leona.",
+      "category": "Kościół Świętego Piotra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Pinakoteka (Pinacoteca San Francesco) w San Marino?",
+      "answer": "Muzeum malarstwa mieszczące się przy kościele San Francesco. Posiada kolekcję dzieł malarstwa od średniowiecza do baroku, w tym dzieła szkoły rymińskiej i weneckiej. To główna instytucja kulturalna poświęcona sztuce plastycznej w republice.",
+      "category": "Muzeum Malarstwa",
+      "difficulty": "hard"
+    }
+  ]
+}

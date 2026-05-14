@@ -1,0 +1,273 @@
+{
+  "id": "flashcard-set-turcja",
+  "title": "Turcja – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, Stambuł, Burszę, Czarnamorze, Morze Egejskie, Riwierę Turecką, Anatolię i Kapadocję.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Na jakich dwóch kontynentach leży Turcja i jaki jest podział procentowy?",
+      "answer": "Azja (ok. 97% – Anatolia/Anadolu) i Europa (ok. 3% – Tracja Wschodnia).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jakie akweny oddzielają europejską i azjatycką część Turcji?",
+      "answer": "Bosfor, Morze Marmara i Dardanele.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Ile mórz oblewa brzegi Turcji i jakie to morza?",
+      "answer": "Cztery: Czarne, Marmara, Egejskie i Śródziemne.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym pod względem politycznym wyróżnia się Turcja pomimo dominacji islamu?",
+      "answer": "Turcy są muzułmanami, ale konstytucja gwarantuje świeckość państwa (laïcité).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Dlaczego Stambuł jest geopolitycznie unikatowy?",
+      "answer": "To jedyne na świecie miasto leżące na dwóch kontynentach (Europa i Azja). Dawna stolica trzech imperiów: Rzymskiego, Bizantyjskiego i Osmańskiego.",
+      "category": "Stambuł",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Hagia Sophia i jaką pełni dziś funkcję?",
+      "answer": "Arcydzieło architektury bizantyjskiej, dawna katedra, potem meczet, następnie muzeum. Od 2020 znów meczet.",
+      "category": "Stambuł – Hagia Sophia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Dlaczego Meczet Błękitny nosi swoją nazwę?",
+      "answer": "Od niebiesko-białych płytek Iznik zdobiących wnętrze. Jedyny meczet w Stambule z sześcioma minaretami.",
+      "category": "Stambuł – Meczet Błękitny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Pałac Topkapi?",
+      "answer": "Główna rezydencja sułtanów osmańskich przez 400 lat, dziś muzeum skarbów i relikwii islamskich.",
+      "category": "Stambuł – Topkapi",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Co to jest Wielki Bazar w Stambule?",
+      "answer": "Jeden z największych i najstarszych krytych rynków na świecie – ponad 4000 sklepów.",
+      "category": "Stambuł",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Bursa jako miasto historyczne?",
+      "answer": "Pierwsza osmańska stolica, centrum przemysłu jedwabnego. Schronisko Uludağ – jedno z największych tureckich ośrodków narciarskich.",
+      "category": "Bursa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Jakie dwa ważne miejsca turystyczne leżą w okolicach Çanakkale?",
+      "answer": "Ruiny Troi (Iliada Homera) oraz pola bitwy pod Gallipoli (WWI, kampania Dardanelska).",
+      "category": "Çanakkale",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest monastyr Sumela i gdzie leży?",
+      "answer": "Prawosławny klasztor wykuty w skale na ok. 1200 m n.p.m. w pobliżu Trabzonu. UNESCO.",
+      "category": "Turcja – Wybrzeże Czarne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Dlaczego Safranbolu jest wpisane na UNESCO?",
+      "answer": "Doskonale zachowane osmańskie drewniane domy i układ urbanistyczny.",
+      "category": "Turcja – Wybrzeże Czarne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Efez (Efesos) i dlaczego jest ważny?",
+      "answer": "Najlepiej zachowane starożytne miasto w rejonie Morza Śródziemnego (Biblioteka Celsusa, Wielki Teatr). Tu Apostoł Paweł głosił nauki. W pobliżu ruiny Świątyni Artemidy (jeden z siedmiu cudów świata).",
+      "category": "Morze Egejskie – Efez",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Co to jest Pamukkale i z czym jest połączone turystycznie?",
+      "answer": "'Bawełniany Zamek' – białe tarasy trawertynu z ciepłymi wodami termalnymi. Powyżej ruiny Hierapolis z Basenem Kleopatry (antyczna kolumnada pod wodą).",
+      "category": "Pamukkale",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Bodrum (dawne Halikarnassos)?",
+      "answer": "Miasto nad Morzem Egejskim, gdzie znajdował się Mauzoleum Halikarnasu (jeden z siedmiu cudów świata). Dziś centrum turystyki plażowej i jachtowej.",
+      "category": "Morze Egejskie – Bodrum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Czym są Likijskie Grobowce Skalne w Fethiye?",
+      "answer": "Grobowce wykute w stromych skałach przez starożytną cywilizację Likijczyków.",
+      "category": "Riviera Turecka – Fethiye",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co to jest Ölüdeniz i dlaczego jest popularne?",
+      "answer": "'Niebieska Laguna' – jedna z najbardziej fotografowanych plaż w Turcji i centrum paralotniarstwa.",
+      "category": "Riviera Turecka – Fethiye",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Z czego słynie Antalya jako miasto turystyczne?",
+      "answer": "Brama do Riwiery Tureckiej. Zabytki: Brama Hadriana, stare miasto Kaleiçi, wodospady Düden.",
+      "category": "Riviera Turecka – Antalya",
+      "difficulty": "easy"
+    },
+    {
+      "id": "20",
+      "question": "Czym słynią Side i Myra w kontekście starożytnym?",
+      "answer": "Side: Świątynia Apollina nad morzem, teatr rzymski, agora. Myra: Grobowce Likijskie i Kościół Świętego Mikołaja – prawdziwego biskupa, który był inspiracją dla Świętego Mikołaja.",
+      "category": "Riviera Turecka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym wyróżnia się Ankara jako stolica Turcji?",
+      "answer": "Stolica od 1923 roku. Słynie z mauzoleum Atatürka (Anıtkabir) i Muzeum Cywilizacji Anatolijskich.",
+      "category": "Ankara",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Czym są Bajkowe Kominy w Kapadocji?",
+      "answer": "Unikatowe formacje skalne (z tufu wulkanicznego) w kształcie grzybów, stożków i słupów, powstałe w wyniku erozji.",
+      "category": "Kapadocja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "question": "Co to jest Muzeum na Wolnym Powietrzu w Göreme?",
+      "answer": "Skupisko kościołów skalnych z freskami z okresu wczesnochrześcijańskiego. UNESCO.",
+      "category": "Kapadocja – Göreme",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym są Podziemne Miasta Kapadocji i do czego służyły?",
+      "answer": "Wielopoziomowe miasta wykute w skale (np. Derinkuyu, Kaymakli) – schronienie dla chrześcijan uciekających przed prześladowaniami.",
+      "category": "Kapadocja – Podziemne Miasta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Troja i co można tam dziś zobaczyć?",
+      "answer": "Legendarny ośrodek opisany w 'Iliadzie' Homera, dziś park archeologiczny w pobliżu Çanakkale. Można zobaczyć warstwy różnych miast budowanych jedno na drugim (Troja I–IX) oraz replikę Konia Trojańskiego.",
+      "category": "Morze Egejskie – Troja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Pergamon (Bergama) i z czego słynie?",
+      "answer": "Jedno z najważniejszych miast starożytności. Słynie z akropolu z najbardziej stromym teatrem świata oraz ruin Asklepiejonu – starożytnego centrum medycznego (antycznego uzdrowiska).",
+      "category": "Morze Egejskie – Pergamon",
+      "difficulty": "hard"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest İzmir i jaką pełni funkcję?",
+      "answer": "Trzecie co do wielkości miasto Turcji (starożytna Smyrna). Nowoczesna metropolia – główny port eksportowy regionu egejskiego, centrum targowe i biznesowe.",
+      "category": "Morze Egejskie – İzmir",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Z czego słynie Çeşme jako kurort?",
+      "answer": "Ekskluzywny kurort na półwyspie egejskim, znany z doskonałych warunków do windsurfingu i kitesurfingu oraz zamku genueńskiego.",
+      "category": "Morze Egejskie – Çeşme",
+      "difficulty": "hard"
+    },
+    {
+      "id": "29",
+      "question": "Jaką rolę pełni Kuşadası w turystyce Turcji Egejskiej?",
+      "answer": "Duży port dla statków wycieczkowych (cruiserów) i popularny kurort. Główna baza wypadowa do zwiedzania Efezu.",
+      "category": "Morze Egejskie – Kuşadası",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Czym jest Milet i z czym jest związany filozoficznie?",
+      "answer": "Starożytne miasto portowe (dziś oddalone od morza przez osady rzeczne). Miejsce narodzin filozofii greckiej – tu żył Tales z Miletu. Słynie z potężnego teatru antycznego.",
+      "category": "Morze Egejskie – Milet",
+      "difficulty": "hard"
+    },
+    {
+      "id": "31",
+      "question": "Z czego słynie Marmaris jako ośrodek turystyczny?",
+      "answer": "Ważny ośrodek żeglarski i rozrywkowy, położony w osłoniętej zatoce na styku Morza Egejskiego i Śródziemnego.",
+      "category": "Riwiera Turecka – Marmaris",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Z czego słynie Alanya i jakie są jej główne atrakcje?",
+      "answer": "Najbardziej wysunięty na wschód kurort Riwiery Tureckiej, znany z intensywnego życia nocnego, słynnej Plaży Kleopatry oraz górującej nad miastem seldżuckiej twierdzy (Alanya Kalesi) z Czerwoną Wieżą.",
+      "category": "Riwiera Turecka – Alanya",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Czym wyróżnia się Side jako miejscowość turystyczna?",
+      "answer": "Unikatowe miasto-muzeum, gdzie nowoczesny kurort przeplata się z ruinami antycznymi – malownicza Świątynia Apolla nad samym morzem, wielki teatr rzymski i starożytna agora.",
+      "category": "Riwiera Turecka – Side",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Czym słynie Belek na Riwierze Tureckiej?",
+      "answer": "Najbardziej luksusowy i nowoczesny kurort Riwiery, światowej klasy centrum golfa z licznymi profesjonalnymi polami oraz turystyki luksusowej (m.in. park rozrywki The Land of Legends).",
+      "category": "Riwiera Turecka – Belek",
+      "difficulty": "hard"
+    },
+    {
+      "id": "35",
+      "question": "Czym wyróżnia się Kemer jako ośrodek wypoczynkowy?",
+      "answer": "Miejscowość położona w miejscu, gdzie góry Taurus niemal wchodzą do morza. Turystyka wypoczynkowa w otoczeniu lasów piniowych i żwirowych plaż. Baza wypadowa na górę Tahtalı (kolejka linowa).",
+      "category": "Riwiera Turecka – Kemer",
+      "difficulty": "hard"
+    },
+    {
+      "id": "36",
+      "question": "Z czego słynie Kaş i jaką turystykę oferuje?",
+      "answer": "Kameralne miasteczko o artystycznym klimacie. Centrum nurkowe Turcji oraz baza dla turystyki kwalifikowanej (trekking Szlakiem Licyjskim).",
+      "category": "Riwiera Turecka – Kaş",
+      "difficulty": "hard"
+    },
+    {
+      "id": "37",
+      "question": "Czym jest Dolina Gołębi i Dolina Miłości w Kapadocji?",
+      "answer": "Popularne szlaki trekkingowe prowadzące przez najbardziej malownicze formy skalne Kapadocji – erodowane tufy wulkaniczne tworzące tu unikalne korytarze i iglice skalne.",
+      "category": "Kapadocja – Doliny",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "question": "Czym jest Uchisar w Kapadocji?",
+      "answer": "Najwyższy punkt Kapadocji z 'zamkiem' wykutym w potężnej skale wulkanicznej, pełniący funkcję strategicznego punktu obserwacyjnego z panoramą całego regionu.",
+      "category": "Kapadocja – Uchisar",
+      "difficulty": "hard"
+    }
+  ]
+}

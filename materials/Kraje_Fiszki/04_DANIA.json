@@ -1,0 +1,252 @@
+{
+  "id": "flashcard-set-1782647543945",
+  "title": "Dania – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, miasta, zamki, regiony nadmorskie, Bornholm, Wyspy Owcze i Grenlandię.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Na czym geograficznie polega wyjątkowość Danii?",
+      "answer": "Kraj nizinny (najwyższy punkt Møllehøj – tylko 170 m n.p.m.) leżący na Półwyspie Jutlandzkim oraz 406 wyspach. Monarchia konstytucyjna (Król Fryderyk X), waluta: korona duńska.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Co łączy Danię ze Szwecją i jak się nazywa ta przeprawa?",
+      "answer": "Most nad Sundem – Øresundsbroen (Most Sundowy).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jakie są najważniejsze symbole Kopenhagi?",
+      "answer": "Mała Syrenka (nawiązanie do baśni H.C. Andersena), pocztówkowy kanał Nyhavn, Ogrody Tivoli (1843), dzielnica Christiania, rezydencja Amalienborg.",
+      "category": "Kopenhaga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest dzielnica Christiania w Kopenhadze?",
+      "answer": "Samozwańcze 'Wolne Miasto' – alternatywna, hippisowska enklawa.",
+      "category": "Kopenhaga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Kiedy otwarto Ogrody Tivoli w Kopenhadze?",
+      "answer": "W 1843 roku. Jeden z najstarszych parków rozrywki na świecie.",
+      "category": "Kopenhaga",
+      "difficulty": "hard"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Katedra w Roskilde i kto jest w niej pochowany?",
+      "answer": "UNESCO. Pierwsze gotycka katedra w Skandynawii zbudowana z cegły. Miejsce pochówku niemal wszystkich duńskich monarchów.",
+      "category": "Roskilde",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Co można zobaczyć w Muzeum Łodzi Wikingów w Roskilde?",
+      "answer": "Pięć oryginalnych łodzi wydobytych z dna fiordu; można zobaczyć, jak Wikingowie budowali swoje statki.",
+      "category": "Roskilde",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Dlaczego zamek Kronborg w Helsingør jest znany poza Danią?",
+      "answer": "William Shakespeare uczynił go miejscem akcji dramatu 'Hamlet' (zamek znany jako Elsynor). Potężna renesansowa twierdza (UNESCO) w najwęższym miejscu cieśniny Sund.",
+      "category": "Helsingør – Kronborg",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Jak nazywany jest zamek Frederiksborg i w jakim stylu jest zbudowany?",
+      "answer": "'Nordycki Wersal'. Styl holenderski renesans (czerwona cegła, wieżyczki, piaskowcowe zdobienia). Położony na trzech wyspach jeziora Slotsø.",
+      "category": "Zamki – Frederiksborg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Jaką funkcję pełni dziś zamek Frederiksborg?",
+      "answer": "Mieści Muzeum Narodowo-Historyczne. Kaplica Zamkowa – miejsce koronacji królów w latach 1671–1840.",
+      "category": "Zamki – Frederiksborg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Od czego pochodzi nazwa zamku Fredensborg i kto w nim mieszka?",
+      "answer": "Od słowa 'pokój' – upamiętnia zakończenie Wielkiej Wojny Północnej (1722). To jesienna i wiosenna rezydencja duńskiej rodziny królewskiej.",
+      "category": "Zamki – Fredensborg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Den Gamle By w Aarhus?",
+      "answer": "Unikatowy skansen miejski w centrum Aarhus – przeniesiono tu ponad 75 zabytkowych domów z całej Danii, tworząc żywe muzeum historii miejskiej.",
+      "category": "Jutlandia – Aarhus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Z czego słynie muzeum ARoS w Aarhus?",
+      "answer": "Z charakterystycznej tęczowej panoramy na dachu – instalacji 'Your rainbow panorama'.",
+      "category": "Jutlandia – Aarhus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Co to jest Człowiek z Grauballe i gdzie można go zobaczyć?",
+      "answer": "Najlepiej zachowana mumia z torfowiska, eksponowana w Moesgaard Museum w Aarhus.",
+      "category": "Jutlandia – Aarhus",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Utzon Center w Aalborgu?",
+      "answer": "Ostatnie dzieło Jørna Utzona – projektanta opery w Sydney – centrum architektury i designu.",
+      "category": "Jutlandia – Aalborg",
+      "difficulty": "hard"
+    },
+    {
+      "id": "16",
+      "question": "Co to jest Lindholm Høje koło Aalborgu?",
+      "answer": "Jedno z najważniejszych w Skandynawii miejsc pochówku wikingów – ponad 600 grobów w kształcie łodzi.",
+      "category": "Jutlandia – Aalborg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Dlaczego Ribe jest wyjątkowym miastem w Danii?",
+      "answer": "Najstarsze miasto Danii, założone ok. 700 roku. Posiada najstarszą katedrę w kraju oraz Ribe VikingeCenter z rekonstrukcją życia wikingów.",
+      "category": "Jutlandia – Ribe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym Billund jest znane na całym świecie?",
+      "answer": "Siedzibą firmy LEGO. Mieści Legoland Billund (najstarszy park sieci, 1968) i LEGO House – 'Home of the Brick' zaprojektowane przez BIG.",
+      "category": "Jutlandia – Billund",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Kiedy otwarto Legoland Billund?",
+      "answer": "W 1968 roku.",
+      "category": "Jutlandia – Billund",
+      "difficulty": "hard"
+    },
+    {
+      "id": "20",
+      "question": "Dlaczego Odense jest ważnym miastem turystycznym i z jaką postacią jest związane?",
+      "answer": "To miasto urodzenia Hansa Christiana Andersena – najsłynniejszego baśniopisarza świata. Fionia (wyspa, na której leży) bywa nazywana 'ogrodem Danii'.",
+      "category": "Odense",
+      "difficulty": "easy"
+    },
+    {
+      "id": "21",
+      "question": "Kto zaprojektował nowoczesne muzeum H.C. Andersena w Odense?",
+      "answer": "Japoński architekt Kengo Kuma.",
+      "category": "Odense",
+      "difficulty": "hard"
+    },
+    {
+      "id": "22",
+      "question": "Co to jest Den Fynske Landsby?",
+      "answer": "Jeden z największych skansenów w Danii w Odense – rekonstrukcja wsi z XVIII–XIX w. z ponad 20 budynkami ryglowymi.",
+      "category": "Odense",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Jaki kurort nad Sundem uchodzi za najbardziej ekskluzywny w Danii?",
+      "answer": "Hornbæk – słynie z szerokich piaszczystych plaż, luksusowych domów wakacyjnych i doskonałej gastronomii.",
+      "category": "Wybrzeże – Zelandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym wyjątkowym jest miejscowość Skagen na Jutlandii?",
+      "answer": "Leży na styku dwóch mórz – Skagerrak i Kattegat. Słynie z unikatowego światła przyciągającego malarzy oraz Grenen – cypla, gdzie widać ścierające się fale.",
+      "category": "Wybrzeże – Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Co wyjątkowego jest w plaży w Blokhus na Jutlandii?",
+      "answer": "Plaża jest tak szeroka i twarda, że pełni funkcję drogi – dopuszczony jest po niej ruch samochodowy.",
+      "category": "Wybrzeże – Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Jak nazywany jest Bornholm i jakie rodzaje turystyki realizuje?",
+      "answer": "'Majorka Północy' / 'Perła Bałtyku'. Turystyka: rowerowa (230 km tras), obronna (kościoły-rotundy, warownia Hammershus), przyrodnicza (skały na północy, biała plaża Dueodde na południu).",
+      "category": "Bornholm",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest Hammershus i gdzie leży?",
+      "answer": "Największa w Skandynawii średniowieczna warownia, położona na wyspie Bornholm.",
+      "category": "Bornholm",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Co to są Wyspy Owcze i jaki mają status polityczny?",
+      "answer": "Autonomiczny region Danii. Dominuje turystyka przyrodnicza i kwalifikowana (ekoturystyka), obserwacja maskonurów, trekking.",
+      "category": "Wyspy Owcze",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Co to jest koncepcja 'heimablídni' na Wyspach Owczych?",
+      "answer": "Gościnność domowa – turyści mogą stołować się u lokalnych rolników. Element turystyki kulturowej i 'slow travel'.",
+      "category": "Wyspy Owcze",
+      "difficulty": "hard"
+    },
+    {
+      "id": "30",
+      "question": "Czym jest Fiord Lodowy Ilulissat na Grenlandii?",
+      "answer": "Wpisany na listę UNESCO. Miejsce, gdzie gigantyczne góry lodowe odrywają się od lodowca Sermeq Kujalleq. Kluczowa atrakcja przyrodnicza Grenlandii.",
+      "category": "Grenlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Jakie są główne rodzaje turystyki na Grenlandii?",
+      "answer": "Przyrodnicza (lodowce, góry lodowe), przygodowa (psie zaprzęgi, heli-skiing), kulturowa (kultura Inuitów) oraz obserwacja zorzy polarnej.",
+      "category": "Grenlandia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "question": "Czym słynie Skagen i co to jest Grenen?",
+      "answer": "Skagen to najbardziej wysunięte na północ miasto Danii. Grenen to cypel, gdzie spotykają się wody Morza Północnego i Bałtyku – turystyczna atrakcja, gdzie można stać jednocześnie w dwóch morzach. Skagen słynie też z tzw. Szkoły Skagen – grupy duńskich malarzy impresjonistów z XIX w.",
+      "category": "Skagen – Grenen",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Czym jest Nordsøen Oceanarium w Hirtshals?",
+      "answer": "Największe akwarium w Europie Północnej, znajdujące się w Hirtshals na północy Jutlandii. Centralnym eksponatem jest ogromny zbiornik (4,5 mln litrów) z rybami Morza Północnego. Prezentuje ekosystem morski od powierzchni po dno.",
+      "category": "Hirtshals – Oceanarium",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Z czego słynie Blokhus na zachodnim wybrzeżu Jutlandii?",
+      "answer": "Blokhus to miejscowość wypoczynkowa na zachodnim wybrzeżu Jutlandii znana z corocznego Festiwalu Rzeźb z Piasku (Sandskulpturfestivalen) oraz z możliwości jazdy samochodem bezpośrednio po twardej, szerokiej plaży – co jest typową atrakcją na tym odcinku wybrzeża.",
+      "category": "Blokhus",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Z czego słynie Hvide Sande i jakie sporty można tam uprawiać?",
+      "answer": "Hvide Sande to miasto rybackie i turystyczne przy przepuście łączącym Ringkøbing Fjord z Morzem Północnym. Jest uważane za jedno z najlepszych miejsc do windsurfingu i kitesurfingu w Europie ze względu na silne i stałe wiatry. Popularne wśród miłośników sportów wodnych.",
+      "category": "Hvide Sande – Sporty wodne",
+      "difficulty": "medium"
+    }
+  ]
+}

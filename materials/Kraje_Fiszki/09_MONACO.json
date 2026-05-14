@@ -1,0 +1,196 @@
+{
+  "id": "flashcard-set-monaco",
+  "title": "Monako – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące ustrój, dzielnice, atrakcje, wydarzenia i historię Monako.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jaki ustrój ma Monako i kto stoi na czele państwa?",
+      "answer": "Monarchia konstytucyjna. Na czele stoi książę z rodu Grimaldich (obecnie książę Albert II).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Gdzie jest położone Monako?",
+      "answer": "Na Lazurowym Wybrzeżu (Riwiera Francuska) nad Morzem Śródziemnym. Z trzech stron graniczy z Francją.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jaką powierzchnię ma Monako i jakie jest jego miejsce wśród najmniejszych państw?",
+      "answer": "Ok. 2 km² – drugie najmniejsze państwo świata (po Watykanie).",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jak Monako powiększa swoje terytorium wobec braku miejsca?",
+      "answer": "Osusza kolejne tereny morskie – na przykład dzielnica Fontvieille powstała na osuszonym terenie.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Z jakich głównych źródeł pochodzi dochód Monako?",
+      "answer": "Turystyka luksusowa, hazard (kasyna), usługi finansowe (raj podatkowy) i nieruchomości.",
+      "category": "Gospodarka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Ogród Księżnej Grace w Fontvieille i kiedy powstał?",
+      "answer": "Ogród różany założony przez księcia Rainiera III w 1984 roku jako hołd dla jego zmarłej żony, księżnej Grace. Zawiera kilka tysięcy krzewów róż.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym jest Kolekcja Samochodów Księcia Monako w Fontvieille?",
+      "answer": "Zbiór setek rzadkich pojazdów (od zabytkowych po bolidy F1) w kompleksie Tarasów Fontvieille.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Gdzie leży Monaco-Ville i co to jest za dzielnica?",
+      "answer": "Historyczne serce państwa na wysokim skalistym cyplu (60 m) wcinającym się w morze. Zakaz wjazdu większości samochodów, zachowany średniowieczny układ ulic.",
+      "category": "Monaco-Ville",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Kiedy powstał Pałac Książęcy i co można w nim zobaczyć?",
+      "answer": "Zbudowany na miejscu genueńskiej fortecy z 1215 roku. Uroczysta zmiana warty codziennie o 11:55, apartamenty państwowe ze XVI-wiecznymi freskami.",
+      "category": "Monaco-Ville – Pałac Książęcy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Kto założył Muzeum Oceanograficzne w Monako i kiedy?",
+      "answer": "Założone w 1910 roku przez księcia Alberta I – pioniera oceanografii. Przez lata dyrektorem był Jacques-Yves Cousteau.",
+      "category": "Monaco-Ville – Muzeum Oceanograficzne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "11",
+      "question": "Kto zaprojektował Kasyno Monte Carlo i w jakim stylu je zbudowano?",
+      "answer": "Zaprojektowane przez Charles'a Garniera (architekta opery paryskiej), w stylu belle époque.",
+      "category": "Monte Carlo – Kasyno",
+      "difficulty": "hard"
+    },
+    {
+      "id": "12",
+      "question": "Dlaczego mieszkańcy Monako mają zakaz gry w kasynie Monte Carlo?",
+      "answer": "Ustawowy zakaz gry – jest to zapis prawny mający swoje podłoże historyczne i finansowe (kasyna miały generować dochody od cudzoziemców).",
+      "category": "Monte Carlo – Kasyno",
+      "difficulty": "hard"
+    },
+    {
+      "id": "13",
+      "question": "Jak nazywa się jedyna ogólnodostępna plaża w Monako i jaka jest jej powierzchnia?",
+      "answer": "Plaża Larvotto (Plage du Larvotto) – sztuczna plaża wysypana drobnym żwirkiem.",
+      "category": "Monte Carlo – Plaża",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Promenada Mistrzów (Champions Promenade) w Monako?",
+      "answer": "Odpowiednik hollywoodzkiej Alei Gwiazd dedykowany piłkarzom (laureatom nagrody Golden Foot). Są tu odciski stóp m.in. Pelé, Maradony, Cristiano Ronaldo i Roberta Lewandowskiego.",
+      "category": "Monte Carlo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Port Hercules (Port Hercule)?",
+      "answer": "Główny i jedyny głębokowodny port Monako. Jedna z najbardziej prestiżowych przystani na świecie. Tędy przebiega trasa F1 (prosta startowa, boksy, zakręt Rascasse).",
+      "category": "La Condamine – Port",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Co to jest Marché de la Condamine i od kiedy działa?",
+      "answer": "Tradycyjna hala targowa przy Place d'Armes, gdzie od 1880 roku sprzedawane są świeże produkty. Można tu spróbować lokalnych specjałów (barbagiuan) w przystępnych cenach.",
+      "category": "La Condamine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest barbagiuan?",
+      "answer": "Lokalny specjał kuchni monakijskiej – smażone pierożki z boćwiną.",
+      "category": "Kuchnia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "18",
+      "question": "Kiedy odbywa się Grand Prix Monako Formuły 1 i przez jakie dzielnice przebiega trasa?",
+      "answer": "Zazwyczaj koniec maja. Trasa uliczna (Circuit de Monaco) przebiega przez La Condamine i Monte Carlo – m.in. wokół kasyna i przez tunel.",
+      "category": "Eventy – F1",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Co to jest Międzynarodowy Festiwal Cyrkowy w Monako i kiedy się odbywa?",
+      "answer": "Styczeń. Najważniejszy i najbardziej prestiżowy festiwal cyrkowy na świecie, założony w 1974 roku przez Rainiera III. Najlepsi artyści otrzymują 'Złote Clowny'.",
+      "category": "Eventy – Festiwal Cyrkowy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Od kiedy odbywa się Rajd Monte Carlo i czym się charakteryzuje?",
+      "answer": "Od 1911 roku – najstarszy rajd samochodowy świata. Trasa przez Alpy Nadmorskie. Legendarny odcinek przez przełęcz Col de Turini (śnieg, lód i asfalt).",
+      "category": "Eventy – Rajd Monte Carlo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Kim była Grace Kelly przed zostaniem księżną Monako?",
+      "answer": "Czołową aktorką Hollywood, muzą Alfreda Hitchcocka. Zdobyła Oscara za rolę w filmie 'Dziewczyna z prowincji'.",
+      "category": "Grace Kelly",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Kiedy i jak zginęła księżna Grace (Grace Kelly)?",
+      "answer": "W 1982 roku w wypadku samochodowym na krętych drogach nad księstwem.",
+      "category": "Grace Kelly",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Gdzie pochowana jest księżna Grace i jak jest upamiętniona w Monako?",
+      "answer": "Jej grób znajduje się w Katedrze Świętego Mikołaja, a w Fontvieille poświęcono jej Ogród Różany.",
+      "category": "Grace Kelly",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym jest Muzeum Marynarki (Musée Naval) w Fontvieille?",
+      "answer": "Muzeum zawierające bogatą kolekcję ponad 250 modeli statków, w tym wiele z prywatnej kolekcji księcia Rainiera III – od starożytnych galer po nowoczesne lotniskowce. Pełni funkcję kulturową i edukacyjną.",
+      "category": "Fontvieille – Muzeum Marynarki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Muzeum Znaczków i Monet (Musée des Timbres et des Monnaies) w Monako?",
+      "answer": "Muzeum prezentujące rzadkie znaczki filatelistyczne i numizmaty (monety i banknoty) emitowane przez księstwo od 1640 roku. Znaczki Monako są cenione przez kolekcjonerów na całym świecie.",
+      "category": "Fontvieille – Muzeum Znaczków",
+      "difficulty": "hard"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Ogród Japoński (Jardin Japonais) w Monte Carlo?",
+      "answer": "Oaza spokoju o powierzchni 0,7 ha przy nadmorskiej promenadzie, zaprojektowana zgodnie z zasadami zen przez japońskiego architekta Yasuo Beppu. Zawiera czerwone mostki, wodospady, kamienne latarnie i pawilon herbaciany.",
+      "category": "Monte Carlo – Ogród Japoński",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest Monaco Yacht Show i kiedy się odbywa?",
+      "answer": "Najważniejsze na świecie targi luksusowych jachtów (superyachtów), odbywające się w wrześniu w Porcie Herculesa. Prezentuje ponad 100 unikatowych jednostek o długości często przekraczającej 40–100 metrów. Wydarzenie skierowane do branży B2B i najzamożniejszych klientów.",
+      "category": "Eventy – Yacht Show",
+      "difficulty": "hard"
+    }
+  ]
+}

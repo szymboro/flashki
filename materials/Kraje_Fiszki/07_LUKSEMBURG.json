@@ -1,0 +1,112 @@
+{
+  "id": "flashcard-set-luksemburg",
+  "title": "Luksemburg – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, stolicę, region Gutland i region Ardenów Luksemburga.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Z jakimi krajami graniczy Luksemburg?",
+      "answer": "Z Belgią, Francją i Niemcami. Leży w sercu Europy.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak geograficznie dzieli się Luksemburg?",
+      "answer": "Na górzystą północ (Ardeny/Oesling) i bardziej nizinną, rolniczo-przemysłową południową część (Gutland).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Dlaczego twierdza Luksemburg była nazywana 'Gibraltarem Północy'?",
+      "answer": "Ze względu na potężne mury obronne i Kazamaty Bock (podziemne tunele obronne wpisane na UNESCO).",
+      "category": "Miasto Luksemburg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest Dzielnica Kirchberg w Luksemburgu?",
+      "answer": "Nowoczesna dzielnica z budynkami Parlamentu Europejskiego i Trybunału Sprawiedliwości UE.",
+      "category": "Miasto Luksemburg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Dzielnica Grund w Luksemburgu?",
+      "answer": "Malownicza dolna część miasta położona w kanionie rzeki Alzette.",
+      "category": "Miasto Luksemburg",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Czym słynie Mondorf-les-Bains?",
+      "answer": "Jedyne uzdrowisko termalne w Luksemburgu. Słynie z wód leczniczych, nowoczesnego kasyna i rozległych parków.",
+      "category": "Region Gutland",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Co sprawia, że Echternach jest wyjątkowym miejscem turystycznym?",
+      "answer": "Najstarsze miasto w Luksemburgu, brama do regionu Mała Szwajcaria Luksemburska. Słynie z opactwa św. Willibrorda i unikatowej procesji tanecznej (UNESCO).",
+      "category": "Region Gutland – Echternach",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Esch-sur-Alzette i co je wyróżnia dziś?",
+      "answer": "Drugie co do wielkości miasto Luksemburga – dawne centrum przemysłu ciężkiego, dziś nowoczesne centrum kultury (Belval) z zachowanymi wielkimi piecami hutniczymi.",
+      "category": "Region Gutland – Esch",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Dlaczego Remich jest nazywany 'Perłą Mozeli'?",
+      "answer": "To kluczowy ośrodek winiarski nad rzeką Mozelą, słynący z produkcji win musujących i rejsów turystycznych.",
+      "category": "Region Gutland – Remich",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym słynie miasto Vianden na północy Luksemburga?",
+      "answer": "Posiada potężny, odrestaurowany Zamek Vianden górujący nad miastem oraz jedyną w kraju kolejkę krzesełkową.",
+      "category": "Ardeny – Vianden",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Dlaczego Ettelbruck nosi przydomek 'Brama do Ardenów'?",
+      "answer": "Jest ważnym węzłem komunikacyjnym północy i miejscem pamięci o gen. Pattonie (wyzwolenie w 1944 r.).",
+      "category": "Ardeny – Ettelbruck",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym słynie Wiltz w regionie Ardenów?",
+      "answer": "Centrum regionu Oesling. Słynie z zamku, festiwalu muzycznego oraz tradycji piwowarskich.",
+      "category": "Ardeny – Wiltz",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Mondorf-les-Bains i dlaczego jest wyjątkowe w Luksemburgu?",
+      "answer": "Jedyne uzdrowisko termalne w Luksemburgu, w południowo-wschodniej części kraju. Znane z kompleksu Domaine Thermal oferującego baseny z wodą mineralną, spa i terapie zdrowotne. Przyciąga turystów poszukujących wypoczynku zdrowotnego.",
+      "category": "Mondorf-les-Bains",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym wyróżniają się miasta Pétange i Differdange w Luksemburgu?",
+      "answer": "Miasta na południu Luksemburga (rejon \"Minette\") związane z tradycją przemysłu stalowego. Pétange i Differdange posiadają ślady industrialnego dziedzictwa – m.in. hale stalownicze przekształcone w centra kultury (np. Rockhal w Esch-sur-Alzette). Region przeszedł rewitalizację po upadku przemysłu.",
+      "category": "Południe – Przemysł",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Redange i jaką rolę pełni w zachodnim Luksemburgu?",
+      "answer": "Małe miasto administracyjne w kantonie Redange na zachodzie kraju, w pobliżu rzeki Our tworzącej granicę z Belgią. Służy jako centrum administracyjne regionu i punkt wypadowy do parku natury Ösling (Ardeny Luksemburskie).",
+      "category": "Redange",
+      "difficulty": "hard"
+    }
+  ]
+}

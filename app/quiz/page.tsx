@@ -5,7 +5,17 @@ import QuizRunner from "@/components/QuizRunner";
 import ShareOptions from "@/components/ShareOptions";
 import { deleteQuizSet, getQuizSets } from "@/lib/storage";
 import { QuizSet } from "@/types/quiz";
-import { Play, Plus, Repeat, Share2, Shuffle, Trash2 } from "lucide-react";
+import {
+  ChevronDown,
+  ChevronRight,
+  FolderOpen,
+  Play,
+  Plus,
+  Repeat,
+  Share2,
+  Shuffle,
+  Trash2,
+} from "lucide-react";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 
@@ -17,6 +27,29 @@ export default function QuizPage() {
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
   const [questionLimit, setQuestionLimit] = useState<number | null>(null);
   const [availableQuizzes, setAvailableQuizzes] = useState<any[]>([]);
+  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(new Set());
+
+  const groupedQuizzes = useMemo(() => {
+    const groups: Record<string, any[]> = {};
+    for (const quiz of availableQuizzes) {
+      const folder =
+        typeof quiz.filename === "string" && quiz.filename.includes("/")
+          ? quiz.filename.split("/")[0]
+          : "";
+      if (!groups[folder]) groups[folder] = [];
+      groups[folder].push(quiz);
+    }
+    return groups;
+  }, [availableQuizzes]);
+
+  const toggleFolder = (folder: string) => {
+    setExpandedFolders((prev) => {
+      const next = new Set(prev);
+      if (next.has(folder)) next.delete(folder);
+      else next.add(folder);
+      return next;
+    });
+  };
 
   // Handle shared data from URL
   useEffect(() => {
@@ -320,7 +353,8 @@ export default function QuizPage() {
                   Dostępne quizy
                 </h3>
                 <div className="space-y-4">
-                  {availableQuizzes.map((quiz) => (
+                  {/* Root-level items */}
+                  {(groupedQuizzes[""] ?? []).map((quiz) => (
                     <div
                       key={quiz.id}
                       className="bg-gray-900 rounded-lg p-4 border border-gray-700"
@@ -352,6 +386,74 @@ export default function QuizPage() {
                       </div>
                     </div>
                   ))}
+                  {/* Subfolder groups */}
+                  {Object.keys(groupedQuizzes)
+                    .filter((f) => f !== "")
+                    .sort()
+                    .map((folder) => (
+                      <div
+                        key={folder}
+                        className="bg-gray-900 rounded-lg border border-gray-700 overflow-hidden"
+                      >
+                        <button
+                          onClick={() => toggleFolder(folder)}
+                          className="w-full flex items-center gap-3 p-4 text-left hover:bg-gray-800 transition-colors"
+                        >
+                          <FolderOpen size={18} className="text-yellow-400 shrink-0" />
+                          <span className="flex-1 text-base font-semibold text-yellow-300">
+                            {folder}
+                          </span>
+                          <span className="text-xs text-gray-400 mr-2">
+                            {groupedQuizzes[folder].length} quizów
+                          </span>
+                          {expandedFolders.has(folder) ? (
+                            <ChevronDown size={16} className="text-gray-400 shrink-0" />
+                          ) : (
+                            <ChevronRight size={16} className="text-gray-400 shrink-0" />
+                          )}
+                        </button>
+                        {expandedFolders.has(folder) && (
+                          <div className="border-t border-gray-700 divide-y divide-gray-700">
+                            {groupedQuizzes[folder].map((quiz) => (
+                              <div
+                                key={quiz.id}
+                                className="p-4 bg-gray-900 hover:bg-gray-800/60 transition-colors"
+                              >
+                                <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
+                                  <div className="flex-1 pl-7">
+                                    <h3
+                                      className="text-base font-semibold text-green-400 hover:text-green-300 cursor-pointer transition-colors"
+                                      onClick={() =>
+                                        handleLoadAvailable(quiz.id)
+                                      }
+                                    >
+                                      {quiz.title}
+                                    </h3>
+                                    {quiz.description && (
+                                      <p className="text-gray-400 text-sm mt-1">
+                                        {quiz.description}
+                                      </p>
+                                    )}
+                                    <p className="text-gray-500 text-xs mt-2">
+                                      {quiz.questionCount} pytań
+                                    </p>
+                                  </div>
+                                  <button
+                                    onClick={() =>
+                                      handleLoadAvailable(quiz.id)
+                                    }
+                                    className="p-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors self-end sm:self-start"
+                                    title="Załaduj quiz"
+                                  >
+                                    <Play size={18} />
+                                  </button>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    ))}
                 </div>
               </div>
             )}

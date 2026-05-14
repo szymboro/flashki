@@ -2,6 +2,17 @@ import fs from "fs";
 import { NextResponse } from "next/server";
 import path from "path";
 
+function getAllJsonFiles(dir: string): string[] {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  return entries.flatMap((entry) => {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      return getAllJsonFiles(fullPath);
+    }
+    return entry.name.endsWith(".json") ? [fullPath] : [];
+  });
+}
+
 export async function GET(
   request: Request,
   { params }: { params: Promise<{ id: string }> },
@@ -9,12 +20,12 @@ export async function GET(
   try {
     const { id } = await params;
     const materialsDir = path.join(process.cwd(), "materials");
-    const files = fs.readdirSync(materialsDir);
+    const allFiles = getAllJsonFiles(materialsDir);
 
-    // Find quiz file by reading each quiz file and checking the ID
-    for (const file of files) {
-      if (file.startsWith("quiz_") && file.endsWith(".json")) {
-        const filePath = path.join(materialsDir, file);
+    // Find quiz file by reading each file and checking the ID
+    for (const filePath of allFiles) {
+      const name = path.basename(filePath);
+      if (name.startsWith("quiz_")) {
         const content = JSON.parse(fs.readFileSync(filePath, "utf-8"));
         if (content.id === id) {
           return NextResponse.json(content);

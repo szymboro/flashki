@@ -1,0 +1,133 @@
+{
+  "id": "flashcard-set-1784567543945",
+  "title": "Cypr – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, miejscowości turystyczne i konflikt grecko-turecki na Cyprze.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Gdzie jest położony Cypr i w pobliżu jakich krajów?",
+      "answer": "We wschodniej części Morza Śródziemnego, w pobliżu wybrzeży Turcji, Syrii i Libanu.",
+      "category": "Geografia ogólna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jakie są główne formy terenu Cypru?",
+      "answer": "Wyspa górzysta. Na północy pasmo Kyrenii, w centrum i na południu masyw Troodos (z najwyższym szczytem Olimpem). Pomiędzy nimi żyzna nizina Mesaoria.",
+      "category": "Geografia ogólna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Jak jest podzielona ludność Cypru?",
+      "answer": "Na Greków cypryjskich (południe) i Turków cypryjskich (północ).",
+      "category": "Podział polityczny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Z czego słynie Ayia Napa jako kurort?",
+      "answer": "To najpopularniejszy kurort wyspy, słynący z życia nocnego i najpiękniejszych plaż (m.in. Nissi Beach).",
+      "category": "Wybrzeże – Ayia Napa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Czym wyróżnia się Protaras spośród cypryjskich kurortów?",
+      "answer": "Spokojniejsza miejscowość, popularna wśród rodzin. Znana z krystalicznej wody w Fig Tree Bay.",
+      "category": "Wybrzeże – Protaras",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Jakie są główne atrakcje Larnaki?",
+      "answer": "Cerkiew św. Łazarza oraz Słone Jezioro – miejsce zimowania flamingów.",
+      "category": "Wybrzeże – Larnaka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Z czego historycznie słynie zamek w Limassol?",
+      "answer": "W zamku Limassol (Lemesos) Ryszard Lwie Serce brał ślub. Miasto to największy port Cypru i drugie co do wielkości.",
+      "category": "Wybrzeże – Limassol",
+      "difficulty": "hard"
+    },
+    {
+      "id": "8",
+      "question": "Dlaczego Nikozja jest wyjątkowa wśród stolic świata?",
+      "answer": "Jest ostatnią na świecie podzieloną stolicą. Przez środek miasta przebiega Zielona Linia – strefa buforowa ONZ.",
+      "category": "Nikozja – Stolica",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Jakie są główne zabytki Nikozji?",
+      "answer": "Mury weneckie w kształcie gwiazdy, Muzeum Cypryjskie oraz starówka Laiki Geitonia.",
+      "category": "Nikozja – Stolica",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Dlaczego całe miasto Pafos jest wpisane na listę UNESCO?",
+      "answer": "Słynie z Mozaik z Pafos i Grobów Królewskich. W pobliżu znajduje się Petra tou Romiou (Skała Afrodyty) – mityczne miejsce narodzin bogini.",
+      "category": "Wybrzeże – Pafos",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Jaką funkcję ekologiczną pełni plaża Lara Beach na Cyprze?",
+      "answer": "To kluczowe miejsce lęgowe żółwi morskich (Caretta caretta) – położona w rezerwacie dzika plaża.",
+      "category": "Przyroda – Lara Beach",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Półwysep Akamas?",
+      "answer": "Najbardziej dziki, niezamieszkany fragment Cypru. Turystyka aktywna i przyrodnicza (Wąwóz Avakas, Łaźnie Afrodyty).",
+      "category": "Przyroda – Akamas",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Co to była 'Enosis' i kto do niej dążył?",
+      "answer": "Dążenie części Greków cypryjskich do połączenia Cypru z Grecją po uzyskaniu niepodległości od Wielkiej Brytanii w 1960 r.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Co to było 'Taksim' w kontekście konfliktu cypryjskiego?",
+      "answer": "Dążenie mniejszości tureckiej do podziału wyspy (taksim = podział), wynikające z obawy przed dyskryminacją.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Kiedy i dlaczego Turcja dokonała inwazji na Cypr?",
+      "answer": "W 1974 r. W odpowiedzi na zamach stanu greckich nacjonalistów (wspieranych przez juntę ateńską) Turcja przeprowadziła operację 'Attyla', tłumacząc to ochroną mniejszości tureckiej.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Jaki jest obecny status polityczny Cypru?",
+      "answer": "Wyspa jest podzielona. Południe: Republika Cypru (uznawana międzynarodowo, członek UE). Północ: Turecka Republika Cypru Północnego (uznawana tylko przez Turcję). Granicę wyznacza Zielona Linia ONZ.",
+      "category": "Podział polityczny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Kiedy Cypr uzyskał niepodległość od Wielkiej Brytanii?",
+      "answer": "W 1960 roku.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym jest masyw Troodos i jaki jest jego najwyższy szczyt?",
+      "answer": "Troodos to najwyższy masyw górski Cypru, położony w centrum wyspy. Najwyższy szczyt to Olimp (Chionistra) – 1952 m n.p.m. Między Troodos a pasmem Kyrenii (na północy) rozciąga się żyzna nizina Mesaoria, będąca spichlerzem wyspy. Masyw znany jest z malowniczych wiosek, klasztorów i kościołów bizantyjskich (UNESCO).",
+      "category": "Troodos – Geografia",
+      "difficulty": "medium"
+    }
+  ]
+}

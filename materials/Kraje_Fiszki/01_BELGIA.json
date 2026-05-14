@@ -1,0 +1,280 @@
+{
+  "id": "flashcard-set-1542759832651",
+  "title": "Belgia – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, strukturę państwa, regiony i miejscowości turystyczne Belgii.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Gdzie jest położona Belgia i z jakimi krajami graniczy?",
+      "answer": "Europa Zachodnia, nad Morzem Północnym. Graniczy z Holandią, Niemcami, Luksemburgiem i Francją.",
+      "category": "Geografia ogólna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jaki jest najwyższy punkt Belgii i ile wynosi jego wysokość?",
+      "answer": "Signal de Botrange – 694 m n.p.m.",
+      "category": "Geografia ogólna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Jakie rzeki tworzą główną sieć hydrograficzną Belgii?",
+      "answer": "Moza (Meuse) i Skalda (Schelde), połączone licznymi kanałami transportowymi i turystycznymi.",
+      "category": "Geografia ogólna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jaki ustrój ma Belgia i na ile wspólnot językowych oraz regionów jest podzielona?",
+      "answer": "Federacja. Podzielona na trzy wspólnoty językowe i trzy regiony: Flandrię (niderlandzki), Walonię (francuski) i Stołeczny Brukseli (dwujęzyczny).",
+      "category": "Ustrój i struktura",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Jak geograficznie różni się północna Flandria od południowej Walonii?",
+      "answer": "Flandria to tereny nizinne, Walonia to wyżynny region Ardenów.",
+      "category": "Geografia ogólna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Dlaczego Brugia jest nazywana 'Flamandzką Wenecją' i jakie ma znaczenie dla UNESCO?",
+      "answer": "Ze względu na rozbudowaną sieć kanałów; jest jednym z najlepiej zachowanych średniowiecznych miast Europy, wpisanym na listę UNESCO.",
+      "category": "Region Flandria – Brugia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Jakie są główne atrakcje Brugii?",
+      "answer": "Sieć kanałów, Rynek (Grote Markt) z wieżą Beffroi, Bazylika Świętej Krwi, beginaż (zespół domów dla świeckich zakonnic).",
+      "category": "Region Flandria – Brugia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Z czego słynęła historycznie Gandawa (Gent) i co można tam dziś zobaczyć?",
+      "answer": "Z potęgi włókienniczej; dziś to miasto uniwersyteckie ze średniowiecznymi nabrzeżami Graslei i Korenlei, zamkiem hrabiów Flandrii (Gravensteen) i Katedrą św. Bawona z Ołtarzem Baranka Bożego braci van Eyck.",
+      "category": "Region Flandria – Gandawa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Czym słynie Antwerpia w skali światowej (dwie dziedziny)?",
+      "answer": "Jest światową stolicą handlu diamentami oraz posiada jeden z największych portów morskich świata.",
+      "category": "Region Flandria – Antwerpia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Z jakim malarzem kojarzona jest Antwerpia i jakie inne turystyczne atrakcje posiada?",
+      "answer": "Z Peterem Paulem Rubensem (Dom Rubensa). Inne atrakcje: Dworzec Centralny (jeden z najpiękniejszych na świecie), rynek z renesansowym ratuszem, dzielnica diamentów.",
+      "category": "Region Flandria – Antwerpia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Mechelen znane historycznie i religijnie?",
+      "answer": "Mechelen to dawna stolica Niderlandów, siedziba prymasa Belgii. Słynie z Katedry św. Rumbolda z carillonem (zespołem dzwonów) oraz wytwórni gobelinów.",
+      "category": "Region Flandria – Mechelen",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest miasto Ypres (Ieper) znane w kontekście historycznym?",
+      "answer": "Symbol pamięci o I wojnie światowej – miasto niemal całkowicie zniszczone. Mieści muzeum In Flanders Fields i bramę Menin Gate, przy której codziennie odbywa się apel Last Post ku czci poległych.",
+      "category": "Region Flandria – Ypres",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Ile kilometrów liczy belgijskie wybrzeże Morza Północnego i czym jest słynne pod względem komunikacyjnym?",
+      "answer": "67 km. Wszystkie miejscowości nadmorskie łączy Kusttram – najdłuższa linia tramwajowa świata.",
+      "category": "Region Flandria – Wybrzeże",
+      "difficulty": "hard"
+    },
+    {
+      "id": "14",
+      "question": "Czym charakteryzuje się fizycznogeograficznie region Kempen?",
+      "answer": "Piaszczyste podłoże, historycznie region wrzosowisk, torfowisk i lasów sosnowych. Niegdyś eksploatacja węgla kamiennego (kopalnie dziś zamknięte i turystyczne).",
+      "category": "Region Kempen",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Jakie instytucje europejskie mają siedzibę w Brukseli?",
+      "answer": "Parlament Europejski, Komisja Europejska i Rada UE. Bruksela jest też siedzibą NATO.",
+      "category": "Bruksela",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Grand Place w Brukseli i jakie ma znaczenie dla UNESCO?",
+      "answer": "Jeden z najpiękniejszych rynków świata z gotyckim Ratuszem i Domami Cechowymi, wpisany na listę UNESCO.",
+      "category": "Bruksela",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Co to jest Atomium w Brukseli i kiedy powstało?",
+      "answer": "Monumentalny model kryształu żelaza powiększony 165 miliardów razy, zbudowany na wystawę EXPO 1958. Symbol nowoczesności Brukseli.",
+      "category": "Bruksela",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co symbolizuje Manneken Pis?",
+      "answer": "Mała figurka sikającego chłopca – nieoficjalny symbol i maskotka Brukseli.",
+      "category": "Bruksela",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Skąd pochodzi kultura komiksowa Belgii? Podaj dwa przykłady słynnych belgijskich komiksów.",
+      "answer": "Belgia jest ojczyzną Smerfów i Tintina. W Brukseli działa Muzeum Komiksu.",
+      "category": "Bruksela",
+      "difficulty": "easy"
+    },
+    {
+      "id": "20",
+      "question": "Kiedy założono Katolicki Uniwersytet w Leuven (KU Leuven) i czym jest znany?",
+      "answer": "Założony w 1425 roku, jeden z najstarszych i najbardziej prestiżowych uniwersytetów w Europie.",
+      "category": "Brabancja – Leuven",
+      "difficulty": "hard"
+    },
+    {
+      "id": "21",
+      "question": "Czym jest Groot Begijnhof w Leuven i dla kogo jest dziś przeznaczony?",
+      "answer": "Doskonale zachowane 'miasto w mieście' wpisane na listę UNESCO; dawniej zamieszkały przez beginki, dziś przez studentów i pracowników uczelni.",
+      "category": "Brabancja – Leuven",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Jaki jest związek Leuven z przemysłem piwowarskim?",
+      "answer": "To siedziba największego koncernu piwowarskiego świata (Anheuser-Busch InBev) i miejsce powstania piwa Stella Artois.",
+      "category": "Brabancja – Leuven",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Czym są Ardeny dla Belgii?",
+      "answer": "Nazywane 'zielonymi płucami Belgii' – region wyżynno-górzysty, porośnięty gęstymi lasami, z głębokimi dolinami rzecznymi.",
+      "category": "Ardeny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "24",
+      "question": "Czym jest historycznie znane Liège i jakie ma atrakcje turystyczne?",
+      "answer": "Największe miasto Walonii, dawne potężne państwo-biskupstwo. Atrakcje: Pałac Książąt-Biskupów, Schody Montagne de Bueren (374 stopnie), futurystyczny Dworzec Liège-Guillemins (Calatrava).",
+      "category": "Ardeny – Liège",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Ile schodów liczy Montagne de Bueren w Liège?",
+      "answer": "374 stopnie prowadzące na wzgórze cytadeli.",
+      "category": "Ardeny – Liège",
+      "difficulty": "hard"
+    },
+    {
+      "id": "26",
+      "question": "Skąd pochodzi ogólne słowo 'SPA' oznaczające centra odnowy biologicznej?",
+      "answer": "Od belgijskiego miasta Spa – najstarszego uzdrowiska w Europie, słynącego z wód termalnych.",
+      "category": "Ardeny – Spa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Jaki słynny tor wyścigowy F1 znajduje się w pobliżu belgijskiego Spa?",
+      "answer": "Circuit de Spa-Francorchamps.",
+      "category": "Ardeny – Spa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Dlaczego Banneux jest nazywane 'Belgijskim Lourdes'?",
+      "answer": "Ze względu na objawienia maryjne z 1933 roku. Przyciąga rocznie setki tysięcy wiernych, szczególnie chorych szukających uzdrowienia.",
+      "category": "Ardeny – Banneux",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Z czego jest znany Dinant nad Mozą?",
+      "answer": "Z cytadeli na skale i kolegiaty z cebulastym hełmem. Miejsce narodzin Adolpha Saxa – wynalazcy saksofonu.",
+      "category": "Dolina Mozy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Jaka jest stolica Walonii i gdzie jest położona?",
+      "answer": "Namur, położona u ujścia Sambry do Mozy, z jedną z największych twierdz (cytadel) w Europie.",
+      "category": "Dolina Mozy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym słynie historycznie Tournai (Doornik)?",
+      "answer": "Jedno z najstarszych miast Belgii, pierwsza stolica państwa Franków. Katedra Notre-Dame z pięcioma wieżami (UNESCO), najstarsza dzwonnica miejska w Belgii – Beffroi (UNESCO).",
+      "category": "Historyczne perły – Tournai",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Czym jest Tongeren wyjątkowe wśród belgijskich miast?",
+      "answer": "Najstarsze miasto Belgii, założone przez Rzymian jako Atuatuca Tungrorum. Słynie z Muzeum Galijsko-Rzymskiego i pomnika Ambioriksa (wodza Eburonów, który pokonał legiony Cezara).",
+      "category": "Historyczne perły – Tongeren",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Jakim językiem posługują się Flamandowie i gdzie zamieszkują?",
+      "answer": "Językiem niderlandzkim (flamandzkim). Zamieszkują północną część Belgii – Flandrię.",
+      "category": "Flamandowie i Walonowie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "34",
+      "question": "Jakim językiem posługują się Walonowie i z czego historycznie żyli?",
+      "answer": "Językiem francuskim. Walonia była sercem rewolucji przemysłowej w Europie (wydobycie węgla, hutnictwo). Po kryzysie przemysłu jest dziś uboższa od Flandrii.",
+      "category": "Flamandowie i Walonowie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Jak historycznie wyjaśnić podział językowy między Flandrią a Walonią?",
+      "answer": "Granica sięga starożytności: północ uległa germanizacji przez Franków, południe pozostało pod wpływem zromanizowanej ludności Galii (Limes Romanus).",
+      "category": "Flamandowie i Walonowie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "36",
+      "question": "W którym roku powstała Belgia jako niepodległe państwo i jaki był status językowy elity?",
+      "answer": "W 1830 roku. Elitę stanowiły osoby francuskojęzyczne – język francuski był językiem administracji i wyższych sfer, co budziło opór Flamandów.",
+      "category": "Flamandowie i Walonowie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "37",
+      "question": "Na ile regionów podzielona jest federalna Belgia i jakie są ich języki?",
+      "answer": "Trzy regiony: Flamandzki (niderlandzki), Waloński (francuski, z małą wspólnotą niemieckojęzyczną na wschodzie) i Stołeczny Brukseli (oficjalnie dwujęzyczny).",
+      "category": "Ustrój i struktura",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "question": "Jaka ciekawostka turystyczna dotyczy nazw miast belgijskich?",
+      "answer": "Miasta mają dwie nazwy (np. Brugge / Bruges, Liège / Luik). Na autostradach nazwy na tablicach zmieniają się w zależności od regionu.",
+      "category": "Turystyka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "question": "Czym jest Namur i jakie są jego dwie główne atrakcje?",
+      "answer": "Stolica regionu Walonii, leżąca u ujścia rzeki Sambry do Mozy. Główne atrakcje to potężna Cytadela (Citadelle de Namur) – jedna z największych twierdz w Europie wznosząca się nad miastem – oraz historyczne centrum z kościołem Saint-Aubain i licznymi muzuami.",
+      "category": "Namur – Walonia",
+      "difficulty": "medium"
+    }
+  ]
+}

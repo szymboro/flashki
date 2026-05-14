@@ -1,0 +1,112 @@
+{
+  "id": "flashcard-set-watykan",
+  "title": "Watykan – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące ustrój, położenie, zabytki i funkcje kulturowo-religijne Watykanu.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Czym jest Watykan pod względem ustrojowym?",
+      "answer": "Teokratyczna monarchia elekcyjna. Głową państwa jest papież wybierany przez konklawe.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Gdzie leży Watykan?",
+      "answer": "Enklawy wewnątrz Rzymu, po zachodniej stronie Tybru, na Wzgórzu Watykańskim.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Ile osób zamieszkuje Watykan i czym się zajmują?",
+      "answer": "Ok. 800 osób – duchowni, dyplomaci i Gwardia Szwajcarska. Obywatelstwo związane z funkcją, nie urodzeniem.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jaki jest status turystyczno-dziedzictwa Watykanu?",
+      "answer": "Cały Watykan jest wpisany na listę UNESCO.",
+      "category": "UNESCO",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Plac Świętego Piotra i kto go zaprojektował?",
+      "answer": "Wielkie kolumnowe forum przed Bazyliką. Kolumnada według projektu Berniniego. Miejsce audiencji generalnych i modlitwy Anioł Pański.",
+      "category": "Plac Świętego Piotra",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Co to jest Pieta Michała Anioła i gdzie się znajduje?",
+      "answer": "Marmurowa rzeźba Maryi trzymającej ciało Chrystusa. Jedyne podpisane dzieło Michała Anioła. Stoi w Bazylice Świętego Piotra.",
+      "category": "Bazylika Świętego Piotra",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Co to jest Baldachin Berniniego?",
+      "answer": "Monumentalna brązowa konstrukcja (29 m) nad ołtarzem głównym Bazyliki, dokładnie nad grobem Apostoła Piotra.",
+      "category": "Bazylika Świętego Piotra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Co kryją Groty Watykańskie?",
+      "answer": "Podziemna nekropolia pod Bazyliką – groby papieży (m.in. Jana Pawła II i Benedykta XVI) oraz królów.",
+      "category": "Groty Watykańskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co jest głównym celem pielgrzymów w Grotach Watykańskich?",
+      "answer": "Grób Jana Pawła II (do czasu jego beatyfikacji właśnie tu się znajdował) i innych papieży.",
+      "category": "Groty Watykańskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Kaplica Sykstyńska i jakie pełni dwie kluczowe funkcje?",
+      "answer": "Miejsce wyboru papieża (Konklawe). Ozdobiona słynnym freskiem Michała Anioła: 'Stworzenie Adama' (sufit) i 'Sąd Ostateczny' (ściana ołtarzowa).",
+      "category": "Kaplica Sykstyńska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Czym są Muzea Watykańskie?",
+      "answer": "Jeden z największych kompleksów muzealnych na świecie – kolekcja papieska zgromadzona przez stulecia. Liczą kilkadziesiąt galerii.",
+      "category": "Muzea Watykańskie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Gdzie papież mieszka na co dzień, a co to jest Pałac Apostolski?",
+      "answer": "Papież Franciszek zamieszkuje Dom Świętej Marty. Pałac Apostolski pełni funkcje reprezentacyjne i administracyjne.",
+      "category": "Pałac Apostolski",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Sala Pawła VI?",
+      "answer": "Nowoczesna sala audiencji (część budynku leży w granicach Włoch) używana na środowe audiencje papieskie podczas złej pogody.",
+      "category": "Sala Pawła VI",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym są Ogrody Watykańskie i jaki procent powierzchni państwa zajmują?",
+      "answer": "Ogrody Watykańskie obejmują ponad 50% powierzchni Państwa Watykańskiego (ok. 23 ha). Są niedostępne dla zwykłych turystów (wymagają specjalnej rezerwacji). Zawierają fontanny, rzeźby, pawilony, a od XX w. również miniaturę sanktuarium w Lourdes.",
+      "category": "Ogrody Watykańskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Kościół Świętej Anny (Chiesa di Sant'Anna dei Palafrenieri) w Watykanie?",
+      "answer": "Jedyny kościół parafialny Państwa Watykańskiego, obsługujący mieszkańców i pracowników Watykanu. Zbudowany w XVI w., stoi przy Bramie Świętej Anny. Jest dostępny dla zwiedzających jako jedyny kościół watykański poza Bazyliką Świętego Piotra.",
+      "category": "Kościół Świętej Anny",
+      "difficulty": "hard"
+    }
+  ]
+}

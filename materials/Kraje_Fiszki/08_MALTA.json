@@ -1,0 +1,119 @@
+{
+  "id": "flashcard-set-malta",
+  "title": "Malta – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące skład archipelagu, zabytki prehistoryczne, główne miejscowości i atrakcje przyrodnicze Malty.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Z ilu zamieszkanych wysp składa się Malta i jak się nazywają?",
+      "answer": "Trzech: Malta (największa, centrum administracyjne), Gozo (bardziej zielona i spokojna) oraz Comino (prawie niezamieszkana, raj dla nurków).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Dlaczego Malta jest wyjątkowa pod względem zaludnienia w UE?",
+      "answer": "Jest najgęściej zaludnionym państwem Unii Europejskiej.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jakie wpływy kulturowe wyróżniają Maltę spośród innych państw?",
+      "answer": "Silne wpływy brytyjskie – ruch lewostronny i język angielski jako urzędowy.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Dlaczego megality Malty są niezwykłe w skali światowej?",
+      "answer": "Są starsze niż piramidy w Egipcie.",
+      "category": "Megality",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Mnajdra i gdzie leży?",
+      "answer": "Kompleks trzech prehistorycznych świątyń megalitycznych na wyspie Malta, na klifowym brzegu. Prawdopodobnie związany z obserwacjami astronomicznymi (przesilenia).",
+      "category": "Megality – Mnajdra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Skąd pochodzi nazwa świątyni Ggantija na Gozo?",
+      "answer": "Od słowa 'gigant' – miejscowi wierzyli, że tak potężne bloki skalne mogli wznieść tylko olbrzymi.",
+      "category": "Megality – Ggantija",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Co sprawia, że Valletta jest wyjątkową stolicą?",
+      "answer": "Miasto-twierdza zbudowane przez Zakon Maltański, w całości wpisane na listę UNESCO. Mieści Konkatedral Św. Jana (z obrazem Caravaggia), Pałac Wielkich Mistrzów i ogrody Upper Barrakka.",
+      "category": "Valletta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Mdina i kto ją zamieszkuje?",
+      "answer": "'Ciche Miasto' – dawna stolica Malty na wzgórzu, otoczona murami. Pełni funkcję historyczną i luksusową – zamieszkana przez arystokrację.",
+      "category": "Mdina i Rabat",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Co turystycznego oferuje Rabat – przedmieście Mdiny?",
+      "answer": "Katakumby św. Pawła i św. Agaty – funkcja religijna i turystyka archeologiczna.",
+      "category": "Mdina i Rabat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Z jakiego historycznego zdarzenia słynie Rotunda w Moście?",
+      "answer": "Kościół z jedną z największych kopuł w Europie. Słynny 'cud' z II wojny światowej – niemiecka bomba przebiła kopułę, ale nie wybuchła.",
+      "category": "Mosta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Co to jest Hypogeum Ħal Saflieni w Paoli?",
+      "answer": "Podziemna struktura wykuta w skale, służąca jako sanktuarium i nekropolia. Najcenniejszy zabytek prehistoryczny wyspy (UNESCO). Wymagana rezerwacja z wielomiesięcznym wyprzedzeniem.",
+      "category": "Paola – Hypogeum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Blue Grotto (Błękitna Grota) na Malcie?",
+      "answer": "System jaskiń morskich na południu Malty słynący z niesamowitego błękitnego koloru wody (odbicie światła od piaszczystego dna). Turystyka łodziami.",
+      "category": "Atrakcje przyrodnicze",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Dlaczego Blue Lagoon (Błękitna Laguna) na Comino jest tak popularna?",
+      "answer": "To przesmyk z turkusową wodą między wyspami Comino i Cominotto – najpopularniejsze miejsce do kąpieli i nurkowania w całym archipelagu.",
+      "category": "Atrakcje przyrodnicze",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Z jakim wydarzeniem biblijnym związane są Wyspy Świętego Pawła?",
+      "answer": "Według tradycji tu w 60 r. n.e. rozbił się statek wiozący św. Pawła do Rzymu.",
+      "category": "Turystyka religijna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Blue Lagoon na wyspie Comino?",
+      "answer": "Blue Lagoon (Błękitna Laguna) to płytka zatoka na wyspie Comino ze słynącą z krystalicznie czystą, turkusową wodą. Jest jedną z najpopularniejszych atrakcji turystycznych Malty, tłumnie odwiedzaną latem. Na wyspie Comino stale mieszka zaledwie kilka osób, a logiką wyspy jest całkowity brak samochodów.",
+      "category": "Comino – Blue Lagoon",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym są Wyspy Świętego Pawła (St. Paul's Islands) koło Malty?",
+      "answer": "Małe, niezamieszkałe wysepki u północnego wybrzeża Malty, gdzie według tradycji rozbił się statek apostoła Pawła ok. 60 roku n.e. Na jednej z wysepek stoi biała statua świętego Pawła. Miejsce ważne dla turystyki religijnej i historycznej.",
+      "category": "Wyspy Świętego Pawła",
+      "difficulty": "medium"
+    }
+  ]
+}

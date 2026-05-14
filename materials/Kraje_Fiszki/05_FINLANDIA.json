@@ -1,0 +1,238 @@
+{
+  "id": "flashcard-set-1785937584435",
+  "title": "Finlandia – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, Laponię, pojezierze, wyspy alandzkie, Lahti, główne miasta, saunę i kulturę fińską.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jak Finlandia jest nazywana potocznie i ile jezior naprawdę posiada?",
+      "answer": "'Kraj Tysiąca Jezior', choć w rzeczywistości jest ich ponad 180 000.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Czym wyróżnia się Finlandia na tle innych krajów skandynawskich pod względem waluty?",
+      "answer": "Jako jedyny kraj skandynawski przyjęła euro (EUR).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jaki jest ustrój Finlandii i jak wygląda jej klimat na północy?",
+      "answer": "Republika parlamentarna. Na północy klimat subarktyczny – charakterystyczne noce polarne zimą i dni polarne latem.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Co to jest Wioska Świętego Mikołaja w Rovaniemi i gdzie dokładnie leży?",
+      "answer": "Całoroczny ośrodek turystyczny leżący dokładnie na linii koła podbiegunowego. Można spotkać Świętego Mikołaja, przekroczyć koło podbiegunowe i wysłać list z oficjalnym stemplem.",
+      "category": "Laponia – Rovaniemi",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest SantaPark w Rovaniemi?",
+      "answer": "Podziemny park rozrywki wykuty w skale (Grota Świętego Mikołaja). Oferuje Szkołę Elfów, Galerię Lodową i przejażdżki pociągiem magicznym.",
+      "category": "Laponia – Rovaniemi",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Co to jest muzeum Arktikum w Rovaniemi?",
+      "answer": "Muzeum i centrum nauki poświęcone przyrodzie Arktyki oraz kulturze Saamów – rdzennych mieszkańców Laponii.",
+      "category": "Laponia – Rovaniemi",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Jakie atrakcje turystyczne oferuje Park Narodowy Pallas-Yllästunturi?",
+      "answer": "Trekking (najstarszy szlak pieszy Finlandii Hetta–Pallas), narciarstwo (Ylläs – jedne z najdłuższych tras), psie zaprzęgi i safari z reniferami.",
+      "category": "Laponia – Park Pallas-Yllästunturi",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Co wyróżnia jezioro Saimaa spośród fińskich jezior?",
+      "answer": "Największe jezioro Finlandii (4. w Europie) – skomplikowany system połączonych zbiorników. Dom endemicznej i zagrożonej wyginięciem foki obrączkowanej.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Do czego służy jezioro Päijänne (drugie co do wielkości w Finlandii)?",
+      "answer": "Główne źródło wody pitnej dla aglomeracji Helsinek – prowadzi tam gigantyczny tunel skalny.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "10",
+      "question": "Czym słynie Savonlinna i co się tam odbywa co roku?",
+      "answer": "Leży na wyspach między jeziorami Saimaa. Znana z najlepiej zachowanego w Skandynawii średniowiecznego zamku Olavinlinna, gdzie odbywa się słynny coroczny festiwal operowy.",
+      "category": "Pojezierze – Savonlinna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym słynie Tampere i jak jest geograficznie położone?",
+      "answer": "Największe miasto śródlądowe Skandynawii, leżące na przesmyku między jeziorami Näsijärvi i Pyhäjärvi. Dawne centrum przemysłowe, dziś ośrodek kultury i muzeum Muminków.",
+      "category": "Pojezierze – Tampere",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Jätkänkämppä w Kuopio?",
+      "answer": "Największa na świecie sauna dymna.",
+      "category": "Pojezierze – Kuopio",
+      "difficulty": "hard"
+    },
+    {
+      "id": "13",
+      "question": "Z jakim architektem związane jest miasto Jyväskylä?",
+      "answer": "Z Alvarem Aalto – to stolica jego architektury, położona nad jeziorem Päijänne.",
+      "category": "Pojezierze – Jyväskylä",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Jaki status mają Wyspy Alandzkie i jaki język jest tam urzędowy?",
+      "answer": "Autonomiczny archipelag należący do Finlandii. Jedynym językiem urzędowym jest szwedzki, mimo przynależności do Finlandii.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym wyjątkowym charakteryzują się Wyspy Alandzkie pod względem militarnym?",
+      "answer": "Są strefą całkowicie zdemilitaryzowaną – brak wojska, fortyfikacji i obowiązku służby wojskowej dla mieszkańców.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Co to jest statek-muzeum Pommern w Mariehamn?",
+      "answer": "Jedyny na świecie oryginalny czteromasztowy stalowy bark zachowany w niezmienionym stanie. Symbol morskiej potęgi Wysp Alandzkich.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "17",
+      "question": "Jak nazywana jest stolica Wysp Alandzkich i jakie ma przezwisko?",
+      "answer": "Mariehamn – nazywana 'miastem tysiąca lip'.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Ile razy Lahti organizowało Mistrzostwa Świata w Narciarstwie Klasycznym?",
+      "answer": "Rekordową liczbę 7 razy.",
+      "category": "Lahti",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Jak nazywają się coroczne zawody narciarskie w Lahti?",
+      "answer": "Lahti Ski Games.",
+      "category": "Lahti",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest Finlandia-hiihto?",
+      "answer": "Największy w Finlandii masowy bieg narciarski (odpowiednik polskiego Biegu Piastów), którego trasa przebiega przez lasy i zamarznięte akweny wokół Lahti.",
+      "category": "Lahti",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym jest Twierdza Suomenlinna w Helsinkach?",
+      "answer": "Potężna forteca morska (UNESCO) położona na sześciu wyspach – jeden z największych zabytków militarnych Europy.",
+      "category": "Helsinki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Co to jest Temppeliaukio w Helsinkach?",
+      "answer": "Kościół w Skale – unikatowa świątynia wykuta w granitowej skale, przykryta miedzianą kopułą. Perła nowoczesnej architektury.",
+      "category": "Helsinki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Dlaczego Turku jest historycznie ważne dla Finlandii?",
+      "answer": "To najstarsze miasto i dawna stolica Finlandii (do 1812 r.), ze średniowiecznym zamkiem i najważniejszą świątynią luterańską w kraju.",
+      "category": "Turku",
+      "difficulty": "easy"
+    },
+    {
+      "id": "24",
+      "question": "Czym wyjątkowym słynie Rauma na liście UNESCO?",
+      "answer": "Vanha Rauma – największy w krajach nordyckich kompleks historycznej zabudowy drewnianej (ok. 600 budynków). Słynie z tradycji koronczarskich.",
+      "category": "Rauma – UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Z czym turystycznie kojarzy się Naantali?",
+      "answer": "Z parkiem Muumimaailma (Świat Muminków) na wyspie Kailo oraz letnią rezydencją prezydenta Finlandii – Kultaranta z ogrodami różanymi.",
+      "category": "Naantali",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Ile saun przypada na mieszkańca w Finlandii?",
+      "answer": "Ponad 3 miliony saun na ok. 5,5 miliona mieszkańców – sauna to codzienność, a nie luksus.",
+      "category": "Kultura – Sauna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest 'löyly' w tradycji sauny fińskiej?",
+      "answer": "Uderzenie pary wodnej powstające przez polewanie wodą rozgrzanych kamieni (kiuas).",
+      "category": "Kultura – Sauna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Co to jest vasta/vihta w fińskiej saunie?",
+      "answer": "Wiązka brzozowych gałązek, którą delikatnie chłosta się ciało, by poprawić krążenie i nadać skórze zapach lasu.",
+      "category": "Kultura – Sauna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Czym jest 'Poronkäristys' i z jakiego regionu pochodzi?",
+      "answer": "Najsłynniejsze danie Laponii – cienko pokrojone plastry mięsa renifera duszone na maśle z cebulą, podawane z tłuczonymi ziemniakami i konfiturą z brusznicy.",
+      "category": "Kuchnia regionalna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Jak w języku fińskim nazywa się zorza polarna i co oznacza ta nazwa?",
+      "answer": "Revontulet – 'lis ogień'. Według legendy lis biegający po wzgórzach uderza ogonem o śnieg, krzesząc iskry na niebo.",
+      "category": "Kultura – Zorza Polarna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "31",
+      "question": "Czym są szklane igloo w Kakslauttanen?",
+      "answer": "Infrastruktura turystyczna do obserwacji zorzy polarnej bez wychodzenia z ciepłego łóżka – szklany sufit pozwala podziwiać niebo.",
+      "category": "Kultura – Zorza Polarna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "question": "Czym jest Inari i z jakiej kultury jest znane?",
+      "answer": "Inari to gmina w fińskiej Laponii na skrajnej północy kraju. Leży nad jeziorem Inarijärvi – trzecim co do wielkości jeziorem Finlandii. Jest centrum kultury Saamów (rdzenni mieszkańcy Laplandii): mieści się tu muzeum SIIDA, siedziba parlamentu Saamów (Sámediggi) oraz liczne miejsca związane z tradycjami pasterstwa reniferów i rybołówstwa.",
+      "category": "Inari – Kultura Saamów",
+      "difficulty": "hard"
+    },
+    {
+      "id": "33",
+      "question": "Co to jest Pallas-Yllästunturi i z jakiej kultury pochodzi wiedza o tamtejszych tradycjach?",
+      "answer": "Pallas-Yllästunturi to największy park narodowy w Finlandii (Laponia), rozciągający się między fjellami Yllästunturi i Pallastunturi. Na jego terenie i w okolicach pielęgnowane są tradycje Saamów: wypas reniferów, joik (tradycyjny śpiew), wytwarzanie rzemiosła (duodji) oraz siida – system wspólnotowego zarządzania ziemią.",
+      "category": "Park Pallas-Yllästunturi – Saami",
+      "difficulty": "hard"
+    }
+  ]
+}

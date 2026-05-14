@@ -1,0 +1,182 @@
+{
+  "id": "flashcard-set-holandia",
+  "title": "Holandia – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, ustrój, Amsterdam, Rotterdam, Hagę, IJsselmeer, Zelandię, Fryzję i Giethoorn.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jakie są dwie stolice Holandii i jaką pełnią funkcję?",
+      "answer": "Amsterdam – stolica konstytucyjna; Haga (Den Haag) – stolica administracyjna (siedziba rządu i króla).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Co to jest depresja i jak dotyka Holandię?",
+      "answer": "Teren leżący poniżej poziomu morza. Ponad 25% Holandii leży poniżej poziomu morza. Kraj chroniony systemem polderów, grobli i zapór (Projekt Delta).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Z czego Holandia jest liderem eksportowym w Europie?",
+      "answer": "Z eksportu kwiatów i serów. Port Rotterdam to największy port Europy.",
+      "category": "Gospodarka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Dlaczego Amsterdam nazywany jest 'Wenecją Północy'?",
+      "answer": "Zbudowany na palach nad rzeką Amstel i siecią kanałów (XVII-wieczny Grachtengordel – UNESCO).",
+      "category": "Amsterdam",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Jakie trzy kluczowe muzea działają w Amsterdamie?",
+      "answer": "Rijksmuseum (dzieła Rembrandta), Muzeum van Gogha, Dom Anny Frank.",
+      "category": "Amsterdam",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Co to jest Giełda Kwiatowa w Aalsmeer?",
+      "answer": "Royal FloraHolland – największa na świecie giełda kwiatowa. Turystom udostępnione pomosty nad halą aukcyjną do obserwacji obrotu milionami kwiatów.",
+      "category": "Aalsmeer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym architektonicznie wyróżnia się Rotterdam?",
+      "answer": "Całkowicie zniszczony w II wojnie, dziś najbardziej nowoczesne miasto Holandii. Domy Kostki (Kubuswoningen), Markthal z gigantyzmem muralu, Most Erasmusa (wantowy symbol miasta).",
+      "category": "Rotterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Jakie najważniejsze instytucje mają siedzibę w Hadze?",
+      "answer": "Parlament holenderski (Binnenhof), Pałac Pokoju – siedziba Międzynarodowego Trybunału Sprawiedliwości ONZ, galeria Mauritshuis ('Dziewczyna z perłą' Vermeera).",
+      "category": "Haga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Czym jest Madurodam w Hadze?",
+      "answer": "Park miniatur przedstawiający Holandię w skali 1:25.",
+      "category": "Haga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Scheveningen i gdzie leży?",
+      "answer": "Najpopularniejszy nadmorski kurort w Holandii (szeroka plaża, molo, luksusowy hotel Kurhaus), leżący w obrębie Hagi.",
+      "category": "Haga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Co to jest Afsluitdijk (Wielka Grobla) i kiedy powstała?",
+      "answer": "Grobla o długości 32 km odcinająca dawną zatokę morską Zuiderzee od Morza Północnego, zbudowana w 1932 r. Tworzy dziś słodkie jezioro IJsselmeer.",
+      "category": "IJsselmeer",
+      "difficulty": "hard"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Flevoland i kiedy powstała ta prowincja?",
+      "answer": "Najmłodsza prowincja Holandii, w całości stworzona przez człowieka na osuszonym dnie jeziora IJsselmeer (poldery).",
+      "category": "IJsselmeer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym słynie Volendam i jak wygląda?",
+      "answer": "Najsłynniejsza wioska rybacka Holandii, znana z folkloru, strojów ludowych i wędzonego węgorza.",
+      "category": "IJsselmeer – Volendam",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Co to jest polder?",
+      "answer": "Sztucznie osuszony teren, pierwotnie zalany wodą. Otacza się go groblami i wypompowuje wodę (dawniej wiatraki). Większość polderów to depresje – leżą poniżej poziomu otaczającej wody. Przeznaczane pod rolnictwo, budownictwo lub lotniska (np. Schiphol).",
+      "category": "Pojęcia geograficzne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "question": "Jaka jest symbolika herbu prowincji Zelandia i co oznacza jej łacińskie motto?",
+      "answer": "Herb przedstawia lwa wynurzającego się z fal z napisem 'Luctor et Emergo' – 'Walczę i zwyciężam'. Odzwierciedla zmagania mieszkańców z powodziami.",
+      "category": "Zelandia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "16",
+      "question": "Co to jest Projekt Delta (Deltawerken) i jak powstał?",
+      "answer": "System gigantycznych tam, śluz i barier sztormowych zbudowany po katastrofalnej powodzi 1953 roku. Uznawany za jeden z siedmiu współczesnych cudów świata.",
+      "category": "Zelandia – Projekt Delta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Co to jest Park Neeltje Jans w Zelandii?",
+      "answer": "Sztuczna wyspa będąca częścią Projektu Delta z centrum edukacyjnym pokazującym działanie barier przeciwsztormowych.",
+      "category": "Zelandia – Projekt Delta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co to jest Morze Wattowe (Waddenzee) i jaką atrakcję turystyczną oferuje?",
+      "answer": "Unikalny akwen (UNESCO) – podczas odpływu zamienia się w ogromne błotne równiny. Atrakcja: Wandelen (Wadloop) – spacery po dnie morza podczas odpływu z przewodnikiem.",
+      "category": "Wyspy Zachodniofryzyjskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Czym jest fryzyjska jedenastka (Elfstedentocht)?",
+      "answer": "Legendarny wyścig łyżwiarski łączący 11 fryzyjskich miast – odbywa się tylko w bardzo mroźne zimy. Latem turyści pokonują tę trasę rowerami lub łodziami.",
+      "category": "Fryzja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Z czym kojarzona jest Mata Hari i gdzie się urodziła?",
+      "answer": "Słynna tancerka i szpieg urodziła się w Leeuwarden – stolicy prowincji Fryzja.",
+      "category": "Fryzja – Leeuwarden",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Dlaczego Giethoorn nazywane jest 'Holenderską Wenecją'?",
+      "answer": "Brak dróg kołowych w starej części – komunikacja wyłącznie kanałami (7,5 km) i pieszo. Ponad 170 drewnianych mostków, łodzie elektryczne 'fluisterbootjes'.",
+      "category": "Giethoorn",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Skąd pochodzi nazwa Giethoorn i jak powstała sieć kanałów w tej miejscowości?",
+      "answer": "Nazwa od 'Geytenhoren' (kozi róg) – pierwsi osadnicy znaleźli rogi kóz z powodzi 1170 r. Kanały powstały przez zalanie wyrobisk po wydobyciu torfu.",
+      "category": "Giethoorn",
+      "difficulty": "hard"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest Enkhuizen i co to jest Zuiderzeemuseum?",
+      "answer": "Historyczne miasto nad dawnym Zuiderzee (dziś IJsselmeer). Mieści się tam Zuiderzeemuseum – muzeum na otwartym powietrzu prezentujące życie rybackich wiosek sprzed 1932 roku, stare łodzie i tradycyjne rzemiosło. Część muzeum to replika dawnej wioski rybackiej.",
+      "category": "Enkhuizen – Zuiderzeemuseum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym wyróżnia się wioska Marken w Holandii?",
+      "answer": "Dawna wyspa (dziś połączona groblą) znana z drewnianych domów budowanych na palach lub sztucznych wzniesieniach (terpach), malowniczego portu i tradycyjnych strojów ludowych. Popularna destynacja turystyczna blisko Amsterdamu.",
+      "category": "Marken",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Middelburg i jakie trzy atrakcje go wyróżniają?",
+      "answer": "Stolica prowincji Zelandia (Zeeland) na wyspie Walcheren. Wyróżnia go gotycki ratusz (jeden z najpiękniejszych w Holandii), średniowieczne Opactwo (Abdij) z dwiema kościołami i wieżą Lange Jan oraz historyczne kanały otaczające centrum.",
+      "category": "Middelburg – Zelandia",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "flashcard-set-wlochy",
+  "title": "Włochy – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, Alpy, Dolomity, jeziora, Wenecję, Mediolan, Florencję, Rzym, Sycylię, Sardynię i wiele więcej.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jakie dwa mikropaństwa leżą wewnątrz granic Włoch?",
+      "answer": "Watykan (enklawy w Rzymie) i San Marino (enklawy w środkowych Włoszech).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Ile procent terenu Włoch jest górzyste?",
+      "answer": "Ok. 80%.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Dlaczego Dolomity są wyjątkowe przyrodniczo?",
+      "answer": "Wapienno-dolomitowe formacje skalne o różowym odcieniu w świetle zachodzącego słońca (enrosadira). UNESCO.",
+      "category": "Alpy i Dolomity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Z czego słynie Turyn (Torino) jako centrum kultury i przemysłu?",
+      "answer": "Siedziba FIAT, Muzeum Egipskie (jedno z najlepszych na świecie), Całun Turyński. Gospodarz Zimowych IO 2006.",
+      "category": "Turyn",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Jak nazywają się trzy największe włoskie jeziora i czym się charakteryzują?",
+      "answer": "Garda (największe), Como (kształt litery Y, ulubione przez celebrytów) i Maggiore (2. co do wielkości, graniczne z Szwajcarią). Śródziemnomorski mikroklimat.",
+      "category": "Jeziora Alpejskie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Czym słyną Wyspy Borromejskie na Lago Maggiore?",
+      "answer": "Zespół barokowych pałaców i ogrodów tarasowych – Isola Bella z pałacem i ogrodami w kształcie statku.",
+      "category": "Jeziora – Maggiore",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Gdzie w Alpach leżą Cortina d'Ampezzo i Livigno i czym się różnią?",
+      "answer": "Cortina d'Ampezzo: luksusowa 'Królowa Dolomitów', gospodarz IO zimowych 2026. Livigno: dłuższy sezon narciarski + bezcelna strefa.",
+      "category": "Narciarstwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Dlaczego Wenecja jest unikatowym miastem?",
+      "answer": "Zbudowana na ponad 100 wyspach. Komunikacja kanałami (Canal Grande) zamiast ulic. Zagrożona zatonięciem.",
+      "category": "Wenecja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Co to jest Bazylika Świętego Marka i jaką rolę pełniła historycznie?",
+      "answer": "Była kaplicą pałacową Dożów – władców Republiki Weneckiej. Klejnot architektury bizantyjsko-romańskiej.",
+      "category": "Wenecja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Który most w Wenecji jest najstarszy i co symbolizuje?",
+      "answer": "Most Rialto – najstarszy most nad Canale Grande, symbol handlowego dziedzictwa Wenecji.",
+      "category": "Wenecja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Z jakich trzech ikonicznych zabytków słynie Mediolan?",
+      "answer": "Katedra Duomo (jedna z największych gotyckich na świecie), Galeria Vittorio Emanuele II (luksusowe pasaże), Teatr La Scala (opera).",
+      "category": "Mediolan",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Arena di Verona?",
+      "answer": "Starożytny amfiteatr rzymski z I w. n.e. Dziś jedno z najlepszych plenerowych miejsc operowych na świecie.",
+      "category": "Werona",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Z jakim najstarszym uniwersytetem świata zachodniego związane jest Bologna?",
+      "answer": "Università di Bologna – założona w 1088 roku, najstarsza w świecie zachodnim.",
+      "category": "Bolonia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Dlaczego Rawenna jest ważna dla historii sztuki?",
+      "answer": "Stolica Zachodniego Cesarstwa Rzymskiego. Posiada najlepsze mozaiki bizantyjskie w Europie (bazylika San Vitale, Mauzoleum Galli Placydii). UNESCO.",
+      "category": "Rawenna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Koloseum w Rzymie?",
+      "answer": "Amfiteatr z I w. n.e. o pojemności ok. 50 000 widzów. Symbol Rzymu i jeden z siedmiu cudów nowożytnego świata.",
+      "category": "Rzym",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym wyróżnia się Panteon w Rzymie?",
+      "answer": "Najlepiej zachowany budynek starożytny – świątynia wszystkich bogów z betonową kopułą (bez armatury). Dziś kościół i mauzoleum królów włoskich.",
+      "category": "Rzym",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest Florencja i z jakim artystycznym przełomem jest związana?",
+      "answer": "Kolebka włoskiego Renesansu. Kopuła Brunelleschiego na katedrze Santa Maria del Fiore i Galeria Uffizi (kolekcja malarstwa włoskiego).",
+      "category": "Florencja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "18",
+      "question": "Czym jest Ponte Vecchio we Florencji?",
+      "answer": "Najstarszy most Florencji nad Arno, gdzie od średniowiecza działają jubilerzy i złotnicy.",
+      "category": "Florencja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Dlaczego Piza jest celem turystycznym?",
+      "answer": "Słynna Krzywa Wieża (dzwonnica katedry) i całe Piazza dei Miracoli – symbol architektury romańskiej.",
+      "category": "Piza",
+      "difficulty": "easy"
+    },
+    {
+      "id": "20",
+      "question": "Z czego słynie Asyż w Umbrii?",
+      "answer": "Centrum pielgrzymek franciszkańskich. Bazylika Świętego Franciszka z freskami Giotta.",
+      "category": "Asyż",
+      "difficulty": "easy"
+    },
+    {
+      "id": "21",
+      "question": "Czym jest Monte Cassino i co łączy to miejsce z Polską?",
+      "answer": "Opactwo benedyktyńskie (pierwsze opactwo zakonu). Polski Cmentarz Wojskowy – mogiły żołnierzy 2. Korpusu Polskiego z bitwy 1944.",
+      "category": "Monte Cassino",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Czym jest Etna?",
+      "answer": "Najwyższy czynny wulkan w Europie (ok. 3350 m, zmienność z aktywnością). Leży na Sycylii.",
+      "category": "Sycylia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest Dolina Świątyń (Valle dei Templi) na Sycylii?",
+      "answer": "Największy i najlepiej zachowany kompleks świątyń starożytnej Grecji poza Grecją, w Agrygencie. UNESCO.",
+      "category": "Sycylia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym są nuraghi i gdzie je można zobaczyć?",
+      "answer": "Unikatowe prehistoryczne kamienne wieże – symbol Sardynii. Zagadkowe budownictwo sprzed ok. 3500 lat.",
+      "category": "Sardynia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym słynie Costa Smeralda na Sardynii?",
+      "answer": "Ekskluzywne wybrzeże na północy Sardynii z kryształową wodą. Symbol luksusowej turystyki.",
+      "category": "Sardynia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "26",
+      "question": "Czym są Cinque Terre?",
+      "answer": "Pięć kolorowych wiosek na klifowym wybrzeżu Ligurii, połączonych szlakami turystycznymi. UNESCO.",
+      "category": "Riwiera Liguryjska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Czym słynie Rimini nad Adriatykiem?",
+      "answer": "Jedno z najpopularniejszych europejskich nadmorskich kurortów – szerokie, płytkie i bezpieczne plaże, nocne życie, parki rozrywki.",
+      "category": "Wybrzeże Adriatyckie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "28",
+      "question": "Czym jest Błękitna Grota (Grotta Azzurra) na Capri?",
+      "answer": "Jaskinia morska, w której woda świeci niebieskawym blaskiem (efekt załamania światła). Symbol wyspy Capri.",
+      "category": "Capri",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Z czego turystycznie słynie Wybrzeże Amalfitańskie?",
+      "answer": "Jedno z najpiękniejszych wybrzeży na świecie z luksusowymi hotelami na klifach, Positano i tarasowymi uprawami cytryn do produkcji limoncello.",
+      "category": "Wybrzeże Amalfitańskie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "30",
+      "question": "Czym jest wulkaniczna Ischia?",
+      "answer": "'Zielona Wyspa' – ośrodek wellness z termalnymi ogrodami Posejdona (Poseidon Thermal Gardens). Turystyka spa i zdrowotna.",
+      "category": "Ischia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym jest Trydent (Trento) i jakie ma historyczne znaczenie?",
+      "answer": "Miasto w dolinie rzeki Adygi, serce regionu Trydent-Górna Adyga. Znane z Zamku Buonconsiglio oraz jako miejsce obrad Soboru Trydenckiego (1545–1563). Strategiczny punkt wypadowy w Dolomity.",
+      "category": "Trydent",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Jakie trzy najważniejsze atrakcje turystyczne ma Padwa (Padova)?",
+      "answer": "Bazylika św. Antoniego z charakterystycznymi kopułami (światowe centrum pielgrzymkowe), Prato della Valle – jeden z największych placów w Europie z kanałem i posągami, oraz Uniwersytet Padewski – jeden z najstarszych w Europie (studiował tu Kopernik).",
+      "category": "Padwa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Z czego słynie Genua (Genova) i co jest jej główną atrakcją turystyczną?",
+      "answer": "Stolica Ligurii i największy port morski Włoch. Stare miasto to labirynt wąskich uliczek (caruggi) z bogatą historią handlową. Mieści się tu największe Akwarium w Europie.",
+      "category": "Genua",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Jaką rolę turystyczną pełni Neapol i co warto w nim zobaczyć?",
+      "answer": "Największe miasto południa Włoch, leżące u stóp Wezuwiusza. Pełni funkcję głównej bazy wypadowej do Pompejów i Herkulanum. Zabytki to Pałac Królewski i Castel Nuovo.",
+      "category": "Neapol",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Czym jest Dom Julii (Casa di Giulietta) w Weronie?",
+      "answer": "Kamienica z legendarnym balkonem, główny cel turystyki sentymentalnej związanej z dramatem Szekspira 'Romeo i Julia'. Uzupełnia Arenę di Verona jako drugi filar turystyki w mieście.",
+      "category": "Werona – Dom Julii",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "flashcard-set-rumunia",
+  "title": "Rumunia – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, Bukareszt, Transylwanię, Wołoszczyznę, Mołdawię, klasztory, wybrzeże Morza Czarnego i zimowiska.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Co wyjątkowego ma język rumuński na tle języków regionu?",
+      "answer": "Rumuński to jedyny język romański na Bałkanach i w Europie Wschodniej.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak Karpaty dzielą terytorium Rumunii?",
+      "answer": "Łuk Karpat dzieli kraj na trzy historyczne krainy: Transylwanię (Siedmiogród) – wewnątrz łuku, Wołoszczyznę – na południe, Mołdawię – na wschód.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Co wyróżnia Pałac Parlamentu w Bukareszcie?",
+      "answer": "Drugi co do wielkości budynek na świecie (po Pentagonie). Symbol megalomanii Nicolae Ceaușescu.",
+      "category": "Bukareszt",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Co to jest dzielnica Lipscani w Bukareszcie?",
+      "answer": "Stare centrum handlowe i kulturalne Bukaresztu, dziś centrum życia nocnego i artystycznego.",
+      "category": "Bukareszt",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym słynie Sighișoara jako miasto?",
+      "answer": "Jedyna w Europie zamieszkała i zachowana w niemal nienaruszonym stanie średniowieczna twierdza. Miejsce narodzin Vlada Palownika (Drakuli). Obiekt UNESCO.",
+      "category": "Transylwania – Sighișoara",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Z jakiego powodu Braszów (Brașov) jest ważną bramą turystyczną w Transylwanii?",
+      "answer": "Brama do Parku Narodowego Bucegi, bliskość Zamku Bran oraz siedziba największego gotyckiego kościoła – Czarnego Kościoła.",
+      "category": "Transylwania – Brașov",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Dlaczego Zamek Bran bywa nazywany 'Zamkiem Drakuli'?",
+      "answer": "Zamek zbudowany na skale w pobliżu Braszowa. Kojarzony z legendą Drakuli, choć Bram Stoker nigdy nie odwiedził Rumunii, a faktycznie był letnią rezydencją Królowej Marii.",
+      "category": "Transylwania – Zamek Bran",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym wyróżnia się Sibiu architektonicznie?",
+      "answer": "Charakter środkowoeuropejski, poddasza z 'oczami' (okculli) – małymi oknami w kształcie oczu. Słynie z Mostu Kłamców i Muzeum Brukenthal.",
+      "category": "Transylwania – Sibiu",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co to jest Twierdza Alba Carolina w Alba Iulii?",
+      "answer": "Gwiazda obronna (cytadela o planie gwiazdy) z XVIII w. Miejsce dwóch koronacji królów Rumunii.",
+      "category": "Transylwania – Alba Iulia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Jaka nieformalna stolica Transylwanii jest ośrodkiem akademickim?",
+      "answer": "Cluj-Napoca – centrum kulturalne i gospodarcze regionu.",
+      "category": "Transylwania – Cluj",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Jaka jest słynna droga górska Transfăgărășan i przez co przebiega?",
+      "answer": "Widokowa droga przez Góry Fogaraskie – uważana za jedną z najatrakcyjniejszych tras szosowych Europy.",
+      "category": "Drogi widokowe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Jaki jest styl architektoniczny Monastyru Horezu i co go wyróżnia?",
+      "answer": "Styl brâncovenesc – synteza baroku, renesansu i motywów orientalnych. Klasztor wpisany na UNESCO, znany też z tradycji ceramicznej.",
+      "category": "Klasztory Wołoszczyzny",
+      "difficulty": "hard"
+    },
+    {
+      "id": "13",
+      "question": "Dlaczego klasztory Bukowiny w Mołdawii są wyjątkowe?",
+      "answer": "Posiadają zewnętrzne freski na ścianach – malowane jako 'Biblia dla analfabetów'. Wpisane na UNESCO.",
+      "category": "Klasztory Mołdawii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Monastyr Putna i dlaczego jest ważny?",
+      "answer": "'Jerozolima Rumunii' – fundacja i miejsce pochówku Stefana Wielkiego. Centrum pielgrzymek.",
+      "category": "Klasztory Mołdawii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym słyną drewniane kościoły Maramureszu?",
+      "answer": "Zbudowane bez użycia gwoździ, z najwyższymi drewnianymi wieżami w Europie. Wpisane na UNESCO.",
+      "category": "Maramuresz",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Co to jest Wesoły Cmentarz (Cimitirul Vesel) w Săpâncy?",
+      "answer": "Słynny cmentarz w Maramureszu, gdzie nagrobki są kolorowe z humorystycznymi napisami i rzeźbami opisującymi życie i śmierć każdej osoby.",
+      "category": "Maramuresz",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest kurort Mamaia nad Morzem Czarnym?",
+      "answer": "'Rumuńskie Saint-Tropez' – wąski pas lądu między morzem a jeziorem Siutghiol. Wesołe miasteczka wodne, gondola. Najbardziej modny ośrodek plażowy Rumunii.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym słyną uzdrowiska Eforie Nord i Eforie Sud?",
+      "answer": "Balneologia – lecznicze błoto sapropelowe wydobywane z jeziora Techirghiol. Leczy choroby reumatyczne.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Z jakim starożytnym poetą kojarzą się Konstanca (Constanța)?",
+      "answer": "Z Owidiuszem, który tu był zesłany. W centrum Plac Owidiusza.",
+      "category": "Wybrzeże – Konstanca",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest Timișoara i z jakim wydarzeniem historycznym jest związana?",
+      "answer": "Wielokulturowe miasto zwane 'Małym Wiedniem'. Kolebka rewolucji 1989 roku, która obaliła Ceaușescu.",
+      "category": "Banat",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym słynie Zamek Hunedoara (Zamek Korwinów)?",
+      "answer": "Jeden z najpiękniejszych gotycko-renesansowych zamków Europy. Legenda mówi, że był tu więziony Vlad Palownik.",
+      "category": "Transylwania – Hunedoara",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Co to jest jezioro Ursu w Sovacie i czemu jest unikatowe?",
+      "answer": "Największe na świecie jezioro heliotermalne – słona woda jest ogrzewana przez słońce, leczenie chorób ginekologicznych i reumatycznych.",
+      "category": "Uzdrowiska",
+      "difficulty": "hard"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest Poiana Brașov?",
+      "answer": "Najbardziej prestiżowe i nowoczesne centrum narciarskie Rumunii, leżące przy Braszowie.",
+      "category": "Zimowiska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "24",
+      "question": "Czym jest Krajowa i co jest jej główną atrakcją?",
+      "answer": "Centrum regionu Oltenia. Znane z pięknego Parku Nicolae Romanescu – jednego z największych parków krajobrazowych w Europie – oraz secesyjnej architektury.",
+      "category": "Wołoszczyzna – Krajowa",
+      "difficulty": "hard"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Jassy (Iași) i z czego historycznie słynie?",
+      "answer": "Historyczna stolica Mołdawii rumuńskiej. Główny walor to neogotycki Pałac Kultury oraz liczne zabytkowe cerkwie, m.in. Trzech Świętych Hierarchów ze ścianami pokrytymi kamiennymi rzeźbieniami.",
+      "category": "Mołdawia – Jassy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Monastyr Horezu i dlaczego jest wpisany na listę UNESCO?",
+      "answer": "Perła regionu Oltenia na Wołoszczyźnie (UNESCO). Najważniejszy przykład stylu brâncovenesc – czysto rumuńskiego stylu architektonicznego łączącego barok, renesans i wpływy orientalne. Cechują go bogato zdobione kolumny, loggie i rzeźbione detale w kamieniu. Słynie też z tradycji wyrobu ceramiki.",
+      "category": "Klasztory Wołoszczyzny – Horezu",
+      "difficulty": "hard"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest Delta Dunaju i jakie znaczenie ma turystycznie?",
+      "answer": "Jedna z największych i najlepiej zachowanych delt rzecznych w Europie, wpisana na listę UNESCO (przyroda). Rezerwat biosfery o ogromnym bogactwie gatunkowym (ptaki, ryby, roślinność trzcinowa). Najważniejszy cel ekoturystyki w Rumunii.",
+      "category": "Delta Dunaju",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Z czego słyną Eforie Nord i Eforie Sud jako uzdrowiska?",
+      "answer": "Miejscowości uzdrowiskowe nad Morzem Czarnym, położone między morzem a słonym jeziorem Techirghiol. Słyną z leczenia błotem sapropelowym – skutecznym przy schorzeniach reumatycznych. Eforie Sud leży na wysokim klifie z pięknymi widokami.",
+      "category": "Wybrzeże – Eforie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "29",
+      "question": "Czym jest Mangalia i co warto tam zobaczyć?",
+      "answer": "Najbardziej wysunięte na południe miasto portowe i uzdrowisko klimatyczne Rumunii. Posiada pozostałości antycznego miasta Kallatis oraz najstarszy meczet w Rumunii (Esmahan Sultan).",
+      "category": "Wybrzeże – Mangalia",
+      "difficulty": "hard"
+    }
+  ]
+}

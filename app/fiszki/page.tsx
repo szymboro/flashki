@@ -6,7 +6,10 @@ import ShareOptions from "@/components/ShareOptions";
 import { deleteFlashcardSet, getFlashcardSets } from "@/lib/storage";
 import { FlashcardSet } from "@/types/flashcard";
 import {
+  ChevronDown,
+  ChevronRight,
   Edit,
+  FolderOpen,
   Play,
   Plus,
   Repeat,
@@ -15,7 +18,7 @@ import {
   Trash2,
 } from "lucide-react";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 export default function FiszkiPage() {
   const [flashcardSet, setFlashcardSet] = useState<FlashcardSet | null>(null);
@@ -34,6 +37,29 @@ export default function FiszkiPage() {
   const [shareSet, setShareSet] = useState<FlashcardSet | null>(null);
   const [mounted, setMounted] = useState(false);
   const [availableFlashcards, setAvailableFlashcards] = useState<any[]>([]);
+  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(new Set());
+
+  const groupedFlashcards = useMemo(() => {
+    const groups: Record<string, any[]> = {};
+    for (const fc of availableFlashcards) {
+      const folder =
+        typeof fc.filename === "string" && fc.filename.includes("/")
+          ? fc.filename.split("/")[0]
+          : "";
+      if (!groups[folder]) groups[folder] = [];
+      groups[folder].push(fc);
+    }
+    return groups;
+  }, [availableFlashcards]);
+
+  const toggleFolder = (folder: string) => {
+    setExpandedFolders((prev) => {
+      const next = new Set(prev);
+      if (next.has(folder)) next.delete(folder);
+      else next.add(folder);
+      return next;
+    });
+  };
 
   // Handle shared data from URL
   useEffect(() => {
@@ -494,7 +520,8 @@ export default function FiszkiPage() {
                   Dostępne zestawy fiszek
                 </h3>
                 <div className="space-y-4">
-                  {availableFlashcards.map((flashcard) => (
+                  {/* Root-level items */}
+                  {(groupedFlashcards[""] ?? []).map((flashcard) => (
                     <div
                       key={flashcard.id}
                       className="bg-gray-900 rounded-lg p-4 border border-gray-700"
@@ -526,6 +553,74 @@ export default function FiszkiPage() {
                       </div>
                     </div>
                   ))}
+                  {/* Subfolder groups */}
+                  {Object.keys(groupedFlashcards)
+                    .filter((f) => f !== "")
+                    .sort()
+                    .map((folder) => (
+                      <div
+                        key={folder}
+                        className="bg-gray-900 rounded-lg border border-gray-700 overflow-hidden"
+                      >
+                        <button
+                          onClick={() => toggleFolder(folder)}
+                          className="w-full flex items-center gap-3 p-4 text-left hover:bg-gray-800 transition-colors"
+                        >
+                          <FolderOpen size={18} className="text-yellow-400 shrink-0" />
+                          <span className="flex-1 text-base font-semibold text-yellow-300">
+                            {folder}
+                          </span>
+                          <span className="text-xs text-gray-400 mr-2">
+                            {groupedFlashcards[folder].length} zestawów
+                          </span>
+                          {expandedFolders.has(folder) ? (
+                            <ChevronDown size={16} className="text-gray-400 shrink-0" />
+                          ) : (
+                            <ChevronRight size={16} className="text-gray-400 shrink-0" />
+                          )}
+                        </button>
+                        {expandedFolders.has(folder) && (
+                          <div className="border-t border-gray-700 divide-y divide-gray-700">
+                            {groupedFlashcards[folder].map((flashcard) => (
+                              <div
+                                key={flashcard.id}
+                                className="p-4 bg-gray-900 hover:bg-gray-800/60 transition-colors"
+                              >
+                                <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-4">
+                                  <div className="flex-1 pl-7">
+                                    <h3
+                                      className="text-base font-semibold text-green-400 hover:text-green-300 cursor-pointer transition-colors"
+                                      onClick={() =>
+                                        handleLoadAvailable(flashcard.id)
+                                      }
+                                    >
+                                      {flashcard.title}
+                                    </h3>
+                                    {flashcard.description && (
+                                      <p className="text-gray-400 text-sm mt-1">
+                                        {flashcard.description}
+                                      </p>
+                                    )}
+                                    <p className="text-gray-500 text-xs mt-2">
+                                      {flashcard.flashcardCount} fiszek
+                                    </p>
+                                  </div>
+                                  <button
+                                    onClick={() =>
+                                      handleLoadAvailable(flashcard.id)
+                                    }
+                                    className="p-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors self-end sm:self-start"
+                                    title="Załaduj zestaw"
+                                  >
+                                    <Play size={18} />
+                                  </button>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    ))}
                 </div>
               </div>
             )}

@@ -1,0 +1,287 @@
+{
+  "id": "flashcard-set-1785937543945",
+  "title": "Bułgaria – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, góry, wybrzeże, historię i zabytki Bułgarii.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Jaka jest stolica Bułgarii i w jakim piśmie zapisywany jest język bułgarski?",
+      "answer": "Stolica to Sofia. Język bułgarski zapisywany jest cyrylicą – Bułgaria jest jej ojczyzną.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak nazywają się dwa największe kurorty nad Morzem Czarnym w Bułgarii?",
+      "answer": "Słoneczny Brzeg i Złote Piaski.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jakie są trzy kluczowe miejsca w Bułgarii wpisane na listę UNESCO?",
+      "answer": "Nesebyr, Monastyr Rylski i Grobowiec Tracki w Kazanłyku.",
+      "category": "UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym słynie Dolina Róż w Bułgarii i gdzie się znajduje?",
+      "answer": "To światowe centrum produkcji olejku różanego, położone w okolicach Kazanłyku.",
+      "category": "Kultura i gospodarka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Dlaczego masyw Witosza jest nazywany 'płucami Sofii'?",
+      "answer": "Ze względu na bliskość stolicy; to kopulasty masyw wulkaniczny łatwo dostępny z Sofii (kolejki linowe, autobusy miejskie).",
+      "category": "Góry – Witosza",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Jaki jest najwyższy szczyt masywu Witosza?",
+      "answer": "Czarny Wierch (Cherni Vrah) – 2290 m n.p.m.",
+      "category": "Góry – Witosza",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Jaki jest najwyższy szczyt gór Riła i Bałkanów oraz jaka jest jego wysokość?",
+      "answer": "Musala – 2925 m n.p.m. Najwyższy punkt między Alpami a Kaukazem.",
+      "category": "Góry – Riła",
+      "difficulty": "hard"
+    },
+    {
+      "id": "8",
+      "question": "Co to są Siedem Jezior Rylskich?",
+      "answer": "Najpopularniejszy cel wędrówek w Bułgarii – kaskadowo położone jeziora polodowcowe w górach Riła.",
+      "category": "Góry – Riła",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Gdzie leży Monastyr Rylski i dlaczego jest ważny?",
+      "answer": "U podnóża gór Riła. Jest najważniejszym zabytkiem religijnym Bułgarii (UNESCO) – duchowe centrum kraju z niesamowitymi freskami i cenną biblioteką.",
+      "category": "Góry – Riła",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Jaki jest najwyższy szczyt gór Piryn i z czego jest zbudowany?",
+      "answer": "Wichren (Vihren) – 2914 m n.p.m. Zbudowany z marmuru, co nadaje mu charakterystyczny biały kolor.",
+      "category": "Góry – Piryn",
+      "difficulty": "hard"
+    },
+    {
+      "id": "11",
+      "question": "Czym Bansko wyróżnia się jako ośrodek narciarski?",
+      "answer": "To najnowocześniejszy ośrodek narciarski w Europie Wschodniej, regularnie organizujący zawody Pucharu Świata.",
+      "category": "Góry – Piryn",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Z jaką legendą mitologiczną kojarzone są Rodopy?",
+      "answer": "Z legendą o Orfeuszu.",
+      "category": "Góry – Rodopy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Czym słyną Rodopy pod względem kulturowym i przyrodniczym?",
+      "answer": "Regionem jaskiń (Diabelskie Gardło, Jagodinska), głębokich wąwozów (Trigrad), unikatowych form skalnych (Cudowne Mosty), folkloru, muzyki dudziarskiej oraz mozaiki religijnej (meczety i cerkwie).",
+      "category": "Góry – Rodopy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Jaki kurort narciarski w Rodopach jest najbardziej nasłonecznionym w Bułgarii, idealnym dla początkujących?",
+      "answer": "Pamporowo.",
+      "category": "Góry – Rodopy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Dlaczego Warna jest nazywana 'letnią stolicą Bułgarii'?",
+      "answer": "Jest to największe miasto wybrzeża i kluczowy port. Posiada Muzeum Archeologiczne z najstarszym złotem świata.",
+      "category": "Wybrzeże – Warna",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Co symbolizuje Mauzoleum Władysława Warneńczyka w Warnie?",
+      "answer": "Upamiętnia śmierć króla Polski i Węgier Władysława III, który poległ w bitwie pod Warną w 1444 roku.",
+      "category": "Wybrzeże – Warna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Jaka funkcja turystyczna dominuje w Burgasie?",
+      "answer": "Główny węzeł komunikacyjny dla południowych kurortów (Słoneczny Brzeg, Nesebyr). Miasto bardziej przemysłowe i portowe niż turystyczne.",
+      "category": "Wybrzeże – Burgas",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym wyróżniają się Złote Piaski jako kurort?",
+      "answer": "Słynią z szerokiej, złotej plaży i bogatego życia nocnego. Położone na terenie Parku Przyrodniczego. W pobliżu znajduje się skalny monastyr Aładża.",
+      "category": "Wybrzeże – Złote Piaski",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Czym jest znany Bałczik (Balchik) nad Morzem Czarnym?",
+      "answer": "Nazywane 'Białym Miastem' ze względu na jasne wapienne skały. Posiada Pałac rumuńskiej królowej Marii i jeden z największych w Europie ogrodów botanicznych ze słynną kolekcją kaktusów.",
+      "category": "Wybrzeże – Bałczik",
+      "difficulty": "hard"
+    },
+    {
+      "id": "20",
+      "question": "Jaka jest funkcja turystyczna Nesebyr i co wyróżnia to miasto?",
+      "answer": "Miasto-muzeum na skalistym półwyspie (UNESCO). Słynie z największego zagęszczenia cerkwi na metr kwadratowy oraz charakterystycznych domów z kamiennym parterem i drewnianym piętrem.",
+      "category": "UNESCO – Nesebyr",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym słynie Sobór św. Aleksandra Newskiego w Sofii?",
+      "answer": "Jedna z największych cerkwi prawosławnych na świecie, zbudowana w stylu neobizantyjskim jako wotum za wyzwolenie spod panowania tureckiego.",
+      "category": "Sofia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Dlaczego Cerkiew Bojańska jest cennym zabytkiem Sofii?",
+      "answer": "Wpisana na listę UNESCO, słynie z XIII-wiecznych fresków uważanych za zapowiedź renesansu w sztuce.",
+      "category": "Sofia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Co to jest Tracki Grobowiec w Kazanłyku i z jakiego okresu pochodzi?",
+      "answer": "Najlepiej zachowany tracki grobowiec z IV w. p.n.e. (UNESCO). Słynie z fresków w kopule przedstawiających parę królewską i wyścigi rydwanów – jedne z najlepiej zachowanych przykładów malarstwa hellenistycznego.",
+      "category": "Starożytność – Kazanłyk",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Dlaczego turyści w Kazanłyku zwiedzają replikę grobowca zamiast oryginału?",
+      "answer": "Oryginał jest zamknięty dla ochrony mikroklimatu – dostęp mógłby uszkodzić unikalne freski.",
+      "category": "Starożytność – Kazanłyk",
+      "difficulty": "hard"
+    },
+    {
+      "id": "25",
+      "question": "Co to jest Perperikon i dlaczego bywa nazywany 'Bałkańskim Machu Picchu'?",
+      "answer": "Jedno z największych megalitycznych sanktuariów na Bałkanach – potężne miasto wykute w skale w Rodopach Wschodnich. Miejsce wyroczni boga Dionizosa, którą odwiedził m.in. Aleksander Wielki.",
+      "category": "Starożytność – Perperikon",
+      "difficulty": "hard"
+    },
+    {
+      "id": "26",
+      "question": "Czym słynie Płowdiw pod względem antycznym?",
+      "answer": "Posiada jeden z najlepiej zachowanych amfiteatrów antycznych (do dziś używany do koncertów) i ogromny stadion rzymski (30 tys. widzów) położony pod głównym deptakiem.",
+      "category": "Dziedzictwo rzymskie – Płowdiw",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest znana Warna pod względem dziedzictwa rzymskiego?",
+      "answer": "Termy rzymskie (Odessos) – czwarty co do wielkości kompleks łaźni rzymskich w Europie.",
+      "category": "Dziedzictwo rzymskie – Warna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "28",
+      "question": "Co to jest Pliska i jakie znaczenie ma dla historii Bułgarii?",
+      "answer": "Najstarsza stolica Bułgarii (681–893 r.), założona przez chana Asparucha. Potężna twierdza stepowa o powierzchni 23 km². Wielka Bazylika symbolizuje przyjęcie chrztu przez Bułgarię w 864 r.",
+      "category": "Wczesne średniowiecze – Pliska",
+      "difficulty": "hard"
+    },
+    {
+      "id": "29",
+      "question": "Czym wyróżniało się Wielkie Presław jako stolica Bułgarii?",
+      "answer": "Druga stolica (893–972 r.), stolica 'Złotego Wieku' kultury bułgarskiej. Słynęła ze Złotej Cerkwi (Okrągłej) oraz unikatowej ceramiki presławskiej (malowanej ceramiki architektonicznej).",
+      "category": "Wczesne średniowiecze – Presław",
+      "difficulty": "hard"
+    },
+    {
+      "id": "30",
+      "question": "Czym jest znane Kopriwsztica?",
+      "answer": "Miasto-skansen z każdym domem będącym zabytkiem w jaskrawych kolorach. Kolebka powstania przeciw Turkom; miejsce o patriotycznym charakterze.",
+      "category": "Architektura odrodzenia i folklor",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym wyróżnia się Melnik na tle innych bułgarskich miast?",
+      "answer": "Jest najmniejszym miastem Bułgarii. Słynie z piramid z piaskowca (Piramidy Melnickie) i produkcji ciężkiego, czerwonego wina.",
+      "category": "Architektura odrodzenia i folklor",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Co to jest skansen Etyr koło Gabrowa?",
+      "answer": "Jedyny w swoim rodzaju skansen 'żywej architektury' z warsztatami rzemieślniczymi napędzanymi wyłącznie siłą wody (młyny, folusze, ostrzalnie).",
+      "category": "Architektura odrodzenia i folklor",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Czym jest Widin znany w kontekście średniowiecznym?",
+      "answer": "Najlepiej zachowaną średniowieczną twierdzą w Bułgarii – Baba Wida, leżącą nad Dunajem.",
+      "category": "Średniowiecze",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Jakie miasto leży nad Dunajem i posiada ruiny legionowego miasta Novae?",
+      "answer": "Swisztow (dawne Novae) – dawny obóz I Legionu Italskiego z ruinami szpitala wojskowego, koszar i łaźni.",
+      "category": "Dziedzictwo rzymskie – Swisztow",
+      "difficulty": "hard"
+    },
+    {
+      "id": "35",
+      "question": "Czym wyróżnia się Albena jako kurort nad Morzem Czarnym?",
+      "answer": "Jeden z najbardziej eleganckich i nowoczesnych kurortów Bułgarii, zaprojektowany w unikalnym stylu architektonicznym (budynki w kształcie piramid/schodów). Zamknięty kompleks, bardzo prorodzinny, z szeroką plażą i czystym morzem.",
+      "category": "Wybrzeże – Albena",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Czym jest Stara Zagora (Augusta Traiana) i z czego słynie?",
+      "answer": "Miasto założone przez cesarza Trajana. Posiada najlepiej zachowany kompleks Forum Antycznego z amfiteatrem i rzymskimi ulicami oraz słynie z unikatowych mozaik podłogowych w luksusowych rzymskich rezydencjach.",
+      "category": "Dziedzictwo rzymskie – Stara Zagora",
+      "difficulty": "hard"
+    },
+    {
+      "id": "37",
+      "question": "Czym jest Silistra (Durostorum) i jakie ma walory turystyczne?",
+      "answer": "Strategiczna twierdza nad Dunajem, dawna baza legionu rzymskiego. Słynie z unikatowych fresków w rzymskim grobowcu przedstawiających arystokratów w strojach z epoki oraz pozostałości fortyfikacji Limes dunajskiego.",
+      "category": "Dziedzictwo rzymskie – Silistra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "38",
+      "question": "Z czego słynie Widin (Vidin) nad Dunajem?",
+      "answer": "Miasto nad Dunajem, znane z najlepiej zachowanej średniowiecznej twierdzy w Bułgarii – Baba Wida (Baба Вида).",
+      "category": "Średniowiecze – Widin",
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "question": "Czym jest Rusałka jako kurort i czym się różni od innych bułgarskich kurortów?",
+      "answer": "Kameralny kurort położony najbardziej na północ, w pobliżu przylądka Kaliakra. Zamiast długich piaszczystych plaż oferuje malownicze skaliste zatoczki. Dawniej ekskluzywna baza francuskiego biura podróży (ośrodek all inclusive).",
+      "category": "Wybrzeże – Rusałka",
+      "difficulty": "hard"
+    },
+    {
+      "id": "40",
+      "question": "Czym jest kurort Święty Konstantyn i Elena i co go wyróżnia?",
+      "answer": "Najstarsze uzdrowisko nadmorskie w Bułgarii (dawna Drużba). Spokojna miejscowość z dużą ilością parków i źródeł mineralnych, idealna na wypoczynek zdrowotny (spa, balneologia).",
+      "category": "Wybrzeże – Św. Konstantyn i Elena",
+      "difficulty": "medium"
+    }
+  ]
+}

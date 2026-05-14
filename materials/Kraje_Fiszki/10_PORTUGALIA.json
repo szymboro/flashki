@@ -1,0 +1,210 @@
+{
+  "id": "flashcard-set-portugalia",
+  "title": "Portugalia – fiszki geograficzno-turystyczne",
+  "description": "Fiszki obejmujące geografię, Lizbonę, Porto, Brageę, Fatimę, Algarve, Maderę i Azory.",
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "Gdzie leży Portugalia i z jakim jedynym krajem graniczy na lądzie?",
+      "answer": "Najdalej na zachód położone państwo Europy kontynentalnej, na Półwyspie Iberyjskim. Graniczy wyłącznie z Hiszpanią (na północy i wschodzie).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jakie dwa archipelagi są autonomicznymi regionami Portugalii?",
+      "answer": "Azory (Açores) i Madera – oba na Oceanie Atlantyckim.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Jaka rzeka dzieli Portugalię na dwie różniące się części?",
+      "answer": "Tag (Tejo).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest styl manueliński i gdzie w Lizbonie można go zobaczyć?",
+      "answer": "Styl architektoniczny łączący gotyk i renesans z motywami morskimi. Przykład: Klasztor Hieronimitów (Mosteiro dos Jerónimos) – panteon narodowy z grobem Vasco da Gamy.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Jaką dawną funkcję pełniła Wieża Belém w Lizbonie?",
+      "answer": "Punkt obronny u ujścia Tagu i symboliczna brama dla powracających odkrywców. Dziś ikona turystyczna (UNESCO).",
+      "category": "Lizbona",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest dzielnica Alfama i z czym jest kulturowo związana?",
+      "answer": "Najstarsza dzielnica Lizbony, która przetrwała trzęsienie ziemi. Centrum kultury muzycznej Fado.",
+      "category": "Lizbona",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Co to jest Przylądek Roca (Cabo da Roca) i jakie ma znaczenie geograficzne?",
+      "answer": "Najdalej na zachód wysunięty punkt kontynentalnej Europy, ok. 40 km od Lizbony. Klif 140 m n.p.m. z obeliskiem i cytatem Camõesa: 'Gdzie ląd się kończy, a morze zaczyna'.",
+      "category": "Przylądek Roca",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Dlaczego Porto jest nazywane miastem granitowym i z czego jest znane?",
+      "answer": "Ze względu na granitową zabudowę. Słynie z melancholijnej atmosfery, nabrzeża Ribeira (UNESCO), Mostu Ludwika I oraz piwnic wina Porto w Vila Nova de Gaia.",
+      "category": "Porto",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Z czego słynie Dworzec São Bento w Porto?",
+      "answer": "Poczekalnią wyłożoną tysiącami płytek azulejos przedstawiających historię Portugalii.",
+      "category": "Porto",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Co to jest enoturystyka w kontekście Vila Nova de Gaia?",
+      "answer": "Turystyka kulinarna i winna – zwiedzanie piwnic Porto (cave) po drugiej stronie rzeki Douro od Porto.",
+      "category": "Porto – Vila Nova de Gaia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Dlaczego Braga jest nazywana 'portugalskim Rzymem'?",
+      "answer": "Jedno z najstarszych miast Portugalii z Sanktuarium Bom Jesus do Monte (barokowe schody w formie zygzaka) i najstarszą katedrą w kraju.",
+      "category": "Braga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym wyróżnia się Coimbra jako miasto akademickie?",
+      "answer": "Dawna stolica Portugalii z Uniwersytetem w Coimbrze (UNESCO, jeden z najstarszych w Europie) i Biblioteką Joanina – uznawaną za jedną z najpiękniejszych na świecie.",
+      "category": "Coimbra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Z jakim wydarzeniem maryjnym związana jest Fatima i kiedy miało miejsce?",
+      "answer": "Z objawieniami Matki Bożej w 1917 roku. Jedno z najważniejszych na świecie centrów kultu maryjnego.",
+      "category": "Fatima",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Jak wygląda Plac Sanktuarium w Fatimie w porównaniu z Placem Świętego Piotra w Rzymie?",
+      "answer": "Jest od niego większy.",
+      "category": "Fatima",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Algarve i jakie miasto jest jego stolicą?",
+      "answer": "Południowy region turystyczny Portugalii, słynący z klifowego wybrzeża i piaszczystych plaż. Stolica: Faro.",
+      "category": "Algarve",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym słyną formacje skalne Ponta da Piedade koło Lagos?",
+      "answer": "Najbardziej ikoniczne złote klify i jaskinie Algarve, które można zwiedzać łodziami.",
+      "category": "Algarve – Lagos",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Z czego znana jest plaża Praia da Rocha koło Portimão?",
+      "answer": "Jedna z najszerszych i najbardziej znanych plaż klifowych Algarve.",
+      "category": "Algarve – Portimão",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co to są Lewady na Maderze i jaką funkcję turystyczną pełnią?",
+      "answer": "Unikatowy system kanałów nawadniających, wzdłuż których poprowadzono setki kilometrów szlaków trekkingowych.",
+      "category": "Madera",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Co to są lasy Laurowe (Laurissilva) na Maderze?",
+      "answer": "Prehistoryczne lasy wawrzynolistne wpisane na listę UNESCO. Pełnią funkcję przyrodniczą i ochronną.",
+      "category": "Madera",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym słynie wyspa Porto Santo w archipelagu Madery?",
+      "answer": "9-kilometrową plażą o złotym, leczniczym piasku bogatym w minerały. Turystyka wypoczynkowa i zdrowotna.",
+      "category": "Porto Santo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Ile wysp wulkanicznych tworzą Azory i gdzie leży ten archipelag?",
+      "answer": "9 wysp wulkanicznych, położone w połowie drogi między Europą a Ameryką Północną.",
+      "category": "Azory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Czym jest fenomen Sete Cidades na wyspie São Miguel (Azory)?",
+      "answer": "Dwa jeziora wewnątrz kratera wulkanicznego – jedno niebieskie, drugie zielone.",
+      "category": "Azory – São Miguel",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest 'kuchnia wulkaniczna' w Furnas na Azorach?",
+      "answer": "Potrawa Cozido das Furnas gotowana w gorącej ziemi dzięki aktywności geotermalnej.",
+      "category": "Azory – Furnas",
+      "difficulty": "hard"
+    },
+    {
+      "id": "24",
+      "question": "Jaki jest najwyższy szczyt Portugalii i gdzie się znajduje?",
+      "answer": "Wulkan Pico (2351 m n.p.m.) na wyspie Pico (Azory). Wyspa słynie z unikalnych winnic (UNESCO).",
+      "category": "Azory – Pico",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym wyjątkowym charakteryzują się winnice na wyspie Pico (Azory)?",
+      "answer": "Chronione murkami z kamienia wulkanicznego, wpisane na listę UNESCO.",
+      "category": "Azory – Pico",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Coimbra i jakie trzy atrakcje ją wyróżniają?",
+      "answer": "Dawna stolica Portugalii nad rzeką Mondego. Wyróżnia ją Biblioteka Joanina – barokowa biblioteka uznawana za jedną z najpiękniejszych na świecie, Stara Katedra (Sé Velha) – romańska budowla przypominająca twierdzę, oraz tradycja Fado de Coimbra – śpiewanego wyłącznie przez mężczyzn (studentów).",
+      "category": "Coimbra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest Faro i jaką rolę pełni dla regionu Algarve?",
+      "answer": "Stolica i największe miasto regionu Algarve. Posiada główne lotnisko międzynarodowe (brama do Algarve), urokliwą starówkę otoczoną murami oraz leży przy lagunie Ria Formosa – rezerwacie przyrody z systemem wysp i kanałów.",
+      "category": "Algarve – Faro",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Czym słynie Albufeira i jaką turystykę reprezentuje?",
+      "answer": "Największy i najpopularniejszy kurort turystyczny w Algarve. Centrum turystyki masowej i nocnego życia (słynna ulica The Strip). Oferuje szerokie piaszczyste plaże i ogromną bazę noclegową.",
+      "category": "Algarve – Albufeira",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Czym jest wyspa Terceira na Azorach i z czego słynie?",
+      "answer": "Jedna z głównych wysp Azorów. Znana z historycznego miasta Angra do Heroísmo (UNESCO) oraz jaskiń wulkanicznych (Algar do Carvão).",
+      "category": "Azory – Terceira",
+      "difficulty": "hard"
+    }
+  ]
+}
