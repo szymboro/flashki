@@ -1,5 +1,5 @@
 {
-  "id": "quiz-set-1769367540623",
+  "id": "quiz-set-1769367540624",
   "title": "Quiz Geografia Turystyczna Świata – 150 Pytań",
   "description": "Kompleksowy quiz wielokrotnego wyboru oparty na materiale z Afryki, Ameryki Południowej (w tym tabele PDF), Azji, Australii/Oceanii i Ameryki Północnej. 150 pytań zróżnicowanych pod względem trudności i kategorii.",
   "questions": [
@@ -62,12 +62,7 @@
     {
       "id": "5",
       "question": "Który park narodowy chroni największe stado flamingów w Afryce?",
-      "options": [
-        "Serengeti",
-        "Kruger",
-        "Nakuru",
-        "Etosha"
-      ],
+      "options": ["Serengeti", "Kruger", "Nakuru", "Etosha"],
       "correctIndex": 2,
       "explanation": "Jezioro Nakuru (Kenia) jest słynne z ogromnych stad flamingów i jest chronione jako park narodowy.",
       "category": "Afryka - Par ki",
@@ -76,12 +71,7 @@
     {
       "id": "6",
       "question": "Który wulkan jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Kilimandżaro",
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Meru"
-      ],
+      "options": ["Kilimandżaro", "Cotopaxi", "Ojos del Salado", "Meru"],
       "correctIndex": 2,
       "explanation": "Ojos del Salado (6893 m) na granicy Chile i Argentyny jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Geologia",
@@ -104,12 +94,7 @@
     {
       "id": "8",
       "question": "Która atrakcja na Wyspie Wielkanocnej jest wpisana na listę UNESCO?",
-      "options": [
-        "Wieloryby",
-        "Posągi moai",
-        "Rafy koralowe",
-        "Las deszczowy"
-      ],
+      "options": ["Wieloryby", "Posągi moai", "Rafy koralowe", "Las deszczowy"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Rapa Nui z tajemniczymi posągami moai jest obiektem światowego dziedzictwa UNESCO.",
       "category": "Ameryka Południowa - Obiekty PDF",
@@ -118,12 +103,7 @@
     {
       "id": "9",
       "question": "Który obiekt w Turcji jest nazywany „bawełnianym zamkiem”?",
-      "options": [
-        "Kapadocja",
-        "Pamukkale",
-        "Efez",
-        "Aspendos"
-      ],
+      "options": ["Kapadocja", "Pamukkale", "Efez", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Pamukkale to białe tarasy wapienne powstałe z gorących źródeł – popularna atrakcja turystyczna.",
       "category": "Azja - Turcja",
@@ -132,12 +112,7 @@
     {
       "id": "10",
       "question": "Który szczyt jest najwyższy w Afryce?",
-      "options": [
-        "Kilimandżaro",
-        "Ruwenzori",
-        "Atlas",
-        "Kamerun"
-      ],
+      "options": ["Kilimandżaro", "Ruwenzori", "Atlas", "Kamerun"],
       "correctIndex": 0,
       "explanation": "Kilimandżaro (5895 m n.p.m.) w Tanzanii jest najwyższym szczytem Afryki.",
       "category": "Afryka - Góry",
@@ -146,12 +121,7 @@
     {
       "id": "11",
       "question": "Który zabytek w Indiach jest jednym z 7 nowych cudów świata?",
-      "options": [
-        "Czerwony Fort",
-        "Taj Mahal",
-        "Qutub Minar",
-        "Hawa Mahal"
-      ],
+      "options": ["Czerwony Fort", "Taj Mahal", "Qutub Minar", "Hawa Mahal"],
       "correctIndex": 1,
       "explanation": "Taj Mahal w Agrze – mauzoleum zbudowane przez Szahdżahana – jest symbolem Indii i jednym z 7 nowych cudów.",
       "category": "Azja - Indie",
@@ -174,12 +144,7 @@
     {
       "id": "13",
       "question": "Który park narodowy w USA jest najstarszy na świecie?",
-      "options": [
-        "Yosemite",
-        "Grand Canyon",
-        "Yellowstone",
-        "Zion"
-      ],
+      "options": ["Yosemite", "Grand Canyon", "Yellowstone", "Zion"],
       "correctIndex": 2,
       "explanation": "Yellowstone (1872) to najstarszy park narodowy na świecie, słynny z gejzerów i tarcz wulkanicznych.",
       "category": "Ameryka Północna - Parki USA",
@@ -216,12 +181,7 @@
     {
       "id": "16",
       "question": "Który region Turcji słynie z lotów balonowych?",
-      "options": [
-        "Riwiera Turecka",
-        "Kapadocja",
-        "Pamukkale",
-        "Egejska"
-      ],
+      "options": ["Riwiera Turecka", "Kapadocja", "Pamukkale", "Egejska"],
       "correctIndex": 1,
       "explanation": "Kapadocja – formacje tufowe i podziemne miasta – to światowa stolica lotów balonowych.",
       "category": "Azja - Turcja",
@@ -230,12 +190,7 @@
     {
       "id": "17",
       "question": "Które jezioro jest najwyżej położonym żeglownym jeziorem świata?",
-      "options": [
-        "Tanganika",
-        "Titicaca",
-        "Malawi",
-        "Victoria"
-      ],
+      "options": ["Tanganika", "Titicaca", "Malawi", "Victoria"],
       "correctIndex": 1,
       "explanation": "Jezioro Titicaca (Peru/Boliwia) – 3812 m n.p.m. – jest najwyżej położonym żeglownym jeziorem.",
       "category": "Ameryka Południowa - Jeziora",
@@ -244,12 +199,7 @@
     {
       "id": "18",
       "question": "Który obiekt w Indiach jest znany z geoglifów widocznych tylko z powietrza?",
-      "options": [
-        "Taj Mahal",
-        "Khajuraho",
-        "Linie Nasca",
-        "Hampi"
-      ],
+      "options": ["Taj Mahal", "Khajuraho", "Linie Nasca", "Hampi"],
       "correctIndex": 2,
       "explanation": "Linie Nasca (Peru) – gigantyczne geoglify zwierząt i figur geometrycznych – wpisane na listę UNESCO.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -258,12 +208,7 @@
     {
       "id": "19",
       "question": "Który park w Kanadzie jest największy powierzchniowo?",
-      "options": [
-        "Banff",
-        "Jasper",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Banff", "Jasper", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Jasper National Park jest największy powierzchniowo w Kanadzie i słynie z jezior polodowcowych oraz fauny.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -272,12 +217,7 @@
     {
       "id": "20",
       "question": "Który zabytek w Tunezji jest nazywany „tunezyjskimi Pompejami”?",
-      "options": [
-        "El Dżem",
-        "Dougga",
-        "Kartagina",
-        "Sidi Bou Said"
-      ],
+      "options": ["El Dżem", "Dougga", "Kartagina", "Sidi Bou Said"],
       "correctIndex": 1,
       "explanation": "Dougga (UNESCO) to doskonale zachowane rzymskie miasto z teatrem, termami i świątyniami.",
       "category": "Afryka - Zabytki rzymskie",
@@ -286,12 +226,7 @@
     {
       "id": "21",
       "question": "Który region Indii jest nazywany „Różowym Miastem”?",
-      "options": [
-        "Jaipur",
-        "Jodhpur",
-        "Jaisalmer",
-        "Agra"
-      ],
+      "options": ["Jaipur", "Jodhpur", "Jaisalmer", "Agra"],
       "correctIndex": 0,
       "explanation": "Jaipur (Radżastan) jest nazywany Pink City ze względu na różową kolorystykę budynków na starówce.",
       "category": "Azja - Indie",
@@ -300,12 +235,7 @@
     {
       "id": "22",
       "question": "Który obiekt w Australii jest największym monolitem skalnym świata?",
-      "options": [
-        "Kosciuszko",
-        "Uluru",
-        "Three Sisters",
-        "Wave Rock"
-      ],
+      "options": ["Kosciuszko", "Uluru", "Three Sisters", "Wave Rock"],
       "correctIndex": 1,
       "explanation": "Uluru (Ayers Rock) to największy monolit skalny na świecie i święte miejsce Aborygenów.",
       "category": "Australia/Oceania - Parki",
@@ -314,12 +244,7 @@
     {
       "id": "23",
       "question": "Który park w USA słynie z hoodoos (iglic skalnych)?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Yosemite"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Yosemite"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z setek hoodoos – wysokich, wąskich iglic skalnych powstałych przez wietrzenie.",
       "category": "Ameryka Północna - Parki USA",
@@ -328,12 +253,7 @@
     {
       "id": "24",
       "question": "Który wulkan w Ekwadorze jest najwyższym szczytem kraju?",
-      "options": [
-        "Cotopaxi",
-        "Chimborazo",
-        "Tungurahua",
-        "Pichincha"
-      ],
+      "options": ["Cotopaxi", "Chimborazo", "Tungurahua", "Pichincha"],
       "correctIndex": 1,
       "explanation": "Chimborazo (6263 m) jest najwyższym szczytem Ekwadoru i należy do Alei Wulkanów.",
       "category": "Ameryka Południowa - Wulkany",
@@ -342,12 +262,7 @@
     {
       "id": "25",
       "question": "Który zabytek w Peru jest największym miastem zbudowanym z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan (stolica kultury Chimu) to największe miasto z cegły mułowej (adobe) w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -356,12 +271,7 @@
     {
       "id": "26",
       "question": "Który kurort w Egipcie jest znany z rafy Ras Muhammad?",
-      "options": [
-        "Hurgada",
-        "Sharm el Sheikh",
-        "El Gouna",
-        "Dahab"
-      ],
+      "options": ["Hurgada", "Sharm el Sheikh", "El Gouna", "Dahab"],
       "correctIndex": 1,
       "explanation": "Sharm el Sheikh to światowe centrum nurkowe dzięki bliskości rafy Ras Muhammad.",
       "category": "Afryka - Kurorty",
@@ -384,12 +294,7 @@
     {
       "id": "28",
       "question": "Które jezioro jest najwyżej położonym jeziorem na świecie?",
-      "options": [
-        "Tanganika",
-        "Titicaca",
-        "Wiktorii",
-        "Malawi"
-      ],
+      "options": ["Tanganika", "Titicaca", "Wiktorii", "Malawi"],
       "correctIndex": 1,
       "explanation": "Jezioro Titicaca (3812 m n.p.m.) jest najwyżej położonym żeglownym jeziorem świata.",
       "category": "Ameryka Południowa - Jeziora",
@@ -398,12 +303,7 @@
     {
       "id": "29",
       "question": "Który zabytek w Nepalu jest bazą wypadową na Annapurnę?",
-      "options": [
-        "Pokhara",
-        "Bhulbhule",
-        "Manang",
-        "Namche Bazaar"
-      ],
+      "options": ["Pokhara", "Bhulbhule", "Manang", "Namche Bazaar"],
       "correctIndex": 1,
       "explanation": "Bhulbhule (840 m) jest pierwszym punktem startowym popularnego trekkingu wokół masywu Annapurny.",
       "category": "Azja - Nepal",
@@ -412,12 +312,7 @@
     {
       "id": "30",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung (Australia Zachodnia) słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -440,12 +335,7 @@
     {
       "id": "32",
       "question": "Który region w Indiach jest znany z drewnianych meczetów i architektury tybetańskiej?",
-      "options": [
-        "Goa",
-        "Radżastan",
-        "Kaszmir",
-        "Kerala"
-      ],
+      "options": ["Goa", "Radżastan", "Kaszmir", "Kerala"],
       "correctIndex": 2,
       "explanation": "Kaszmir – region muzułmański w Himalajach – słynie z drewnianych meczetów i architektury nawiązującej do Tybetu.",
       "category": "Azja - Indie",
@@ -454,12 +344,7 @@
     {
       "id": "33",
       "question": "Który zabytek w Peru jest największym miastem z adobe w prekolumbijskiej Ameryce?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan – stolica kultury Chimu – to największe miasto zbudowane z cegły mułowej (adobe).",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -468,12 +353,7 @@
     {
       "id": "34",
       "question": "Który park w Kanadzie słynie z lodowców i jezior polodowcowych?",
-      "options": [
-        "Banff",
-        "Jasper",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Banff", "Jasper", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Jasper National Park – największy w Kanadzie – ma liczne lodowce i jeziora polodowcowe.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -524,12 +404,7 @@
     {
       "id": "38",
       "question": "Który obiekt w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -538,12 +413,7 @@
     {
       "id": "39",
       "question": "Który park w Tanzanii jest częścią wielkiego obszaru transgranicznego z Kenią?",
-      "options": [
-        "Serengeti",
-        "Tarangire",
-        "Ruaha",
-        "Selous"
-      ],
+      "options": ["Serengeti", "Tarangire", "Ruaha", "Selous"],
       "correctIndex": 0,
       "explanation": "Serengeti jest połączony z Masai Mara (Kenia) i tworzy jeden z największych obszarów ochrony przyrody na świecie.",
       "category": "Afryka - Par ki",
@@ -552,12 +422,7 @@
     {
       "id": "40",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną na świecie?",
-      "options": [
-        "Taj Mahal",
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark"
-      ],
+      "options": ["Taj Mahal", "Khajuraho", "Madurai Meenakshi", "Konark"],
       "correctIndex": 2,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -566,12 +431,7 @@
     {
       "id": "41",
       "question": "Który obiekt w Chile jest najwyższym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) na granicy Chile i Argentyny jest najwyższym czynnym wulkanem świata.",
       "category": "Ameryka Południowa - Wulkany",
@@ -580,12 +440,7 @@
     {
       "id": "42",
       "question": "Który region w Turcji jest popularny wśród turystów indywidualnych i rowerowych?",
-      "options": [
-        "Riwiera Turecka",
-        "Kapadocja",
-        "Pamukkale",
-        "Egejska"
-      ],
+      "options": ["Riwiera Turecka", "Kapadocja", "Pamukkale", "Egejska"],
       "correctIndex": 1,
       "explanation": "Kapadocja oferuje szlaki piesze, rowerowe i loty balonowe wśród unikalnych formacji skalnych.",
       "category": "Azja - Turcja",
@@ -594,12 +449,7 @@
     {
       "id": "43",
       "question": "Który obiekt w Peru jest wpisany na listę UNESCO jako „kultura matka”?",
-      "options": [
-        "Nasca",
-        "Chavín de Huántar",
-        "Tiwanaku",
-        "Chan Chan"
-      ],
+      "options": ["Nasca", "Chavín de Huántar", "Tiwanaku", "Chan Chan"],
       "correctIndex": 1,
       "explanation": "Chavín de Huántar (ok. 1200–400 p.n.e.) jest uznawany za „kulturę matkę” Andów.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -608,12 +458,7 @@
     {
       "id": "44",
       "question": "Który park w USA słynie z tarcz wulkanicznych i gejzerów?",
-      "options": [
-        "Yosemite",
-        "Grand Canyon",
-        "Yellowstone",
-        "Arches"
-      ],
+      "options": ["Yosemite", "Grand Canyon", "Yellowstone", "Arches"],
       "correctIndex": 2,
       "explanation": "Yellowstone leży w kalderze superwulkanu i ma ponad 300 gejzerów, w tym Old Faithful.",
       "category": "Ameryka Północna - Parki USA",
@@ -622,12 +467,7 @@
     {
       "id": "45",
       "question": "Który zabytek w Tunezji jest największym amfiteatrem rzymskim w Afryce Północnej?",
-      "options": [
-        "Dougga",
-        "El Dżem",
-        "Kartagina",
-        "Sabratha"
-      ],
+      "options": ["Dougga", "El Dżem", "Kartagina", "Sabratha"],
       "correctIndex": 1,
       "explanation": "Amfiteatr w El Dżem (III w.) jest jednym z najlepiej zachowanych i największych poza Italią.",
       "category": "Afryka - Zabytki rzymskie",
@@ -636,12 +476,7 @@
     {
       "id": "46",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą przed wysoką przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -650,12 +485,7 @@
     {
       "id": "47",
       "question": "Który obiekt w Australii jest największym monolitem skalnym świata?",
-      "options": [
-        "Kosciuszko",
-        "Uluru",
-        "Three Sisters",
-        "Wave Rock"
-      ],
+      "options": ["Kosciuszko", "Uluru", "Three Sisters", "Wave Rock"],
       "correctIndex": 1,
       "explanation": "Uluru (Ayers Rock) jest największym monolitem skalnym na świecie.",
       "category": "Australia/Oceania - Parki",
@@ -664,12 +494,7 @@
     {
       "id": "48",
       "question": "Który wulkan w Hawajach jest najaktywniejszy na świecie?",
-      "options": [
-        "Mauna Loa",
-        "Kilauea",
-        "Mauna Kea",
-        "Hualalai"
-      ],
+      "options": ["Mauna Loa", "Kilauea", "Mauna Kea", "Hualalai"],
       "correctIndex": 1,
       "explanation": "Kilauea jest jednym z najaktywniejszych wulkanów na świecie – ciągłe erupcje od 1983 roku.",
       "category": "Ameryka Północna - Hawaje",
@@ -678,12 +503,7 @@
     {
       "id": "49",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną na świecie?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -692,12 +512,7 @@
     {
       "id": "50",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -706,12 +521,7 @@
     {
       "id": "51",
       "question": "Który obiekt w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan (stolica Chimu) to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -720,12 +530,7 @@
     {
       "id": "52",
       "question": "Który zabytek w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -734,12 +539,7 @@
     {
       "id": "53",
       "question": "Który obiekt w Chile jest częścią parku narodowego na pograniczu z Argentyną?",
-      "options": [
-        "Aconcagua",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Aconcagua", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado leży w parku narodowym o tej samej nazwie na granicy Chile i Argentyny.",
       "category": "Ameryka Południowa - Obiekty PDF",
@@ -762,12 +562,7 @@
     {
       "id": "55",
       "question": "Który region w Australii jest najstarszą pustynią świata?",
-      "options": [
-        "Simpson",
-        "Gibson",
-        "Namib",
-        "Great Sandy"
-      ],
+      "options": ["Simpson", "Gibson", "Namib", "Great Sandy"],
       "correctIndex": 2,
       "explanation": "Pustynia Namib (częściowo w Namibii) jest jedną z najstarszych pustyń świata (ok. 80 mln lat).",
       "category": "Afryka - Pustynie",
@@ -776,12 +571,7 @@
     {
       "id": "56",
       "question": "Który zabytek w Indiach jest największym fortem na ostańcu skalnym?",
-      "options": [
-        "Jaipur",
-        "Jaisalmer",
-        "Jodhpur",
-        "Udaipur"
-      ],
+      "options": ["Jaipur", "Jaisalmer", "Jodhpur", "Udaipur"],
       "correctIndex": 1,
       "explanation": "Fort w Jaisalmer jest jednym z największych fortów zbudowanych na ostańcu skalnym w Indiach.",
       "category": "Azja - Indie",
@@ -790,12 +580,7 @@
     {
       "id": "57",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park w Utah ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -804,12 +589,7 @@
     {
       "id": "58",
       "question": "Który obiekt w Boliwii jest najwyżej położonym miastem starożytnym?",
-      "options": [
-        "Potosi",
-        "Tiwanaku",
-        "Sucre",
-        "La Paz"
-      ],
+      "options": ["Potosi", "Tiwanaku", "Sucre", "La Paz"],
       "correctIndex": 1,
       "explanation": "Tiwanaku (ok. 3800 m n.p.m.) jest najwyżej położonym starożytnym miastem.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -818,12 +598,7 @@
     {
       "id": "59",
       "question": "Który zabytek w Turcji ma największy i najlepiej zachowany teatr rzymski w Azji?",
-      "options": [
-        "Efez",
-        "Aspendos",
-        "Pergamon",
-        "Side"
-      ],
+      "options": ["Efez", "Aspendos", "Pergamon", "Side"],
       "correctIndex": 1,
       "explanation": "Teatr w Aspendos jest największy i najlepiej zachowany rzymski teatr w Azji Mniejszej.",
       "category": "Azja - Turcja",
@@ -832,12 +607,7 @@
     {
       "id": "60",
       "question": "Który region w Nepalu jest ostatnim punktem samochodowym przed wysoką przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -846,12 +616,7 @@
     {
       "id": "61",
       "question": "Który zabytek w Peru jest największym miastem z cegły mułowej w prekolumbijskiej Ameryce?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan – stolica Chimu – to największe miasto zbudowane z adobe.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -860,12 +625,7 @@
     {
       "id": "62",
       "question": "Który park w USA słynie z hoodoos?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Canyonlands"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z tysięcy wysokich, wąskich iglic skalnych (hoodoos).",
       "category": "Ameryka Północna - Parki USA",
@@ -874,12 +634,7 @@
     {
       "id": "63",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu, centrum kultu Amona-Re.",
       "category": "Afryka - Zabytki Egiptu",
@@ -902,12 +657,7 @@
     {
       "id": "65",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną na świecie?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -916,12 +666,7 @@
     {
       "id": "66",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych zwanych Pinnacles.",
       "category": "Australia/Oceania - Parki",
@@ -930,12 +675,7 @@
     {
       "id": "67",
       "question": "Który zabytek w Peru jest uznawany za „kulturę matkę” Andów?",
-      "options": [
-        "Nasca",
-        "Chavín de Huántar",
-        "Tiwanaku",
-        "Chan Chan"
-      ],
+      "options": ["Nasca", "Chavín de Huántar", "Tiwanaku", "Chan Chan"],
       "correctIndex": 1,
       "explanation": "Chavín de Huántar (ok. 1200–400 p.n.e.) jest uznawany za „kulturę matkę” Andów.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -944,12 +684,7 @@
     {
       "id": "68",
       "question": "Który obiekt w Meksyku jest największą piramidą w obu Amerykach?",
-      "options": [
-        "Chichen Itza",
-        "Teotihuacán",
-        "Cholula",
-        "Uxmal"
-      ],
+      "options": ["Chichen Itza", "Teotihuacán", "Cholula", "Uxmal"],
       "correctIndex": 2,
       "explanation": "Wielka Piramida w Cholula jest największa objętościowo w obu Amerykach.",
       "category": "Ameryka Północna - Cywilizacje",
@@ -958,12 +693,7 @@
     {
       "id": "69",
       "question": "Który region w Nepalu jest bazą wypadową na trekking wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Bhulbhule",
-        "Manang",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Bhulbhule", "Manang", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Bhulbhule (840 m) jest pierwszym punktem startowym trekkingu wokół masywu Annapurny.",
       "category": "Azja - Nepal",
@@ -972,12 +702,7 @@
     {
       "id": "70",
       "question": "Który zabytek w Turcji ma największy teatr rzymski w Azji?",
-      "options": [
-        "Efez",
-        "Aspendos",
-        "Pergamon",
-        "Side"
-      ],
+      "options": ["Efez", "Aspendos", "Pergamon", "Side"],
       "correctIndex": 1,
       "explanation": "Teatr w Aspendos jest największy i najlepiej zachowany rzymski teatr w Azji Mniejszej.",
       "category": "Azja - Turcja",
@@ -986,12 +711,7 @@
     {
       "id": "71",
       "question": "Który obiekt w Boliwii jest najwyżej położonym starożytnym miastem?",
-      "options": [
-        "Potosi",
-        "Tiwanaku",
-        "Sucre",
-        "La Paz"
-      ],
+      "options": ["Potosi", "Tiwanaku", "Sucre", "La Paz"],
       "correctIndex": 1,
       "explanation": "Tiwanaku (ok. 3800 m n.p.m.) jest najwyżej położonym starożytnym miastem.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1000,12 +720,7 @@
     {
       "id": "72",
       "question": "Który park w USA słynie z wędrujących kamieni?",
-      "options": [
-        "Death Valley",
-        "Joshua Tree",
-        "Zion",
-        "Arches"
-      ],
+      "options": ["Death Valley", "Joshua Tree", "Zion", "Arches"],
       "correctIndex": 0,
       "explanation": "Death Valley słynie z zjawiska „wędrujących kamieni” – kamieni przesuwających się po płaskim dnie wyschniętego jeziora.",
       "category": "Ameryka Północna - Parki USA",
@@ -1014,12 +729,7 @@
     {
       "id": "73",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1028,12 +738,7 @@
     {
       "id": "74",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1056,12 +761,7 @@
     {
       "id": "76",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -1070,12 +770,7 @@
     {
       "id": "77",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1084,12 +779,7 @@
     {
       "id": "78",
       "question": "Który obiekt w Chile jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Wulkany",
@@ -1098,12 +788,7 @@
     {
       "id": "79",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -1112,12 +797,7 @@
     {
       "id": "80",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1126,12 +806,7 @@
     {
       "id": "81",
       "question": "Który obiekt w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -1140,12 +815,7 @@
     {
       "id": "82",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -1154,12 +824,7 @@
     {
       "id": "83",
       "question": "Który zabytek w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1168,12 +833,7 @@
     {
       "id": "84",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -1182,12 +842,7 @@
     {
       "id": "85",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1210,12 +865,7 @@
     {
       "id": "87",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1224,12 +874,7 @@
     {
       "id": "88",
       "question": "Który park w USA słynie z hoodoos?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Canyonlands"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z tysięcy wysokich, wąskich iglic skalnych (hoodoos).",
       "category": "Ameryka Północna - Parki USA",
@@ -1238,12 +883,7 @@
     {
       "id": "89",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1252,12 +892,7 @@
     {
       "id": "90",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1280,12 +915,7 @@
     {
       "id": "92",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -1294,12 +924,7 @@
     {
       "id": "93",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1308,12 +933,7 @@
     {
       "id": "94",
       "question": "Który obiekt w Chile jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Wulkany",
@@ -1322,12 +942,7 @@
     {
       "id": "95",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -1336,12 +951,7 @@
     {
       "id": "96",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1350,12 +960,7 @@
     {
       "id": "97",
       "question": "Który obiekt w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -1364,12 +969,7 @@
     {
       "id": "98",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -1378,12 +978,7 @@
     {
       "id": "99",
       "question": "Który zabytek w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1392,12 +987,7 @@
     {
       "id": "100",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -1406,12 +996,7 @@
     {
       "id": "101",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1434,12 +1019,7 @@
     {
       "id": "103",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1448,12 +1028,7 @@
     {
       "id": "104",
       "question": "Który park w USA słynie z hoodoos?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Canyonlands"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z tysięcy wysokich, wąskich iglic skalnych (hoodoos).",
       "category": "Ameryka Północna - Parki USA",
@@ -1462,12 +1037,7 @@
     {
       "id": "105",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1476,12 +1046,7 @@
     {
       "id": "106",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1504,12 +1069,7 @@
     {
       "id": "108",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -1518,12 +1078,7 @@
     {
       "id": "109",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1532,12 +1087,7 @@
     {
       "id": "110",
       "question": "Który obiekt w Chile jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Wulkany",
@@ -1546,12 +1096,7 @@
     {
       "id": "111",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -1560,12 +1105,7 @@
     {
       "id": "112",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1574,12 +1114,7 @@
     {
       "id": "113",
       "question": "Który obiekt w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -1588,12 +1123,7 @@
     {
       "id": "114",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -1602,12 +1132,7 @@
     {
       "id": "115",
       "question": "Który zabytek w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1616,12 +1141,7 @@
     {
       "id": "116",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -1630,12 +1150,7 @@
     {
       "id": "117",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1658,12 +1173,7 @@
     {
       "id": "119",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1672,12 +1182,7 @@
     {
       "id": "120",
       "question": "Który park w USA słynie z hoodoos?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Canyonlands"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z tysięcy wysokich, wąskich iglic skalnych (hoodoos).",
       "category": "Ameryka Północna - Parki USA",
@@ -1686,12 +1191,7 @@
     {
       "id": "121",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1700,12 +1200,7 @@
     {
       "id": "122",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1728,12 +1223,7 @@
     {
       "id": "124",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -1742,12 +1232,7 @@
     {
       "id": "125",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1756,12 +1241,7 @@
     {
       "id": "126",
       "question": "Który obiekt w Chile jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Wulkany",
@@ -1770,12 +1250,7 @@
     {
       "id": "127",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -1784,12 +1259,7 @@
     {
       "id": "128",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1798,12 +1268,7 @@
     {
       "id": "129",
       "question": "Który obiekt w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -1812,12 +1277,7 @@
     {
       "id": "130",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -1826,12 +1286,7 @@
     {
       "id": "131",
       "question": "Który zabytek w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1840,12 +1295,7 @@
     {
       "id": "132",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -1854,12 +1304,7 @@
     {
       "id": "133",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1882,12 +1327,7 @@
     {
       "id": "135",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1896,12 +1336,7 @@
     {
       "id": "136",
       "question": "Który park w USA słynie z hoodoos?",
-      "options": [
-        "Arches",
-        "Bryce Canyon",
-        "Zion",
-        "Canyonlands"
-      ],
+      "options": ["Arches", "Bryce Canyon", "Zion", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Bryce Canyon słynie z tysięcy wysokich, wąskich iglic skalnych (hoodoos).",
       "category": "Ameryka Północna - Parki USA",
@@ -1910,12 +1345,7 @@
     {
       "id": "137",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -1924,12 +1354,7 @@
     {
       "id": "138",
       "question": "Który obiekt w Egipcie jest największym zespołem sakralnym Starożytnego Egiptu?",
-      "options": [
-        "Luksor",
-        "Karnak",
-        "Abu Simbel",
-        "Giza"
-      ],
+      "options": ["Luksor", "Karnak", "Abu Simbel", "Giza"],
       "correctIndex": 1,
       "explanation": "Karnak to największy zespół świątynny Starożytnego Egiptu.",
       "category": "Afryka - Zabytki Egiptu",
@@ -1952,12 +1377,7 @@
     {
       "id": "140",
       "question": "Który park w Australii chroni pustynię Pinnacles?",
-      "options": [
-        "Uluru",
-        "Nambung",
-        "Kakadu",
-        "Great Barrier Reef"
-      ],
+      "options": ["Uluru", "Nambung", "Kakadu", "Great Barrier Reef"],
       "correctIndex": 1,
       "explanation": "Park Narodowy Nambung słynie z tysięcy wapiennych ostańców skalnych (Pinnacles).",
       "category": "Australia/Oceania - Parki",
@@ -1966,12 +1386,7 @@
     {
       "id": "141",
       "question": "Który zabytek w Indiach jest największą świątynią hinduistyczną?",
-      "options": [
-        "Khajuraho",
-        "Madurai Meenakshi",
-        "Konark",
-        "Brihadeeswarar"
-      ],
+      "options": ["Khajuraho", "Madurai Meenakshi", "Konark", "Brihadeeswarar"],
       "correctIndex": 1,
       "explanation": "Świątynia Meenakshi w Madurai ma 12 gopuram i jest jedną z największych hinduistycznych świątyń.",
       "category": "Azja - Indie",
@@ -1980,12 +1395,7 @@
     {
       "id": "142",
       "question": "Który obiekt w Chile jest najwyższym czynnym wulkanem świata?",
-      "options": [
-        "Cotopaxi",
-        "Ojos del Salado",
-        "Lullaillaco",
-        "Chimborazo"
-      ],
+      "options": ["Cotopaxi", "Ojos del Salado", "Lullaillaco", "Chimborazo"],
       "correctIndex": 1,
       "explanation": "Ojos del Salado (6893 m) jest najwyższym czynnym wulkanem na Ziemi.",
       "category": "Ameryka Południowa - Wulkany",
@@ -1994,12 +1404,7 @@
     {
       "id": "143",
       "question": "Który park w USA ma najwięcej naturalnych łuków skalnych?",
-      "options": [
-        "Zion",
-        "Arches",
-        "Bryce Canyon",
-        "Canyonlands"
-      ],
+      "options": ["Zion", "Arches", "Bryce Canyon", "Canyonlands"],
       "correctIndex": 1,
       "explanation": "Arches National Park ma ponad 2000 naturalnych łuków skalnych.",
       "category": "Ameryka Północna - Parki USA",
@@ -2008,12 +1413,7 @@
     {
       "id": "144",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
@@ -2022,12 +1422,7 @@
     {
       "id": "145",
       "question": "Który obiekt w Turcji jest największym i najlepiej zachowanym miastem greckim w Azji?",
-      "options": [
-        "Troja",
-        "Efez",
-        "Pergamon",
-        "Aspendos"
-      ],
+      "options": ["Troja", "Efez", "Pergamon", "Aspendos"],
       "correctIndex": 1,
       "explanation": "Efez to największe i najlepiej zachowane miasto greckie na terenie Turcji.",
       "category": "Azja - Turcja",
@@ -2036,12 +1431,7 @@
     {
       "id": "146",
       "question": "Który park w Kanadzie jest najstarszy?",
-      "options": [
-        "Jasper",
-        "Banff",
-        "Yoho",
-        "Kootenay"
-      ],
+      "options": ["Jasper", "Banff", "Yoho", "Kootenay"],
       "correctIndex": 1,
       "explanation": "Banff National Park (1885) jest najstarszym parkiem narodowym Kanady.",
       "category": "Ameryka Północna - Parki Kanada",
@@ -2050,12 +1440,7 @@
     {
       "id": "147",
       "question": "Który zabytek w Egipcie jest jedynym zachowanym starożytnym cudem świata?",
-      "options": [
-        "Abu Simbel",
-        "Wielka Piramida Cheopsa",
-        "Karnak",
-        "Luksor"
-      ],
+      "options": ["Abu Simbel", "Wielka Piramida Cheopsa", "Karnak", "Luksor"],
       "correctIndex": 1,
       "explanation": "Wielka Piramida Cheopsa w Gizie to jedyny zachowany starożytny cud świata.",
       "category": "Afryka - Zabytki Egiptu",
@@ -2064,12 +1449,7 @@
     {
       "id": "148",
       "question": "Który region w Nepalu jest ostatnim większym punktem przed przełęczą na trekkingu wokół Annapurny?",
-      "options": [
-        "Pokhara",
-        "Manang",
-        "Bhulbhule",
-        "Jomsom"
-      ],
+      "options": ["Pokhara", "Manang", "Bhulbhule", "Jomsom"],
       "correctIndex": 1,
       "explanation": "Manang (3540 m) jest ostatnią większą osadą dostępną samochodem przed przełęczą Thorung La.",
       "category": "Azja - Nepal",
@@ -2078,12 +1458,7 @@
     {
       "id": "149",
       "question": "Który zabytek w Peru jest największym miastem z adobe?",
-      "options": [
-        "Machu Picchu",
-        "Chan Chan",
-        "Nasca",
-        "Tiwanaku"
-      ],
+      "options": ["Machu Picchu", "Chan Chan", "Nasca", "Tiwanaku"],
       "correctIndex": 1,
       "explanation": "Chan Chan to największe miasto zbudowane z cegły mułowej w prekolumbijskiej Ameryce.",
       "category": "Ameryka Południowa - Cywilizacje",
