@@ -27,7 +27,9 @@ export default function QuizPage() {
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
   const [questionLimit, setQuestionLimit] = useState<number | null>(null);
   const [availableQuizzes, setAvailableQuizzes] = useState<any[]>([]);
-  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(new Set());
+  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(
+    new Set(),
+  );
 
   const groupedQuizzes = useMemo(() => {
     const groups: Record<string, any[]> = {};
@@ -399,7 +401,10 @@ export default function QuizPage() {
                           onClick={() => toggleFolder(folder)}
                           className="w-full flex items-center gap-3 p-4 text-left hover:bg-gray-800 transition-colors"
                         >
-                          <FolderOpen size={18} className="text-yellow-400 shrink-0" />
+                          <FolderOpen
+                            size={18}
+                            className="text-yellow-400 shrink-0"
+                          />
                           <span className="flex-1 text-base font-semibold text-yellow-300">
                             {folder}
                           </span>
@@ -407,9 +412,15 @@ export default function QuizPage() {
                             {groupedQuizzes[folder].length} quizów
                           </span>
                           {expandedFolders.has(folder) ? (
-                            <ChevronDown size={16} className="text-gray-400 shrink-0" />
+                            <ChevronDown
+                              size={16}
+                              className="text-gray-400 shrink-0"
+                            />
                           ) : (
-                            <ChevronRight size={16} className="text-gray-400 shrink-0" />
+                            <ChevronRight
+                              size={16}
+                              className="text-gray-400 shrink-0"
+                            />
                           )}
                         </button>
                         {expandedFolders.has(folder) && (
@@ -439,9 +450,7 @@ export default function QuizPage() {
                                     </p>
                                   </div>
                                   <button
-                                    onClick={() =>
-                                      handleLoadAvailable(quiz.id)
-                                    }
+                                    onClick={() => handleLoadAvailable(quiz.id)}
                                     className="p-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors self-end sm:self-start"
                                     title="Załaduj quiz"
                                   >

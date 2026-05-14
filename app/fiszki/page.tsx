@@ -37,7 +37,9 @@ export default function FiszkiPage() {
   const [shareSet, setShareSet] = useState<FlashcardSet | null>(null);
   const [mounted, setMounted] = useState(false);
   const [availableFlashcards, setAvailableFlashcards] = useState<any[]>([]);
-  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(new Set());
+  const [expandedFolders, setExpandedFolders] = useState<Set<string>>(
+    new Set(),
+  );
 
   const groupedFlashcards = useMemo(() => {
     const groups: Record<string, any[]> = {};
@@ -566,7 +568,10 @@ export default function FiszkiPage() {
                           onClick={() => toggleFolder(folder)}
                           className="w-full flex items-center gap-3 p-4 text-left hover:bg-gray-800 transition-colors"
                         >
-                          <FolderOpen size={18} className="text-yellow-400 shrink-0" />
+                          <FolderOpen
+                            size={18}
+                            className="text-yellow-400 shrink-0"
+                          />
                           <span className="flex-1 text-base font-semibold text-yellow-300">
                             {folder}
                           </span>
@@ -574,9 +579,15 @@ export default function FiszkiPage() {
                             {groupedFlashcards[folder].length} zestawów
                           </span>
                           {expandedFolders.has(folder) ? (
-                            <ChevronDown size={16} className="text-gray-400 shrink-0" />
+                            <ChevronDown
+                              size={16}
+                              className="text-gray-400 shrink-0"
+                            />
                           ) : (
-                            <ChevronRight size={16} className="text-gray-400 shrink-0" />
+                            <ChevronRight
+                              size={16}
+                              className="text-gray-400 shrink-0"
+                            />
                           )}
                         </button>
                         {expandedFolders.has(folder) && (
