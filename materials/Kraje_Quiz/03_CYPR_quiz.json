@@ -1,0 +1,314 @@
+{
+  "title": "Cypr – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Cypru",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Gdzie geograficznie leży Cypr?",
+      "options": [
+        "Wschodnia część Morza Śródziemnego, w pobliżu wybrzeży Turcji, Syrii i Libanu",
+        "Centralna część Morza Śródziemnego, między Włochami a Tunezją",
+        "Morze Czarne, przy granicy Turcji i Bułgarii",
+        "Zachodnia część Morza Egejskiego, blisko wybrzeży Grecji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cypr leży we wschodniej części Morza Śródziemnego, w pobliżu wybrzeży Turcji, Syrii i Libanu.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak nazywa się najwyższy szczyt Cypru, leżący w masywie Troodos?",
+      "options": [
+        "Akamas",
+        "Kyrenia Peak",
+        "Athos",
+        "Olimp"
+      ],
+      "correctIndex": 3,
+      "explanation": "Najwyższym szczytem Cypru jest Olimp, leżący w potężnym masywie górskim Troodos w centrum i na południowym zachodzie wyspy.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Nikozja to ostatnia na świecie podzielona stolica. Co dzieli to miasto na dwie części?",
+      "options": [
+        "Zielona Linia (Buffer Zone) nadzorowana przez siły ONZ",
+        "Mury weneckie zbudowane w XV wieku",
+        "Rzeka Pedias tworząca naturalną granicę",
+        "Mur berliński wzniesiony przez Turcję"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przez środek Nikozji (Lefkosii) przebiega tzw. Zielona Linia (strefa buforowa) nadzorowana przez siły ONZ; dzieli miasto na grecką część południe i turecką północ.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest Pafos (Paphos) – jedno z największych zabytkowo miast Cypru?",
+      "options": [
+        "Miastem w całości wpisanym na listę UNESCO, słynącym z mozaik i Grobów Królewskich",
+        "Głównym portem lotniczym i centrum biznesowym wyspy",
+        "Miastem z największą koncentracją osmańskich meczetów",
+        "Tylko centrum administracyjnym z nowoczesną zabudową"
+      ],
+      "correctIndex": 0,
+      "explanation": "Całe miasto Pafos jest wpisane na listę UNESCO; słynie z Mozaik z Pafos (funkcja muzealna), Grobów Królewskich oraz pobliskiej Petry tou Romiou – mitycznego miejsca narodzin Afrodyty.",
+      "category": "Zabytki UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Petra tou Romiou (Skała Afrodyty) w pobliżu Pafos?",
+      "options": [
+        "Formacja skalna – mityczne miejsce narodzin bogini Afrodyty",
+        "Centrum pielgrzymkowe chrześcijańskie",
+        "Starożytna agora grecka nad morzem",
+        "Zamek wenecki z XV wieku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Petra tou Romiou (Skała Afrodyty) to formacja skalna w morzu w pobliżu Pafos – według mitologii grecka bogini Afrodyta narodziła się z morskiej piany właśnie w tym miejscu.",
+      "category": "Zabytki UNESCO",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Jaką szczególną rolę ekologiczną pełni Lara Beach na zachodnim Cyprze?",
+      "options": [
+        "Jest to strefa chroniona dla gatunków koralowców śródziemnomorskich",
+        "To obszar ochronny dla flamingów zimujących na Cyprze",
+        "Jest to rezerwat morski dla delfinów i morświnów",
+        "To kluczowe miejsce lęgowe żółwi morskich (Caretta caretta)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lara Beach to dzika plaża chroniona jako kluczowe miejsce lęgowe żółwi morskich (Caretta caretta); funkcja rezerwatu ekologicznego na Cyprze.",
+      "category": "Atrakcje przyrodnicze",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "W którym mieście na Cyprze Ryszard Lwie Serce wziął ślub?",
+      "options": [
+        "Larnaka",
+        "Limassol (Lemesos)",
+        "Pafos",
+        "Nikozja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Limassol (Lemesos) słynie m.in. z zamku, w którym Ryszard Lwie Serce brał ślub; dziś Limassol jest największym portem Cypru i centrum festiwalowym (festiwal wina).",
+      "category": "Historia i zabytki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Jakie ptaki zimują przy Słonym Jeziorze w Larnace?",
+      "options": [
+        "Flamingi",
+        "Żurawie",
+        "Bociany białe",
+        "Pelikany różowe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Słone Jezioro (Salt Lake) w pobliżu Larnaki jest ważnym miejscem zimowania flamingów – stanowi to jedną z głównych atrakcji przyrodniczych tego rejonu.",
+      "category": "Atrakcje przyrodnicze",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Kiedy Cypr uzyskał niepodległość od Wielkiej Brytanii?",
+      "options": [
+        "W 1948 roku",
+        "W 1960 roku",
+        "W 1974 roku",
+        "W 1955 roku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cypr uzyskał niepodległość od Wielkiej Brytanii w 1960 roku; wcześniej był kolonią brytyjską.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym była operacja „Attyla” z 1974 roku na Cyprze?",
+      "options": [
+        "Zamach stanu przeprowadzony przez nacjonalistów greckich",
+        "Deklaracja niepodległości Republiki Cypryjskiej",
+        "Turecka interwencja wojskowa na północną część wyspy, uzasadniana ochroną mniejszości tureckiej",
+        "Operacja wojsk ONZ w celu demilitaryzacji wyspy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operacja „Attyla” (1974) to turecka inwazja wojskowa na północną część Cypru, przeprowadzona po zamachu stanu greckich nacjonalistów; rezultatem był podział wyspy trwający do dziś.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Jaki jest obecny status polityczny północnej części Cypru?",
+      "options": [
+        "Turecka Republika Cypru Północnego – uznawana tylko przez Turcję",
+        "Terytorium zależne Grecji uznane przez Unię Europejską",
+        "Autonomiczny region Republiki Cypru",
+        "Terytorium pod zarządem ONZ bez suwerenności"
+      ],
+      "correctIndex": 0,
+      "explanation": "Północna część Cypru funkcjonuje jako Turecka Republika Cypru Północnego (proklamowana 1983), uznawana wyłącznie przez Turcję; południe to Republika Cypru – pełnoprawny członek UE.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Enosis i przez kogo było popierane?",
+      "options": [
+        "Koncepcja zjednoczenia z Turcją, popierana przez Turków",
+        "Projekt federalizacji wyspy popierany przez ONZ",
+        "Turecki projekt podziału wyspy na dwie części, popierany przez Turków cypryjskich",
+        "Dążenie do połączenia Cypru z Grecją, popierane przez część Greków cypryjskich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enosis to dążenie do połączenia Cypru z Grecją, popierane przez część Greków cypryjskich; jego realizacja przez zamach stanu w 1974 roku doprowadziła do tureckiej interwencji wojskowej.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest kurs Ayia Napa na wschodnim wybrzeżu Cypru?",
+      "options": [
+        "Najludniejszym centrum historycznym wyspy z mozaikami antycznymi",
+        "Najpopularniejszym kurortem wyspy słynącym z życia nocnego i pięknych plaż (Nissi Beach)",
+        "Centrum nurkowań na Cyprze z bogatymi rafami",
+        "Spokojną miejscowością rodzinną z kryształową wodą w zatoce Fig Tree Bay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayia Napa to najpopularniejszy kurort Cypru, znany przede wszystkim z intensywnego życia nocnego i pięknych plaż, w tym słynnej Nissi Beach.",
+      "category": "Regiony turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Jakie zabytki wyróżniają starówkę Nikozji (Lefkosii)?",
+      "options": [
+        "Mury weneckie w kształcie gwiazdy, Muzeum Cypryjskie i dzielnica Laiki Geitonia",
+        "Zamek krzyżowców i arsenał wenecki",
+        "Teatr antyczny z II w. p.n.e. i agora grecka",
+        "Gotycka katedra i pałac sułtana osmańskiego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nikozja wyróżnia się murami weneckimi w kształcie gwiazdy, Muzeum Cypryjskim oraz starówką Laiki Geitonia; pełni funkcję kulturową i polityczną.",
+      "category": "Regiony turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Półwysep Akamas na Cyprze?",
+      "options": [
+        "Historyczną dzielnicą Nikozji z muzeum i amfiteatrem",
+        "Ośrodkiem luksusowych hoteli z ekskluzywną plażą",
+        "Najbardziej dzikim i niezamieszkanym fragmentem wyspy – centrum turystyki aktywnej i przyrodniczej",
+        "Centrum administracyjnym zachodniej części wyspy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Półwysep Akamas to najbardziej dziki i niezamieszkany region Cypru; atrakcje to Wąwóz Avakas i Łaźnie Afrodyty; dominuje turystyka aktywna i przyrodnicza.",
+      "category": "Atrakcje przyrodnicze",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest pasmo Kyrenii na północy Cypru?",
+      "options": [
+        "Regionem pustynnym pokrytym wydmami",
+        "Nizinną strefą bagien z dużymi jeziorami",
+        "Podmorską granią łączącą Cypr z Kretą",
+        "Górskim pasmem biegnącym wzdłuż północnego wybrzeża wyspy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pasmo Kyrenii ciągnie się wzdłuż północnego wybrzeża Cypru i stanowi jeden z dwóch najważniejszych elementów rzeźby wyspy, obok masywu Troodos.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest nizina Mesaoria na Cyprze?",
+      "options": [
+        "Dzielnicą portową Limassol",
+        "Największym rezerwatem żółwi morskich",
+        "Sztucznym kanałem łączącym wybrzeża wyspy",
+        "Żyzną równiną rolniczą położoną między Górami Kyrenii a Troodos"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mesaoria to rozległa, żyzna nizina w centrum wyspy; rozciąga się między pasmem Kyrenii a masywem Troodos i ma duże znaczenie rolnicze.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Z czego słynie Protaras na południowo-wschodnim wybrzeżu Cypru?",
+      "options": [
+        "Z ruin antycznej stolicy Cypru",
+        "Z największego portu kontenerowego wyspy",
+        "Z pól lawowych i gorących źródeł",
+        "Z rodzinnego charakteru i krystalicznej wody w zatoce Fig Tree Bay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protaras jest spokojniejszy niż Ayia Napa i szczególnie popularny wśród rodzin; jego najbardziej rozpoznawalnym miejscem jest Fig Tree Bay z przejrzystą wodą.",
+      "category": "Regiony turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Jaką rolę pełni Limassol na Cyprze?",
+      "options": [
+        "To górski kurort położony w Troodos",
+        "To niewielki port rybacki bez znaczenia gospodarczego",
+        "To największy port wyspy oraz ważne centrum gospodarcze i festiwalowe",
+        "Jest stolicą Cypru i siedzibą ONZ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Limassol łączy funkcję dużego portu z rolą centrum gospodarczego i festiwalowego Cypru; nowoczesne mariny sąsiadują tam z zabytkowym zamkiem.",
+      "category": "Regiony turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym był Taksim w politycznej historii Cypru?",
+      "options": [
+        "Brytyjskim planem budowy baz wojskowych",
+        "Nazwą operacji ONZ z 1974 roku",
+        "Programem zjednoczenia wyspy z Grecją",
+        "Koncepcją podziału wyspy, popieraną przez część Turków cypryjskich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taksim oznaczał ideę podziału Cypru; stanowił przeciwieństwo Enosis i był wspierany przez część społeczności tureckocypryjskiej obawiającej się dominacji greckiej większości.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "hard"
+    },
+    {
+      "id": "21",
+      "question": "Jaką rolę pełni Zielona Linia (Buffer Zone) na Cyprze?",
+      "options": [
+        "To strefa buforowa nadzorowana przez ONZ, oddzielająca dwie części wyspy",
+        "To podziemna linia metra łącząca północ z południem Nikozji",
+        "Wyznacza granicę morska Cypru z Turcją",
+        "Jest strefą rolniczą przeznaczoną pod uprawę cytrusów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Buffer Zone, zwana Zieloną Linią, to strefa buforowa ONZ oddzielająca południową Republikę Cypru od północy kontrolowanej przez Turków cypryjskich.",
+      "category": "Konflikt grecko-turecki",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Z czego słynie Cerkiew św. Łazarza w Larnace?",
+      "options": [
+        "Jest nowoczesnym meczetem na lotnisku",
+        "Stanowi część murów weneckich Nikozji",
+        "To dawna siedziba brytyjskiego gubernatora",
+        "Należy do najważniejszych zabytków miasta i podkreśla jego religijne znaczenie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Larnaka jest ważna nie tylko dzięki lotnisku i słonemu jezioru; jednym z jej głównych zabytków pozostaje Cerkiew św. Łazarza, silnie związana z tożsamością miasta.",
+      "category": "Regiony turystyczne",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "title": "Włochy – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Włoch",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jakie dwa enklawy (małe niezależne państwa) są otoczone przez terytorium Włoch?",
+      "options": [
+        "San Marino i Andora",
+        "Watykan i Liechtenstein",
+        "Watykan i San Marino",
+        "Monako i San Marino"
+      ],
+      "correctIndex": 2,
+      "explanation": "Włochy otaczają dwa niezależne państwa-enklawy: Watykan (w Rzymie) i San Marino (w środkowych Włoszech na stokach Monte Titano).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Czym są Doliny Dolomitów (UNESCO) i gdzie leżą?",
+      "options": [
+        "Wulkaniczne szczyty na Sycylii w Apeninach Południowych",
+        "Krystaliczne granity w Alpach Zachodnich na granicy z Francją",
+        "Unikalne formacje skalne ze wapienia w Alpach Wschodnich – znane z różowego koloru o zachodzie słońca",
+        "Piaskowcowe kaniony w środkowych Włoszech w regionie Toskanii"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dolomity (UNESCO) to unikalne formacje skalne w Alpach Wschodnich zbudowane z dolomitu – wapienia magnezu; o zachodzie słońca skały nabierają różowo-pomarańczowego koloru (enrosadüra).",
+      "category": "Północne Włochy – Alpy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym słynęło Turyn w historii Włoch i kto się tam przechowuje?",
+      "options": [
+        "Centrum medyczne z najsłynniejszą szkołą chirurgiczną w Europie, Katedra z relikwiami Apostoła Tomasza",
+        "Dawna stolica Krlestwa Sycylii i centrum kultury normańskiej",
+        "Siedziba Fiata, gospodarz Zimowych Igrzysk Olimpijskich 2006, Całun Turyński",
+        "Centrum produkcji perfum i ceramiki z historią od XVI w."
+      ],
+      "correctIndex": 2,
+      "explanation": "Turyn słynie z siedzibą Fiata (i innowacjami motoryzacyjnymi), Igrzysk Olimpijskich Zimowych 2006, Egipskiego Muzeum (drugie najważniejsze na świecie) i Całunu Turyńskiego – tkaniny otaczającej ciało Chrystusa.",
+      "category": "Północne Włochy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jezioro Garda to największe jezioro Włoch. Z czego słynie turystycznie?",
+      "options": [
+        "Uzdrowisko termalne z naturalnym cudownym błotem",
+        "Jeziorko wulkaniczne z unikalną endemiczną florą i fauną",
+        "Najczystsze wielkie jezioro Włoch, centrum windsurfingu (Riva del Garda), Gardaland – największy park rozrywki Włoch",
+        "Centrum yachtingu i luksusowej turystyki z ekskluzywną marininą"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jezioro Garda to największe i najczystsze jezioro Włoch; Riva del Garda jest europejską stolicą windsurfingu; w pobliżu Peschiera del Garda leży Gardaland – największy park rozrywki Włoch.",
+      "category": "Wielkie Jeziora Alpejskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym wyróżnia się Wenecja wśród miast europejskich?",
+      "options": [
+        "Jest zbudowana na ponad 100 wyspach połączonych kanałami; słynie z Bazyliki Świętego Marka, Pałacu Dożów, Canal Grande i Mostu Rialto",
+        "Leży w całości pod ziemią z systemem metra i tunelami",
+        "To jedyne w Europie miasto całkowicie bezsamochodowe",
+        "Jest zbudowana na polderach osuszonych w XVI w."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wenecja to unikalne miasto na ponad 100 wyspach połączonych ok. 400 mostami; słynie z Bazyliki Świętego Marka, Pałacu Dożów (architektura wenecko-gotycka), Canal Grande i Mostu Rialto.",
+      "category": "Wenecja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Arena di Verona i dlaczego jest wyjątkowa?",
+      "options": [
+        "Ruiny starogrzeckiego teatru z VI w. p.n.e. zaadaptowane na widownię letnią",
+        "Renesansowy teatr z XV w. z unikatową freskami wnętrzem",
+        "Nowoczesne centrum kultury zlokalizowane na terenie ruin starożytnego teatru",
+        "Doskonale zachowany amfiteatr rzymski z I w. n.e., słynący z wielkich letnich spektakli operowych pod gołym niebem"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arena di Verona to doskonale zachowany amfiteatr z I w. n.e.; co lato odbywa się tu jeden z największych festiwali operowych na świecie (lipiec–sierpień) pod otwartym niebem.",
+      "category": "Północne Włochy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Bolonia słynie z najstarszego uniwersytetu w zachodnim świecie. Kiedy go założono?",
+      "options": [
+        "W roku 1088",
+        "Około 700 roku n.e.",
+        "W roku 1453",
+        "W roku 1215"
+      ],
+      "correctIndex": 0,
+      "explanation": "Universita di Bologna, założony w 1088 roku, jest najstarszym w ciągłym działaniu uniwersytetem w zachodnim świecie; to tu rozwijało się prawo europejskie.",
+      "category": "Emilia-Romania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Rawenna i dlaczego przyjeżdżają tam miłośnicy sztuki?",
+      "options": [
+        "Miasto słynące z najpiękniejszych na świecie mozaik bizantyjskich (Bazylika San Vitale, Mauzoleum Galli Placydii) – UNESCO",
+        "Miasto-muzeum poświęcone historii Cesarstwa Karola Wielkiego",
+        "Centrum mody i designu z historycznymi manufakturami tkanin jedwabnych",
+        "Centrum ceramiki artystycznej z tradycją sięgającą IX w."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rawenna słynie z najpiękniejszych i najlepiej zachowanych mozaik bizantyjskich na świecie (Bazylika San Vitale, Mauzoleum Galli Placydii) – wpisanych na listę UNESCO.",
+      "category": "Emilia-Romania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Czym jest Uffizi we Florencji?",
+      "options": [
+        "Galeria sztuki starożytnej z kolekcją rzeźb hellenistycznych i etruskich",
+        "Zabytkowy pałac Medyceuszy, gdzie rodzina królewska mieszkała do XVIII w.",
+        "Centrum sztuki współczesnej zainaugurowane przez rząd Włoch w XX w.",
+        "Jedno z najstarszych muzeów w Europie, mieszczące najfinezyjniejszy zbiór malarstwa włoskiego – m.in. Botticellego i Leonarda"
+      ],
+      "correctIndex": 3,
+      "explanation": "Galeria Uffizi we Florencji jest jednym z najstarszych i najważniejszych muzeów sztuki na świecie; gromadzi arcydzieła malarstwa włoskiego (Botticelli: Narodziny Wenus, Leonardo da Vinci, Michelangelo).",
+      "category": "Florencja i Toskania",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Jaką rolę odegrał Filippo Brunelleschi w historii architektury we Florencji?",
+      "options": [
+        "Zaprojektował Baptysterium San Giovanni z słynnymi Drzwiami Raju",
+        "Zbudował Ponte Vecchio i pierwsze sklepy złotnicze nad Arno",
+        "Wzniósł kopułę Katedry Santa Maria del Fiore – rewolucja w technice budowlanej (bez rusztowania, podwójna powłoka)",
+        "Zaprojektował Galerię Uffizi i Pałac Pitti"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brunelleschi zaprojektował kopułę Katedry Santa Maria del Fiore (Duomo) we Florencji (1420–1436); była to rewolucja w architekturze – zbudowana bez rusztowania, z podwójną powłoką, inspirowana Panteonem.",
+      "category": "Florencja i Toskania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Co to jest Wieża w Pizie i co jest przyczyną jej nachylenia?",
+      "options": [
+        "Wieża zegarowa w centrum Pizy, nachylona z powodu trzęsienia ziemi w XIV w.",
+        "Autonomiczna wieża obronna z XIII w. zbudowana celowo z pochyleniem dla efektu wizualnego",
+        "Wieża wodna z systemu irygacyjnego; nachylona przez ruchy tektoniczne",
+        "Dzwonnica katedry na Piazza dei Miracoli; nachylenie wynika z miękkich osadów gleby, które ugięły się po stronie fundamentu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Krzywa Wieża w Pizie to wolnostojąca dzwonnica katedry na Piazza dei Miracoli; nachylenie (ok. 4° dziś, po renowacji) jest skutkiem miękkich osadów gleby po jednej stronie fundamentu.",
+      "category": "Toskania",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Panteon w Rzymie i jakie pełni funkcje od starożytności?",
+      "options": [
+        "Najlepiej zachowana budowla starożytna – dawna świątynia wszystkich bogów, od VII w. kościół chrześcijański, mauzoleum włoskich królów",
+        "Republika Senacea z II w. p.n.e. z senatem i archiwa",
+        "Replika Partenonu ateńskiego zbudowana przez Hadriana w Rzymie",
+        "Ruiny świątyni Jowisza na Forum Romanum, zamknięte dla zwiedzających"
+      ],
+      "correctIndex": 0,
+      "explanation": "Panteon w Rzymie (126 r. n.e.) to najlepiej zachowana budowla antyczna; od 609 r. jest kościołem chrześcijańskim; jest też mauzoleum: pochowani są tam m.in. Rafael i włoscy królowie.",
+      "category": "Rzym",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Bazylika Świętego Franciszka w Asyżu?",
+      "options": [
+        "Najstarszy kościół romański w Umbrii z kryptą Świętego Benedykta",
+        "Centrum zakonu benedyktyńskiego z pierwszą regułą klasztorną w Europie",
+        "Sanktuarium maryjne z XIII w. z cudownym obrazem Madonny",
+        "Dwa poziomy bazyliki (górna i dolna) z freskami Giotta – centrum zakonu franciszkańskiego, UNESCO"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bazylika Świętego Franciszka w Asyżu (UNESCO) składa się z kościoła górnego i dolnego, ze słynnymi freskami Giotta; jest centrum zakonu franciszkańskiego założonego przez Świętego Franciszka z Asyżu.",
+      "category": "Umbria",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Etna na Sycylii?",
+      "options": [
+        "Podziemna jaskinia wulkaniczna z lawy skalnej w centrum Sycylii",
+        "Stożek skalny z zamkiem normańskim na szczycie",
+        "Najwyższy i najbardziej aktywny wulkan w Europie, wciąż erupcyjny, zbudowane są na nim winnice i sady",
+        "Nieaktywny wulkan tworzący malowniczy stożek nad Palermo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Etna to najwyższy (ok. 3350 m, zmienna wys.) i najbardziej aktywny wulkan w Europie; mimo aktywności, na jej stokach rozwijają się winnice i sady – wulkaniczna gleba jest bardzo żyzna.",
+      "category": "Sycylia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Cinque Terre na Riwierze Liguryjskiej?",
+      "options": [
+        "Pięć latarni morskich na skałach Morza Tyrreńskiego",
+        "Pięć zamków normanów na liguryjskim wybrzeżu z XII w.",
+        "Pięć kolorowych wiosek rybackich na stromych klifach Riwiera Liguryjskiej – UNESCO",
+        "Pięć zatoczek kąpielowych z endemiczną podwodną fauną"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cinque Terre (UNESCO) to pięć kolorowych wiosek rybackich (Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore) na stromych klifach Riwiera Liguryjskiej; połączone siecią malowniczych ścieżek.",
+      "category": "Liguria i Riwiera Włoska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Grota Azzurra (Niebieska Grota) na Capri?",
+      "options": [
+        "Jaskinia morska na wyspie Capri, gdzie niebieskie światło od załamania promieni słonecznych pod wodą powoduje świetlny efekt",
+        "Podziemny loch z lazurową wodą termalną, dostępny przez tunel skalny",
+        "Naturalne akwarium przy plaży z przeźroczystym dnem skalistym",
+        "Podwodna jaskinia z fluorescencyjnymi glonami tworzącymi niebieskie światło"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grota Azzurra to jaskinia morska na Capri, gdzie promienie słoneczne wnikają przez podwodne otwory w skale i oświetlają wodę w komorze od dołu, tworząc intensywne niebieskie światło.",
+      "category": "Południe Włoch i wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Co to jest Cmentarz Wojsk Polskich na Monte Cassino?",
+      "options": [
+        "Muzeum i centrum upamiętnienia działań wojennych kampanii włoskiej",
+        "Międzynarodowy cmentarz wojskowy przy klasztorze benedyktyńskim na wzgórzu",
+        "Polska Nekropolia Wojskowa na Monte Cassino – miejsce pochówku żołnierzy II Korpusu gen. Andersa, poległych w słynnej bitwie 1944 roku",
+        "Cmentarz jeńców wojennych z I w.ś. w centralnych Włoszech"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cmentarz Polski na Monte Cassino to Polska Nekropolia Wojskowa – miejsce pochówku ok. 1000 żołnierzy II Korpusu gen. Andersa, którzy polegli podczas bitwy 11–18 maja 1944 roku.",
+      "category": "Południe Włoch i wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym są nuraghi na Sardynii?",
+      "options": [
+        "Prehistoryczne wieże-twierdze z kamienia, budowane ok. 1900–730 p.n.e. przez cywilizację Nuraghijską",
+        "Naturalne formacje bazaltowe na wybrzeżu Sardynii",
+        "Romańskie kościoły zbudowane na wzgórzach przez Genueńczyków",
+        "Arabskie wieże obserwacyjne z epoki arabskich podbojów Sardynii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nuraghi to prehistoryczne okrągłe kamienne wieże budowane przez cywilizację Nuraghijską (ok. 1900–730 p.n.e.); na Sardynii jest ich ponad 7000 – unikalny przykład architektury prehistorycznej.",
+      "category": "Sardynia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Z czego słynie Trydent w północnych Włoszech?",
+      "options": [
+        "Z największego portu Morza Adriatyckiego",
+        "Z posiedzeń Soboru Trydenckiego i zamku Buonconsiglio",
+        "Z nuragów i megalitów",
+        "Z pałacu papieskiego zbudowanego przez Berniniego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trydent zajmuje ważne miejsce w historii Kościoła i Europy dzięki Soborowi Trydenckiemu; miasto kojarzy się też z zamkiem Buonconsiglio i położeniem w dolinie Adygi.",
+      "category": "Alpy i północ Włoch",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Co wyróżnia Jezioro Como?",
+      "options": [
+        "Leży wyłącznie na terytorium Szwajcarii",
+        "Jest największym jeziorem Włoch i centrum windsurfingu",
+        "To jezioro słone położone na Sycylii",
+        "Ma kształt odwróconej litery Y i słynie z luksusowych willi oraz miejscowości Bellagio"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jezioro Como jest jednym z najsłynniejszych jezior alpejskich Włoch; charakterystyczny kształt Y i ekskluzywny charakter regionu przyciągają turystów z całego świata.",
+      "category": "Alpy i północ Włoch",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Z czego słynie Jezioro Maggiore?",
+      "options": [
+        "Z Wysp Boromejskich, zwłaszcza Isola Bella z barokowym pałacem i ogrodami",
+        "Z największego czynnego wulkanu Europy",
+        "Z ruin starożytnego portu rzymskiego na dnie",
+        "Z wydm i pustynnego krajobrazu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jezioro Maggiore przyciąga m.in. dzięki Wyspom Boromejskim; Isola Bella jest symbolem elitarnej turystyki jeziornej z pałacami i ogrodami barokowymi.",
+      "category": "Alpy i północ Włoch",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Dlaczego Livigno jest rozpoznawalne wśród narciarzy i turystów zakupowych?",
+      "options": [
+        "Bo jest jedynym włoskim kurortem z plażą morską",
+        "Ze względu na słynne mozaiki bizantyjskie",
+        "Ponieważ leży w strefie wolnocłowej i ma bardzo długi sezon narciarski",
+        "Ponieważ mieści się tam Watykan zimowy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Livigno jest cenione nie tylko za warunki śniegowe i długi sezon, lecz także za status strefy wolnocłowej, który wspiera handel i turystykę zakupową.",
+      "category": "Alpy i północ Włoch",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest Nizina Padańska w geografii Włoch?",
+      "options": [
+        "Wysokogórskim płaskowyżem w Apeninach",
+        "Pustynną krainą na Sardynii",
+        "Lagunami otaczającymi Wenecję",
+        "Najżyźniejszym i najgęściej zaludnionym obszarem kraju, rozciągającym się między Alpami a Apeninami"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nizina Padańska to rolnicze i gospodarcze serce północnych Włoch; jej położenie między Alpami a Apeninami sprzyja koncentracji ludności, przemysłu i wielkich miast.",
+      "category": "Geografia Włoch",
+      "difficulty": "easy"
+    },
+    {
+      "id": "24",
+      "question": "Jaką funkcję pełni Canal Grande w Wenecji?",
+      "options": [
+        "Stanowi główną arterię wodną miasta, wzdłuż której stoją najwspanialsze pałace",
+        "Jest kanałem irygacyjnym na obrzeżach laguny",
+        "Jest jedynie trasą gondoli dla turystów, bez znaczenia miejskiego",
+        "To podziemna droga techniczna dla dostaw towarów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Canal Grande to główna arteria komunikacyjna Wenecji; koncentrują się przy nim najważniejsze pałace i życie miejskie dawnej republiki kupieckiej.",
+      "category": "Wenecja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "question": "Co wyróżnia mediolańskie Duomo?",
+      "options": [
+        "To katedra podziemna wykuta w skale",
+        "Jest największą romańską świątynią Italii",
+        "Powstała jako meczet osmański przerobiony na katedrę",
+        "To jedna z największych gotyckich katedr świata, słynna także z możliwości wejścia na dach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Duomo w Mediolanie należy do największych katedr gotyckich świata; szczególną atrakcją jest możliwość wejścia na dach i oglądania miasta pośród kamiennych sterczyn.",
+      "category": "Lombardia i Mediolan",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Teatro alla Scala w Mediolanie?",
+      "options": [
+        "Największym stadionem piłkarskim Włoch",
+        "Barokowym klasztorem przy galerii handlowej",
+        "Muzeum techniki poświęconym Leonardowi da Vinci",
+        "Jedną z najsłynniejszych scen operowych świata"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Scala jest jednym z najważniejszych teatrów operowych globu; występowały tam największe nazwiska świata muzyki klasycznej i śpiewu.",
+      "category": "Lombardia i Mediolan",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Z czego słynie Padwa poza uniwersytetem?",
+      "options": [
+        "Z piaszczystych plaż Morza Tyrreńskiego",
+        "Z Bazyliki św. Antoniego i ogromnego placu Prato della Valle",
+        "Z najstarszego włoskiego kasyna",
+        "Z pola bitew I wojny światowej nad Alpami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Padwa jest ważnym celem pielgrzymkowym dzięki Bazylice św. Antoniego, a jej rozległy plac Prato della Valle należy do najbardziej rozpoznawalnych przestrzeni miejskich Włoch.",
+      "category": "Emilia-Romania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Co najbardziej kojarzy się z architekturą Bolonii?",
+      "options": [
+        "Sieć kanałów podobna do Wenecji",
+        "Drewniana zabudowa nordycka",
+        "Ceglane podcienia oraz symboliczne Dwie Wieże (Due Torri)",
+        "Białe marmurowe pałace i szerokie bulwary"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bolonia słynie z czerwonej cegły, długich arkad i średniowiecznych wież; Due Torri to jej najbardziej rozpoznawalny symbol.",
+      "category": "Emilia-Romania",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Z czego słynie San Remo na Riwierze Włoskiej?",
+      "options": [
+        "Z jedynego we Włoszech lodowca nadmorskiego",
+        "Z największej rafy koralowej Morza Śródziemnego",
+        "Z pól lawowych i aktywnego wulkanu",
+        "Z festiwalu piosenki i kasyna"
+      ],
+      "correctIndex": 3,
+      "explanation": "San Remo jest jednym z najsłynniejszych kurortów Ligurii; jego międzynarodową rozpoznawalność buduje zwłaszcza festiwal piosenki oraz kasyno.",
+      "category": "Liguria i Riwiera Włoska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "30",
+      "question": "Co wyróżnia Wybrzeże Amalfi i Półwysep Sorrento?",
+      "options": [
+        "Równinne plaże i wielkie pola ryżowe",
+        "Zimowe kurorty narciarskie przy brzegu morza",
+        "Skaliste klify z tarasowymi uprawami cytryn, luksusowymi hotelami i produkcją limoncello",
+        "Rozległe deltowe bagna i mokradła"
+      ],
+      "correctIndex": 2,
+      "explanation": "Półwysep Sorrento i Wybrzeże Amalfi należą do najpiękniejszych wybrzeży Europy; znane są z klifowych krajobrazów, tarasów cytrynowych i eleganckich kurortów.",
+      "category": "Południe Włoch i wyspy",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym słynie wyspa Ischia?",
+      "options": [
+        "Z najdłuższych tras narciarskich we Włoszech",
+        "Z nuragów i megalitów",
+        "Z ogrodów termalnych i uzdrowiskowego charakteru",
+        "Z pałaców Medyceuszy i galerii renesansowych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ischia to „zielona wyspa” pochodzenia wulkanicznego, ceniona za zasoby wód termalnych i rozbudowaną ofertę wellness oraz wypoczynku zdrowotnego.",
+      "category": "Południe Włoch i wyspy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "question": "Jaką rangę ma Muzeum Egipskie w Turynie?",
+      "options": [
+        "Należy do najważniejszych muzeów egiptologicznych świata",
+        "Przechowuje wyłącznie kopie znalezisk z Kairu",
+        "Jest jedynie działem muzeum techniki FIAT",
+        "To niewielka kolekcja szkolna poświęcona starożytnemu Egiptowi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Turyńskie Museo Egizio należy do najważniejszych muzeów poświęconych starożytnemu Egiptowi, co dodatkowo wzmacnia kulturową pozycję miasta obok przemysłowego dziedzictwa FIAT.",
+      "category": "Alpy i północ Włoch",
+      "difficulty": "medium"
+    }
+  ]
+}

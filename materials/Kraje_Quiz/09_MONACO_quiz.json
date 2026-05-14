@@ -1,0 +1,370 @@
+{
+  "title": "Monako – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Monako",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jak Monako plasuje się pod względem powierzchni wśród krajów świata?",
+      "options": [
+        "Drugi najmniejszy kraj na świecie (po Watykanie)",
+        "Najmniejszy kraj na świecie",
+        "Trzeci najmniejszy kraj na świecie (po Watykanie i San Marino)",
+        "Czwarty najmniejszy kraj na świecie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monako jest drugim najmniejszym krajem na świecie (ok. 2 km²), zaraz po Watykanie; większość terytorium zajmuje zabudowa miejska i infrastruktura portowa.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Który z rodziny królewskiej Grimaldich rządzi Monako?",
+      "options": [
+        "Książę Albert I (oceanograf)",
+        "Książę Ludwik II",
+        "Książę Rainier III",
+        "Książę Albert II"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monako jest monarchią konstytucyjną; od 2005 roku rządzi nim Książę Albert II z dynastii Grimaldich, który jest synem Rainiera III i Grace Kelly.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest dzielnica Fontvieille i jak Monako ją rozbudowało?",
+      "options": [
+        "Ekskluzywna dzielnica mieszkalna z willami na klifie",
+        "Centrum finansowe z nowoczesną architekturą",
+        "Dzielnica portowa i przemysłowa zbudowana na terenach wygranych z morza",
+        "Historyczna dzielnica handlowa na wzgórzu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fontvieille to dzielnica przemysłowa i portowa Monako, zbudowana na terenach wygranych z morza (lądyfikacja); stąd Monako rozszerza swoje terytorium kosztem Morza Śródziemnego.",
+      "category": "Dzielnice Monako",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest Ogród Różany (Roseraie Princesse Grace) w Fontvieille?",
+      "options": [
+        "Historyczny ogród botaniczny założony przez Rainiera I w 1860 roku",
+        "Ogród założony w 1984 roku przez Alberta II ku pamięci Grace Kelly, z 4000 krzewów różanych",
+        "Prywatny ogród rodziny Grimaldi udostępniany dla zwiedzających raz w roku",
+        "Ogród kwiatowy EXPO z 1956 roku jako pamiątka wesela Rainiera i Grace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Roseraie Princesse Grace (Ogród Różany Księżnej Gracji) w Fontvieille został założony w 1984 roku przez Rainiera III ku pamięci Grace Kelly; rośnie tu ok. 4000 krzewów różanych 300 odmian.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Z czego słynie Musée Océanographique w Monako-Ville?",
+      "options": [
+        "Muzeum historii morskich wypraw dynastii Grimaldich od XV wieku",
+        "Największe na świecie muzeum meteorytów znalezionych na dnie oceanów",
+        "Centrum badań klimatycznych finansowane przez Unię Europejską",
+        "Muzeum założone w 1910 roku przez Alberta I (pioniera oceanografii) z akwarium z Rekinią Laguną; dyrektorem był niegdyś Jacques-Yves Cousteau"
+      ],
+      "correctIndex": 3,
+      "explanation": "Musée Océanographique (1910) założył Albert I – pionier oceanografii; posiada Shark Lagoon (Rekinią Lagunę) i niezwykłe akwaria. Jacques-Yves Cousteau pełnił funkcję jego dyrektora przez wiele lat.",
+      "category": "Monako-Ville (Stare Miasto)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Kiedy odbywa się zmiana warty przed Pałacem Książęcym w Monako-Ville?",
+      "options": [
+        "O godzinie 9:00",
+        "O godzinie 10:00",
+        "O godzinie 12:00 w południe",
+        "O godzinie 11:55 (z uwagi na południe)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zmiana warty przed Pałacem Książęcym (na Twierdzy Genueńskiej z 1215 roku) odbywa się codziennie o godzinie 11:55, tuż przed południem – jest to jedna z popularnych atrakcji turystycznych.",
+      "category": "Monako-Ville (Stare Miasto)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Kto nie może grać w Kasynie Monte Carlo?",
+      "options": [
+        "Kobiety w towarzystwie mężczyzn w smokingu",
+        "Turyści poniżej 18 roku życia",
+        "Osoby bez posiadania konta w banku",
+        "Obywatele Monako"
+      ],
+      "correctIndex": 3,
+      "explanation": "Obywatele Monako mają zakaz gry w Kasynie Monte Carlo – pierwotnie była to zasada, by lokalni mieszkańcy nie tracili majątków; kasino jest przeznaczone dla turystów i przyjezdnych.",
+      "category": "Monte Carlo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Kto zaprojektował Kasyno Monte Carlo i z jakim innym słynnym obiektem łączy się jego architekt?",
+      "options": [
+        "Charles Garnier, który jest również twórcą Opery Paryskiej",
+        "Le Corbusier, który zaprojektował też siedzibę UNESCO w Paryżu",
+        "Hector Guimard, znany z wejść do paryskiego metra",
+        "Gustave Eiffel, który zaprojektował też wiele dworców kolejowych w Europie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasyno Monte Carlo (belle époque) zostało zaprojektowane przez Charlesa Garniera, który jest też autorem słynnej Opery Paryskiej (Palais Garnier).",
+      "category": "Monte Carlo",
+      "difficulty": "hard"
+    },
+    {
+      "id": "9",
+      "question": "Czym jest Champions Promenade w Monako?",
+      "options": [
+        "Trasa dla biegaczy wzdłuż wybrzeża Lazurowego Wybrzeża",
+        "Ekskluzywna promenada handlowa z butikam w Monte Carlo",
+        "Chodnik sław piłkarzy wyróżnionych statuetką Golden Foot (m.in. Pelé, Maradona, Ronaldo, Lewandowski)",
+        "Park upamiętniający mistrzów Formuły 1 z miniaturami samochodów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Champions Promenade to „chodnik sław” futbolu w Monako; piłkarze z nagrodą Golden Foot pozostawiają odcisk stopy w betonie. Wśród uhonorowanych są Pelé, Maradona, Ronaldo, Zidane, Lewandowski.",
+      "category": "Monte Carlo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Formuła 1 Grand Prix Monako?",
+      "options": [
+        "Regularny wyścig uliczny przez centrum Nicei i Antibes",
+        "Wyścig samochodów elektrycznych przez Korsykę i Lazurowe Wybrzeże",
+        "Jeden z najsłynniejszych wyścigów F1 na ulicach Monako, odbywający się co roku pod koniec maja; trasa wiedzie przez tunel i port Hercule",
+        "Historyczny wyścig tylko dla samochodów z lat 50. i 60."
+      ],
+      "correctIndex": 2,
+      "explanation": "Grand Prix F1 w Monako to jeden z najbardziej prestiżowych i trudnych wyścigów Formuły 1; odbywa się co roku w maju na ulicach księstwa, trasa wiedzie przez tunel i słynny zakręt La Rascasse.",
+      "category": "Imprezy i wydarzenia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Rally Monte Carlo?",
+      "options": [
+        "Wyścig motorowodny wokół przybrzeżnych wysp Monako, organizowany od 1895 roku",
+        "Coroczny rajd motocyklowy przez Alpy i Rivierę Włoską",
+        "Jeden z najstarszych rajdów samochodowych na świecie (od 1911 roku), znany z odcinka specjalnego na Col de Turini",
+        "Najnowszy rally w ramach Mistrzostw Świata WRC od 2000 roku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rally Monte Carlo to jeden z najstarszych rajdów samochodowych świata (od 1911 roku); słynny ze specjalnego odcinka na górskiej przełęczy Col de Turini w Alpach Nadmorskich.",
+      "category": "Imprezy i wydarzenia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Kim była Grace Kelly i co stało się z jej relacją z Monako?",
+      "options": [
+        "Słynna śpiewaczka operowa, którą Rainier III uczynił księżną honorową Monako",
+        "Znana aktorka francuska, pierwsza żona Rainiera III; zrezygnowała z tronu dla kariery artystycznej",
+        "Hollywoodzka aktorka, laureatka Oscara za „The Country Girl”; poślubiła Rainiera III w 1956 roku i stała się Księżną Monako; zginęła w wypadku samochodowym w 1982 roku",
+        "Brytyjska arystokratka, która wyszła za mąż za Alberta II i odnowiła związki Monako z Wielką Brytanią"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grace Kelly była hollywoodzką aktorką i zdobywczynią Oscara za film „The Country Girl”. W 1956 roku poślubiła Rainiera III – ślub nazwano „ślubem stulecia”. Poświęciła karierę, aby prowadzić działalność charytatywną. Zginęła w wypadku samochodowym w 1982 roku.",
+      "category": "Historia i kultura",
+      "difficulty": "easy"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Port Hercule w dzielnicy La Condamine?",
+      "options": [
+        "Centrum sportów wodnych i żeglarstwa regatowego",
+        "Historyczny port galeonów z XVII wieku",
+        "Jedyny głębinowy port Monako, gdzie cumują superjachty i odbywa się Monaco Yacht Show; wchodzi w trasy wyścigu F1",
+        "Prywatny port dla łodzi rodziny Grimaldich"
+      ],
+      "correctIndex": 2,
+      "explanation": "Port Hercule to jedyny głębinowy port Monako, zlokalizowany w dzielnicy La Condamine; cumują tu luksusowe superjachty podczas Monaco Yacht Show, a sam port wchodzi w skład trasy Grand Prix F1.",
+      "category": "La Condamine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Jardin Japonais (Ogród Japoński) w Monte Carlo?",
+      "options": [
+        "Prywatny ogród Alana Grimaldi, darowany Monako przez Japonię w 1990 roku",
+        "Ogród zbudowany po I wojnie światowej jako symbol pokoju między Francją a Japonią",
+        "Ogród botaniczny z kolekcją roślin z Azji Wschodniej",
+        "Tradycyjny japoński ogród o powierzchni 0,7 ha zaprojektowany przez Yasuo Beppu, oddany do użytku w 1994 roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jardin Japonais to tradycyjny japoński ogród o powierzchni 0,7 ha w Monte Carlo, zaprojektowany przez architekta krajobrazu Yasuo Beppu; wstęp jest bezpłatny.",
+      "category": "Monte Carlo",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym wyróżnia się Port de Fontvieille na tle innych marin Monako?",
+      "options": [
+        "To mniejsza marina w dzielnicy zbudowanej na terenach odzyskanych z morza, obsługująca prywatne jachty i zaplecze techniczne",
+        "Jest najstarszym portem wojennym księstwa",
+        "Pełni wyłącznie funkcję terminalu promowego na Korsykę",
+        "To jedyny port, do którego mają wstęp mieszkańcy Monako"
+      ],
+      "correctIndex": 0,
+      "explanation": "Port de Fontvieille leży w nowoczesnej dzielnicy usypanej na terenach odzyskanych z morza; jest mniejszy od Port Hercule i pełni głównie funkcję mariny oraz zaplecza dla prywatnych jednostek.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Monaco Yacht Show organizowany w Port Hercule?",
+      "options": [
+        "Jednym z najważniejszych na świecie salonów superjachtów, przyciągającym producentów luksusowych jednostek i zamożnych klientów",
+        "Młodzieżowymi regatami szkolnymi rozgrywanymi wyłącznie na łodziach klasy Optimist",
+        "Festiwalem starych żaglowców z rekonstrukcjami bitew morskich",
+        "Targami łodzi rybackich dla mieszkańców Lazurowego Wybrzeża"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monaco Yacht Show to jedno z najważniejszych wydarzeń branży luksusowych jachtów; w Port Hercule prezentowane są superjachty, nowe technologie i usługi dla najbogatszych klientów świata.",
+      "category": "Imprezy i wydarzenia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Dlaczego plaża Larvotto jest nietypowa jak na Monako?",
+      "options": [
+        "To jedyna plaża żwirowa całego Morza Śródziemnego",
+        "Powstała w miejscu dawnego toru Formuły 1 po II wojnie światowej",
+        "Leży na prywatnej wyspie należącej do rodziny Grimaldich",
+        "Jest w dużej mierze sztucznie utworzona i osłonięta, aby zapewnić kąpielisko w silnie zurbanizowanym księstwie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Larvotto to najsłynniejsza plaża Monako; została w znacznym stopniu sztucznie uformowana i zabezpieczona, bo w silnie zabudowanym księstwie naturalnej przestrzeni plażowej jest bardzo mało.",
+      "category": "Monte Carlo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co sprawia, że tor Grand Prix Monako jest wyjątkowo trudny dla kierowców F1?",
+      "options": [
+        "Prowadzi głównie po szutrze i stromych serpentynach górskich",
+        "Ma najwyższą średnią prędkość w całym kalendarzu Formuły 1",
+        "Jest bardzo wąski, pełen barier, obejmuje wolny nawrót Fairmont i przejazd tunelem niemal bez marginesu błędu",
+        "Odbywa się nocą przy sztucznym oświetleniu ulicznym portu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tor w Monako uchodzi za jeden z najtrudniejszych, bo uliczna trasa jest bardzo ciasna, pozbawiona poboczy i zawiera ikoniczne miejsca jak nawrót Fairmont oraz tunel prowadzący ku nabrzeżu.",
+      "category": "Imprezy i wydarzenia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Z którym reżyserem najbardziej kojarzona jest hollywoodzka kariera Grace Kelly?",
+      "options": [
+        "Stanleyem Kubrickiem",
+        "Federico Fellinim",
+        "Orsonem Wellesem",
+        "Alfredem Hitchcockiem, u którego zagrała m.in. w „Okno na podwórze” i „Złapać złodzieja”"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grace Kelly była jedną z gwiazd filmów Alfreda Hitchcocka; wystąpiła m.in. w „Rear Window” („Okno na podwórze”) i „To Catch a Thief”, zanim została księżną Monako.",
+      "category": "Historia i kultura",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest Katedra Świętego Mikołaja w Monako-Ville?",
+      "options": [
+        "Katedrą słynącą wyłącznie z muzeum oceanograficznego pod prezbiterium",
+        "Nowoczesną świątynią zbudowaną po II wojnie światowej na sztucznej platformie",
+        "Główną katedrą księstwa z białego kamienia, miejscem pochówku książąt Grimaldich, w tym Rainiera III i Grace Kelly",
+        "Dawnym kościołem anglikańskim przekształconym w katedrę państwową"
+      ],
+      "correctIndex": 2,
+      "explanation": "Katedra Świętego Mikołaja (Saint-Nicolas) to główna świątynia Monako, zbudowana z jasnego kamienia; spoczywają w niej członkowie dynastii Grimaldich, m.in. Rainier III i Grace Kelly.",
+      "category": "Monako-Ville (Stare Miasto)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Co można zobaczyć w Musée Naval de Monaco w Fontvieille?",
+      "options": [
+        "Kolekcję wyłącznie map meteorologicznych Morza Śródziemnego",
+        "Największe akwarium z meduzami na Lazurowym Wybrzeżu",
+        "Wyłącznie współczesne jachty wyścigowe z Grand Prix",
+        "Bogaty zbiór modeli statków – od starożytnych galer po nowoczesne lotniskowce"
+      ],
+      "correctIndex": 3,
+      "explanation": "Muzeum Marynarki w Fontvieille prezentuje szeroką kolekcję modeli jednostek pływających, od antycznych galer po nowoczesne okręty i lotniskowce, częściowo z kolekcji Rainiera III.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Czym jest Muzeum Znaczków i Monet w Monako?",
+      "options": [
+        "Miejscem przechowywania wyłącznie trofeów z Grand Prix",
+        "Muzeum poświęconym wyłącznie euro wprowadzanemu po 2002 roku",
+        "Placówką pokazującą historię filatelistyki i numizmaty księstwa, w tym emisje od XVII wieku",
+        "Prywatnym skarbcem niedostępnym dla turystów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Musée des Timbres et des Monnaies prezentuje rzadkie znaczki i numizmaty Monako, pomagając zachować oraz pokazać dziedzictwo państwowe księstwa.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Co wyróżnia apartamenty państwowe w Pałacu Książęcym Monako?",
+      "options": [
+        "Słyną z reprezentacyjnych komnat i fresków z XVI wieku, udostępnianych do zwiedzania, gdy książę nie przebywa w rezydencji",
+        "Mieszczą jedynie biura administracji portowej",
+        "Stanowią prywatną strefę kasyna Monte Carlo",
+        "Są urządzone wyłącznie w stylu minimalistycznym z XXI wieku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apartamenty państwowe Pałacu Książęcego należą do najważniejszych atrakcji Monaco-Ville; ich reprezentacyjny charakter podkreślają m.in. XVI-wieczne freski.",
+      "category": "Monako-Ville (Stare Miasto)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym jest Kolekcja Samochodów Księcia Monako w Tarasach Fontvieille?",
+      "options": [
+        "Centrum szkoleniowym kierowców Grand Prix",
+        "Tymczasową wystawą wypożyczanych aut z salonów luksusowych",
+        "Stałą ekspozycją setek pojazdów – od aut zabytkowych po bolidy Formuły 1 z kolekcji książęcej",
+        "Muzeum poświęconym wyłącznie rowerom wyścigowym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kolekcja Samochodów Księcia Monako w Tarasach Fontvieille prezentuje setki rzadkich pojazdów, od aut zabytkowych po maszyny F1, podkreślając motoryzacyjne oblicze księstwa.",
+      "category": "Fontvieille",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Marché de la Condamine i jaki lokalny specjał można tam spróbować?",
+      "options": [
+        "Luksusową galerią zegarków, gdzie podaje się kawior",
+        "Muzeum roślin egzotycznych z degustacją sushi",
+        "Tradycyjną halą targową przy Place d’Armes, znaną m.in. z barbagiuan – smażonych pierożków z boćwiną",
+        "Zamkniętym rynkiem rybnym dostępnym tylko dla mieszkańców"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marché de la Condamine to tradycyjna hala targowa Monako; właśnie tam można spróbować lokalnych potraw, takich jak barbagiuan, w mniej luksusowej atmosferze niż w Monte Carlo.",
+      "category": "La Condamine",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest International Circus Festival of Monte-Carlo?",
+      "options": [
+        "Turniejem akrobatycznym organizowanym wyłącznie dla dzieci",
+        "Regatami żeglarskimi połączonymi z pokazami klaunów",
+        "Najbardziej prestiżowym festiwalem cyrkowym świata, założonym przez Rainiera III, z nagrodami Złotych Clownów",
+        "Lokalnym festynem ulicznym bez międzynarodowej rangi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Międzynarodowy Festiwal Cyrkowy w Monako należy do najważniejszych wydarzeń tej sztuki na świecie; został założony przez Rainiera III, a jego najwyższą nagrodą są Złote Clowny.",
+      "category": "Imprezy i wydarzenia",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "title": "Turcja – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Turcji",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Na jakich dwóch kontynentach leży Turcja i co je rozdziela?",
+      "options": [
+        "Azja (Anatolia, 97%) i Europa (Tracja Wschodnia, 3%) – rozdziela je Bosfor, Dardanele i Morze Marmara",
+        "Azja i Afryka – rozdziela je Cieśnina Suez",
+        "Europa i Afryka – rozdziela je Morze Śródziemne",
+        "Europa i Azja – rozdziela je Kaukaz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Turcja leży na dwóch kontynentach: azjatycka Anatolia stanowi ok. 97% powierzchni, europejska Tracja Wschodnia ok. 3%; obie części oddziela Bosfor, Dardanele i Morze Marmara.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Ile krajów graniczy z Turcją i jak się nazywają?",
+      "options": [
+        "7 krajów: Grecja, Bułgaria, Georgia, Iran, Irak, Syria i Armenia",
+        "6 krajów: Grecja, Bułgaria, Georgia, Armenia, Irak, Syria",
+        "5 krajów: Grecja, Bułgaria, Georgia, Iran, Syria",
+        "8 krajów: Grecja i Bułgaria (Europa), Georgia, Armenia, Iran, Irak i Syria (Azja)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Turcja graniczy z 8 krajami: w Europie z Grecją i Bułgarią, w Azji z Gruzją, Armenią, Iranem, Irakiem i Syrią.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Dlaczego Istanbul jest wyjątkowy pod względem urbanistycznym w skali świata?",
+      "options": [
+        "Jest jedynym miastem na świecie zbudowanym na 7 wzgórzach",
+        "Jest jedynym miastem na świecie z terenem rezerwy biosfery UNESCO w centrum",
+        "Jest jedyną metropolią na dwóch kontynentach, dawną stolicą trzech imperiów (Rzymskiego/Bizantyjskiego/Ottomańskiego)",
+        "Jest największym miastem wybudowanym na obszarze delta rzeki"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stambuł to jedyna metropolia na świecie leżąca na dwóch kontynentach (przez Bosfor); był stolicą Cesarstwa Rzymskiego (Konstantynopol), Byzantyjskiego i Ottomańskiego.",
+      "category": "Stambuł",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Ile minaretów posiada Błękitny Meczet w Stambule i dlaczego jest to kontrowersyjne?",
+      "options": [
+        "6 minaretów – liczba początkowo zarezerwowana dla Meczetu Haramu w Mekce",
+        "4 minarety – typowa dla meczetu budowanego przez Sullana",
+        "2 minarety – bo meczet jest mniejszy niż Hagia Sophia",
+        "8 minaretów – symbol osiemnastu dni budowy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Błękitny Meczet (Sultan Ahmed Camii) w Stambule wyróżnia się 6 minaretami, co wywołało kontrowersje, ponieważ ta liczba była wcześniej zarezerwowana dla Meczetu Haramu w Mekce.",
+      "category": "Stambuł",
+      "difficulty": "hard"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Hagia Sophia w Stambule?",
+      "options": [
+        "Najstarsza katedra na Bliskim Wschodzie z I w. n.e.",
+        "Pałac sułtanów ottomańskich, dziś jedno z największych muzeów Bliskiego Wschodu",
+        "Meczet ottomański z XVI w., przebudowany na muzeum po I wojnie światowej",
+        "Dawna bazylika prawosławna (537 r.), potem meczet, muzeum, znów meczet od 2020 r."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hagia Sophia (537 r.) to jedno z najważniejszych dzieł architektury na świecie: pierwotnie bazylika prawosławna, potem meczet ottomański (1453–1934), muzeum (1934–2020), ponownie meczet (od 2020 r.).",
+      "category": "Stambuł",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Pamukkale (Bawełniany Zamek) i co się na nim znajduje?",
+      "options": [
+        "Solne pole na płaskowyżu anatolijskim z wyjątkowymi kryształami halitu",
+        "Biały klif wapienno-kredowy z prehistorycznymi malowidłami naskalnymi",
+        "Białe tarasy trawertynowe z gorącą wodą mineralną nad ruinami starożytnego Hierapolis z Basenem Kleopatry",
+        "Piaszczyste wydmy na wybrzeżu Morza Egejskiego przywodzące na myśl zamek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pamukkale (Bawełniany Zamek) to formacje trawertynowe – białe tarasy z gorącą wodą mineralną; nad nimi leżą ruiny starożytnego Hierapolis z Basenem Kleopatry, gdzie można pływać wśród antycznych kolumn.",
+      "category": "Wybrzeże Egejskie – centrum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym jest Efez (Efesos) i które Cudo Starożytnego Świata leżało w jego okolicach?",
+      "options": [
+        "Centrum kultury Licyjczyków z setkami nagrobków skalnych i akropolem",
+        "Najlepsza zachowana świątynia grecka na Bliskim Wschodzie z kompletnym portykiem",
+        "Starożytna twierdza morska z unikalnym portem z V w. p.n.e.",
+        "Najlepiej zachowane starożytne miasto w świecie śródziemnomorskim z Biblioteką Celsusa, Wielkim Teatrem i ruinami Świątyni Artemidy (jedno z 7 Cudów Starożytności)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Efez to najlepiej zachowane starożytne miasto basenu Morza Śródziemnego; słynie z Biblioteki Celsusa i Wielkiego Teatru (gdzie głosił Apostoł Paweł). Świątynia Artemidy – jedno z 7 Cudów Starożytności – stała w jego okolicach.",
+      "category": "Wybrzeże Egejskie – centrum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Co łączy starożytne miasto Troja (Wilusa) z historią Europy?",
+      "options": [
+        "Była centrum handlu bursztynem między Morzem Czarnym a Europą Zachodnią",
+        "Tu podpisano pierwszy traktat pokojowy w historii – między Grekami a Hetytami",
+        "Homer opisał je w Iliadzie; wykopaliska Schliemanna odsłoniły warstwowe miasto; replika Konia Trojańskiego jest atrakcją turystyczną",
+        "Była starożytną stolicą imperium Hetytów i centrum ich kultury"
+      ],
+      "correctIndex": 2,
+      "explanation": "Troja (Wilusa/Troia) słynęła z Iliady Homera i Konia Trojańskiego; Heinrich Schliemann odkrył warstwowe miasto – Troy I–IX; replika drewnianego konia jest popularną atrakcją.",
+      "category": "Wybrzeże Egejskie – północ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Czym jest Kappadocja i jak powstały jej Bajkowe Kominy?",
+      "options": [
+        "Górzysty region ze zboczami wyrzeźbionymi przez trzęsienia ziemi w prehistorii",
+        "Krasowy region z siecią jaskiń wapiennych i podziemnych rzek",
+        "Region wulkaniczny, gdzie materiał z wulkanów Erciyes i Hasan był erodowany przez wiatr i wodę, tworząc Bajkowe Kominy, w których wykuto kościoły i domy",
+        "Region piaskowcowy podobny do Czerwonego Kanionu w USA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kappadocja to region wulkaniczny ukształtowany przez erupcje Erciyes i Hasan; erozja warstw tufu wulkanicznego przez wiatr i wodę stworzyła charakterystyczne Bajkowe Kominy (peribacaları).",
+      "category": "Kappadocja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym są podziemne miasta Derinkuyu i Kaymakli w Kappadocji?",
+      "options": [
+        "Podziemne akwedukty i cysterny wodne z epoki Cesarstwa Rzymskiego",
+        "Naturalne jaskinie zaadaptowane przez Hetytów na spichlerze",
+        "Starożytne centra górnictwa miedzi i cyny z III tysiąclecia p.n.e.",
+        "Podziemne wielopoziomowe miasta chrześcijan ukrywających się przed prześladowaniami, zdolne pomieścić tysiące mieszkańców"
+      ],
+      "correctIndex": 3,
+      "explanation": "Derinkuyu i Kaymakli to wielopoziomowe podziemne miasta wykute w miękkiej skale tufowej; służyły jako schronienie dla chrześcijan (i prawdopodobnie Hetytów) ukrywających się przed najeźdźcami.",
+      "category": "Kappadocja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Mausoleum w Bodrum (Halikarnasie) na wybrzeżu Egejskim?",
+      "options": [
+        "Zamek Świętego Piotra z muzeum archeologii podwodnej",
+        "Świątynia Apollina na skale nad morzem",
+        "Jedno z 7 Cudów Starożytnego Świata – grobowiec satrapy Mauzolosa, dziś w ruinach; od niego pochodzi słowo „mauzoleum”",
+        "Największy amfiteatr na zachodnim wybrzeżu Turcji z IV w. p.n.e."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mausoleum w Halikarnasie (Bodrum) to jedno z 7 Cudów Starożytnego Świata – grobowiec satrapy Mauzolosa; od jego imienia pochodzi słowo „mauzoleum”. Dziś pozostały jedynie ruiny.",
+      "category": "Wybrzeże Egejskie – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co to jest Klasztor Sumela i gdzie się znajduje?",
+      "options": [
+        "Klasztor wykuty w pionowej skale na wysokości ok. 1200 m n.p.m. nad Trabzonem na wybrzeżu Morza Czarnego",
+        "Klasztor prawosławny przy Morzu Marmara, centrum Kościoła Ekumenicznego",
+        "Centrum klasztorne franciszkanów z XV w. w Anatolii Środkowej",
+        "Klasztor ormiański w Górach Ararat na wschodzie Turcji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klasztor Sumela (Sümela) to niezwykły grecki prawosławny klasztor wykuty w pionowej skale na wysokości ok. 1200 m n.p.m. w górach Pontu nad Trabzonem; wzniesiony w IV w. n.e.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "hard"
+    },
+    {
+      "id": "13",
+      "question": "Safranbolu w Turcji (UNESCO) – co wyróżnia to miasto?",
+      "options": [
+        "Centrum wydobycia szafranu, najdroższej przyprawy na świecie",
+        "Historyczne centrum handlu karawanowego między Persją a Europą",
+        "Centrum produkcji tureckiego dywanu na eksport do Europy i Azji",
+        "Najlepiej zachowane osmańskie drewniane miasto z XVII–XIX w. wpisane na listę UNESCO"
+      ],
+      "correctIndex": 3,
+      "explanation": "Safranbolu (UNESCO) to jedno z najlepiej zachowanych miast z osmańską drewnianą architekturą mieszkaniową z XVII–XIX w.; nazwa pochodzi od uprawy szafranu w okolicach.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Co to jest Droga Licyjska (Lycian Way) w Turcji?",
+      "options": [
+        "Historyczna trasa handlowa z epoki żelaza wzdłuż Morza Czarnego",
+        "Droga skalnej prowadząca do Klasztoru Sumela nad przepaścią",
+        "Szlak morski dla żeglarzy wzdłuż wybrzeża Riviera Tureckiej",
+        "Jeden z pierwszych oficjalnych długodystansowych szlaków pieszych w Turcji (ok. 540 km) wzdłuż wybrzeża Morza Śródziemnego przez tereny starożytnej Licji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Droga Licyjska to ok. 540 km szlak pieszy wzdłuż wybrzeża Morza Śródziemnego; jest jednym z najbardziej popularnych trekkingowych szlaków turystycznych w Turcji, prowadząc przez ruiny starożytnej Licji.",
+      "category": "Riwiera Turecka",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Muzeum Anatolijskich Cywilizacji w Ankarze?",
+      "options": [
+        "Centrum wystawiennicze muzyki i tańca tureckiego z artefaktami folklorystycznymi",
+        "Muzeum narodowe z kolekcją osmańskich artefaktów z Topkapi",
+        "Muzeum zawierające arcydzieła od epoki paleolitu po cywilizację hetycką i frygijską – najlepszy przegląd prehistorii Anatolii",
+        "Największe muzeum sztuki współczesnej w Turcji z kolekcją XX w."
+      ],
+      "correctIndex": 2,
+      "explanation": "Muzeum Anatolijskich Cywilizacji w Ankarze (wielokrotnie nagradzane) prezentuje artefakty od epoki paleolitu po Hetytów i Frygów; jest uważane za najlepszy przegląd cywilizacji Anatolii.",
+      "category": "Ankara i Anatolia Środkowa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Dlaczego Bosfor i Dardanele mają tak wielkie znaczenie strategiczne?",
+      "options": [
+        "Oddzielają Turcję od Egiptu i Cypru",
+        "Łączą Morze Czarne z Morzem Egejskim i kontrolują kluczowy morski korytarz między Europą a Azją",
+        "Są jedynym szlakiem rzecznym prowadzącym do Iranu",
+        "Stanowią wyłącznie granicę turystyczną bez większego znaczenia handlowego"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bosfor i Dardanele kontrolują dostęp z Morza Czarnego przez Morze Marmara do Morza Egejskiego i dalej na Morze Śródziemne; dlatego od starożytności mają ogromne znaczenie militarne i handlowe.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest Morze Marmara w geografii Turcji?",
+      "options": [
+        "Słonym jeziorem w centrum Anatolii",
+        "Morskim kanałem wykopanym w czasach osmańskich",
+        "Niewielkim morzem śródlądowym między Bosforem a Dardanelami, oddzielającym Europę od Azji w Turcji",
+        "Zatoką Morza Czarnego całkowicie należącą do Grecji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Morze Marmara to wewnętrzne morze Turcji położone między Bosforem a Dardanelami; odgrywa kluczową rolę w komunikacji morskiej i podziale części europejskiej oraz azjatyckiej państwa.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Jakie pasma górskie dominują odpowiednio nad północnym i południowym wybrzeżem Turcji?",
+      "options": [
+        "Góry Pontyjskie nad Morzem Czarnym oraz Taurus nad Morzem Śródziemnym",
+        "Bałkany i Pireneje",
+        "Atlas i Karpaty",
+        "Apeniny i Alpy Dynarskie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Północną Turcję wzdłuż Morza Czarnego zajmują Góry Pontyjskie, a południe nad Morzem Śródziemnym – potężne pasma Taurusu; oba silnie wpływają na klimat i komunikację.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Dlaczego Ankara stała się stolicą nowoczesnej Turcji i czym jest Anıtkabir?",
+      "options": [
+        "Mustafa Kemal Atatürk uczynił ją stolicą w 1923 roku; Anıtkabir to monumentalne mauzoleum Atatürka",
+        "Bo była największym portem Imperium Osmańskiego; Anıtkabir to dawna cytadela seldżucka",
+        "Została stolicą po I wojnie światowej decyzją ONZ; Anıtkabir to muzeum dywanów",
+        "Ponieważ leży nad Bosforem; Anıtkabir to siedziba parlamentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ankara została wybrana na stolicę republiki przez Atatürka w 1923 roku jako symbol zerwania z osmańskim centrum w Stambule; Anıtkabir to jego monumentalne mauzoleum.",
+      "category": "Ankara i Anatolia Środkowa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym był Asklepiejon w starożytnym Pergamonie?",
+      "options": [
+        "Pałacem cesarskim rzymskich namiestników Azji Mniejszej",
+        "Portem wojennym strzegącym dostępu do Morza Egejskiego",
+        "Twierdzą obronną przeciwko Persom zbudowaną na wyspie",
+        "Słynnym ośrodkiem medycznym i sanktuarium Asklepiosa, gdzie leczono pacjentów w starożytności"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pergamoński Asklepiejon był jednym z najsłynniejszych centrów leczenia świata antycznego; poświęcono go Asklepiosowi, a stosowane tam metody łączyły religię, obserwację i medycynę.",
+      "category": "Wybrzeże Egejskie – północ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "21",
+      "question": "Co znajduje się w Zamku Świętego Piotra w Bodrum?",
+      "options": [
+        "Muzeum Archeologii Podwodnej, jedno z najważniejszych tego typu na świecie",
+        "Siedziba tureckiej marynarki wojennej niedostępna dla zwiedzających",
+        "Największe planetarium Turcji",
+        "Wyłącznie luksusowy hotel z widokiem na marinę"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamek Świętego Piotra w Bodrum mieści słynne Muzeum Archeologii Podwodnej, prezentujące m.in. znaleziska ze starożytnych wraków wydobytych z dna Morza Egejskiego.",
+      "category": "Wybrzeże Egejskie – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Z czego słynie Fethiye na Riwierze Tureckiej?",
+      "options": [
+        "Z największej kopalni soli w Anatolii",
+        "Z twierdzy krzyżowców na szczycie Araratu",
+        "Z grobowców licyjskich wykutych w skałach nad miastem",
+        "Z wyłącznie nowoczesnych drapaczy chmur i centrów finansowych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fethiye słynie przede wszystkim z licyjskich grobowców skalnych, wykutych wysoko w zboczu nad miastem; są one jednym z najbardziej charakterystycznych śladów starożytnej Licji.",
+      "category": "Riwiera Turecka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Dlaczego Myra jest ważna dla historii chrześcijaństwa?",
+      "options": [
+        "Znajduje się tam kościół związany ze św. Mikołajem, biskupem Miry, który stał się pierwowzorem postaci Santa Clausa",
+        "Bo była miejscem narodzin św. Pawła",
+        "Leży tam najstarszy meczet Anatolii",
+        "To miejsce pierwszego soboru powszechnego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Myra w Licji jest związana ze św. Mikołajem, biskupem tego miasta; miejscowy kościół upamiętnia postać, która stała się inspiracją dla legendy o Świętym Mikołaju.",
+      "category": "Riwiera Turecka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Czym jest Üçhisar w krajobrazie Kapadocji?",
+      "options": [
+        "Jedynym w Turcji zamkiem z białego marmuru",
+        "Podziemnym miastem zbudowanym wyłącznie przez Rzymian",
+        "Naturalną skalną twierdzą i punktem widokowym dominującym nad dolinami Kapadocji",
+        "Największym portem rzecznym regionu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Üçhisar to charakterystyczna skalna twierdza Kapadocji; dzięki położeniu na wyniesieniu jest jednym z najlepszych punktów widokowych na doliny i formacje tufowe regionu.",
+      "category": "Kappadocja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym był Pałac Topkapi w Stambule?",
+      "options": [
+        "Pierwszą giełdą handlową imperium osmańskiego",
+        "Twierdzą krzyżowców nad Bosforem",
+        "Dawną siedzibą sułtanów osmańskich przez około 400 lat, dziś wielkim muzeum",
+        "Nowoczesnym parlamentem republiki tureckiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Topkapi przez stulecia był centrum władzy osmańskiej; dziś pełni funkcję muzeum, pozwalając poznać życie dworu i administracji imperium.",
+      "category": "Stambuł",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Wielki Bazar (Grand Bazaar) w Stambule?",
+      "options": [
+        "Największym parkiem miejskim Turcji",
+        "Podziemnym muzeum sztuki bizantyjskiej",
+        "Jednym z największych i najstarszych targowisk świata",
+        "Nowoczesnym portem kontenerowym przy Bosforze"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grand Bazaar należy do najsłynniejszych targowisk świata; od wieków pełni funkcję handlowego serca Stambułu i pozostaje jedną z ikon miasta.",
+      "category": "Stambuł",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Z czego słynie Bursa poza rolą dawnej stolicy osmańskiej?",
+      "options": [
+        "Z pustynnego krajobrazu i pól naftowych",
+        "Z przemysłu jedwabniczego i sąsiedztwa górskiego ośrodka Uludağ",
+        "Z największej wyspy na Morzu Marmara",
+        "Z ruin Troi i Gallipoli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bursa była pierwszą stolicą imperium osmańskiego, ale do dziś kojarzy się też z tradycją jedwabnictwa i pobliskim górskim regionem Uludağ.",
+      "category": "Turcja Północna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Co wyróżnia Trabzon nad Morzem Czarnym?",
+      "options": [
+        "Jest ważnym miastem regionu, znanym z mniejszej Hagii Sophii i jako baza wypadowa do klasztoru Sumela",
+        "Leży w centrum Kapadocji i słynie z lotów balonem",
+        "To główny port wycieczkowy na Riwierze Tureckiej",
+        "To największy kurort golfowy Turcji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trabzon to najważniejsze miasto wschodniego wybrzeża Morza Czarnego; turyści łączą zwiedzanie miejscowej Hagii Sophii z wyjazdami do klasztoru Sumela.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Jakie znaczenie historyczne ma Samsun dla nowoczesnej Turcji?",
+      "options": [
+        "To pierwsza stolica republiki z 1920 roku",
+        "To miejsce koronacji sułtanów osmańskich",
+        "Jest miejscem podpisania traktatu lozańskiego",
+        "Uważa się je za punkt rozpoczęcia wojny o niepodległość przez Atatürka"
+      ],
+      "correctIndex": 3,
+      "explanation": "Samsun odgrywa ważną rolę w pamięci narodowej Turcji, ponieważ z tym miastem wiąże się początek działań prowadzących do wojny o niepodległość i narodzin republiki.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Z czego słynie Çeşme na wybrzeżu egejskim?",
+      "options": [
+        "Z najsłynniejszego meczetu seldżuckiego nad Morzem Czarnym",
+        "Z podziemnych miast chrześcijańskich",
+        "Z największego pola lawy w Anatolii",
+        "Z warunków do windsurfingu i kitesurfingu oraz zamku genueńskiego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Çeşme jest jednym z najbardziej znanych kurortów zachodniej Turcji; przyciąga warunkami do sportów wodnych i zabytkowym zamkiem genueńskim.",
+      "category": "Wybrzeże Egejskie – centrum",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Jaką funkcję pełni Kuşadası w turystyce zachodniej Turcji?",
+      "options": [
+        "To pustynne miasto o tradycjach karawanowych",
+        "Stanowi centrum wydobycia rud metali",
+        "To górski kurort narciarski przy granicy z Armenią",
+        "Jest główną bazą wypadową do Efezu i dużym portem dla statków wycieczkowych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuşadası jest popularnym portem dla cruiserów i ważnym kurortem; dla wielu turystów stanowi główną bazę do zwiedzania Efezu i okolicznych zabytków.",
+      "category": "Wybrzeże Egejskie – centrum",
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "question": "Dlaczego Milet zajmuje ważne miejsce w historii starożytności?",
+      "options": [
+        "Był miastem Talesa z Miletu i słynął z potężnego teatru",
+        "Było to główne centrum chrześcijaństwa w Anatolii",
+        "Bo znajdował się tam pałac pierwszych sułtanów",
+        "Leżał tam jeden z cudów świata – Mauzoleum Halikarnasu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Milet, dziś oddalony od morza przez osady rzeczne, był ważnym miastem starożytnym i miejscem kojarzonym z Talesem – jednym z ojców greckiej filozofii.",
+      "category": "Wybrzeże Egejskie – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Co wyróżnia Antalyę jako stolicę Riwiery Tureckiej?",
+      "options": [
+        "Jest wyłącznie ośrodkiem religijnym bez plaż",
+        "Leży na pustyni i słynie wyłącznie z targu wielbłądów",
+        "To miasto położone nad Morzem Czarnym z osmańskimi stoczniami",
+        "Łączy funkcję głównego lotniska regionu z zabytkami takimi jak Brama Hadriana, Kaleiçi i wodospady Düden"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antalya jest główną bramą lotniczą Riwiery Tureckiej; nowoczesna metropolia sąsiaduje tam z historyczną starówką Kaleiçi, Bramą Hadriana i pobliskimi wodospadami Düden.",
+      "category": "Riwiera Turecka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Z czego słynie Alanya na Riwierze Tureckiej?",
+      "options": [
+        "Z największej biblioteki Imperium Rzymskiego",
+        "Z kamiennych cerkwi na pustkowiu anatolijskim",
+        "Z Plaży Kleopatry i seldżuckiej twierdzy z Czerwoną Wieżą",
+        "Z lodowców i tras zjazdowych powyżej 3000 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alanya należy do najpopularniejszych kurortów regionu; oprócz plaż przyciąga górującą nad miastem twierdzą seldżucką oraz charakterystyczną Czerwoną Wieżą.",
+      "category": "Riwiera Turecka",
+      "difficulty": "easy"
+    },
+    {
+      "id": "35",
+      "question": "Czym wyróżnia się Side na śródziemnomorskim wybrzeżu Turcji?",
+      "options": [
+        "To głównie centrum sportów zimowych w górach Taurus",
+        "Leży przy Bosforze i słynie z pałaców osmańskich",
+        "Jest znane z produkcji herbaty i orzechów laskowych",
+        "Znajduje się tam świątynia Apolla nad samym morzem i rozległe ruiny antycznego miasta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Side łączy funkcję kurortu z wyjątkowo efektownymi ruinami antycznymi; najbardziej rozpoznawalna jest świątynia Apolla malowniczo stojąca nad morzem.",
+      "category": "Riwiera Turecka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Dlaczego Belek uchodzi za najbardziej luksusowy kurort Riwiery Tureckiej?",
+      "options": [
+        "Jest to najstarsze miasto antyczne Anatolii",
+        "Ponieważ posiada jedyne w regionie stoki narciarskie",
+        "Ze względu na pola golfowe światowej klasy i rozbudowaną turystykę luksusową",
+        "Słynie wyłącznie z warzelni soli"
+      ],
+      "correctIndex": 2,
+      "explanation": "Belek jest synonimem luksusowego wypoczynku na Riwierze Tureckiej; szczególną renomę zapewniają mu liczne profesjonalne pola golfowe i wysokiej klasy hotele.",
+      "category": "Riwiera Turecka",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "title": "Rumunia – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Rumunii",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Czym wyróżnia się język rumuński na tle innych języków regionu Europy Środkowej i Wschodniej?",
+      "options": [
+        "To jedyny język romański w tym regionie Europy – pochodzi bezpośrednio z łaciny",
+        "To język słowiański o staropolskim rdzeniu",
+        "To język mieszany germańsko-słowiański",
+        "To język zbliżony do greckiego z wpływami tureckimi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rumuński jest jedynym językiem romańskim w Europie Środkowej i Wschodniej; pochodzi z łaciny, co odróżnia Rumunię od sąsiednich krajów słowiańskich.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Czym słyną Pomalowane Monastyry Bukowiny (UNESCO)?",
+      "options": [
+        "Najstarsza sieć klasztorów prawosławnych w Europie z IX–X w.",
+        "Unikalne freski biblijne na zewnętrznych ścianach klasztorów – „Biblia dla niepiśmiennych”, zachowane od XV–XVI w.",
+        "Zbiory relikwii wszystkich rumuńskich świętych w jednym miejscu",
+        "Klasztory zbudowane z miejscowego marmuru z mozaikami w stylu bizantyjskim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pomalowane Monastyry Bukowiny (UNESCO) wyróżniają się unikalnymi freskami na zewnętrznych ścianach; powszechnie zwane „Biblią dla niepiśmiennych”, zachowane od XV–XVI w. w pełnej kolorystyce.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest Zamek Peleș w Sinai i dlaczego go zbudowano?",
+      "options": [
+        "Letnia rezydencja króla Karola I w stylu neorenesansu niemieckiego, otoczona lasami karpackimi",
+        "Gotycki zamek obronny z XIII w. broniący przełęczy karpackich",
+        "Warownia zakonu krzyżowców strzegąca Transylwanii",
+        "Dawny zamek węgierski przebudowany przez Habsburgów w XVIII w."
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamek Peleș w Sinai to letnia rezydencja króla Karola I wybudowana w stylu neorenesansu niemieckiego (1875–1914); uważany za jeden z najpiękniejszych zamków w Europie.",
+      "category": "Wołoszczyzna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest Pałac Parlamentu w Bukareszcie?",
+      "options": [
+        "Drugi pod względem kubatury budynek na świecie (po Pentagonie), wybudowany przez Ceaușescu",
+        "Największy budynek parlamentu w Europie",
+        "Trzeci co do wielkości budynek w Ameryce",
+        "Najdroższy w historii budynek rządowy w Unii Europejskiej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pałac Parlamentu w Bukareszcie jest drugim największym budynkiem na świecie pod względem kubatury (po Pentagonie); zlecił jego budowę dyktator Nicolae Ceaușescu.",
+      "category": "Bukareszt",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Co to jest Sighișoara w Transylwanii i dlaczego jest wyjątkowa?",
+      "options": [
+        "Jedyne wciąż zamieszkałe średniowieczne miasto-cytadela na wzgórzu w tej części Europy (UNESCO), miejsce urodzenia Vlada Palownika",
+        "Miasto Saskie z najlepiej zachowanym zamkiem z XVI w. w Rumunii",
+        "Największe miasto gotyckie w Europie Wschodniej, z katedrą z XII w.",
+        "Centrum górnictwa srebra z XVI w., dziś muzeum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sighișoara (UNESCO) jest jedyną wciąż zamieszkałą średniowieczną cytadelą na wzgórzu w tej części Europy; jest miejscem urodzin Vlada Palownika (Vlada III Draculei).",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Co to jest Zamek Bran i jak jest związany z legendą hrabiego Drakuli?",
+      "options": [
+        "Zamek zbudowany specjalnie dla turystyki na cześć powieści Brama Stokera",
+        "Zamek, gdzie rzeczywiście więziony był Vlad Palownik przez 7 lat",
+        "Zamek, gdzie Bram Stoker napisał powieść „Drakula” podczas pobytu w Rumunii",
+        "Zamek celny, letnia rezydencja Królowej Marii, słabo związany z Vladem; jest ikoną turystyki „drakulovskiej”"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zamek Bran to dawna twierdza celna i letnia rezydencja Królowej Marii; jego związek z Vladem Palownikiem jest bardzo słaby (może spędził tam kilka nocy). Bram Stoker nigdy nie był w Rumunii.",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym wyróżnia się Zamek Korwin (Hunedoara) w Rumunii?",
+      "options": [
+        "Jeden z największych i najpiękniejszych gotycko-renesansowych zamków w Europie, zbudowany przez Hunyadich, słynny ze studni i Sali Rycerskiej",
+        "Największy i najlepiej zachowany zamek gotycki w Polsce",
+        "Rumuński zamek z XV w. w stylu arabsko-osmańskim",
+        "Zamek wbudowany w skałę z unikalną cylindryczną wieżą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamek Korwin (Castelul Corvinilor) w Hunedoarze to jeden z największych gotycko-renesansowych zamków w Europie, związany z dynastią Hunyadich; słynie ze studni i Sali Rycerskiej.",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Wesoły Cmentarz w Săpânţa?",
+      "options": [
+        "Stary cmentarz wojskowy z symbolami poszczególnych narodowości z obu wojen",
+        "Cmentarz z nagrobkami w kształcie samochodów i motocykli dla motoryzacyjnej tradycji regionu",
+        "Ogródek piwny z tradycją pochówku sławnych miejscowych piwowarów",
+        "Unikatowy cmentarz z kolorowymi nagrobkami i humorystycznymi wierszami opisującymi życie zmarłego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wesoły Cmentarz (Cimitirul Vesel) w Săpânţa to unikalne miejsce – kolorowe nagrobki z rzeźbionymi scenami z życia i humorystycznymi wierszami opisującymi zmarłych; jest wyjątkową tradycją Maramureszku.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Czym jest styl brâncovenesc w architekturze rumuńskiej?",
+      "options": [
+        "Rumuński barok łączący elementy renesansu, baroku zachodniego i ornamentyki wschodniej (perskie motywy, bogato rzeźbione kolumny) – symbol ery Brâncoveanu",
+        "Neobizantyjski styl kościołów prawosławnych z XX wieku",
+        "Modernistyczny styl z ery Ceaușescu nawiązujący do tradycji narodowej",
+        "Gotycki styl warowni opartych na planie koła z elementami saksonii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Styl brâncovenesc to unikalne rumuńskie połączenie renesansu, baroku zachodniego i orientalnych ornamentów; wyróżnia go bogato rzeźbione kolumny (baldachiny). Przykładem jest Klasztor Horezu (UNESCO).",
+      "category": "Wołoszczyzna",
+      "difficulty": "hard"
+    },
+    {
+      "id": "10",
+      "question": "Timișoara jest nazywana „Małym Wiedniem”. Co wyróżniło to miasto w historii Rumunii?",
+      "options": [
+        "Dawna siedziba królewska z XVII w. z piękną katedrą barokową",
+        "Centrum wydobycia ropy naftowej od XIX w.",
+        "Pierwsze miasto w Rumunii, które uzyskało elektryczne oświetlenie ulic",
+        "Wielokulturowe miasto, kolebka rewolucji rumuńskiej 1989 roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Timișoara – wielokulturowe miasto w Banacie, zwane „Małym Wiedniem” – było kolebką rewolucji rumuńskiej 1989 roku, która doprowadziła do obalenia Ceaușescu.",
+      "category": "Inne regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Co to jest Delta Dunaju (UNESCO) i dlaczego jest przyrodniczo wyjątkowa?",
+      "options": [
+        "Unikatowy ekosystem słonych bagien przy ujściu Dunaju do morza",
+        "Największa równina wulkaniczna w Europie Wschodniej",
+        "Najdłuższy przybrzeżny rezerwat morski na Morzu Czarnym",
+        "Druga co do wielkości delta rzeczna w Europie i jeden z największych obszarów podmokłych; dom dla 300+ gatunków ptaków i 45 gatunków ryb słodkowodnych"
+      ],
+      "correctIndex": 3,
+      "explanation": "Delta Dunaju (UNESCO) to druga co do wielkości delta w Europie; jest domem dla ponad 300 gatunków ptaków (w tym pelikanów kędzierzawych) i 45 gatunków ryb słodkowodnych.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Mamaia i z czym sąsiaduje?",
+      "options": [
+        "„Rumuński Saint-Tropez” – popularny kurort nad Morzem Czarnym między morzem a jeziorem Siutghiol",
+        "Centrum nurkowania nad Morzem Czarnym ze stokami podwodnymi",
+        "Centrum konferencyjne i dyplomatyczne NATO nad Morzem Czarnym",
+        "Uzdrowisko termalne na wybrzeżu Morza Czarnego z błotem leczniczym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mamaia to najbardziej ekskluzywny kurort nadmorski Rumunii nad Morzem Czarnym, zwany „Rumuńskim Saint-Tropez”; leży między morzem a słodkowodnym jeziorem Siutghiol i posiada kolejkę gondolową.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym są Drewniane Kościoły Maramureszku (UNESCO)?",
+      "options": [
+        "Kościoły z białego marmuru z unikalnymi ikonami prawosławnymi z XVIII w.",
+        "Drewniane świątynie buddyjskie zbudowane przez koczownicze plemiona",
+        "Zbory protestanckie z rzeźbioną ornamentyką ludową z XVII w.",
+        "Wyjątkowe drewniane kościoły prawosławne – najwyższe drewniane konstrukcje w Europie, budowane bez gwoździ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drewniane Kościoły Maramureszku (UNESCO) to unikalne prawosławne drewniane kościoły – jedne z najwyższych drewnianych konstrukcji w Europie; wznoszone tradycyjną techniką bez użycia gwoździ.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Brașov w Transylwanii?",
+      "options": [
+        "Miasto z największym gotyckim kościołem w tej części Europy (Czarny Kościół) i bramą do Zamku Bran",
+        "Dawna stolica Siedmiogrodu, centrum kultury saksońskiej",
+        "Centrum górnictwa złota z XVI w., dziś muzeum przemysłu",
+        "Rumuńska stolica kulturalna z wieloma teatrami i galeriami"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brașov to miasto u podnóża Karpat Transylwańskich; słynie z Czarnego Kościoła – największego gotyckiego kościoła w tej części Europy – oraz jest bramą do Zamku Bran.",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Co to są Băile Herculane i czym się wyróżniają?",
+      "options": [
+        "Centrum leczenia ryb w jeziorach termalnych regionu",
+        "Nowoczesne centrum SPA zbudowane w XXI w. na terenach górskich",
+        "Ekskluzywny kurort narciaryczny w Karpatach z XVIII w.",
+        "Najstarsze uzdrowisko w Rumunii, założone przez Rzymian, słynące z siarkowych źródeł"
+      ],
+      "correctIndex": 3,
+      "explanation": "Băile Herculane (Łaźnie Herkulesa) to najstarsze uzdrowisko w Rumunii, założone przez Rzymian; słynie z siarkowych źródeł termalnych i historycznej architektury.",
+      "category": "Inne regiony",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Jakie znaczenie ma monastyr Putna w Bukowinie?",
+      "options": [
+        "To klasztor założony przez Habsburgów dla zakonów katolickich",
+        "To jedyny klasztor Rumunii zbudowany całkowicie z drewna",
+        "To ważny monastyr fundacji Stefana Wielkiego, uznawany za jedno z najważniejszych miejsc duchowych Rumunii",
+        "Jest znany wyłącznie z upraw lawendy i produkcji olejków"
+      ],
+      "correctIndex": 2,
+      "explanation": "Putna został ufundowany przez Stefana Wielkiego i jest jednym z najważniejszych rumuńskich ośrodków duchowych oraz historycznych miejsc pamięci związanych z Mołdawią.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Czym wyróżniają się monastyry Agapia i Văratec w północno-wschodniej Rumunii?",
+      "options": [
+        "Tworzą słynne wspólnoty żeńskie otoczone ogrodami i domkami zakonnic, przypominające monastyczne wioski",
+        "Znane są wyłącznie z relikwii przywiezionych z Jerozolimy w XX wieku",
+        "To jedyne rumuńskie klasztory, w których używa się wyłącznie łaciny",
+        "Są opuszczonymi klasztorami wykutymi w skałach Karpat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Agapia i Văratec należą do najbardziej znanych żeńskich klasztorów Rumunii; rozległe zespoły klasztorne z domkami i ogrodami tworzą niemal całe monastyczne osady.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Co wyróżnia Sybin (Sibiu) w Transylwanii?",
+      "options": [
+        "To nowoczesna stolica przemysłu samochodowego bez zabytków",
+        "To port rzeczny nad Dunajem z osmańską twierdzą",
+        "Słynie z domów z „oczami” na dachach i z Mostu Kłamców w historycznym centrum",
+        "Jest największym ośrodkiem wydobycia soli kamiennej w Rumunii"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sibiu wyróżnia się charakterystycznymi oknami dachowymi przypominającymi oczy oraz słynnym Mostem Kłamców; miasto należy do najpiękniejszych historycznych centrów Transylwanii.",
+      "category": "Transylwania",
+      "difficulty": "easy"
+    },
+    {
+      "id": "19",
+      "question": "Czym jest Alba Carolina w Alba Iulii?",
+      "options": [
+        "Najstarszym drewnianym kościołem Rumunii",
+        "Pałacem letnim królów rumuńskich nad Morzem Czarnym",
+        "Nowoczesnym kompleksem muzealnym poświęconym wyłącznie rzymskim legionom",
+        "Potężną bastionową cytadelą z epoki habsburskiej, ważną dla historii zjednoczenia Rumunii"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alba Carolina to monumentalna cytadela bastionowa w Alba Iulii; miasto ma ogromne znaczenie symboliczne, bo właśnie tam ogłoszono zjednoczenie Rumunii w 1918 roku.",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Z czego słynie Konstanca nad Morzem Czarnym?",
+      "options": [
+        "Z secesyjnego kasyna na nabrzeżu oraz starożytnych korzeni miasta jako ważnego portu czarnomorskiego",
+        "Wyłącznie z nowoczesnego lotniska i dzielnicy biurowej",
+        "Z najwyższego pasma górskiego Rumunii",
+        "Z klasztorów bukowińskich wpisanych na UNESCO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konstanca to najważniejszy port Rumunii nad Morzem Czarnym; symbolem miasta jest secesyjne kasyno, a jego historia sięga starożytności, gdy istniał tu ważny ośrodek handlowy.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym wyjątkowe jest jezioro Ursu w Sovacie?",
+      "options": [
+        "Powstało w kraterze wygasłego wulkanu i słynie z gejzerów",
+        "Jest to najgłębsze jezioro słodkowodne Bałkanów",
+        "Zamarza całkowicie nawet latem z powodu mikroklimatu",
+        "To jezioro heliotermiczne, którego słona woda nagrzewa się warstwowo i ma właściwości lecznicze"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jezioro Ursu w Sovacie jest znane jako jezioro heliotermiczne: warstwowa budowa słonej wody sprzyja nagrzewaniu, dzięki czemu wykorzystywane jest w celach uzdrowiskowych.",
+      "category": "Inne regiony",
+      "difficulty": "hard"
+    },
+    {
+      "id": "22",
+      "question": "Z czego słynie ceramika z Horezu?",
+      "options": [
+        "Z czarnych glinianych rzeźb wypalanych bez dostępu powietrza",
+        "Z metalowych naczyń pokrywanych emalią bizantyjską",
+        "Z produkcji wyłącznie porcelany dworskiej dla rodziny królewskiej",
+        "Z ręcznie zdobionej ceramiki ludowej o tradycyjnych motywach, wpisanej na listę niematerialnego dziedzictwa UNESCO"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ceramika Horezu to jedna z najbardziej znanych tradycji rzemieślniczych Rumunii; charakterystyczne talerze i naczynia zdobią motywy ludowe, a sama tradycja została wpisana na listę UNESCO.",
+      "category": "Wołoszczyzna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Czym jest Pałac Kultury w Jassach (Iași)?",
+      "options": [
+        "Ruina średniowiecznego zamku obronnego na szczycie Karpat",
+        "Neogotyckim symbolem miasta mieszczącym kilka muzeów i przypominającym o roli Jassów jako dawnej stolicy Mołdawii",
+        "Siedziba jedynego w kraju parlamentu regionalnego",
+        "Największy stadion piłkarski północno-wschodniej Rumunii"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pałac Kultury w Jassach to neogotycki symbol miasta; mieści kilka muzeów i podkreśla znaczenie Iași jako ważnego ośrodka historycznego oraz dawnej stolicy Mołdawii.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Która z miejscowości Maramureszu słynie z monumentalnego drewnianego monastyru i jest często odwiedzana razem z Săpânțą i Ieud?",
+      "options": [
+        "Constanța",
+        "Sinaia",
+        "Mamaia",
+        "Bârsana"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bârsana to jedna z najbardziej znanych miejscowości Maramureszu; słynie z imponującego drewnianego zespołu monastycznego i należy do klasycznych punktów zwiedzania regionu obok Săpânțy i Ieud.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "question": "Czym wyróżnia się Kluż-Napoka (Cluj-Napoca) w Transylwanii?",
+      "options": [
+        "To główny port morski Rumunii",
+        "To stolica rumuńskiego prawosławia z największym klasztorem kraju",
+        "To duże miasto uniwersyteckie z imponującym gotyckim kościołem św. Michała",
+        "Jest znane wyłącznie z narciarstwa i skoczni"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kluż-Napoka uchodzi za nieoficjalną stolicę Transylwanii; łączy rangę miasta akademickiego z zabytkowym centrum i gotyckim kościołem św. Michała.",
+      "category": "Transylwania",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Lipscani w Bukareszcie?",
+      "options": [
+        "Nowoczesną dzielnicą ambasad bez zabytków",
+        "Dawną twierdzą rzymską z amfiteatrem",
+        "Największym parkiem krajobrazowym Rumunii",
+        "Historycznym centrum stolicy z zabudową staromiejską, restauracjami i życiem nocnym"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lipscani to serce starego miasta Bukaresztu; odnowiona dzielnica łączy historyczną tkankę miejską z funkcją turystyczną, gastronomiczną i rozrywkową.",
+      "category": "Bukareszt",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Z czego słynie klasztor Neamț w Mołdawii?",
+      "options": [
+        "Jest najstarszym i największym monastyrem Mołdawii, znanym także z wielkiej biblioteki",
+        "Z jedynego fińskiego stylu architektury w Rumunii",
+        "To nadmorski klasztor związany ze św. Pawłem",
+        "Pełni funkcję zamku królewskiego nad Dunajem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monastyr Neamț należy do najważniejszych ośrodków monastycznych Rumunii; uchodzi za najstarszy i największy w Mołdawii, a przez wieki zasłynął również bogatą biblioteką.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Czym wyróżnia się cerkiew Trzech Świętych Hierarchów w Jassach?",
+      "options": [
+        "Powstała jako meczet w czasach osmańskich",
+        "Jest największą drewnianą świątynią Europy",
+        "Słynie z bogatych kamiennych rzeźbień pokrywających elewacje",
+        "To świątynia wykuta w całości w skale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cerkiew Trzech Świętych Hierarchów w Iași jest jednym z najcenniejszych zabytków miasta; uwagę zwracają misternie rzeźbione kamienne dekoracje ścian.",
+      "category": "Mołdowa i Bukowina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Z czego słyną Eforie Nord i Eforie Sud na rumuńskim wybrzeżu?",
+      "options": [
+        "Z uzdrowisk balneologicznych wykorzystujących lecznicze błoto z jeziora Techirghiol",
+        "Z produkcji wina i oliwy",
+        "Z twierdz krzyżackich nad Dunajem",
+        "Z ośrodków narciarskich przy jeziorach polodowcowych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eforie Nord i Eforie Sud mają charakter uzdrowiskowy; ich największym atutem jest leczenie błotem sapropelowym z jeziora Techirghiol.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Czym wyróżnia się Mangalia na południu rumuńskiego wybrzeża?",
+      "options": [
+        "Łączy funkcję portu i uzdrowiska z pozostałościami starożytnego Kallatis oraz najstarszym meczetem w Rumunii",
+        "Słynie z zamków gotyckich i klasztorów bukowińskich",
+        "To wyłącznie nowoczesna marina jachtowa bez zabytków",
+        "Jest stolicą delty Dunaju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mangalia jest ważnym miastem portowym i uzdrowiskowym; jej historia sięga starożytnego Kallatis, a jednym z zabytków jest najstarszy meczet Rumunii – Esmahan Sultan.",
+      "category": "Wybrzeże Morza Czarnego",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym jest Poiana Brașov w turystyce zimowej Rumunii?",
+      "options": [
+        "Górskim klasztorem nad przełęczą Fogaraską",
+        "Parkiem krajobrazowym przy Bukareszcie",
+        "Najważniejszym i najbardziej prestiżowym kurortem narciarskim kraju",
+        "Nadmorskim uzdrowiskiem nad Morzem Czarnym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Poiana Brașov uchodzi za najbardziej nowoczesny i prestiżowy ośrodek narciarski Rumunii, oferujący szeroką infrastrukturę i dobrze przygotowane trasy.",
+      "category": "Turystyka zimowa",
+      "difficulty": "easy"
+    },
+    {
+      "id": "32",
+      "question": "Co wyróżnia Sinaię jako ośrodek narciarski?",
+      "options": [
+        "Położenie nad deltą Dunaju i sieć kanałów",
+        "Jest jedynym kurortem z palmami i plażami",
+        "Znana jest tylko z produkcji wina musującego",
+        "To najwyżej położony rumuński ośrodek narciarski, dodatkowo sąsiadujący z zamkiem Peleș"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sinaia łączy walory górskiego kurortu z prestiżem dawnej rezydencji królewskiej; stoki sięgają ponad 2000 m n.p.m., a w pobliżu stoi zamek Peleș.",
+      "category": "Turystyka zimowa",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Z czego znana jest Krajowa (Craiova) w regionie Oltenia?",
+      "options": [
+        "Z Parku Nicolae Romanescu i secesyjnej architektury",
+        "Z ruin Troi i pól bitewnych Gallipoli",
+        "Z największej delty Europy",
+        "Z nuragów i megalitów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Craiova to ważne miasto południowej Rumunii; wyróżnia się zwłaszcza rozległym Parkiem Nicolae Romanescu oraz secesyjną zabudową miejską.",
+      "category": "Inne regiony",
+      "difficulty": "medium"
+    }
+  ]
+}

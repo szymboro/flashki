@@ -1,0 +1,286 @@
+{
+  "title": "Malta – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Malty",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Z ilu wysp składa się republika Malty i jak się one nazywają?",
+      "options": [
+        "4 wyspy: Malta, Gozo, Comino i Filfla",
+        "2 wyspy: Malta i Gozo",
+        "3 zamieszkane wyspy: Malta (największa), Gozo (zieleńsza i spokojniejsza) i Comino (prawie bezludna)",
+        "5 wysp, z których tylko Malta jest zamieszkana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Republika Malty składa się z trzech zamieszkanych wysp: Malta (największa), Gozo (zieleńsza i spokojniejsza) oraz Comino (prawie bezludna, raj dla nurków). Są też niezamieszkane wysepki: Cominotto, Filfla i Wysepki Świętego Pawła.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Jak Malta wyróżnia się wśród krajów UE pod względem gęstości zaludnienia?",
+      "options": [
+        "Jest najbardziej zurbanizowanym, ale niekoniecznie najgęściej zaludnionym",
+        "Jest jednym z najrzadziej zaludnionych krajów UE",
+        "Jest na 5. miejscu pod względem gęstości zaludnienia",
+        "Jest najbardziej zaludnionym państwem UE"
+      ],
+      "correctIndex": 3,
+      "explanation": "Malta jest najbardziej gęsto zaludnionym państwem Unii Europejskiej; jej niewielka powierzchnia przy licznej populacji tworzy wyjątkowe wyzwania i atmosferę miejską.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Które megalityczne świątynie na Malcie są starsze od egipskich piramid i Stonehenge?",
+      "options": [
+        "Mosta i Valletta",
+        "Ħal Saflieni i Mdina",
+        "Hagar Qim i Tarxien",
+        "Mnajdra (Malta) i Ggantija (Gozo)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Świątynie megalityczne Mnajdra (Malta) i Ggantija (Gozo) są starsze od egipskich piramid i Stonehenge (ok. 3600–2500 p.n.e.); Ggantija znaczy „gigantyczna” i jest najlepiej zachowaną.",
+      "category": "Prehistoria i UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym wyjątkowym wyróżniają się świątynie Mnajdra na Malcie?",
+      "options": [
+        "Są wykute w skałach wapiennych na dnie oceanu",
+        "Są zbudowane bez użycia zaprawy wyłącznie z czarnego wulkanicznego kamienia",
+        "To jedyne zachowane świątynie fenickie na Morzu Śródziemnym",
+        "Trzy świątynie ułożone są tak, że promienie słoneczne podczas przesilenia padają na kamień wejściowy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Świątynie Mnajdra posiadają astronomiczne ustawienie – podczas przesilenia letniego i zimowego promienie słoneczne wpadają bezpośrednio przez wejścia, co świadczy o zaawansowanej wiedzy budujących.",
+      "category": "Prehistoria i UNESCO",
+      "difficulty": "hard"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Valletta – stolica Malty?",
+      "options": [
+        "Nowoczesną stolicą zbudowaną w XX wieku na wzgórzu nad Grand Harbour",
+        "Najstarszym miastem na Morzu Śródziemnym zamieszkałym od II tysiąclecia p.n.e.",
+        "Miastem portowym zbudowanym przez Arabów w IX wieku",
+        "Całe miasto jest wpisane na listę UNESCO; zbudowane przez Rycerzy Maltańskich – Joannitów i Zakon Szpitalników"
+      ],
+      "correctIndex": 3,
+      "explanation": "Valletta (UNESCO) to jedno z najmniejszych, a zarazem najbogatszych historycznie miast Europy – całe miasto wpisano na listę UNESCO. Zostało zbudowane przez Rycerzy Maltańskich (Zakon Szpitalników) po wielkim oblężeniu przez Turków w 1565 r.",
+      "category": "Valletta",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Co szczególnego kryje katedra Świętego Jana (Co-Cathedral) w Valletcie?",
+      "options": [
+        "Zbiory biżuterii Zakonu Maltańskiego z epoki Crusade",
+        "Jedyna na Malcie krypta z mumiami Rycerzy Maltańskich",
+        "Słynny obraz Caravaggia „Ścięcie Świętego Jana Chrzciciela” oraz nagrobki Rycerzy Maltańskich z intarsjowanego marmuru",
+        "Największy w świecie ołtarz z kości słoniowej z XVI wieku"
+      ],
+      "correctIndex": 2,
+      "explanation": "W katedrze Świętego Jana w Valletcie przechowywane jest słynne dzieło Caravaggia „Ścięcie Świętego Jana Chrzciciela” – największe płótno artysty; podłoga katedry to mozaika nagrobków rycerzy.",
+      "category": "Valletta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Mdina nosi przydomek „Ciche Miasto”. Co wyróżnia tę dawną stolicę Malty?",
+      "options": [
+        "To nowoczesne uzdrowisko termalne z luksusowymi hotelami",
+        "To największe centrum gastronomiczne i rozrywkowe Malty",
+        "To średniowieczne, otoczone murami miasto na wzgórzu, dawna siedziba arystokracji, gdzie zakaz wstępu dla samochodów zapewnia niepowtarzalny spokój",
+        "To centrum biznesowe i finansowe Malty"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mdina to dawna stolica Malty – średniowieczne miasto na wzgórzu, otoczone murami, ze starą siedzibą arystokracji maltańskiej. Zakaz wjazdu samochodów sprawia, że panuje tu niezwykły spokój.",
+      "category": "Mdina",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym słyną Katakumby Świętego Pawła i Agaty w Rabacie?",
+      "options": [
+        "Najstarszymi zachowanymi gotyckimi kościołami na Malcie",
+        "Wielką kolekcją fenickich sarkofagów",
+        "Systemem podziemnych fortyfikacji z XVI wieku",
+        "Rozległym systemem wczesnochrześcijańskich podziemnych nekropolii z I–V w."
+      ],
+      "correctIndex": 3,
+      "explanation": "Katakumby Świętego Pawła i Agaty w Rabacie (tuż obok Mdiny) to rozległy system wczesnochrześcijańskich podziemnych nekropolii z okresu I–V w. n.e.",
+      "category": "Mdina",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co wydarzyło się w kościele Mosta (Rotunda Mosta) podczas II wojny światowej?",
+      "options": [
+        "Bomba lotnicza przebiła kopułę i wylądowała wśród modlących się, ale nie eksplodowała – uznano to za cud",
+        "Kościół służył jako główny szpital wojenny dla aliantów",
+        "Niemcy zbombardowali kościół, zabijając setki wiernych",
+        "Kościół był więzieniem dla jeńców wojennych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Podczas II wojny światowej niemiecka bomba przebiła kopułę Mosta i wylądowała wśród 300 modlących się wiernych, ale nie eksplodowała. Uważane za cud – replika bomby jest wystawiona w kościele.",
+      "category": "Rotunda Mosta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Ħal Saflieni Hypogeum w Paoli na Malcie?",
+      "options": [
+        "Największe muzeum prehistoryczne w basenie Morza Śródziemnego",
+        "Starożytna świątynia fenicka wykuta w skałach wapiennych",
+        "Sieć katakumb wczesnochrześcijańskich z II w. n.e.",
+        "Wyjątkowy podziemny kompleks kultowy i nekropolia z III tysiąclecia p.n.e. – najcenniejsze prehistoryczne stanowisko na Malcie (UNESCO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ħal Saflieni Hypogeum (UNESCO) w Paoli to wyjątkowy podziemny kompleks kultowy i nekropolia z III tysiąclecia p.n.e. – najcenniejsze i unikalne na skalę światową stanowisko prehistoryczne. Wejście wymaga rezerwacji z wielomiesięcznym wyprzedzeniem.",
+      "category": "Prehistoria i UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym znana jest Niebieska Laguna (Blue Lagoon) na Comino?",
+      "options": [
+        "Podwodną jaskinią z bioluminescencją",
+        "Centrum schronienia dla zagrożonych żółwi morskich",
+        "Turkusową wodą między Comino a wysepką Cominotto – jedną z najpiękniejszych naturalnych lagun w Europie",
+        "Największą kolonia delfinów na Morzu Śródziemnym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Niebieska Laguna (Blue Lagoon) między Comino a Cominotto słynie z wyjątkowo turkusowej, przejrzystej wody – jest jedną z najpopularniejszych atrakcji Malty.",
+      "category": "Plaże i atrakcje naturalne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Co wyróżnia Niebieską Grotę (Blue Grotto) u wybrzeży Malty?",
+      "options": [
+        "System morskich jaskiń, w których odbycia widzą niebieskie światło od odbicia słońca w wodzie",
+        "Różowe kolory wody od bioluminescencji glonów",
+        "Naturalny portal skalny z najczęściej fotografowanym widokiem na Maltę",
+        "Lodowata woda utrzymująca stałą temperaturę 5°C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Niebieska Grota to kompleks morskich jaskiń u południowych wybrzeży Malty; niebieska barwa wody pochodzi od odbicia promieni słonecznych – efekt widoczny do południa.",
+      "category": "Plaże i atrakcje naturalne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Jakie wydarzenie biblijne łączy się z Wysepkami Świętego Pawła (Malta)?",
+      "options": [
+        "Rozbicie się statku Apostoła Pawła w 60 r. n.e. w drodze do Rzymu",
+        "Lądowanie Fenicjan zakładających pierwszą osadę na Malcie",
+        "Chrzest pierwszych mieszkańców Malty w wodzie morskiej",
+        "Pielgrzymka krzyżowców na drodze do Ziemi Świętej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Według tradycji biblijnej Apostoł Paweł rozbił się na Wysepkach Świętego Pawła ok. 60 r. n.e. w drodze do Rzymu; stąd wzięła się nazwa miejsc.",
+      "category": "Historia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Jakie ślady wpływu kultury brytyjskiej można zaobserwować na Malcie?",
+      "options": [
+        "Ruch lewostronny, język angielski jako jeden z języków urzędowych i tradycja piwa pub",
+        "Domy w stylu wiktoriańskim i coroczne regaty wioślarskie",
+        "Tradycja herbaciana i ścisłe przestrzeganie godzin pracy biurowej",
+        "Anglikańskie kościoły w każdej wiosce i tradycja herbaty o 17:00"
+      ],
+      "correctIndex": 0,
+      "explanation": "Malta wyróżnia się silnym wpływem kultury brytyjskiej: ruch lewostronny, angielski jest jednym z dwóch języków urzędowych i tradycja pubów.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Czym jest Ġgantija na wyspie Gozo?",
+      "options": [
+        "Systemem jaskiń morskich wykorzystywanych przez nurków",
+        "Twierdzą Zakonu Maltańskiego z XVII wieku",
+        "Jednym z najlepiej zachowanych zespołów świątyń megalitycznych, którego nazwa nawiązuje do legend o olbrzymach",
+        "Nowoczesnym kompleksem hotelowym nad morzem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ġgantija na Gozo to jeden z najważniejszych megalitycznych zabytków Malty; ogromne bloki skalne sprawiły, że według lokalnej tradycji budowlę mieli wznieść giganci.",
+      "category": "Prehistoria i UNESCO",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Jaką funkcję pełni Grand Harbour w Valletcie?",
+      "options": [
+        "To historyczny wielki port Malty, widoczny z Upper Barrakka i ważny dla ruchu pasażerskiego oraz tożsamości miasta-twierdzy",
+        "To słone jezioro wewnątrz wyspy Malta",
+        "To suchy dok używany tylko przez wojsko NATO",
+        "To wyłącznie mała marina rybacka dla lokalnych łodzi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grand Harbour to historyczne serce portowej Malty; widok z ogrodów Upper Barrakka należy do najbardziej charakterystycznych panoram Valletty i podkreśla rolę miasta jako twierdzy i portu.",
+      "category": "Valletta",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Dlaczego Malta jest ważnym kierunkiem turystyki językowej?",
+      "options": [
+        "Dzięki licznym szkołom języka angielskiego, łączącym naukę z klimatem śródziemnomorskiego kurortu",
+        "Bo tylko tam można uczyć się łaciny na poziomie państwowym",
+        "Bo pobyt w szkołach językowych jest obowiązkowy dla turystów spoza UE",
+        "Ponieważ wszystkie zajęcia odbywają się wyłącznie w języku włoskim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Malta należy do najważniejszych kierunków turystyki językowej w Europie; angielski jest tu językiem urzędowym, a liczne szkoły przyciągają osoby chcące łączyć naukę z wypoczynkiem.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "18",
+      "question": "Jak różnią się Gozo i Comino na tle głównej wyspy Malta?",
+      "options": [
+        "Gozo jest bardziej zielone i spokojne, a Comino prawie niezamieszkane i kojarzone z nurkowaniem",
+        "Obie są gęściej zaludnione i bardziej zurbanizowane od Malty",
+        "Gozo słynie wyłącznie z przemysłu ciężkiego, a Comino z lotniska",
+        "Gozo to centrum finansowe, a Comino – główna wyspa rolnicza"
+      ],
+      "correctIndex": 0,
+      "explanation": "W archipelagu maltańskim Gozo uchodzi za wyspę spokojniejszą i bardziej zieloną, natomiast Comino jest niemal bezludne i najbardziej znane z krajobrazów oraz nurkowania.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Czym jest Cominotto w geografii archipelagu maltańskiego?",
+      "options": [
+        "Małą bezludną wysepką leżącą przy Blue Lagoon między Maltą a Comino",
+        "Jedną z trzech głównych zamieszkanych wysp Malty",
+        "Najwyższym klifem Gozo z latarnią morską",
+        "Podziemną jaskinią kultową pod Vallettą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cominotto to niewielka bezludna wysepka sąsiadująca z Comino; właśnie między nimi rozciąga się słynna Blue Lagoon o turkusowej wodzie.",
+      "category": "Plaże i atrakcje naturalne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Dlaczego Golden Bay jest ważna dla wypoczynkowej turystyki Malty?",
+      "options": [
+        "To najwyższy klif archipelagu z trasami wspinaczkowymi",
+        "Jest jedyną plażą dostępną wyłącznie dla mieszkańców",
+        "To centrum obserwacji ptaków na słonych mokradłach",
+        "To jedna z nielicznych szerokich, piaszczystych plaż Malty i ważny ośrodek wypoczynku 3xS"
+      ],
+      "correctIndex": 3,
+      "explanation": "Golden Bay należy do nielicznych szerokich plaż piaszczystych na Malcie, dlatego odgrywa ważną rolę w wypoczynkowej turystyce nadmorskiej.",
+      "category": "Plaże i atrakcje naturalne",
+      "difficulty": "easy"
+    }
+  ]
+}

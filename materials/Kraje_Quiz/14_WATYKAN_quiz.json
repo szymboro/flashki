@@ -1,0 +1,258 @@
+{
+  "title": "Watykan – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Watykanu",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Czym jest Watykan pod względem statusu politycznego i geograficznego?",
+      "options": [
+        "Enklawa w Rzymie, niezależne państwo-miasto (Mons Vaticanus), teokratyczna monarchia elekcyjna z Papieżem na czele",
+        "Autonomiczna prowincja Włoch rządzona przez kardynałów",
+        "Eksterytorialne terytorium Kościoła Katolickiego uznane przez ONZ",
+        "Miasto w centrum Rzymu rządzone przez Muzea Watykańskie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Watykan to enklawa w Rzymie, na Wzgórzu Watykańskim (Mons Vaticanus), na zachodnim brzegu Tybru; jest niezależnym państwem-miastem, teokratyczną monarchią elekcyjną – papież sprawuje pełnię władzy.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Ile mniej więcej osób zamieszkuje Watykan?",
+      "options": [
+        "Ok. 5000 osób (w tym rodziny pracowników)",
+        "Ok. 100 osób (wyłącznie papież i jego asystenci)",
+        "Ok. 500 osób",
+        "Ok. 800 osób (duchowni, dyplomaci, Gwardia Szwajcarska)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Watykan zamieszkuje ok. 800 osób – duchowni, dyplomaci i Gwardia Szwajcarska; obywatelstwo watykańskie jest powiązane z pełnioną funkcją, a nie urodzeniem.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest Plac Świętego Piotra i kto go zaprojektował?",
+      "options": [
+        "Plac zbudowany przez Michała Anioła jako część kompleksu Bazyliki",
+        "Część parku Ogrodów Watykańskich ze specjalnym dostępem dla pielgrzymów",
+        "Monumentalny plac z eliptyczną kolumnadą autorstwa Giovanniego Lorenza Berniniego, miejsce cotygodniowych audiencji papieskich",
+        "Plac targowy z renesansową zabudową, centrum dawnego rynku Watykanu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plac Świętego Piotra z eliptyczną kolumnadą zaprojektował Giovanni Lorenzo Bernini (XVII w.); jest miejscem cotygodniowych audiencji ogólnych i modlitwy Anioł Pański (Angelus).",
+      "category": "Plac i Bazylika Świętego Piotra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Nad czym wzniesiona jest Bazylika Świętego Piotra?",
+      "options": [
+        "Nad relikwiami pierwszych Papieży Kościoła Zachodniego",
+        "Nad dawnym targiem starożytnego Rzymu (Forum Romanum)",
+        "Nad miejscem skazania Apostoła Piotra na ukrzyżowanie",
+        "Nad grobem Apostoła Piotra – pierwszego Papieża"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bazylika Świętego Piotra wzniesiona jest nad miejscem pochówku Apostoła Piotra – tradycja lokalizuje jego grób pod głównym ołtarzem; dziś potwierdza to Krypta Apostolska.",
+      "category": "Plac i Bazylika Świętego Piotra",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Pieta Michała Anioła i gdzie można ją zobaczyć?",
+      "options": [
+        "Fresk Michała Anioła na sklepieniu bocznej kaplicy Bazyliki Świętego Piotra",
+        "Monumentalna rzeźba piety z białego marmuru kararyjskiego, znajdująca się w Kaplicy Sykstyńskiej",
+        "Rzeźba z białego marmuru przedstawiająca Matkę Boską trzymającą Chrystusa; jedyne dzieło sygnowane przez Michała Anioła, w Bazylice Świętego Piotra",
+        "Brązowa rzeźba w ogrodach watykańskich, podarowana przez króla Francji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pieta Michała Anioła to arcydzieło rzeźby renesansowej z białego marmuru (1499 r.); przedstawia Matkę Boską trzymającą ciało Chrystusa po zdjęciu z krzyża. Jest to jedyne dzieło sygnowane przez artystę.",
+      "category": "Plac i Bazylika Świętego Piotra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Baldachino Berniniego w Bazylice Świętego Piotra?",
+      "options": [
+        "Złoty ołtarz z relikwiami apostołów wykonany w XVII w.",
+        "Złota kopia klucza Apostoła Piotra zawieszona nad wejściem do Bazyliki",
+        "Monumentalny brązowy baldachim (29 m wysokości) nad głównym ołtarzem, stojący dokładnie nad grobem Apostoła Piotra",
+        "Renesansowy tron papieski wykuty z jednego bloku marmuru"
+      ],
+      "correctIndex": 2,
+      "explanation": "Baldachino Berniniego to 29-metrowy brązowy baldachim nad głównym ołtarzem Bazyliki Świętego Piotra; stoi dokładnie nad grobem apostoła; metal do jego budowy pochodzi z Panteonu.",
+      "category": "Plac i Bazylika Świętego Piotra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Co to jest Konklawe i gdzie się odbywa?",
+      "options": [
+        "Zamknięte zebranie kardynałów w Kaplicy Sykstyńskiej w celu wyboru nowego Papieża",
+        "Coroczna konferencja biskupów w Auli Pawła VI",
+        "Sesja plenarna Synodu Biskupów odbywająca się co 5 lat",
+        "Uroczysta msza sprawowana przez Papieża w Niedzielę Wielkanocną na Placu Świętego Piotra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konklawe to zamknięte zebranie kardynałów, odbywające się w Kaplicy Sykstyńskiej; celem jest wybór nowego Papieża – wynik sygnalizuje biały dym (fumata bianca) unoszący się z komina.",
+      "category": "Kaplica Sykstyńska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym słyną freski Michała Anioła w Kaplicy Sykstyńskiej?",
+      "options": [
+        "Malowidła mozaikowe ze złota i lapis lazuli z historią Zbawienia",
+        "Renesansowe freski Rafaela z historią apostołów wokół całej kaplicy",
+        "Freski ścienne z historii Kościoła – Ostatnia Wieczerza i Drzewo Życia",
+        "Malowane na zlecenie papieży sklepienie ze scenami Stworzenia (Stworzenie Adama) i wielki fresk ścienny Sądu Ostatecznego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Michał Anioł namalował sklepienie Kaplicy Sykstyńskiej (1508–1512) ze scenami Stworzenia (m.in. Stworzenie Adama), a 23 lata później wielki fresk ścienny Sąd Ostateczny (1534–1541).",
+      "category": "Kaplica Sykstyńska",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Czym są Groty Watykańskie?",
+      "options": [
+        "Krypty pod Bazyliką Świętego Piotra, gdzie pochowani są papieże, m.in. Jan Paweł II i Benedykt XVI",
+        "System podziemnych tuneli używanych przez papieży do bezpiecznego przemieszczania się po Watykanie",
+        "Jaskinie pod Ogrodami Watykańskimi z endemiczną florą",
+        "Podziemne muzeum z relikwiami pierwszych chrześcijan z I–III w."
+      ],
+      "correctIndex": 0,
+      "explanation": "Groty Watykańskie (Grottes Vaticanes) to krypty pod Bazyliką Świętego Piotra; pochowani są tam papieże, w tym Jan Paweł II i Benedykt XVI.",
+      "category": "Plac i Bazylika Świętego Piotra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Gdzie mieszka Papież Franciszek i czym różni się to od tradycji?",
+      "options": [
+        "W specjalnie wybudowanym centrum konferencyjnym przy Placu Świętego Piotra",
+        "W dawnym mieszkaniu Kardynałów przy Placu Świętego Piotra",
+        "W Apartamentach Papieskich w Pałacu Apostolskim – tradycyjna rezydencja od XIII w.",
+        "W Domus Sanctae Marthae (hospicjum dla gości Stolicy Apostolskiej) – odstępstwo od tradycji mieszkania w Pałacu Apostolskim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Papież Franciszek wybrał zamieszkanie w Domus Sanctae Marthae – hospicjum dla gości Stolicy Apostolskiej – zamiast w Pałacu Apostolskim (tradycyjna rezydencja poprzedników); to jego świadomy wybór prostoty.",
+      "category": "Pozostałe obiekty",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Biblioteka Watykańska (Bibliotheca Apostolica Vaticana)?",
+      "options": [
+        "Jedna z najstarszych i najbogatszych bibliotek naukowych świata, przechowująca nieocenione rękopisy i pierwsze druki",
+        "Muzeum prezentujące historię pisma od starożytności po XX w.",
+        "Biblioteka publiczna dla turystów z replikami najsłynniejszych rękopisów",
+        "Centrum archiwizacji papieskiych encyklik i dokumentów Watykanu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bibliotheca Apostolica Vaticana to jedna z najstarszych i najbogatszych bibliotek naukowych świata, przechowująca ponad 180 000 rękopisów i 1 600 000 ksiąg; dostęp mają wyłącznie badacze.",
+      "category": "Muzea i biblioteka",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Ile procent powierzchni Watykanu zajmują Ogrody Watykańskie?",
+      "options": [
+        "Ok. 10% powierzchni Watykanu",
+        "Ponad połowę powierzchni Watykanu",
+        "Ok. 5% powierzchni Watykanu",
+        "Ok. 25% powierzchni Watykanu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ogrody Watykańskie zajmują ponad połowę powierzchni Watykanu; są dostępne wyłącznie w ramach zorganizowanych wycieczek z przewodnikiem.",
+      "category": "Pozostałe obiekty",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Jak działa obywatelstwo watykańskie?",
+      "options": [
+        "Jest dziedziczone przez wszystkich urodzonych na terenie Watykanu",
+        "Przysługuje automatycznie każdemu pielgrzymowi",
+        "Ma charakter czasowy i jest związane z pełnioną funkcją",
+        "Nadawane jest wyłącznie kardynałom urodzonym we Włoszech"
+      ],
+      "correctIndex": 2,
+      "explanation": "Obywatelstwo Watykanu nie ma charakteru powszechnego ani dziedzicznego; przyznaje się je czasowo osobom pełniącym określone funkcje w państwie i instytucjach Stolicy Apostolskiej.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Pałac Apostolski w Watykanie?",
+      "options": [
+        "Najstarszą biblioteką chrześcijańską świata",
+        "Nowoczesną salą audiencyjną na granicy z Rzymem",
+        "Głównym portem pasażerskim miasta-państwa",
+        "Oficjalną rezydencją i siedzibą reprezentacyjno-administracyjną papieża"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pałac Apostolski pozostaje oficjalną rezydencją papieską i ważnym centrum administracyjnym, nawet jeśli papież Franciszek mieszka w Domu św. Marty.",
+      "category": "Pozostałe obiekty",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Jaką rolę pełni kościół św. Anny przy jednej z bram Watykanu?",
+      "options": [
+        "To mauzoleum papieskie pod Bazyliką św. Piotra",
+        "Mieści wyłącznie archiwum dokumentów kurii",
+        "Jest parafialnym kościołem mieszkańców Watykanu, pracowników i gwardzistów",
+        "To sala obrad konklawe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kościół św. Anny pełni funkcję parafialną dla osób związanych z codziennym funkcjonowaniem Watykanu – pracowników, mieszkańców i członków gwardii.",
+      "category": "Pozostałe obiekty",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Aula Pawła VI?",
+      "options": [
+        "Muzeum poświęconym wyłącznie sztuce współczesnej",
+        "Podziemną kryptą z grobami papieży",
+        "Nowoczesną salą audiencyjną używaną m.in. do środowych spotkań papieża z pielgrzymami",
+        "Najstarszą kaplicą Watykanu z czasów średniowiecza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aula Pawła VI służy papieskim audiencjom, zwłaszcza wtedy, gdy pogoda nie pozwala na spotkania na Placu św. Piotra.",
+      "category": "Pozostałe obiekty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Jak wyznaczona jest granica Watykanu z Włochami?",
+      "options": [
+        "W dużej mierze przez mury watykańskie otaczające państwo",
+        "Systemem kanałów wodnych wokół placu św. Piotra",
+        "Łańcuchem górskim odcinającym wzgórze watykańskie",
+        "Wyłącznie biegiem Tybru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Granica Watykanu z Włochami jest częściowo wyznaczona przez mury watykańskie, które od wieków stanowią ważny element obronnego i symbolicznego oddzielenia enklawy.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "18",
+      "question": "Po której stronie Tybru leży Watykan?",
+      "options": [
+        "Na zachodnim brzegu Tybru",
+        "Na wyspie rzecznej pośrodku Tybru",
+        "Na południowym ujściu Tybru do morza",
+        "Na wschodnim brzegu Tybru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Watykan leży na zachodnim brzegu Tybru, na wzgórzu watykańskim, w obrębie miasta Rzymu.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    }
+  ]
+}

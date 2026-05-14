@@ -1,0 +1,510 @@
+{
+  "title": "Belgia – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Belgii",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jaki jest najwyższy punkt Belgii?",
+      "options": [
+        "Wzgórze Mozy (512 m n.p.m.)",
+        "Mont Rigi (694 m n.p.m.)",
+        "Signal de Botrange (694 m n.p.m.)",
+        "Góry Ardeńskie (789 m n.p.m.)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Najwyższy punkt Belgii to Signal de Botrange, leżący w Ardenach na wysokości 694 m n.p.m.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "question": "Belgia jest federacją złożoną z:",
+      "options": [
+        "Dwóch regionów i dwóch wspólnot językowych",
+        "Czterech regionów i dwóch wspólnot językowych",
+        "Trzech wspólnot językowych i trzech regionów",
+        "Pięciu prowincji i jednej wspólnoty językowej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Belgia jest federacją podzieloną na trzy wspólnoty językowe i trzy regiony: Flandrię (niderlandzki), Walonię (francuski) i Region Stołeczny Brukseli (dwujęzyczny).",
+      "category": "Ustrój i podział administracyjny",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Które belgijskie miasto nosi przydomek „Flamandzka Wenecja”?",
+      "options": [
+        "Gandawa",
+        "Brugia (Brugge)",
+        "Mechelen",
+        "Antwerpia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Brugia (Brugge) jest nazywana „Flamandzką Wenecją” ze względu na rozległą sieć kanałów i doskonale zachowaną średniowieczną zabudowę (UNESCO).",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "W którym belgijskim mieście znajduje się słynny Ołtarz Baranka Bożego braci van Eyck?",
+      "options": [
+        "Antwerpia",
+        "Mechelen",
+        "Brugia",
+        "Gandawa (Gent)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ołtarz Baranka Bożego pędzla braci Jana i Huberta van Eyck znajduje się w Katedrze św. Bawona w Gandawie (Gent).",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Z czego przede wszystkim słynie Antwerpia?",
+      "options": [
+        "Z produkcji gobelinów i centrum religijnego",
+        "Z Rubensa i światowej stolicy handlu diamentami",
+        "Z turystyki uzdrowiskowej i wód termalnych",
+        "Z najpiękniejszego dworca kolejowego i piwa Stella Artois"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antwerpia to miasto Rubensa oraz światowa stolica diamentów; mieści się tu centrum handlu diamentami i jeden z największych portów morskich świata.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Ile stopni liczy schody Montagne de Bueren w Liège?",
+      "options": [
+        "300",
+        "374",
+        "412",
+        "256"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schody Montagne de Bueren w Liège prowadzące na wzgórze cytadeli liczą 374 stopnie i są jednym z bardziej ekstremalnych ciągów schodów w Europie.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "7",
+      "question": "Czym jest Kusttram (Tram Przybrzeżny) wzdłuż wybrzeża belgijskiego?",
+      "options": [
+        "Najkrótszą linią tramwajową w Europie",
+        "Historycznym tramwajem konnym",
+        "Podziemną kolejką łączącą Brukselę z Bruges",
+        "Najdłuższą linią tramwajową świata"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kusttram to najdłuższa linia tramwajowa świata, łącząca wszystkie miejscowości wzdłuż 67-kilometrowego belgijskiego wybrzeża Morza Północnego.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Atomium w Brukseli?",
+      "options": [
+        "Gotycka katedra z XV wieku",
+        "Siedziba Parlamentu Europejskiego",
+        "Nowoczesne muzeum komiksu",
+        "Model kryształu żelaza powiększony 165 miliardów razy, zbudowany na EXPO 1958"
+      ],
+      "correctIndex": 3,
+      "explanation": "Atomium to monumentalny model kryształu żelaza powiększony 165 miliardów razy, zbudowany na wystawę EXPO 1958 w Brukseli; jest symbolem nowoczesności.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Który belgijski zabytek jest nieoficjalnym symbolem i maskotką Brukseli?",
+      "options": [
+        "Manneken Pis",
+        "Pałac Królewski",
+        "Atomium",
+        "Grand Place"
+      ],
+      "correctIndex": 0,
+      "explanation": "Manneken Pis – mała figurka sikającego chłopca – jest nieoficjalnym symbolem i maskotką Brukseli.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "question": "Kiedy założono Katolicki Uniwersytet w Leuven (KU Leuven)?",
+      "options": [
+        "W 1325 roku",
+        "W 1525 roku",
+        "W 1425 roku",
+        "W 1625 roku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Katolicki Uniwersytet w Leuven (KU Leuven) został założony w 1425 roku i jest jednym z najstarszych oraz najbardziej prestiżowych uniwersytetów w Europie.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Grand Place w Brukseli?",
+      "options": [
+        "Kompleks budynków instytucji Unii Europejskiej",
+        "Nowoczesna dzielnica finansowa z biurowcami",
+        "Największy park miejski w Belgii",
+        "Jeden z najpiękniejszych rynków świata z gotyckim Ratuszem i Domami Cechowymi (UNESCO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grand Place (Wielki Plac) w Brukseli jest wpisany na listę UNESCO; znany jest z gotyckich Ratusza i Domów Cechowych i uznawany za jeden z najpiękniejszych rynków świata.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Które miasto jest najstarszym w Belgii, założonym przez Rzymian jako Atuatuca Tungrorum?",
+      "options": [
+        "Liège",
+        "Mechelen",
+        "Tongeren",
+        "Tournai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tongeren to najstarsze miasto Belgii, założone przez Rzymian jako Atuatuca Tungrorum; słynie z Muzeum Galijsko-Rzymskiego i największego targu staroci w Beneluksie.",
+      "category": "Historyczne perły Belgii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "W którym mieście urodził się Adolf Sax – wynalazca saksofonu?",
+      "options": [
+        "Dinant",
+        "Namur",
+        "Liège",
+        "Spa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adolf Sax urodził się w Dinant – malowniczym mieście nad rzeką Mozą z cytadelą na skale i kolegiatą z cebulastym hełmem.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Spa w Belgii i skąd pochodzi ogólna nazwa „spa”?",
+      "options": [
+        "To najstarsze uzdrowisko w Europie; od nazwy tego miejsca pochodzi ogólne określenie centrów odnowy biologicznej",
+        "To kurort nadmorski; nazwa pochodzi od nazwiska jego założyciela",
+        "To centrum sportów zimowych; nazwa pochodzi od holenderskiego słowa",
+        "To najmłodsze uzdrowisko w Europie; nazwa pochodzi od łacińskiego słowa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spa jest najstarszym uzdrowiskiem w Europie; słynie z wód termalnych, a od nazwy tego belgijskiego miasta pochodzi ogólne określenie centrów odnowy biologicznej „spa”.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "question": "Co to jest ceremonia „Last Post” przy bramie Menin Gate w Ypres (Ieper)?",
+      "options": [
+        "Codzienny apel (hejnał) ku czci poległych brytyjskich żołnierzy I wojny światowej",
+        "Doroczna rekonstrukcja bitew z II wojny światowej",
+        "Coroczny festiwal muzyczny ku czci ofiar I wojny światowej",
+        "Miesięczna zmiana warty przy pomniku ofiar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Last Post to codziennie odprawiana przy bramie Menin Gate ceremonia hejnału ku czci poległych brytyjskich żołnierzy I wojny światowej; Ypres było niemal całkowicie zniszczone podczas tej wojny.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "W którym belgijskim regionie jest siedziba największego koncernu piwowarskiego świata (Anheuser-Busch InBev)?",
+      "options": [
+        "Antwerpia",
+        "Leuven",
+        "Gandawa",
+        "Bruksela"
+      ],
+      "correctIndex": 1,
+      "explanation": "W Leuven mieści się siedziba Anheuser-Busch InBev – największego koncernu piwowarskiego świata oraz miejsce powstania piwa Stella Artois.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "hard"
+    },
+    {
+      "id": "17",
+      "question": "Czym jest beginaż (begijnhof) jako typ zabudowy?",
+      "options": [
+        "Średniowieczny zamek obronny",
+        "Zespół domów przeznaczonych dla świeckich zakonnic (beginek)",
+        "Klasztor dla mnichów benedyktyńskich",
+        "Nowoczesna dzielnica finansowa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beginaż (begijnhof) to zespół domów przeznaczonych dla świeckich zakonnic (beginek). Przykłady w Brugii i Leuven wpisane są na listę UNESCO.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Gdzie mieści się najstarsza dzwonnica miejska (beffroi) w Belgii?",
+      "options": [
+        "W Brugii",
+        "W Mechelen",
+        "W Gandawie",
+        "W Tournai"
+      ],
+      "correctIndex": 3,
+      "explanation": "Najstarsza dzwonnica miejska (beffroi) w Belgii znajduje się w Tournai i jest wpisana na listę UNESCO.",
+      "category": "Historyczne perły Belgii",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Które miasto jest stolicą Walonii?",
+      "options": [
+        "Namur",
+        "Charleroi",
+        "Liège",
+        "Mons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Namur jest stolicą Walonii; leży u ujścia Sambry do Mozy i posiada jedną z największych cytadel w Europie.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Jakie były historyczne korzenie podziału Belgii na Flamandów (germańskich) i Walonów (romańskich)?",
+      "options": [
+        "Granica limesu rzymskiego – północ uległa silniejszej germanizacji (Frankowie), południe zachowało wpływy romańskie",
+        "Podział wynikający z różnic klimatycznych",
+        "Podział ustalony przez Kongres Wiedeński w 1815 roku",
+        "Podział religijny między katolikami a protestantami z XVI wieku"
+      ],
+      "correctIndex": 0,
+      "explanation": "Podział sięga starożytności: granica limesu rzymskiego sprawiła, że północna część uległa silniejszej germanizacji przez Franków, południe zaś zachowało silniejsze wpływy zromanizowanej Galii.",
+      "category": "Historia i grupy etniczne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "21",
+      "question": "Gdzie w Belgii odbyły się słynne objawienia maryjne z 1933 roku, czyniąc to miejsce „Belgijskim Lourdes”?",
+      "options": [
+        "Tournai",
+        "Liège",
+        "Banneux",
+        "Mechelen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Banneux jest belgijskim centrum kultu maryjnego, związanym z objawieniami z 1933 roku; przyciąga rocznie setki tysięcy pielgrzymów szukających uzdrowienia.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Co to jest region Kempen w Belgii?",
+      "options": [
+        "Górzysty region w południowej Belgii (Ardeny)",
+        "Region w północno-wschodniej Belgii o piaszczystym podłożu, historycznie z wrzosowiskami i dawnym górnictwem węgla",
+        "Historyczna dzielnica browarnicza Brukseli",
+        "Nadmorski region z białymi plażami"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kempen to region w północno-wschodniej Belgii (prow. Antwerpia i Limburgia) z piaszczystym podłożem, historycznymi wrzosowiskami i zamkniętymi kopalniami węgla kamiennego.",
+      "category": "Regiony Belgii",
+      "difficulty": "hard"
+    },
+    {
+      "id": "23",
+      "question": "Z jakiego stylu architektonicznego słynie Ratusz w Leuven, ozdobiony 236 figurami?",
+      "options": [
+        "Neoklasycyzm",
+        "Barok flamandzki",
+        "Gotyk brabanckii",
+        "Renesans włoski"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ratusz w Leuven (Stadhuis) jest perłą gotyku brabanckiego, z elewacją zdobioną 236 figurami.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "hard"
+    },
+    {
+      "id": "24",
+      "question": "Który dworzec kolejowy w Belgii jest uznawany za jeden z najpiękniejszych na świecie?",
+      "options": [
+        "Dworzec Guillemins w Liège",
+        "Dworzec w Gandawie",
+        "Dworzec Centralny w Antwerpii",
+        "Dworzec Centralny w Brukseli"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dworzec Centralny w Antwerpii (Antwerpen-Centraal) jest uznawany za jeden z najpiękniejszych dworców kolejowych na świecie.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Belgijskie wybrzeże Morza Północnego ma długość:",
+      "options": [
+        "67 km",
+        "135 km",
+        "42 km",
+        "200 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "Belgijskie wybrzeże Morza Północnego ma zaledwie 67 km długości, ale jest bardzo intensywnie zagospodarowane turystycznie.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Co to jest Dworzec Liège-Guillemins i kto go zaprojektował?",
+      "options": [
+        "Modernistyczna stacja zaprojektowana przez Alvar Aalto",
+        "Neoklasycystyczny budynek projektu Charlesa Garniera",
+        "Futurystyczne dzieło architektoniczne Santiago Calatravy",
+        "Gotycki dworzec z XV w., zaprojektowany przez Jana van Eycka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dworzec Liège-Guillemins to futurystyczne dzieło hiszpańskiego architekta Santiago Calatravy; jest jedną z najważniejszych atrakcji architektonicznych Belgii.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "W regionie Flandrii kuchnia i kultura opiera się głównie na:",
+      "options": [
+        "Cydrze, wieprzowinie i serze gouda",
+        "Czekoladzie, wafflach i owoicach morza",
+        "Winie, dziczyzny z Ardenów i serach klasztornych",
+        "Piwie, frytkach i rybach morskich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kultura piwna, frytki i ryby morskie to charakterystyczne cechy kuchni i kultury flamandzkiej, odróżniające ją od Walonii (wino, dziczyzna, sery klasztorne).",
+      "category": "Historia i grupy etniczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Jaka jest stolica Belgii, pełniąca też rolę nieoficjalnej stolicy Unii Europejskiej?",
+      "options": [
+        "Leuven",
+        "Bruksela",
+        "Gandawa",
+        "Antwerpia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bruksela (Brussels/Brussel) to stolica Belgii oraz siedziba najważniejszych instytucji Unii Europejskiej (PE, Komisja, Rada UE) i NATO.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "29",
+      "question": "Tournai to jedno z najstarszych miast Belgii. Z czego jest słynne?",
+      "options": [
+        "Ze słynnych term rzymskich i największego stadionu antycznego w Europie",
+        "Z produkcji diamentów i portu morskiego",
+        "Z Katedry Notre-Dame z pięcioma wieżami (UNESCO) i pierwszej stolicy Franków",
+        "Z zamku hrabiów Flandrii i gotyckiego ratusza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tournai to jedno z najstarszych miast Belgii (pierwsza stolica państwa Franków), słynące z Katedry Notre-Dame z pięcioma wieżami (UNESCO) i najstarszym beffroi w Belgii.",
+      "category": "Historyczne perły Belgii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Mechelenowi przypisuje się tytuł dawnej stolicy Niderlandów. Z jakiej dziedziny słynie to miasto?",
+      "options": [
+        "Z wielkiej tradycji religijnej, muzycznej (carillon), gobelinów i siedziby Prymasa Belgii",
+        "Z przemysłu tekstylnego i produkcji piwa",
+        "Z handlu diamentami i nowoczesnego portu morskiego",
+        "Z muzeum I wojny światowej i codziennego hejnału Last Post"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mechelen (dawna stolica Niderlandów) słynie z katedry św. Rumbolda z carillonm, z wytwórni gobelinów oraz jest siedzibą prymasa Belgii.",
+      "category": "Flandria – atrakcje turystyczne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "31",
+      "question": "Jaką rolę odgrywają rzeki Moza i Skalda w geografii Belgii?",
+      "options": [
+        "Są jedynymi rzekami Europy Zachodniej całkowicie żeglownymi od źródła do ujścia",
+        "Są głównie dzikimi rzekami górskimi bez znaczenia gospodarczego",
+        "Wyznaczają całą granicę Belgii z Francją i Niemcami",
+        "Tworzą gęstą sieć wodną połączoną kanałami o dużym znaczeniu transportowym i turystycznym"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moza i Skalda stanowią podstawę gęstej belgijskiej sieci rzecznej; są połączone kanałami, które od dawna mają duże znaczenie dla transportu, logistyki i turystyki.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Czym jest Dzielnica Europejska w Brukseli?",
+      "options": [
+        "Zabytkową dzielnicą kupiecką z czasów średniowiecza",
+        "Dzielnicą muzealną skupioną wokół Atomium",
+        "Kompleksem budynków Parlamentu Europejskiego, Komisji Europejskiej i Rady UE o funkcji polityczno-administracyjnej",
+        "Osiedlem mieszkaniowym dyplomatów NATO bez instytucji publicznych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dzielnica Europejska skupia najważniejsze instytucje Unii Europejskiej, dlatego Bruksela pełni funkcję politycznego i administracyjnego centrum o znaczeniu globalnym.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "easy"
+    },
+    {
+      "id": "33",
+      "question": "Z czego słynie Tongeren – najstarsze miasto Belgii?",
+      "options": [
+        "Z pola bitew I wojny światowej i codziennego apelu Last Post",
+        "Z siedziby Parlamentu Europejskiego i NATO",
+        "Z portu morskiego i handlu diamentami",
+        "Z Muzeum Galijsko-Rzymskiego, posągu Ambioriksa i największego targu staroci w Beneluksie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tongeren, założone przez Rzymian jako Atuatuca Tungrorum, słynie z Muzeum Galijsko-Rzymskiego, pomnika Ambioriksa oraz niedzielnego targu staroci uznawanego za największy w Beneluksie.",
+      "category": "Historyczne perły Belgii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Co wyróżnia Dinant w malowniczej dolinie Mozy?",
+      "options": [
+        "Największy port morski Walonii",
+        "To nowoczesne centrum finansowe bez większych zabytków",
+        "Stolicę regionu Kempen z dawnymi kopalniami węgla",
+        "Miasto z cytadelą na skale, kolegiatą z cebulastym hełmem i miejscem narodzin Adolfa Saxa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dinant jest jednym z najbardziej charakterystycznych miast nad Mozą; nad zabudową góruje cytadela, a przy rzece stoi kolegiata z cebulastym hełmem. To także miejsce narodzin Adolfa Saxa.",
+      "category": "Walonia – atrakcje turystyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Jaką cechą architektury miejskiej wyróżnia się Flandria na tle Walonii?",
+      "options": [
+        "Charakterystyczne są ceglane kamienice ze schodkowymi szczytami, podobne do krajobrazu Niderlandów",
+        "Buduje się głównie z białego marmuru sprowadzanego z Włoch",
+        "Miasta są niemal wyłącznie drewniane i kryte strzechą",
+        "Dominują tam kamienne zamki i pałace z wapienia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flandria jest kulturowo i architektonicznie bliska Niderlandom; wyróżniają ją ceglane fasady i schodkowe szczyty kamienic, podczas gdy Walonia częściej kojarzy się z budownictwem kamiennym.",
+      "category": "Historia i grupy etniczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Jakie muzea szczególnie podkreślają kulturową rangę Brukseli?",
+      "options": [
+        "Muzeum Egipskie i Muzeum Wikingów",
+        "Wyłącznie muzeum NATO i kolekcja samochodów królewskich",
+        "Królewskie Muzea Sztuk Pięknych oraz Muzeum Komiksu, nawiązujące do kraju Tintina i Smerfów",
+        "Muzeum Lotnictwa i Muzeum Win Musujących"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bruksela podkreśla swoją rangę kulturalną m.in. przez Królewskie Muzea Sztuk Pięknych i Muzeum Komiksu; Belgia jest przecież ojczyzną Tintina i Smerfów.",
+      "category": "Bruksela i Brabancja",
+      "difficulty": "medium"
+    }
+  ]
+}

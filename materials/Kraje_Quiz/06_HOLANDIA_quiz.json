@@ -1,0 +1,370 @@
+{
+  "title": "Holandia – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Holandii (Niderlandów)",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jaką rolę pełni Amsterdam i Haga w Holandii?",
+      "options": [
+        "Amsterdam to stolica administracyjna, Haga to stolica konstytucyjna",
+        "Obydwa miasta pełnią rolę współstolic",
+        "Amsterdam to stolica konstytucyjna, Haga to stolica administracyjna (siedziba rządu i króla)",
+        "Amsterdam to jedyna stolica, Haga to miasto portowe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amsterdam to stolica konstytucyjna Holandii, natomiast Haga (Den Haag) pełni funkcję stolicy administracyjnej – to tu siedzibę mają rząd i rodzina królewska.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "question": "Ile powierzchni Holandii leży poniżej poziomu morza?",
+      "options": [
+        "Ok. 5% powierzchni",
+        "Ok. 10% powierzchni",
+        "Prawie 50% powierzchni",
+        "Ponad 25% powierzchni"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ponad 25% Holandii leży poniżej poziomu morza; kraj jest chroniony przez rozbudowany system grobli, polderów i zapór (m.in. Projekt Delta).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest polder w geografii Holandii?",
+      "options": [
+        "Sztucznie osuszony teren pierwotnie pokryty wodą, chroniony groblami i wymagający ciągłego pompowania",
+        "Stara część miasta zbudowana na bagnach",
+        "System kanałów do transportu towarów między miastami",
+        "Naturalny pagórek na nizinach Holandii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Polder to sztucznie osuszony teren, pierwotnie pod wodą; otacza się go wałami (groblami) i wypompowuje wodę. Bez ciągłej pracy pomp polder zostałby ponownie zalany.",
+      "category": "Depresje i poldery",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jak Amsterdam zyskał miano „Wenecji Północy”?",
+      "options": [
+        "Przez coroczny karnawał podobny do weneckiego",
+        "Z powodu licznych kościołów katolickich w stylu włoskim",
+        "Dzięki XVII-wiecznej sieci kanałów (Grachtengordel) wpisanej na listę UNESCO, na których zbudowane jest miasto",
+        "Przez powiązania handlowe z Wenecją w średniowieczu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amsterdam jest nazywany „Wenecją Północy” dzięki rozbudowanej sieci XVII-wiecznych kanałów (Grachtengordel), wpisanej na listę UNESCO; miasto zbudowano na palach nad rzeką Amstel.",
+      "category": "Amsterdam",
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "question": "Które sławne dzieło malarskie można zobaczyć w Mauritshuis w Hadze?",
+      "options": [
+        "„Dziewczyna z perłą” Vermeera",
+        "„Taniec” Matisse'a",
+        "„Straż Nocna” Rembrandta",
+        "„Słoneczniki” van Gogha"
+      ],
+      "correctIndex": 0,
+      "explanation": "W Mauritshuis w Hadze przechowywana jest „Dziewczyna z perłą” Jana Vermeera – jedno z najsłynniejszych dzieł malarstwa na świecie.",
+      "category": "Haga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Co to jest Pałac Pokoju w Hadze?",
+      "options": [
+        "Pałac duńskiej rodziny królewskiej z XIX w.",
+        "Centrum konferencyjne Unii Europejskiej",
+        "Muzeum historii holenderskiego parlamentu",
+        "Siedziba Międzynarodowego Trybunału Sprawiedliwości ONZ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pałac Pokoju (Peace Palace) w Hadze mieści Międzynarodowy Trybunał Sprawiedliwości ONZ – Haga pełni ważną funkcję dyplomatyczną jako „miasto prawa międzynarodowego”.",
+      "category": "Haga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym jest Afsluitdijk i kiedy go zbudowano?",
+      "options": [
+        "Wielka Grobla o długości 32 km odcinająca zatokę Zuiderzee od Morza Północnego w 1932 r.",
+        "Najdłuższy most w Holandii nad Morzem Północnym",
+        "Nowoczesne centrum odpływowe zbudowane po powodzi 1953 r.",
+        "Sieć tuneli pod kanałami w Amsterdamie, wybudowana w 1890 r."
+      ],
+      "correctIndex": 0,
+      "explanation": "Afsluitdijk (Wielka Grobla) to 32-kilometrowa grobla zbudowana w 1932 roku, odcinająca dawną zatokę Zuiderzee od Morza Północnego; dawna zatoka przekształciła się w słodkowodne jezioro IJsselmeer.",
+      "category": "Jezioro IJsselmeer",
+      "difficulty": "hard"
+    },
+    {
+      "id": "8",
+      "question": "Co to jest Madurodam w Hadze?",
+      "options": [
+        "Muzeum historyczne poświęcone wojennej historii Holandii",
+        "Centrum handlu kwiatami dla branży ogrodniczej",
+        "Ekskluzywny kurort nadmorski ze strefą spa",
+        "Park miniatur przedstawiający Holandię w skali 1:25"
+      ],
+      "correctIndex": 3,
+      "explanation": "Madurodam w Hadze to park miniatur przedstawiający najważniejsze obiekty Holandii w skali 1:25 – jedna z najpopularniejszych atrakcji turystycznych kraju.",
+      "category": "Haga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "9",
+      "question": "Jak popularne turystycznie Volendam różni się od Marken?",
+      "options": [
+        "Volendam leży nad morzem, Marken nad jeziorem IJsselmeer w głębi lądu",
+        "Volendam to miasto portowe, Marken to górskie centrum rzemiosła",
+        "Volendam to muzeum garncarstwa, Marken to centrum wyrobu serów",
+        "Volendam to najsłynniejsza wioska rybacka z folklorem i strojami ludowymi, Marken to dawna wyspa z drewnianymi domami na palach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Volendam to najsłynniejsza holenderska wioska rybacka słynąca z folkloru, strojów ludowych i wędzonego węgorza. Marken to dawna wyspa z charakterystycznymi drewnianymi domami na palach.",
+      "category": "Jezioro IJsselmeer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Skąd pochodzi nazwa wsi Giethoorn (Holenderska Wenecja)?",
+      "options": [
+        "Od słowa „Geytenhoren” (kozi róg) – pierwsi osadnicy znaleźli setki rogów kóz po powodzi z 1170 roku",
+        "Od holenderskiego słowa oznaczającego „wodne miasto”",
+        "Od imienia właściciela ziemi z XV wieku – Wilhelma Giethoorena",
+        "Od torfowych kolorów kanałów, przypominających zieleń kozy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giethoorn wywodzi swą nazwę od Geytenhoren (kozi róg) – pierwsi osadnicy znaleźli setki rogów dzikich kóz, które zginęły w powodzi w 1170 roku.",
+      "category": "Giethoorn",
+      "difficulty": "hard"
+    },
+    {
+      "id": "11",
+      "question": "Jaka łączna długość kanałów przebiega przez wioskę Giethoorn?",
+      "options": [
+        "Ok. 15 km",
+        "Ok. 30 km",
+        "Ok. 7,5 km",
+        "Ok. 2 km"
+      ],
+      "correctIndex": 2,
+      "explanation": "Przez Giethoorn przebiega sieć kanałów o łącznej długości ok. 7,5 km; zamiast ulic, domy są połączone ponad 170 drewnianymi mostkami i kanałami.",
+      "category": "Giethoorn",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Deltaproject (Projekt Delta) w prowincji Zelandia?",
+      "options": [
+        "Plan osuszenia zatoki IJsselmeer z lat 30. XX w.",
+        "Projekt budowy nowych portów handlowych w delcie Renu",
+        "Plan nawodnienia suchych terenów rolniczych Zelandii",
+        "System gigantycznych tam, śluz i barier sztormowych zbudowany po powodzi 1953 r., uważany za jeden z siedmiu współczesnych cudów świata"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deltaproject (Deltawerken) to system gigantycznych zapór i barier sztormowych zbudowany po katastrofalnej powodzi z 1953 r. w Zelandii; uznawany za jedno z siedmiu cudów współczesnego świata.",
+      "category": "Zelandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Co to jest Wadloopen (chodzenie po dnie morskim) na Wyspach Zachodniofryzyjskich?",
+      "options": [
+        "Rekreacyjny sport wodny na deskach podczas odpływu",
+        "Wędrówki z przewodnikiem wzdłuż linii brzegowej Morza Północnego",
+        "Wycieczki nurkowe na rafach morskich",
+        "Spacery po odkrytym dnie morskim podczas odpływu przez błotniste równiny Morza Wattowego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wadloopen to spacery po dnie Morza Wattowego (Waddenzee) podczas odpływu, kiedy tworzą się ogromne błotne równiny; przewodnicy prowadzą turystów przez błoto z lądu na wyspy.",
+      "category": "Wyspy Zachodniofryzyjskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym zasłynął Leeuwarden – stolica prowincji Fryzja?",
+      "options": [
+        "Miasto narodzin słynnej szpiegini Maty Hari, ze starówką i krzywą wieżą Oldehove",
+        "Centrum produkcji gobelinów i holenderskiej koronki",
+        "Największy port Holandii z centrum handlu diamentami",
+        "Siedziba dawnej monarchii fryzyjskiej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leeuwarden to stolica Fryzji, miasto narodzin słynnej szpiegini Maty Hari; posiada piękną starówkę i charakterystyczną krzywą wieżę Oldehove.",
+      "category": "Fryzja",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Z czego znany jest port Rotterdam jako „Brama do Europy”?",
+      "options": [
+        "To centrum portowe obsługujące wyłącznie ruch pasażerski",
+        "To najstarszy i największy port historyczny Europy",
+        "To port rybacki z największym targowiskiem rybnym na świecie",
+        "To największy port morski w Europie (Europoort) z futurystyczną architekturą (Domy Kostki, Markthal)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rotterdam posiada największy port morski w Europie (Europoort); miasto zostało zniszczone w II wojnie światowej i odbudowane jako nowoczesna metropolia ze słynną futurystyczną architekturą.",
+      "category": "Rotterdam",
+      "difficulty": "easy"
+    },
+    {
+      "id": "16",
+      "question": "Jaka jest dewiza herbu prowincji Zelandia i co opisuje?",
+      "options": [
+        "„Mare et Terra” (Morze i Ląd) – oznacza morskie położenie prowincji",
+        "„Pax et Prosperitas” (Pokój i Dobrobyt) – odzwierciedla handlowe bogactwo regionu",
+        "„Luctor et Emergo” (Walczę i Zwyciężam) – opisuje zmagania mieszkańców z powodziami",
+        "„Deus et Mare” (Bóg i Morze) – nawiązuje do religijności rybaków"
+      ],
+      "correctIndex": 2,
+      "explanation": "Herb Zelandii przedstawia lwa wynurzającego się z fal z napisem „Luctor et Emergo” (Walczę i Zwyciężam), co trafnie opisuje wieczne zmagania mieszkańców z powodziami.",
+      "category": "Zelandia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "17",
+      "question": "W Holandii mieści się największa na świecie giełda kwiatowa. Gdzie się ona znajduje?",
+      "options": [
+        "W Haarlemie (Keukenhof)",
+        "W Aalsmeer (Royal FloraHolland)",
+        "W Leiden (Hortus Botanicus)",
+        "W Amsterdamie (Bloemenmarkt)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Royal FloraHolland w Aalsmeer (koło Amsterdamu) to największa na świecie giełda kwiatowa; turystom udostępnione są pomosty nad halą aukcyjną.",
+      "category": "Amsterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym jest Flevoland i co ją wyróżnia?",
+      "options": [
+        "Region przemysłowy w stylu Zagłębia Ruhry",
+        "Prowincja zamieszkana przez Fryzów z własnym językiem i kulturą",
+        "Najstarsza prowincja Holandii z zamkami z XII wieku",
+        "Najmłodsza prowincja Holandii, w całości stworzona przez człowieka na osuszonym dnie jeziora IJsselmeer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flevoland to najmłodsza prowincja Holandii, w całości stworzona przez człowieka na dnie osuszonego IJsselmeer; jej największe miasto Almere jest jednym z najmłodszych miast w Europie.",
+      "category": "Jezioro IJsselmeer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Z czego słynie Rijksmuseum w Amsterdamie?",
+      "options": [
+        "Z narodowej kolekcji sztuki holenderskiej, w tym dzieł Rembrandta i innych mistrzów Złotego Wieku",
+        "Z ekspozycji poświęconej wyłącznie historii rowerów",
+        "Wyłącznie z kolekcji sztuki współczesnej i designu skandynawskiego",
+        "Z największego na świecie zbioru starożytnych papirusów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rijksmuseum to najważniejsze muzeum sztuki i historii Holandii; jego zbiory obejmują dzieła Rembrandta oraz innych artystów holenderskiego Złotego Wieku.",
+      "category": "Amsterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest Dom Anny Frank w Amsterdamie?",
+      "options": [
+        "Dawnym pałacem królewskim przy placu Dam",
+        "Najstarszym domem kupieckim nad Amstelem z XVII wieku",
+        "Miejscem ukrywania się żydowskiej rodziny podczas okupacji, dziś muzeum pamięci o Annie Frank i Holokauście",
+        "Rezydencją Rembrandta przerobioną na muzeum literatury"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dom Anny Frank to jedno z najważniejszych miejsc pamięci w Amsterdamie; w ukryciu w tym budynku Anna Frank pisała swój słynny dziennik podczas II wojny światowej.",
+      "category": "Amsterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym jest Binnenhof w Hadze?",
+      "options": [
+        "Historycznym kompleksem budynków parlamentu, stanowiącym serce holenderskiej polityki",
+        "Nowoczesnym kompleksem biurowym portu w Rotterdamie",
+        "Pałacem letnim rodziny królewskiej na wydmach Scheveningen",
+        "Największą giełdą kwiatową Europy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Binnenhof to historyczne centrum polityczne Holandii w Hadze; mieści się tam parlament i najważniejsze instytucje państwowe.",
+      "category": "Haga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "22",
+      "question": "Co wyróżnia Markthal w Rotterdamie?",
+      "options": [
+        "To podziemny tunel handlowy pod dnem Mozy",
+        "To dawny magazyn portowy przerobiony na stadion piłkarski",
+        "To nowoczesna hala targowa z ogromnym muralem na sklepieniu, będąca ikoną współczesnej architektury miasta",
+        "To najstarsza hala targowa Europy zbudowana przez hanzeatów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Markthal jest jedną z ikon nowoczesnego Rotterdamu; wewnątrz hali handlowej znajduje się wielkoformatowy mural, który podkreśla futurystyczny charakter miasta.",
+      "category": "Rotterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Jaką rolę pełni Most Erasmusa (Erasmusbrug) w Rotterdamie?",
+      "options": [
+        "Jest średniowiecznym mostem zwodzonym przy porcie rybackim",
+        "To najdłuższa grobla chroniąca Holandię przed morzem",
+        "Łączy Amsterdam z Hagą nad IJsselmeer",
+        "To nowoczesny most wantowy i jeden z głównych symboli odbudowanego, futurystycznego Rotterdamu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Erasmusbrug to nowoczesny most wantowy, który stał się jednym z symboli współczesnego Rotterdamu i jego śmiałej, nowej architektury.",
+      "category": "Rotterdam",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Co pokazuje Zuiderzeemuseum w Enkhuizen?",
+      "options": [
+        "Proces produkcji sera gouda i edam w skali przemysłowej",
+        "Wyłącznie modele współczesnych statków oceanicznych",
+        "Życie dawnych rybaków i mieszkańców regionu dawnego Zuiderzee",
+        "Historię wydobycia diamentów w Amsterdamie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zuiderzeemuseum w Enkhuizen pokazuje życie mieszkańców dawnego Zuiderzee, zwłaszcza rybaków i ludzi utrzymujących się z gospodarki wodnej przed budową Afsluitdijk.",
+      "category": "Jezioro IJsselmeer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Park Narodowy Weerribben-Wieden w pobliżu Giethoorn?",
+      "options": [
+        "Górskim parkiem narodowym ze szczytami powyżej 2000 m",
+        "Sztuczną wyspą będącą częścią Projektu Delta",
+        "Największym miejskim parkiem rowerowym w Rotterdamie",
+        "Rozległym obszarem mokradeł, trzcinowisk i szlaków kajakowych, powiązanym z dawnym wydobyciem torfu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weerribben-Wieden to rozległy krajobraz bagien, trzcinowisk i wód śródlądowych; region ten, podobnie jak Giethoorn, ukształtował się m.in. przez dawne wydobycie torfu.",
+      "category": "Giethoorn i Overijssel",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Co jest niezwykłego w położeniu lotniska Schiphol?",
+      "options": [
+        "Jest jedynym lotniskiem w Europie z pasami startowymi na wodzie",
+        "Zbudowano je na sztucznej wyspie w Morzu Wattowym",
+        "Leży na szczycie najwyższego wzgórza Holandii",
+        "Powstało na terenie polderu poniżej poziomu morza, podobnie jak część innych kluczowych inwestycji kraju"
+      ],
+      "correctIndex": 3,
+      "explanation": "Schiphol jest znanym przykładem wykorzystania polderów: lotnisko powstało na osuszonym terenie położonym poniżej poziomu morza, co dobrze pokazuje holenderską walkę o ląd.",
+      "category": "Geografia i inżynieria",
+      "difficulty": "medium"
+    }
+  ]
+}

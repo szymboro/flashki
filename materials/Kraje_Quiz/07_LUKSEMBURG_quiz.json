@@ -1,0 +1,244 @@
+{
+  "title": "Luksemburg – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Luksemburga",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Między jakimi państwami leży Luksemburg?",
+      "options": [
+        "Między Belgią, Holandią i Niemcami",
+        "Między Francją, Niemcami i Austrią",
+        "Między Belgią, Francją i Niemcami",
+        "Między Francją, Szwajcarią i Niemcami"
+      ],
+      "correctIndex": 2,
+      "explanation": "Luksemburg leży w sercu Europy, otoczony przez Belgię (zachód i północ), Francję (południe) i Niemcy (wschód).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Na jakie dwie główne strefy geograficzne dzieli się Luksemburg?",
+      "options": [
+        "Krainę Piaszczystą i Wyżynę Eifel",
+        "Izbę Północną i Izbę Południową",
+        "Oesling (Ardeny, północ) i Gutland (centrum i południe)",
+        "Dolina Mozeli i Plateau Ardeński"
+      ],
+      "correctIndex": 2,
+      "explanation": "Luksemburg dzieli się na Oesling (Ardeny – górzystą północ) i Gutland (bardziej nizinne, rolniczo-przemysłowe centrum i południe).",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Jak nazywano Twierdzę Luksemburg przed jej częściowym rozebraniem?",
+      "options": [
+        "„Twierdzą Europy Środkowej”",
+        "„Bastionem Lotaryngii”",
+        "„Gibraltarem Północy”",
+        "„Kluczem do Niderlandów”"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twierdza Luksemburg była w przeszłości nazywana „Gibraltarem Północy” ze względu na swoje potężne fortyfikacje; do dziś zachowały się mury obronne i Kazamaty Bock (UNESCO).",
+      "category": "Miasto Luksemburg – Stolica",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym są Kazamaty Bock w stolicy Luksemburga (UNESCO)?",
+      "options": [
+        "Gotycka katedra na skale nad rzeką Alzette",
+        "Podziemny magazyn zaopatrzenia z czasów II wojny światowej",
+        "Podziemne tunele obronne (tunele skalne) w twierdzy Luksemburg, wpisane na listę UNESCO",
+        "System wodociągowy wybudowany przez Rzymian w I wieku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kazamaty Bock to podziemny system tuneli obronnych tworzących część Twierdzy Luksemburg; są wpisane na listę UNESCO i stanowią jedną z głównych atrakcji stolicy.",
+      "category": "Miasto Luksemburg – Stolica",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Jakie instytucje UE mają siedzibę w dzielnicy Kirchberg w Luksemburgu?",
+      "options": [
+        "Komisja Europejska i Rada UE",
+        "Europejski Bank Centralny i Parlament Europejski",
+        "Europol i Eurojust",
+        "Parlament Europejski i Trybunał Sprawiedliwości UE"
+      ],
+      "correctIndex": 3,
+      "explanation": "W dzielnicy Kirchberg w Luksemburgu swoje siedziby mają Parlament Europejski (sekretariat) i Trybunał Sprawiedliwości UE.",
+      "category": "Miasto Luksemburg – Stolica",
+      "difficulty": "hard"
+    },
+    {
+      "id": "6",
+      "question": "Czym słynie Echternach – najstarsze miasto Luksemburga?",
+      "options": [
+        "Opactwem św. Willibrorda i unikatową procesją taneczną (UNESCO)",
+        "Najlepiej zachowanym zamkiem gotyckim w Luksemburgu",
+        "Centrum wydobycia rud żelaza z XIX wieku",
+        "Jedynym casinem w kraju i centrum uzdrowiskowym"
+      ],
+      "correctIndex": 0,
+      "explanation": "Echternach, najstarsze miasto Luksemburga, słynie z opactwa św. Willibrorda i unikatowej, wpisanej na listę UNESCO procesji tanecznej odbywającej się w Zielone Świątki.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Remich jest nazywany „Perłą Mozeli”. Z czego słynie ta miejscowość?",
+      "options": [
+        "Z dawnego centrum górnictwa i hutnictwa żelaza",
+        "Z centrum ceramiki artystycznej i rzeźby",
+        "Z produkcji win, w szczególności win musujących, i turystycznych rejsów po Mozeli",
+        "Ze słynnego portu rzecznego i centrum handlu zbożem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Remich to kluczowy ośrodek winiarski Luksemburga nad rzeką Mozelą, słynący z produkcji win musujących i oferty turystycznych rejsów po rzece.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Co wyróżnia Vianden w regionie Ardenów?",
+      "options": [
+        "Centrum tradycji piwowarskich i festiwalu muzycznego",
+        "Największa kopalnia żelaza w kraju, dziś muzeum górnictwa",
+        "Piękny, odrestaurowany Zamek Vianden górujący nad miastem oraz jedyna kolejka krzesełkowa w kraju",
+        "Jedyna w Luksemburgu winnica i centrum enoturystyki"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vianden słynie z pięknego, odrestaurowanego zamku górującego nad miastem i jedynej w Luksemburgu kolejki krzesełkowej prowadzącej na okoliczne wzgórza.",
+      "category": "Ardeny – północ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Z jakim wydarzeniem historycznym jest związany Ettelbruck – „Brama do Ardenów”?",
+      "options": [
+        "Z bitewnym polem I wojny światowej i Mauzoleum poległych aliantów",
+        "Z wyzwoleniem Luksemburga przez wojska gen. Pattona w 1944 roku",
+        "Z podpisaniem Traktatu Luksemburskiego o federalizacji Beneluksu",
+        "Z pierwszą sesją Parlamentu Europejskiego w 1952 roku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ettelbruck jest związany z gen. Pattona i wyzwoleniem Luksemburga przez wojska alianckie w 1944 roku; znajduje się tu muzeum i pomnik generała.",
+      "category": "Ardeny – północ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "10",
+      "question": "Jakie jest jedyne uzdrowisko termalne w Luksemburgu?",
+      "options": [
+        "Echternach",
+        "Remich",
+        "Vianden",
+        "Mondorf-les-Bains"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mondorf-les-Bains to jedyne uzdrowisko termalne w Luksemburgu; słynie z wód leczniczych, nowoczesnego kasyna i rozległych parków.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Jak nazywa się malownicza dolna część miasta Luksemburg, położona w kanionie rzeki Alzette?",
+      "options": [
+        "Plateau Bourbon",
+        "Kirchberg",
+        "Grund",
+        "Ville Haute"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dzielnica Grund to malownicza dolna część Luksemburga, leżąca w głębokim kanionie rzeki Alzette; kontrastuje z nowoczesną dzielnicą Kirchberg.",
+      "category": "Miasto Luksemburg – Stolica",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Co wiadomo o Wiltz w regionie Oesling (północny Luksemburg)?",
+      "options": [
+        "To centrum regionu Oesling z zamkiem, festiwalem muzycznym i tradycjami piwowarskimi",
+        "To nowoczesne centrum przemysłowe i logistyczne",
+        "To największe centrum wydobycia łupków w kraju",
+        "To główny ośrodek narciarski Luksemburga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wiltz to centrum regionu Oesling, słynące z zamku, festiwalu muzycznego (Jazz Wiltz) i tradycji piwowarskich.",
+      "category": "Ardeny – północ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Esch-sur-Alzette to drugie co do wielkości miasto Luksemburga. Czym jest znane?",
+      "options": [
+        "Centrum turystyki uzdrowiskowej nad rzeką Mozelą",
+        "Centrum finansowym i bankowym kraju",
+        "Dawnym centrum przemysłu ciężkiego, dziś nowoczesnym centrum kultury (Belval) z zachowanymi wielkimi piecami hutniczymi",
+        "Głównym centrum rolniczym regionu Gutland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Esch-sur-Alzette, dawne centrum przemysłu ciężkiego, dziś posiada nowoczesne centrum kulturalne Belval z zachowanymi, ikonicznymi wielkimi piecami hutniczymi.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Z czego znana jest miejscowość Redange w zachodnim Luksemburgu?",
+      "options": [
+        "Z jedynego w kraju lotniska międzynarodowego",
+        "Z ruin rzymskiego amfiteatru",
+        "Z rolnictwa i spokojnych walorów krajobrazowych regionu Gutland",
+        "Z największego portu rzecznego kraju"
+      ],
+      "correctIndex": 2,
+      "explanation": "Redange jest spokojną miejscowością zachodniego Luksemburga, kojarzoną przede wszystkim z rolniczym charakterem okolicy i walorami krajobrazowymi.",
+      "category": "Gutland – południe",
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "question": "Z jaką tradycją gospodarczą związane są Pétange i Differdange?",
+      "options": [
+        "Z turystyką termalną i kasynową",
+        "Z hodowlą owiec w Ardenach",
+        "Z produkcją wina nad Mozelą",
+        "Z wydobyciem rud żelaza i przemysłowym dziedzictwem południa kraju"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pétange i Differdange należą do miejscowości południowego Luksemburga związanych z dawnym wydobyciem rud żelaza i przemysłowym rozwojem regionu.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Jaką dodatkową rolę pełni Echternach poza słynną procesją taneczną?",
+      "options": [
+        "Jest centrum narciarskim Ardenów",
+        "Stanowi główny port rzeczny na Mozeli",
+        "To stolica kraju i siedziba wszystkich instytucji UE",
+        "Jest bramą do regionu Mała Szwajcaria Luksemburska i słynie z opactwa św. Willibrorda"
+      ],
+      "correctIndex": 3,
+      "explanation": "Echternach to najstarsze miasto Luksemburga, znane nie tylko z procesji tanecznej, lecz także z opactwa św. Willibrorda i położenia u bram Małej Szwajcarii Luksemburskiej.",
+      "category": "Gutland – południe",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Co oprócz zamku wyróżnia Vianden w północnym Luksemburgu?",
+      "options": [
+        "Jedyne w kraju metro i dzielnica finansowa",
+        "Największy browar i tor Formuły 1",
+        "Jedyna w kraju kolejka krzesełkowa, z której rozciągają się widoki na dolinę",
+        "Port pasażerski na Renie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vianden słynie przede wszystkim z potężnego zamku, ale wyróżnia się też jedyną w kraju kolejką krzesełkową, która podkreśla jego turystyczny charakter.",
+      "category": "Ardeny – północ",
+      "difficulty": "medium"
+    }
+  ]
+}

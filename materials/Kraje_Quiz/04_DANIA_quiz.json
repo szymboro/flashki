@@ -1,0 +1,524 @@
+{
+  "title": "Dania – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Danii",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jaki jest najwyższy punkt Danii i ile wynosi jego wysokość?",
+      "options": [
+        "Mols Bjerge – 315 m n.p.m.",
+        "Yding Skovhøj – 202 m n.p.m.",
+        "Møllehøj – 170 m n.p.m.",
+        "Himmelbjerget – 452 m n.p.m."
+      ],
+      "correctIndex": 2,
+      "explanation": "Najwyższy punkt Danii to Møllehøj o wysokości zaledwie 170 m n.p.m. – kraj jest niemal zupełnie płaski.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "question": "Z ile wyspami i półwyspem składa się terytorium Danii?",
+      "options": [
+        "Na Półwyspie Jutlandzkim i 406 wyspach",
+        "Na Półwyspie Jutlandzkim i 200 wyspach",
+        "Na Półwyspie Jutlandzkim i 150 wyspach",
+        "Na Półwyspie Jutlandzkim i 600 wyspach"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dania leży na Półwyspie Jutlandzkim oraz 406 wyspach; jest to najmniejszy z krajów skandynawskich.",
+      "category": "Geografia fizyczna",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym symbolizuje się „Mała Syrenka” w Kopenhadze?",
+      "options": [
+        "Mitem o duńskiej bogini morza",
+        "Historią Wikingów i ich morskich wypraw",
+        "Baśnią autorstwa Hansa Christiana Andersena",
+        "Bogactwem duńskich rybaków"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mała Syrenka to symbol Kopenhagi nawiązujący do baśni Hansa Christiana Andersena; jest jedną z najsłynniejszych rzeźb na świecie.",
+      "category": "Kopenhaga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "question": "Kiedy otwarto Ogrody Tivoli w Kopenhadze – jeden z najstarszych parków rozrywki na świecie?",
+      "options": [
+        "W 1801 roku",
+        "W 1872 roku",
+        "W 1843 roku",
+        "W 1900 roku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ogrody Tivoli w Kopenhadze zostały otwarte w 1843 roku i należą do najstarszych parków rozrywki na świecie.",
+      "category": "Kopenhaga",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Roskilde znane w historii Danii?",
+      "options": [
+        "Miejscem z katedrą (UNESCO) – miejscem pochówku niemal wszystkich duńskich monarchów, i Muzeum Łodzi Wikingów",
+        "Najstarszym miastem Danii założonym ok. 700 r.",
+        "Siedzibą duńskiej rodziny królewskiej",
+        "Miastem narodzin Hansa Christiana Andersena"
+      ],
+      "correctIndex": 0,
+      "explanation": "Roskilde słynie z Katedry w Roskilde (UNESCO) – miejsca pochówku niemal wszystkich duńskich monarchów (pierwsza gotycka katedra ceglana w Skandynawii) – oraz Muzeum Łodzi Wikingów z 5 oryginalnymi jednostkami.",
+      "category": "Wyspa Zelandia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "question": "Z jakim dziełem literackim związany jest Zamek Kronborg w Helsingørze (UNESCO)?",
+      "options": [
+        "Z sagą wikingów o Eriku Czerwonym",
+        "Z eposem nordyckim „Beowulf”",
+        "Z powieścią Andersena „Śnieżna Królowa”",
+        "Z dramatem Szekspira „Hamlet” (Elsynor)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zamek Kronborg (UNESCO) w Helsingørze stał się miejscem akcji dramatu Szekspira „Hamlet” – w literaturze znany jako Elsynor.",
+      "category": "Wyspa Zelandia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "7",
+      "question": "Jak nazywa się zamek uznawany za najpiękniejszy w Danii, zwany „Nordyckim Wersalem”?",
+      "options": [
+        "Zamek Frederiksborg (Hillerød)",
+        "Zamek Fredensborg",
+        "Zamek Kronborg",
+        "Pałac Amalienborg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamek Frederiksborg w Hillerød jest uznawany za najpiękniejszy zamek w Danii i bywa nazywany „Nordyckim Wersalem”; zbudowany w stylu holenderskiego renesansu, stoi na trzech wyspach.",
+      "category": "Wyspa Zelandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "W którym zamku duńska rodzina królewska spędza jesień i wiosnę?",
+      "options": [
+        "Zamek Kronborg",
+        "Zamek Fredensborg",
+        "Pałac Amalienborg w Kopenhadze",
+        "Zamek Frederiksborg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zamek Fredensborg (zwany „Zamkiem Pokoju”) to jesienna i wiosenna rezydencja duńskiej rodziny królewskiej; jego wnętrza są dostępne dla turystów zazwyczaj tylko w lipcu.",
+      "category": "Wyspa Zelandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co wyróżnia Muzeum ARoS w Aarhus?",
+      "options": [
+        "Największą na świecie kolekcję wikingowskich artefaktów",
+        "Słynną wystawę o kulturze inuickiej Grenlandii",
+        "Charakterystyczną tęczową panoramę na dachu – instalację „Your rainbow panorama”",
+        "Najstarsze eksponaty duńskiej rzeźby neolitycznej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Muzeum ARoS w Aarhus wyróżnia się charakterystyczną okrągłą instalacją „Your rainbow panorama” na dachu – kolorową panoramą widokową.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Człowiek z Grauballe to najlepiej zachowana mumia z torfowiska. Gdzie można go zobaczyć?",
+      "options": [
+        "W Muzeum Moesgaard w Aarhus",
+        "W Muzeum Narodowym w Kopenhadze",
+        "W Den Gamle By w Aarhus",
+        "W Muzeum Wikingów w Roskilde"
+      ],
+      "correctIndex": 0,
+      "explanation": "Człowiek z Grauballe – najlepiej zachowana mumia z torfowiska – jest eksponowany w Muzeum Moesgaard w Aarhus (w nowoczesnym gmachu wchodzącym w zbocze wzgórza).",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Które miasto w Danii jest najstarsze i kiedy zostało założone?",
+      "options": [
+        "Roskilde – ok. 800 roku",
+        "Aarhus – ok. 900 roku",
+        "Odense – ok. 1000 roku",
+        "Ribe – ok. 700 roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ribe na Jutlandii, założone ok. 700 roku, jest najstarszym miastem w Danii; zachowało się w nim średniowieczne rozmieszczenie ulic.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Kiedy otwarto Legoland Billund – najstarszy park rozrywki sieci Legoland?",
+      "options": [
+        "W 1978 roku",
+        "W 1990 roku",
+        "W 1958 roku",
+        "W 1968 roku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Legoland Billund (najstarszy i najsłynniejszy park sieci) został otwarty w 1968 roku; składa się z milionów klocków tworzących Miniland – miniatury miast całego świata.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "W którym duńskim mieście urodził się Hans Christian Andersen?",
+      "options": [
+        "Kopenhaga",
+        "Odense",
+        "Roskilde",
+        "Aarhus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hans Christian Andersen urodził się w Odense – na wyspie Fionia (Fyn), której miejscowość jest przesiąknięta klimatem jego baśni.",
+      "category": "Odense – wyspa Fionia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Co to jest „heimablídni” na Wyspach Owczych?",
+      "options": [
+        "Tradycyjne wyścigi łodzi vikingów",
+        "Festiwal muzyczny latem",
+        "Tradycyjny taniec folklorystyczny na Wyspach Owczych",
+        "Koncepcja gościnności domowej – spożywanie posiłków u lokalnych rolników"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heimablídni to koncepcja gościnności domowej na Wyspach Owczych, w której turyści mogą stołować się u lokalnych rolników – element autentycznej turystyki „slow travel”.",
+      "category": "Wyspy Owcze",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Co wyróżnia wyspę Bornholm w zakresie architektury obronnej?",
+      "options": [
+        "Cztery białe kościoły-rotundy i największa w Skandynawii średniowieczna warownia Hammershus",
+        "Jedyny w Danii zachowany zamek gotycki z XIII wieku",
+        "Wielka Twierdza napoleońska otoczona rowami",
+        "Największa sieć podziemnych bunkrów z II wojny światowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bornholm wyróżnia się czterema białymi kościołami-rotundami (np. Østerlars) oraz warowią Hammershus – największą średniowieczną fortecą w Skandynawii.",
+      "category": "Wyspa Bornholm",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Skagen na Jutlandii słynie ze zjawiska zwanego „Grenen”. Na czym ono polega?",
+      "options": [
+        "Piaszczysty cypel, gdzie widać ścierające się fale dwóch mórz (Skagerrak i Kattegat)",
+        "Różowy kolor nieba o zmierzchu widoczny tylko w tym miejscu",
+        "Podwodna jaskinia dostępna w czasie odpływu",
+        "Nocna luminescencja morza widoczna z plaży"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grenen to piaszczysty cypel przy Skagen, gdzie ścierają się fale dwóch mórz – Skagerrak i Kattegat; widoczne jest tam ich spotkanie, co jest wyjątkową atrakcją geograficzną.",
+      "category": "Regiony nadmorskie Jutlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "17",
+      "question": "Grenlandia jest autonomicznym terytorium Danii. Czym jest Fiord Lodowy Ilulissat (UNESCO)?",
+      "options": [
+        "Największy park narodowy na Grenlandii",
+        "Najgłębsza kanada morska na Grenlandii ze starożytnymi malowidłami naskalnymi",
+        "Centrum kultury Inuitów z tradycyjnymi osadami",
+        "Miejsce, gdzie gigantyczne góry lodowe odrywają się od lodowca Sermeq Kujalleq"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fiord Lodowy Ilulissat (UNESCO) to miejsce, gdzie gigantyczne góry lodowe odrywają się od lodowca Sermeq Kujalleq; jest kluczową atrakcją Grenlandii dla turystyki przyrodniczej.",
+      "category": "Grenlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym są Wyspy Alandzkie w kontekście Finlandii i Danii?",
+      "options": [
+        "Terytorium sporne między Szwecją a Finlandią",
+        "Wyspy należące do Norwegii z silnymi tradycjami wikingów",
+        "Archipelag duński na Morzu Północnym, zdemilitaryzowany na mocy traktatu z 1920 roku",
+        "Autonomiczny archipelag należący do Finlandii, ale z językiem szwedzkim jako urzędowym"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wyspy Alandzkie (Åland) to autonomiczny archipelag należący do Finlandii, jednak jedynym językiem urzędowym jest szwedzki; archipelag jest strefą zdemilitaryzowaną.",
+      "category": "Podstawowe informacje",
+      "difficulty": "hard"
+    },
+    {
+      "id": "19",
+      "question": "Co to jest „Elfstedentocht” (Fryzyjska Jedenastka)?",
+      "options": [
+        "Coroczny wyścig maratoński przez 11 miast Jutlandii",
+        "Wyścig żeglarski wokół Bornholmu",
+        "Legendarny wyścig łyżwiarski przez 11 fryzyjskich miast (Holandia), organizowany tylko w bardzo mroźne zimy",
+        "Roczna tradycja odwiedzania 11 wysp Danii promem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elfstedentocht to legendarny wyścig łyżwiarski w holenderskiej Fryzji łączący 11 miast, organizowany tylko wtedy, gdy kanały zamarznąt. Latem turyści pokonują tę trasę na rowerach lub łodziami.",
+      "category": "Regiony nadmorskie Jutlandii",
+      "difficulty": "hard"
+    },
+    {
+      "id": "20",
+      "question": "Co to jest filozofia „hygge” w kulturze duńskiej?",
+      "options": [
+        "Duńska koncepcja komfortu, przytulności i dobrostanu – ważny element kultury i tożsamości Danii",
+        "Rygorystyczny styl życia oparty na surowej diecie nordyckiej",
+        "Tradycja rzemiosła meblarskiego w stylu minimalistycznym",
+        "System edukacji oparty na swobodnej zabawie dzieci"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hygge to duńska filozofia kojąca komfort, przytulność i dobre samopoczucie – jest jednym z fundamentów tożsamości kulturowej Danii, a kraj słynie z wysokiego poziomu życia.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "21",
+      "question": "Jak duński archipelag Bornholm zasłynął pod względem turystyki rowerowej?",
+      "options": [
+        "Pierwsza wyspa w Europie całkowicie bezsamochodowa",
+        "Organizuje jeden z trudniejszych wyścigów Tour de France",
+        "Posiada unikalny tunel rowerowy pod cieśniną Öresund",
+        "Z ponad 230 km tras rowerowych na małym obszarze – europejski lider turystyki rowerowej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bornholm posiada ponad 230 km tras rowerowych na stosunkowo małym obszarze, co czyni go europejskim liderem turystyki rowerowej.",
+      "category": "Wyspa Bornholm",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Jak Dania jest połączona ze Szwecją?",
+      "options": [
+        "Mostem lotniczym z pasem startowym na wodzie",
+        "Tunelem podmorskim na Morzu Bałtyckim",
+        "Regularnym połączeniem promowym przez cieśninę Kattegat",
+        "Spektakularnym mostem nad Sundem (Øresundsbroen)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dania jest połączona ze Szwecją mostem nad Sundem – Øresundsbroen (Most Öresund), łączącym Kopenhagę i Malmö.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "23",
+      "question": "Katedra Świętego Knuta w Odense (UNESCO?) posiada coś niezwykłego w kryptach. Co to jest?",
+      "options": [
+        "Ruiny przedchrześcijańskiej świątyni nordyckiej",
+        "Grobowiec Hansa Christiana Andersena",
+        "Szczątki króla Knuta IV Świętego i jego brata",
+        "Sarkofag najstarszej duńskiej dynastii królewskiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "W kryptach Katedry św. Knuta (Sankt Knuds Kirke) w Odense spoczywają szczątki króla Knuta IV Świętego i jego brata; sama katedra to jeden z najpiękniejszych przykładów ceglanego gotyku w Danii.",
+      "category": "Odense – wyspa Fionia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "24",
+      "question": "Lindholm Høje w pobliżu Aalborgu to jedno z najważniejszych wikingowskich miejsc pochówku w Skandynawii. Ile grobów się tam znajduje?",
+      "options": [
+        "Ok. 200 kurgaów ziemnych",
+        "Ok. 100 grobów w kształcie trójkątów",
+        "Ok. 300 grobów prostokątnych",
+        "Ponad 600 grobów w kształcie łodzi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lindholm Høje w pobliżu Aalborgu posiada ponad 600 grobów w charakterystycznym kształcie łodzi – jest to jedno z najważniejszych stanowisk archeologicznych kultury wikingów w Skandynawii.",
+      "category": "Jutlandia",
+      "difficulty": "hard"
+    },
+    {
+      "id": "25",
+      "question": "Jaka jest waluta Danii i czym różni się to od innych krajów skandynawskich?",
+      "options": [
+        "Korona duńska (DKK) – Dania nie należy do Unii Europejskiej",
+        "Euro (EUR) – Dania jako jedyny kraj skandynawski jest w strefie euro",
+        "Frank duński (DKF) – odrębna waluta sprzed ery koron",
+        "Korona duńska (DKK) – Dania nie przyjęła euro pomimo członkostwa w UE"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dania używa Korony duńskiej (DKK); pomimo bycia członkiem UE, Dania nie przyjęła euro (wynegocjowała opt-out).",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "26",
+      "question": "Czym jest Christiania w Kopenhadze?",
+      "options": [
+        "Samozwańczym „Wolnym Miastem” – alternatywną, hippisowską enklawą",
+        "Portową dzielnicą, z której odpływają promy do Norwegii",
+        "Królewską dzielnicą pełną pałaców i muzeów",
+        "Nowoczesnym centrum finansowym nad Sundem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Christiania to najsłynniejsza alternatywna dzielnica Kopenhagi – samozwańcze „Wolne Miasto”, kojarzone z kontrkulturą i odmiennym stylem życia.",
+      "category": "Kopenhaga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "27",
+      "question": "Z czym kojarzy się pałac Amalienborg w Kopenhadze?",
+      "options": [
+        "Z rezydencją królewską i uroczystą zmianą warty",
+        "Z dawnym portem wikińskim przy Nyhavn",
+        "Z muzeum Andersena i Ogrodami Tivoli",
+        "Z największym akwarium Skandynawii"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amalienborg jest rezydencją duńskiej rodziny królewskiej; jedną z popularnych atrakcji turystycznych jest odbywająca się tam uroczysta zmiana warty.",
+      "category": "Kopenhaga",
+      "difficulty": "easy"
+    },
+    {
+      "id": "28",
+      "question": "Co wyróżnia zamek Frederiksborg w Hillerød?",
+      "options": [
+        "Pełni dziś wyłącznie funkcję koszar wojskowych",
+        "Jest surową twierdzą wikińską na wybrzeżu Jutlandii",
+        "To jedyna duńska rezydencja całkowicie zbudowana z marmuru",
+        "To holenderski renesans z czerwonej cegły, położony na trzech wyspach jeziora Slotsø"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frederiksborg uchodzi za najpiękniejszy zamek Danii; wyróżnia go styl holenderskiego renesansu i malownicze położenie na trzech wyspach jeziora Slotsø.",
+      "category": "Zelandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Czym jest Den Gamle By w Aarhus?",
+      "options": [
+        "Portem handlowym z epoki hanzeatyckiej",
+        "Twierdzą z czasów wojen napoleońskich",
+        "Nowoczesną dzielnicą designu z galeriami sztuki",
+        "Unikatowym skansenem miejskim z ponad 75 zabytkowymi domami z całej Danii"
+      ],
+      "correctIndex": 3,
+      "explanation": "Den Gamle By to wyjątkowy skansen miejski w Aarhus; przeniesiono tu dziesiątki zabytkowych domów, tworząc żywe muzeum historii duńskich miast.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Czym jest Utzon Center w Aalborgu?",
+      "options": [
+        "Centrum architektury i designu, będące ostatnim dziełem Jørna Utzona – twórcy opery w Sydney",
+        "Rezydencja duńskich monarchów na północy kraju",
+        "Kompleks sportów zimowych na wydmach Jutlandii",
+        "Muzeum poświęcone tylko historii wikingów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Utzon Center w Aalborgu jest związane z Jørnem Utzonem, autorem opery w Sydney; placówka łączy funkcje wystawiennicze, edukacyjne i architektoniczne.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Co odtwarza Ribe VikingeCenter?",
+      "options": [
+        "Dwór królewski z czasów Andersena",
+        "Tradycyjną produkcję klocków LEGO",
+        "Największą bitwę II wojny światowej na terenie Danii",
+        "Codzienne życie z epoki wikingów w VIII–X wieku"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ribe VikingeCenter rekonstruuje codzienność epoki wikingów – od zabudowy po rzemiosło i zwyczaje z VIII–X wieku.",
+      "category": "Jutlandia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Czym jest Den Fynske Landsby koło Odense?",
+      "options": [
+        "Park rozrywki poświęcony baśniom Andersena",
+        "Nowoczesne osiedle ekologiczne zaprojektowane przez Kengo Kumę",
+        "Muzeum morskie poświęcone wyprawom do Grenlandii",
+        "Skansen odtwarzający wieś z XVIII i XIX wieku z domami ryglowymi, młynami i warsztatami"
+      ],
+      "correctIndex": 3,
+      "explanation": "Den Fynske Landsby to duży skansen na Fionii, pokazujący dawną wieś duńską z epoki Andersena – z domami ryglowymi, młynami i warsztatami rzemieślniczymi.",
+      "category": "Odense – wyspa Fionia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Z czego słynie Hirtshals na północy Jutlandii?",
+      "options": [
+        "Z pałacu królewskiego i zmiany warty",
+        "Wyłącznie z najstarszej katedry w Skandynawii",
+        "Z ważnego portu promowego, klifowego wybrzeża i jednego z największych oceanariów Europy",
+        "Z tropikalnych ogrodów botanicznych"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hirtshals łączy funkcję ważnego portu promowego z walorami edukacyjnymi i turystycznymi; działa tam Nordsøen Oceanarium, jedno z największych w Europie.",
+      "category": "Regiony nadmorskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Dlaczego Hvide Sande jest tak popularne wśród aktywnych turystów?",
+      "options": [
+        "To centrum nurkowania jaskiniowego w wapiennych grotach",
+        "Bo jest jedynym kurortem narciarskim Danii",
+        "Słynie wyłącznie z zabytków wikińskich",
+        "Leży na wąskiej mierzei i uchodzi za stolicę windsurfingu oraz kitesurfingu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hvide Sande leży na wąskiej mierzei między Morzem Północnym a fiordem Ringkøbing; dzięki warunkom wiatrowym jest ważnym ośrodkiem windsurfingu i kitesurfingu.",
+      "category": "Regiony nadmorskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Która atrakcja Wysp Owczych słynie z tego, że jezioro sprawia wrażenie zawieszonego nad oceanem?",
+      "options": [
+        "Sørvágsvatn",
+        "Tinganes w Tórshavn",
+        "Kirkjubøur",
+        "Slættaratindur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sørvágsvatn jest jedną z najbardziej niezwykłych atrakcji Wysp Owczych – dzięki perspektywie wygląda tak, jakby jezioro wisiało wysoko nad oceanem.",
+      "category": "Wyspy Owcze",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Co wyróżnia osadę Gásadalur na Wyspach Owczych?",
+      "options": [
+        "Widok na wodospad Múlafossur spadający prosto do oceanu",
+        "Słynny tor Formuły 1 wykuty w skale",
+        "Największe centrum handlowe archipelagu",
+        "Największy port rybacki regionu z promami na Islandię"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gásadalur należy do ikon Wysp Owczych głównie za sprawą wodospadu Múlafossur, który spada z wysokiego klifu prosto do oceanu.",
+      "category": "Wyspy Owcze",
+      "difficulty": "medium"
+    },
+    {
+      "id": "37",
+      "question": "Która aktywność należy do najbardziej tradycyjnych form podróżowania po Grenlandii zimą?",
+      "options": [
+        "Rajdy samochodami terenowymi po autostradach",
+        "Wspinaczka po wydmach pustynnych",
+        "Rejs gondolą po fiordach",
+        "Psie zaprzęgi (dog sledding)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dog sledding, czyli podróżowanie psimi zaprzęgami, jest jedną z najbardziej tradycyjnych i rozpoznawalnych aktywności Grenlandii, szczególnie na północy i wschodzie wyspy.",
+      "category": "Grenlandia",
+      "difficulty": "easy"
+    }
+  ]
+}

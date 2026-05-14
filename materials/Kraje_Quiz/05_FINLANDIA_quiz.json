@@ -1,0 +1,608 @@
+{
+  "title": "Finlandia – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Finlandii",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Finlandia jest nazywana „Krajem Tysiąca Jezior”. Ile jezior naprawdę posiada?",
+      "options": [
+        "Ponad 500 000 jezior",
+        "Ponad 180 000 jezior",
+        "Ponad 10 000 jezior",
+        "Dokładnie 1000 jezior"
+      ],
+      "correctIndex": 1,
+      "explanation": "Choć Finlandia nazywana jest „Krajem Tysiąca Jezior”, w rzeczywistości posiada ponad 180 000 jezior – kraj jest pokryty wodą w wyjątkowym stopniu.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "question": "Czym wyróżnia się Finlandia na tle innych krajów skandynawskich pod względem waluty?",
+      "options": [
+        "Jako jedyny kraj skandynawski przyjęła euro (EUR)",
+        "Używa marki fińskiej powiązanej z walutą strefy euro",
+        "Używa wspólnej waluty skandynawskiej – korony nordyckiej",
+        "Używa korony fińskiej jako jedynej waluty skandynawskiej w strefie euro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Finlandia jako jedyny kraj skandynawski przyjęła euro (EUR); pozostałe kraje nordyckie (Szwecja, Norwegia, Dania, Islandia) używają własnych walut.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Gdzie dokładnie leży Rovaniemi – centrum turystyki lapońskiej i dom Świętego Mikołaja?",
+      "options": [
+        "50 km za kołem podbiegunowym",
+        "Na styku Finlandii i Rosji",
+        "Dokładnie na linii koła podbiegunowego",
+        "400 km na południe od koła podbiegunowego"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rovaniemi leży dokładnie na linii koła podbiegunowego; to symboliczne położenie stało się podstawą stworzenia tutaj Wioski Świętego Mikołaja.",
+      "category": "Laponia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest SantaPark w Rovaniemi?",
+      "options": [
+        "Stacja meteorologiczna z centrum obserwacji zorzy polarnej",
+        "Muzeum saamskiej kultury i rzemiosła",
+        "Podziemny park rozrywki wykuty w skale – Grota św. Mikołaja z Galerią Lodową i Szkołą Elfów",
+        "Otwarty park reniferów z możliwością karmienia zwierząt"
+      ],
+      "correctIndex": 2,
+      "explanation": "SantaPark to podziemny park rozrywki wykuty w skale w Rovaniemi; oferuje Galerię Lodową, Szkołę Elfów, przejażdżki pociągiem magicznym i inne atrakcje.",
+      "category": "Laponia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest jezioro Saimaa, największe w Finlandii?",
+      "options": [
+        "Największe w Europie jezioro polodowcowe z regularną żeglugą transgraniczną",
+        "Zbiornik wodny stworzony przez człowieka w celach przemysłowych",
+        "Czwarte co do wielkości w Europie, z endemiczną zagrożoną wyginięciem foką obrączkowaną",
+        "Jezioro zasolone ze zdrowotnymi wodami mineralnymi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saimaa to największe jezioro Finlandii i czwarte w Europie; jest domem dla endemicznej foki obrączkowanej (Saimaa ringed seal) – zagrożonej wyginięciem populacji.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "6",
+      "question": "Jakim wyjątkowym zabytkiem słynie Savonlinna?",
+      "options": [
+        "Najstarszą i najlepiej zachowaną sauną dymną w Europie",
+        "Siedzibą jedynego w Finlandii biskupstwa prawosławnego",
+        "Zamkiem Olavinlinna – najlepiej zachowanym średniowiecznym zamkiem w Skandynawii i corocznym festiwalem operowym",
+        "Najstarszym drewnianym miastem Europy Nordyckiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Savonlinna posiada zamek Olavinlinna – najlepiej zachowany średniowieczny zamek w Skandynawii, w którym co roku odbywa się jeden z najsłynniejszych europejskich festiwali operowych.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Tampere to największe miasto śródlądowe Skandynawii. Między jakimi jeziorami leży?",
+      "options": [
+        "Inari i Kilpisjärvi",
+        "Saimaa i Päijänne",
+        "Oulu i Saimaa",
+        "Näsijärvi i Pyhäjärvi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tampere leży na przesmyku między jeziorami Näsijärvi i Pyhäjärvi; jest największym miastem śródlądowym Skandynawii, dawnym centrum przemysłowym.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "8",
+      "question": "Czym wyróżniają się Wyspy Alandzkie (Åland) pod względem prawnym i militarnym?",
+      "options": [
+        "Są strefą całkowicie zdemilitaryzowaną, z własnym parlamentem, flagą i znaczkami; jedynym językiem urzędowym jest szwedzki",
+        "Mają status bezpośredniej kolonii szwedzkiej od XIX wieku",
+        "Posiadają własną armię i prawo do wydawania paszportów",
+        "Są niezależną republiką formalnie należącą do NATO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wyspy Alandzkie to autonomiczny archipelag Finlandii ze szwedzkim językiem urzędowym; są strefą całkowicie zdemilitaryzowaną, posiadają własny parlament, flagę i znaczki pocztowe.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co to jest statek-muzeum Pommern w Mariehamn na Wyspach Alandzkich?",
+      "options": [
+        "Jedyny na świecie oryginalny czteromasztowy stalowy bark zachowany w niezmienionym stanie",
+        "Replika wikingowskiej łodzi używana do celów edukacyjnych",
+        "Historyczny okręt wojenny z II wojny światowej",
+        "Muzeum morskie poświęcone historii Morza Bałtyckiego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pommern to jedyny na świecie oryginalny czteromasztowy stalowy bark w niezmienionym stanie; cumuje przed Muzeum Morskim w Mariehamn i jest symbolem morskiej potęgi Wysp Alandzkich.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Lahti znane w świecie zimowych sportów?",
+      "options": [
+        "Kompleks Salpausselkä z trampolinami narciarskimi i trasami biegowymi; rekordowe 7 Mistrzostw Świata w Narciarstwie Klasycznym",
+        "Centrum produkujące sprzęt narciarski dla mistrzów świata",
+        "Mieści coroczny wyścig Nordycki na najtrudniejszej trasie w Europie",
+        "Posiada największy ośrodek narciarski w Skandynawii z alpejskim krajobrazem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lahti posiada kompleks Salpausselkä (3 skocznie i dziesiątki km tras biegowych); rekordową liczbę razy (7!) organizowało Mistrzostwa Świata w Narciarstwie Klasycznym.",
+      "category": "Lahti – narciarstwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest Twierdza Suomenlinna w Helsinkach (UNESCO)?",
+      "options": [
+        "Potężna forteca morska na sześciu wyspach, jeden z największych zabytków militarnych Europy",
+        "Muzeum kultury saamskiej w centrum stolicy",
+        "Zabytkowy pałac królewski na wybrzeżu",
+        "Gotycka katedra na wyspie w centrum zatoki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suomenlinna (UNESCO) to potężna forteca morska leżąca na sześciu wyspach u wybrzeży Helsinek; jeden z największych i najlepiej zachowanych zabytków militarnych Europy.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Czym jest Kościół w Skale (Temppeliaukio) w Helsinkach?",
+      "options": [
+        "Protestancka świątynia z drewnianą konstrukcją ryglową",
+        "Podziemna kaplica benedyktyńska z XVI wieku",
+        "Najstarsza katedra luterska w Finlandii z X wieku",
+        "Kościół wykuty w granitowej skale, przykryty miedzianą kopułą – perła nowoczesnej architektury"
+      ],
+      "correctIndex": 3,
+      "explanation": "Temppeliaukio (Kościół w Skale) to unikatowa świątynia w Helsinkach wykuta bezpośrednio w granitowej skale i przykryta spektakularną miedzianą kopułą.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Turku jest najstarszym miastem Finlandii. Do kiedy pełniło rolę stolicy?",
+      "options": [
+        "Do roku 1640",
+        "Do roku 1812",
+        "Do roku 1917",
+        "Do roku 1712"
+      ],
+      "correctIndex": 1,
+      "explanation": "Turku pełniło rolę stolicy Finlandii do 1812 roku, kiedy to Aleksander I przeniósł stolicę do Helsinek.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Co to jest Vanha Rauma (Stara Rauma) i dlaczego jest wpisana na listę UNESCO?",
+      "options": [
+        "Unikatowy system jaskiń wapiennych z prehistorycznymi malowidłami",
+        "Sieć kanałów wodnych łącząca największe jeziora Finlandii",
+        "Największy w krajach nordyckich kompleks historycznej drewnianej zabudowy miejskiej (ok. 600 budynków)",
+        "Najstarszy zabytek sakralny w Finlandii – ruiny katedry romańskiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vanha Rauma (Stara Rauma, UNESCO) to największy w krajach nordyckich kompleks historycznej zabudowy drewnianej – ok. 600 budynków; Rauma słynie też z tradycji koronczarskich.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "15",
+      "question": "Jak w języku fińskim nazywa się zorza polarna i co oznacza ta nazwa?",
+      "options": [
+        "Auroras – „złote światło północy”",
+        "Pohjantähti – „gwiazda północy”",
+        "Taivas – „niebiańskie płomienie”",
+        "Revontulet – „lisi ogień” (lis biegający i krzeszący iskry ogonem)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Po fińsku zorza polarna to revontulet, co oznacza „lisi ogień” – według legendy lis biega po wzgórzach i uderza ogonem o śnieg, krzesząc iskry świecące na niebie.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "W jakim sezonie najlepiej obserwować zorzę polarną w fińskiej Laponii?",
+      "options": [
+        "Od września do marca (najdłuższe i najciemniejsze noce)",
+        "Od maja do lipca (noce polarne – białe noce)",
+        "Od marca do czerwca (długie zmierzchy polarne)",
+        "Od listopada do marca (najniższe temperatury)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zorzę polarną w Laponii najlepiej obserwować od września do marca, kiedy noce są najdłuższe i najciemniejsze – warunkiem jest czyste niebo i aktywność słoneczna.",
+      "category": "Kultura i przyroda",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Jakie jest najsłynniejsze danie kuchni lapońskiej – Poronkäristys?",
+      "options": [
+        "Ryba renifera (łosoś lapońsk) marynowana w soli",
+        "Bułeczki cynamonowe z nadzieniem z renifera",
+        "Mięso niedźwiedzia gotowane w sanie",
+        "Cienko krojone plastry mięsa renifera duszone na maśle z cebulą, podawane z tłuczonymi ziemniakami i konfiturą z brusznicy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Poronkäristys to najsłynniejsze danie Laponii – cienko krojone plastry mięsa renifera duszone na maśle z cebulą, podawane z ziemniakami i konfiturą z brusznicy (czerwonych jagód).",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Ile saun przypada na jednego mieszkańca Finlandii?",
+      "options": [
+        "Mniej więcej jedna sauna na 5 osób",
+        "Mniej więcej jedna sauna na 10 osób",
+        "Mniej więcej jedna sauna na 100 osób",
+        "Mniej więcej jedna sauna na każde 2 osoby (ok. 3 mln saun na 5,5 mln mieszkańców)"
+      ],
+      "correctIndex": 3,
+      "explanation": "W Finlandii o populacji ok. 5,5 mln mieszkańców jest ponad 3 mln saun – to mniej więcej jedna sauna na 2 osoby, co pokazuje jak ważna jest sauna w fińskiej kulturze.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Co to jest Löyly w fińskiej saunie?",
+      "options": [
+        "Tradycyjna wiązka brzozowych gałązek do chłostania ciała",
+        "Drewniane wiaderko do polewania kamieni",
+        "Sauna bez okien, oparta na piecu węglowym",
+        "Uderzenie pary wodnej powstające przez polanie gorących kamieni w piecu wodą"
+      ],
+      "correctIndex": 3,
+      "explanation": "Löyly to uderzenie gorącej pary wodnej, która powstaje gdy leje się wodę na gorące kamienie pieca (kiuas) w fińskiej saunie; jest to serce rytuału sauny.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest Kalakukko – tradycyjna potrawa z regionu Sawonii?",
+      "options": [
+        "Marynowany łosoś z białym sosem i koprem",
+        "Rybny gulasz z warzywami i ziemniakami",
+        "Chleb żytni nadziewany rybami (sielawami) i słoniną, pieczony przez wiele godzin",
+        "Wędzona ryba renifera w sosie borówkowym"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kalakukko to tradycyjna potrawa z regionu Sawonii – chleb żytni nadziewany rybami (sielawami) i słoniną, pieczony przez wiele godzin.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "21",
+      "question": "Czym wyróżnia się jezioro Päijänne w południowej Finlandii?",
+      "options": [
+        "To drugie co do wielkości jezioro kraju i ważne źródło wody pitnej dla aglomeracji Helsinek",
+        "To najwyżej położone jezioro Finlandii, znane z gorących źródeł",
+        "To jedyne jezioro Finlandii, na którym można pływać statkami oceanicznymi",
+        "To jezioro słone połączone kanałem z Zatoką Botnicką"
+      ],
+      "correctIndex": 0,
+      "explanation": "Päijänne jest drugim co do wielkości jeziorem Finlandii; dzięki tunelowi Päijänne dostarcza też wodę pitną do regionu Helsinek, więc ma duże znaczenie gospodarcze.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Jaką rolę odgrywa jezioro Inari w fińskiej Laponii?",
+      "options": [
+        "Słynie wyłącznie z corocznych regat żeglarskich organizowanych przez Helsinki",
+        "Jest głównym portem morskim północnej Finlandii",
+        "Jest sztucznym zbiornikiem zbudowanym dla przemysłu drzewnego",
+        "To jedno z największych jezior kraju, ważne dla kultury Saamów i pełne świętych wysp"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inari to jedno z największych jezior Finlandii, położone daleko na północy; ma duże znaczenie dla kultury Saamów i zawiera liczne wyspy o tradycyjnym, także sakralnym znaczeniu.",
+      "category": "Laponia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Dlaczego Mariehamn bywa nazywane „miastem tysiąca lip”?",
+      "options": [
+        "Z powodu gęstych lasów lipowych otaczających całe Wyspy Alandzkie",
+        "Bo w mieście działa tysiąc zakładów produkujących miód lipowy",
+        "Ponieważ szerokie aleje miasta obsadzono lipami, co stało się jego znakiem rozpoznawczym",
+        "Z powodu średniowiecznej legendy o tysiącu drzew zasadzonych przez wikingów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mariehamn, stolica Wysp Alandzkich, słynie z szerokich ulic i alei obsadzonych lipami; stąd popularne określenie „miasto tysiąca lip”.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "easy"
+    },
+    {
+      "id": "24",
+      "question": "Czym są ruiny Bomarsund na Wyspach Alandzkich?",
+      "options": [
+        "Pozostałością rosyjskiej twierdzy z XIX wieku, której zniszczenie w wojnie krymskiej umocniło demilitaryzację archipelagu",
+        "Pozostałością średniowiecznego portu wikińskiego",
+        "Ruinami pierwszego parlamentu autonomii alandzkiej",
+        "Dawną stocznią, w której zbudowano bark Pommern"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bomarsund to ruiny rosyjskiej twierdzy z XIX wieku; jej zniszczenie podczas wojny krymskiej stało się jednym z kroków prowadzących do trwałej demilitaryzacji Wysp Alandzkich.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "hard"
+    },
+    {
+      "id": "25",
+      "question": "Czym w tradycji fińskiej sauny jest vasta lub vihta?",
+      "options": [
+        "Ceremonią polewania kamieni piwem podczas przesilenia letniego",
+        "Rodzajem miedzianego pieca opalanego torfem",
+        "Specjalnym ręcznikiem zakładanym wyłącznie w saunach publicznych",
+        "Wiązką świeżych brzozowych gałązek używaną do delikatnego oklepywania ciała w saunie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vasta lub vihta to wiązka świeżych brzozowych gałązek używana w saunie do lekkiego oklepywania skóry; pobudza krążenie i jest elementem tradycyjnego rytuału saunowego.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Jaką funkcję pełni Plac Senacki (Senaatintori) w Helsinkach?",
+      "options": [
+        "To reprezentacyjne centrum Helsinek z katedrą, budynkami rządowymi i uniwersytetem",
+        "Jest głównym portem pasażerskim miasta",
+        "Stanowi największy miejski park narodowy w Finlandii",
+        "Jest dzielnicą targową znaną wyłącznie z hal rybnych"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plac Senacki to klasycystyczne serce Helsinek; stoją przy nim m.in. Katedra Helsińska, gmachy rządowe i budynki uniwersyteckie, dlatego pełni funkcję reprezentacyjnego centrum stolicy.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Czym jest Wioska Świętego Mikołaja (Santa Claus Village) w Rovaniemi?",
+      "options": [
+        "Dawną bazą wojskową przekształconą w hotel",
+        "Największym lotniskiem Laponii z terminalem cargo",
+        "Muzeum przyrody arktycznej bez atrakcji rodzinnych",
+        "Całorocznym kompleksem turystycznym na linii koła podbiegunowego z pocztą i możliwością spotkania św. Mikołaja"
+      ],
+      "correctIndex": 3,
+      "explanation": "Santa Claus Village w Rovaniemi pozwala przekroczyć symboliczną linię koła podbiegunowego, spotkać św. Mikołaja i wysłać list ze specjalnym arktycznym stemplem.",
+      "category": "Laponia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "28",
+      "question": "Czym jest Arktikum w Rovaniemi?",
+      "options": [
+        "Twierdzą z czasów szwedzkich nad rzeką Kemijoki",
+        "Kompleksem skoczni narciarskich nad zamarzniętym jeziorem",
+        "Największą w Finlandii sauną dymną",
+        "Muzeum i centrum nauki poświęcone Arktyce oraz kulturze Saamów"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arktikum w Rovaniemi to ważne muzeum i centrum nauki, prezentujące przyrodę Arktyki oraz kulturę Saamów – rdzennych mieszkańców północy.",
+      "category": "Laponia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Co wyróżnia Park Narodowy Pallas-Yllästunturi w Laponii?",
+      "options": [
+        "Znajduje się tu szlak Hetta–Pallas, uznawany za najstarszy szlak pieszy Finlandii, a powietrze należy do najczystszych na świecie",
+        "Park słynie wyłącznie z wydobycia złota i miedzi",
+        "Leży tam największy fiński port wojenny",
+        "To jedyny park narodowy bez jezior i lasów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pallas-Yllästunturi jest jednym z najważniejszych obszarów turystyki aktywnej w Laponii; prowadzi przez niego Hetta–Pallas, a region słynie z wyjątkowo czystego powietrza.",
+      "category": "Laponia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "30",
+      "question": "Jakie tradycyjne formy safari są popularne w fińskiej Laponii?",
+      "options": [
+        "Wyłącznie wielbłądzie karawany po wydmach",
+        "Rajdy samochodowe po autostradach koła podbiegunowego",
+        "Rejsy gondolą po polach lawowych",
+        "Wyprawy z psami husky, reniferami i skuterami śnieżnymi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laponia przyciąga turystów m.in. safari z husky, reniferami i skuterami śnieżnymi; są to jedne z najbardziej charakterystycznych form aktywności w śnieżnym krajobrazie północy.",
+      "category": "Laponia",
+      "difficulty": "easy"
+    },
+    {
+      "id": "31",
+      "question": "Czym wyróżnia się Kuopio w regionie pojeziernym Finlandii?",
+      "options": [
+        "Słynie z wieży Puijo i największej na świecie sauny dymnej Jätkänkämppä",
+        "To jedyne miasto bez dostępu do jeziora",
+        "Leży nad fiordem morskim z portem kontenerowym",
+        "Jest fińską stolicą przemysłu diamentowego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuopio, stolica Sawonii nad jeziorem Kallavesi, kojarzy się z wieżą widokową Puijo oraz Jätkänkämppä – słynną, ogromną sauną dymną.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Dlaczego Jyväskylä bywa nazywane stolicą architektury Alvara Aalto?",
+      "options": [
+        "Jest to jedyne miasto Finlandii bez nowoczesnej zabudowy",
+        "Bo zachowało najwięcej średniowiecznych zamków z cegły",
+        "Ponieważ znajduje się tam wiele realizacji Aalto, a miasto silnie kojarzy się z jego dziedzictwem architektonicznym",
+        "Bo każda ulica została tam zaprojektowana przez Carla Engela"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jyväskylä jest mocno związane z Alvarem Aalto; znajduje się tam wyjątkowo dużo budynków i miejsc powiązanych z jego twórczością, dlatego miasto kojarzy się z fińskim designem i architekturą.",
+      "category": "Pojezierze Fińskie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Czym jest zamek Kastelholm na Wyspach Alandzkich?",
+      "options": [
+        "Drewnianym skansenem rybackim przy porcie Mariehamn",
+        "Ruiny rosyjskiej twierdzy z wojny krymskiej",
+        "Jedynym zamkiem archipelagu, średniowieczną warownią związaną z królami szwedzkimi",
+        "Nowoczesnym parlamentem autonomii alandzkiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kastelholm to jedyny zamek na Alandach; średniowieczna warownia przypomina o związkach archipelagu ze Szwecją i dawną władzą królewską.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "34",
+      "question": "Czym był Eckerö Post & Customs House na Alandach?",
+      "options": [
+        "Fortem artyleryjskim z czasów zimnej wojny",
+        "Muzeum poświęconym wyłącznie znaczkom Pommern",
+        "Monumentalną dawną pocztą i komorą celną – symboliczną „bramą na zachód” ku Szwecji",
+        "Dawnym klasztorem z epoki wikińskiej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eckerö Post & Customs House to reprezentacyjny budynek dawnej poczty i komory celnej, podkreślający znaczenie Alandów jako zachodniej bramy Finlandii w kierunku Szwecji.",
+      "category": "Wyspy Alandzkie",
+      "difficulty": "medium"
+    },
+    {
+      "id": "35",
+      "question": "Czym wyróżnia się ośrodek Messilä koło Lahti?",
+      "options": [
+        "To najwyższy ośrodek narciarski Laponii",
+        "Kurort nadmorski słynący z plaż i surfingu",
+        "Jedyne miejsce w Finlandii z całorocznym lodowcem",
+        "Najważniejszy ośrodek narciarstwa zjazdowego południowej Finlandii, popularny zwłaszcza wśród mieszkańców Helsinek"
+      ],
+      "correctIndex": 3,
+      "explanation": "Messilä to najważniejsze centrum narciarstwa zjazdowego południowej Finlandii; dzięki bliskości Helsinek jest popularnym kierunkiem weekendowych wyjazdów zimowych.",
+      "category": "Lahti – narciarstwo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "36",
+      "question": "Czym jest Kauppatori w Helsinkach?",
+      "options": [
+        "Największym stadionem sportów zimowych w kraju",
+        "Średniowieczną twierdzą obronną przy katedrze",
+        "Portowym rynkiem, gdzie można spróbować lokalnych specjałów, np. smażonych sielawek",
+        "Zamkniętym centrum konferencyjnym rządu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kauppatori to słynny targ portowy w Helsinkach; jest ważnym elementem miejskiej atmosfery i miejscem, gdzie turyści próbują lokalnych przysmaków.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "easy"
+    },
+    {
+      "id": "37",
+      "question": "Jaką rangę ma Katedra w Turku w historii Finlandii?",
+      "options": [
+        "Najważniejsza świątynia luterańska kraju, uznawana za narodowe sanktuarium Finlandii",
+        "Jedyny fiński kościół prawosławny wpisany na UNESCO",
+        "To wyłącznie kaplica uniwersytecka bez większego znaczenia",
+        "Nowoczesna świątynia zbudowana po II wojnie światowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Katedra w Turku ma szczególną rangę w historii Finlandii – jest najważniejszą świątynią luterańską i bywa uznawana za narodowe sanktuarium kraju.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "38",
+      "question": "Czym jest muzeum Aboa Vetus & Ars Nova w Turku?",
+      "options": [
+        "Nietypowym połączeniem wykopalisk średniowiecznego miasta i muzeum sztuki współczesnej",
+        "Podziemnym schronem z czasów wojny zimowej",
+        "Muzeum poświęconym wyłącznie historii sauny",
+        "Wyłącznie galerią sztuki nordyckiego modernizmu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aboa Vetus & Ars Nova łączy w jednym miejscu relikty średniowiecznego Turku z prezentacją sztuki współczesnej, dzięki czemu należy do najbardziej oryginalnych muzeów Finlandii.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "39",
+      "question": "Czym jest Muumimaailma (Świat Muminków) w Naantali?",
+      "options": [
+        "Muzeum lotnictwa poświęconym fińskim pilotom",
+        "Historycznym zamkiem średniowiecznym przy marinie",
+        "Parkiem wodnym z dużymi zjeżdżalniami",
+        "Tematycznym parkiem na wyspie Kailo, odtwarzającym świat Muminków z książek Tove Jansson"
+      ],
+      "correctIndex": 3,
+      "explanation": "Muumimaailma w Naantali to park tematyczny poświęcony Muminkom; zamiast typowego lunaparku stawia na kontakt z postaciami i odtwarzanie klimatu Doliny Muminków.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "easy"
+    },
+    {
+      "id": "40",
+      "question": "Czym jest Kultaranta w Naantali?",
+      "options": [
+        "Największym fińskim portem wojennym",
+        "Jedynym w kraju uzdrowiskiem termalnym",
+        "Letnią rezydencją prezydenta Finlandii, znaną z ogrodów różanych",
+        "Ośrodkiem szkolenia psich zaprzęgów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kultaranta to letnia rezydencja prezydenta Finlandii w Naantali; miejsce słynie z reprezentacyjnego charakteru i efektownych ogrodów różanych.",
+      "category": "Helsinki i południe Finlandii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "41",
+      "question": "Czym wyróżnia się savusauna – tradycyjna sauna dymna?",
+      "options": [
+        "Nie posiada komina, a dym ogrzewa wnętrze przed wietrzeniem sauny",
+        "Działa wyłącznie na energię elektryczną",
+        "Jest mobilną sauną montowaną na saniach reniferowych",
+        "Ma szklaną kopułę do obserwacji zorzy polarnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Savusauna to najbardziej tradycyjny typ sauny fińskiej – nie ma komina, więc wnętrze najpierw napełnia się dymem, a dopiero potem jest wietrzone przed kąpielą.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "42",
+      "question": "Czym jest Leipäjuusto w kuchni fińskiej?",
+      "options": [
+        "Podpiekanym „chlebnym serem”, często serwowanym z maliną moroszką",
+        "Zupą z renifera i ziemniaków",
+        "Wędzoną rybą podawaną z koprem",
+        "Cynamonową bułeczką jedzoną do kawy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leipäjuusto, nazywany „chlebnym serem”, to charakterystyczny fiński ser podawany na ciepło, często z maliną moroszką; jego lekko skrzypiąca konsystencja jest bardzo rozpoznawalna.",
+      "category": "Kultura i przyroda",
+      "difficulty": "medium"
+    },
+    {
+      "id": "43",
+      "question": "Jak Finlandia wykorzystuje zorzę polarną w infrastrukturze turystycznej Laponii?",
+      "options": [
+        "Organizuje obserwacje tylko na pokładach statków morskich",
+        "Ogranicza noclegi wyłącznie do tradycyjnych namiotów",
+        "Buduje podziemne tunele do obserwacji nieba",
+        "Rozwija szklane igloo, z których można oglądać niebo bez wychodzenia na mróz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lapońska turystyka rozwinęła m.in. szklane igloo, które pozwalają obserwować zorzę polarną z ciepłego wnętrza – to jeden z najbardziej znanych fińskich pomysłów turystycznych.",
+      "category": "Kultura i przyroda",
+      "difficulty": "easy"
+    }
+  ]
+}

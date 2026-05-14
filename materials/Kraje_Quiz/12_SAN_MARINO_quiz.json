@@ -1,0 +1,216 @@
+{
+  "title": "San Marino – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych San Marino",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Gdzie leży San Marino i dlaczego jest wyjątkowe pod względem geograficznym?",
+      "options": [
+        "Enklawa w centralnej Francji, otoczona przez Alzację i Burgundię",
+        "Mała republika na wybrzeżu Adriatyku blisko Wenecji",
+        "Enklawa w północnych Włoszech, otoczona przez Lombardię i Piemont",
+        "Enklawa w środkowych Włoszech (Emilia-Romania i Marche), blisko Rimini, bez dostępu do morza"
+      ],
+      "correctIndex": 3,
+      "explanation": "San Marino to enklawa w środkowych Włoszech, otoczona przez regiony Emilia-Romania i Marche; leży blisko Rimini nad Adriatykiem, ale samo nie ma dostępu do morza.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Co San Marino określa jako „najstarszą istniejącą republikę na świecie”?",
+      "options": [
+        "Jako pierwsza republika europejska uchwaliła konstytucję w 1215 roku",
+        "Jako jedyna republika przetrwała bezpośrednio od czasów Cesarstwa Rzymskiego",
+        "Jej republika datuje się na VII wiek, co czyni ją starszą od San Marino",
+        "Nieprzerwana egzystencja od IV wieku n.e. (301 r.) – nigdy nie została podbita ani wchłonięta"
+      ],
+      "correctIndex": 3,
+      "explanation": "San Marino jest uważane za najstarszą istniejącą republikę na świecie; według tradycji zostało założone 3 września 301 r. n.e. przez kamieniarza Marinusa z wyspy Rab.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest Monte Titano – serce San Marino (UNESCO)?",
+      "options": [
+        "Wulkaniczny szczyt z obserwatorium astronomicznym",
+        "Kompleks podziemnych jaskiń z prehistorycznymi malowidłami",
+        "Historyczne centrum handlu metalami z Cesarstwa Römskiego",
+        "Wapienna góra z trzema szczytami koronowanymi trzema historycznymi wieżami – symbol San Marino (UNESCO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monte Titano to wapienna góra Apeninów z trzema szczytami, na każdym z nich stoi jedna z trzech słynnych wież San Marino; całe Historyczne Centrum San Marino i Monte Titano są wpisane na listę UNESCO.",
+      "category": "Monte Titano",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Jak zwie się Pierwsza Wieża San Marino i co ją charakteryzuje?",
+      "options": [
+        "La Rocca (Guaita) – najstarsza i największa wieża, punkt obserwacyjny i symbol San Marino",
+        "Torre del Comune – centrum administracji San Marino od XIV w.",
+        "La Cesta (Seconda Torre) – na najwyższym szczycie z Muzeum Broni Dawnej",
+        "Montale (Terza Torre) – najmniejsza wieża, niedostępna dla turystów wewnątrz"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Rocca (Guaita) to Pierwsza Wieża – najstarsza i największa; była zarówno strażnicą jak i więzieniem; dziś jest głównym punktem obserwacyjnym i symbolem San Marino.",
+      "category": "Trzy Wieże",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym jest Montale (Trzecia Wieża) i co wyróżnia ją spośród trzech wież?",
+      "options": [
+        "Centrum biletowe dla turystów odwiedzających wszystkie trzy wieże",
+        "Największa wieża z muzeum historycznym dostępnym przez cały rok",
+        "Jedyna wieża z aktywnymi dzwonami dzwonnicowymi",
+        "Najwyżej położona, posiada punkt widokowy, ale nie jest otwarta dla zwiedzających wewnątrz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Montale (Terza Torre) to najmniejsza i najbardziej odizolowana z trzech wież; posiada taras widokowy, ale jej wnętrza nie są otwarte dla zwiedzających.",
+      "category": "Trzy Wieże",
+      "difficulty": "hard"
+    },
+    {
+      "id": "6",
+      "question": "Czym jest Palazzo Pubblico w San Marino?",
+      "options": [
+        "Centrum administracyjne prowincji Emilia-Romania",
+        "Prywatna rezydencja Kapitanów Regentów wzniesiona w XIX w.",
+        "Budynek rządowy i parlamentarny na Piazza della Libertà (Placu Wolności), siedziba Wielcej Rady i Kapitanów Regentów",
+        "Historyczne muzeum numizmatyczne z kolekcją monet San Marino"
+      ],
+      "correctIndex": 2,
+      "explanation": "Palazzo Pubblico (Pałac Publiczny) na Placu Wolności to serce instytucjonalne San Marino; mieści Wielką Radę Generalną (parlament) i jest siedzibą Kapitanów Regentów – głów państwa.",
+      "category": "Centrum historyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Kim są Kapitanowie Regenci San Marino?",
+      "options": [
+        "Jeden mianowany przez parlament prezydent z pięcioletnią kadencją",
+        "Dwaj królowie z dynastii San Marino wybierani co 5 lat",
+        "Czterej rotacyjni ministrowie sprawujący władzę naprzemiennie",
+        "Dwaj wybierani co sześć miesięcy współprzywódcy państwa z tradycją sięgającą XII w."
+      ],
+      "correctIndex": 3,
+      "explanation": "San Marino jest rządzone przez dwóch Kapitanów Regentów, wybieranych co sześć miesięcy przez Wielką Radę Generalną; ta tradycja sięga XII w. i jest unikalnym systemem dyarchii.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "8",
+      "question": "Jakie znaczenie ekonomiczne mają filatelistyka i numizmatyka dla San Marino?",
+      "options": [
+        "San Marino produkuje wyłącznie europejskie znaczki euro dla kolekcjonerów w całej UE",
+        "To tylko hobby obywateli, nieistotne gospodarczo",
+        "Znaczki i monety San Marino są wysoce cenione przez kolekcjonerów i stanowią ważne źródło dochodu",
+        "Tylko turystyka przynosi większy dochód; filatelistyka jest symboliczna"
+      ],
+      "correctIndex": 2,
+      "explanation": "Filatelistyka i numizmatyka są ważnym źródłem dochodów San Marino; znaczki pocztowe, emitowane od 1877 r., i monety euro San Marino są wysoko cenione przez kolekcjonerów na całym świecie.",
+      "category": "Podstawowe informacje",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Co to jest Bazylika San Marino?",
+      "options": [
+        "Neoklasyczna bazylika z XIX w. mieszcząca relikwie Świętego Marinusa – patrona i założyciela republiki",
+        "Kościół romański z XI w. z najstarszymi freskami Apeninów",
+        "Katedra wzorowana na Bazylice Świętego Piotra w Watykanie",
+        "Gotycki kościół z XIV w. z relikwiami wszystkich świętych marynistów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazylika San Marino to neoklasyczna świątynia z XIX w., gdzie przechowywane są relikwie Świętego Marinusa – legendarnego założyciela republiki i jej patrona.",
+      "category": "Centrum historyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "10",
+      "question": "Czym jest Kościół Świętego Piotra w San Marino?",
+      "options": [
+        "Świątynia wzorowana na Panteonie z nieotwartymi kryptami",
+        "Kościół z XIII w. z największym ołtarzem w San Marino",
+        "Jeden z najstarszych kościołów w San Marino, w którego ścianie wykute są dwie nisze zwane tradycyjnymi łóżkami św. Marinusa i św. Leona",
+        "Kościół barokowy z unikalną kolekcją rzeźb z alabastru"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kościół Świętego Piotra słynie z dwóch wykutych w skale nisz, zwanych tradycyjnymi łóżkami Świętego Marinusa i Świętego Leona – ważne miejsce pielgrzymkowe.",
+      "category": "Centrum historyczne",
+      "difficulty": "hard"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest La Cesta (Seconda Torre) w San Marino?",
+      "options": [
+        "Głównym kościołem państwowym z relikwiami św. Maryna",
+        "Siedzibą rządu i parlamentu na Piazza della Libertà",
+        "Najniższą wieżą republiki zamkniętą dla turystów",
+        "Drugą wieżą na najwyższym szczycie Monte Titano, mieszczącą Muzeum Dawnej Broni"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Cesta, zwana też Seconda Torre, stoi na najwyższym szczycie Monte Titano i mieści Muzeum Dawnej Broni, podkreślając obronny charakter republiki.",
+      "category": "Wieże obronne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "12",
+      "question": "Z czego słynie Kościół św. Franciszka w San Marino?",
+      "options": [
+        "Stanowi jedyny meczet na terenie państwa",
+        "Jest najstarszą świątynią republiki i sąsiaduje z pinakoteką św. Franciszka",
+        "Mieści muzeum filatelistyczne i mennicę",
+        "To nowoczesny kościół parlamentarny z salą obrad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kościół św. Franciszka jest najstarszą świątynią San Marino; z sąsiednim klasztorem wiąże się także pinakoteka prezentująca sztukę sakralną.",
+      "category": "Centrum historyczne",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Dlaczego zakupy są ważnym elementem turystyki w San Marino?",
+      "options": [
+        "Ponieważ kraj używa własnej waluty, niedostępnej nigdzie indziej",
+        "Bo republika słynie z wielkich centrów outletowych nad morzem",
+        "Ze względu na funkcję strefy wolnocłowej, przyciągającej turystów z Włoch i wybrzeża Adriatyku",
+        "Bo tylko tam można legalnie kupować antyczne rzymskie monety"
+      ],
+      "correctIndex": 2,
+      "explanation": "San Marino korzysta z atrakcyjności strefy wolnocłowej, dzięki czemu turystyka zakupowa stała się ważnym uzupełnieniem turystyki kulturowej i jednodniowych wizyt.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "14",
+      "question": "Jaki typ ruchu turystycznego dominuje w San Marino?",
+      "options": [
+        "Jednodniowa turystyka kulturowa, zwłaszcza z wybrzeża Adriatyku i Rimini",
+        "Długie pobyty uzdrowiskowe w kurortach termalnych",
+        "Turystyka safari po górach wysokich",
+        "Masowa turystyka plażowa 3xS"
+      ],
+      "correctIndex": 0,
+      "explanation": "Większość odwiedzających przyjeżdża do San Marino na krótkie, często jednodniowe wycieczki z okolic Rimini i adriatyckich kurortów, łącząc zwiedzanie z zakupami.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "15",
+      "question": "Jaką funkcję pełni Piazza della Libertà z Palazzo Pubblico w San Marino?",
+      "options": [
+        "To reprezentacyjne centrum życia państwowego z ceremoniami i widowiskową zmianą warty",
+        "To strefa przemysłowa związana z mennicą",
+        "Znajduje się tam największy targ żywności w Apeninach",
+        "Jest to główny terminal autobusowy republiki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plac Wolności z Palazzo Pubblico stanowi ceremonialne serce państwa; odbywają się tam najważniejsze uroczystości oraz efektowna zmiana warty.",
+      "category": "Centrum historyczne",
+      "difficulty": "medium"
+    }
+  ]
+}

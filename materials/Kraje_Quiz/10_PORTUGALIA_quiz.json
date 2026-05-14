@@ -1,0 +1,482 @@
+{
+  "title": "Portugalia – Quiz geograficzny i turystyczny",
+  "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Portugalii",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Jak Portugalia jest wyróżniona geograficznie na kontynencie europejskim?",
+      "options": [
+        "To najbardziej wysunięty na zachód kraj Europy kontynentalnej, na Półwyspie Iberyjskim",
+        "To najbardziej wysunięty na południe kraj Europy kontynentalnej",
+        "To kraj leżący na trzech półwyspach różnych mórz",
+        "To jedyny kraj w Europie zachodniej bez dostępu do Morza Śródziemnego"
+      ],
+      "correctIndex": 0,
+      "explanation": "Portugalia jest najbardziej wysuniętym na zachód krajem Europy kontynentalnej; graniczy wyłącznie z Hiszpanią (północ i wschód) i jest obmywana przez Ocean Atlantycki.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "question": "Czym jest Klasztor Hieronimitów (Mosteiro dos Jerónimos) w Lizbonie?",
+      "options": [
+        "Klasztor dominikański z XV w. z największą kolekcją azulejo w Europie",
+        "Gotycki zamek zbudowany przez Maurów w X wieku nad rzeką Tag",
+        "Klasztor w stylu manuelińskim (UNESCO) z grobem Vasco da Gamy, będący symbolem epoki odkryć geograficznych",
+        "Barokowy pałac królewski z XVIII w. zbudowany po trzęsieniu ziemi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mosteiro dos Jerónimos (UNESCO) to arcydzieło stylu manuelińskiego (gotyk + renesans + motywy morskie), mieszczące grób Vasco da Gamy; jest symbolem epoki wielkich odkryć geograficznych Portugalii.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "3",
+      "question": "Czym jest styl architektoniczny manuelin (manuelino)?",
+      "options": [
+        "Barokowy styl propagowany przez króla Manuela II",
+        "Styl arabsko-iberyjski typowy dla Alentejo",
+        "Czysty gotyk średniowieczny z wpływami arabskimi",
+        "Styl łączący elementy gotyku, renesansu i morskich motywów dekoracyjnych (lin, kotwic, globów armilarnych)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Styl manuelin to unikatowy portugalski styl architektoniczny z przełomu XV/XVI w., łączący gotyk, renesans i motywy morskie (liny, kotwice, koralowce, globusy armilarne) – symbol epoki odkryć.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "question": "Czym jest Cabo da Roca i gdzie leży?",
+      "options": [
+        "Najwyższy klif nad Oceanem Atlantyckim na Półwyspie Iberyjskim",
+        "Przylądek wyznaczający dawną granicę między Celtami a Luzytanami",
+        "Najdalej wysunięty na południe przylądek Portugalii nad Cieśniną Gibraltarską",
+        "Najbardziej wysunięty na zachód punkt Europy kontynentalnej, 40 km na zachód od Lizbony, ze słynnym cytatem Camõesa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cabo da Roca to najbardziej wysunięty na zachód punkt Europy kontynentalnej, leżący ok. 40 km na zachód od Lizbony; na pomniku widnieje cytat Camõesa: „Gdzie kończy się ląd, a zaczyna morze”.",
+      "category": "Lizbona i okolice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "5",
+      "question": "Czym wyróżnia się dzielnica Alfama w Lizbonie?",
+      "options": [
+        "Centrum muzealne z najważniejszymi galeriami sztuki Portugalii",
+        "Ekskluzywna dzielnica mieszczańska z pałacami z XVI wieku",
+        "Nowoczesna dzielnica finansowa zbudowana po 1755 roku",
+        "Najstarsza część Lizbony, zbudowana przez Maurów, cudownie przeżyła trzęsienie ziemi 1755 r. i jest centrum Fado"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alfama to najstarsza część Lizbony (mauretańskiego pochodzenia), która przetrwała trzęsienie ziemi 1755 roku; jest kulturalnym centrum Fado i autentyczną dzielnicą z labiryntem wąskich uliczek.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "6",
+      "question": "Z czego słynie dzielnica Ribeira w Porto (UNESCO)?",
+      "options": [
+        "Historyczne nadrzeczne nabrzeże nad rzeką Douro wpisane na listę UNESCO; ikoniczne barki rabelo służyły do transportu beczek portowego wina",
+        "Dzielnica przemysłowa przekształcona w centrum galerii sztuki",
+        "Centrum handlu złotem i koralami z tradycjami mauretańskimi",
+        "Centrum muzyczne i festiwalowe Porto z romantyczną architekturą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ribeira (UNESCO) to historyczne nadrzeczne nabrzeże Porto nad rzeką Douro; ikoniczne drewniane barki rabelo służyły do transportu beczek z winem portowym z winnic Doliny Douro.",
+      "category": "Porto",
+      "difficulty": "medium"
+    },
+    {
+      "id": "7",
+      "question": "Czym słynie Dworzec São Bento w Porto?",
+      "options": [
+        "Nowoczesny dworzec z największym atrium szklanym w Europie",
+        "Najstarszym dworcem kolejowym na Półwyspie Iberyjskim z XVII w.",
+        "Centrum handlowe z zachowanymi reliktami dawnego klasztoru benedyktyńskiego",
+        "Dworzec pokryty ok. 20 000 paneli azulejo (niebieskich kafli ceramicznych) z historiami z historii Portugalii"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dworzec São Bento w Porto słynie z ponad 20 000 paneli niebieskich kafli ceramicznych (azulejo) zdobiących hol główny, przedstawiających historyczne sceny z historii Portugalii i Galicji.",
+      "category": "Porto",
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "question": "Czym jest Sanktuarium Bom Jesus do Monte w Bradze?",
+      "options": [
+        "Najbardziej na południe wysunięty kościół romański w Europie",
+        "Muzeum etnograficzne z ekspozycją tradycji ludowych Minho",
+        "Ważna katedra romańska z XII w. będąca centrum archidiecezji Bragi",
+        "Barokowe sanktuarium pielgrzymkowe z charakterystycznym zygzakowatym schodami Via Sacra"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bom Jesus do Monte koło Bragi to barokowe sanktuarium na wzgórzu z charakterystycznymi zygzakowatymi schodami Via Sacra – pielgrzymi wchodzą na kolanach; jest jednym z najbardziej znanych miejsc pielgrzymkowych Europy.",
+      "category": "Północna Portugalia",
+      "difficulty": "medium"
+    },
+    {
+      "id": "9",
+      "question": "Coimbra była dawną stolicą Portugalii. Z czego słynie jej Biblioteka Joanina?",
+      "options": [
+        "Biblioteka renesansowa z największym zbiorem Map portolańskich z epoki odkryć",
+        "Największa biblioteka na Półwyspie Iberyjskim z cyfrowym archiwum manuskryptów",
+        "Jeden z najpiękniejszych przykładów barokowej architektury bibliotecznej na świecie, słynny z gilotyn na muchy (kolonii netoperzy)",
+        "Centrum przechowywania Kronik Królewskich od XII do XVIII wieku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biblioteka Joanina (Biblioteca Joanina) w Coimbrze to arcydzieło architektury barokowej, jedno z najpiękniejszych na świecie; utrzymuje kolonie netoperzy (morcegos), które nocą jedzą insekty groźne dla ksiąg.",
+      "category": "Coimbra",
+      "difficulty": "hard"
+    },
+    {
+      "id": "10",
+      "question": "Fátima jest jednym z najważniejszych chrześcijańskich miejsc pielgrzymkowych. Co wydarzyło się w 1917 roku?",
+      "options": [
+        "Trójce dzieci objawiała się Matka Boska Różańcowa; sanktuarium posiada plac większy od Placu Świętego Piotra",
+        "Znaleziono tu najstarszy w Europie relikwiarz z XII wieku",
+        "Portugalia wygrała bitwę o niepodległość od Hiszpanii i przypisano to cudownemu wstawiennictwu",
+        "Znaleziono tu relikwie Świętego Antoniego z Lizbony"
+      ],
+      "correctIndex": 0,
+      "explanation": "W Fátimie w 1917 roku trójce dzieci (Łucja, Hiacynta, Franciszek) kilkakrotnie objawiała się Matka Boska Różańcowa; to jedno z najważniejszych sanktuariów maryjnych na świecie.",
+      "category": "Centrum Portugalii",
+      "difficulty": "easy"
+    },
+    {
+      "id": "11",
+      "question": "Czym jest region Algarve na południu Portugalii?",
+      "options": [
+        "Wyżynny region winniczo-korkowy, centrum produkcji wina zielonego",
+        "Pustyniowy region z unikalnymi ekosystemami zbliżony do Afryki Północnej",
+        "Region znany z produkcji korka i tradycyjnego rzemiosła ceramicznego",
+        "Turystyczny region nadmorski słynący z wapiennych klifów (Ponta da Piedade), grotowych plaż i masowej turystyki (Albufeira)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Algarve to główny turystyczny region nadmorski Portugalii na południu; słynie z malowniczych wapiennych klifów (Ponta da Piedade koło Lagos), plaż jaskiniowych i masowej turystyki (Albufeira).",
+      "category": "Algarve",
+      "difficulty": "easy"
+    },
+    {
+      "id": "12",
+      "question": "Czym wyróżnia się wyspa Pico na Azorach w Inezji UNESCO?",
+      "options": [
+        "Centrum hodowli bizonów na atlantyckich wyspach",
+        "To wyspa z największym aktywnym wulkanem na Atlantyku",
+        "Jedyna wyspa Azorów z gorącymi źródłami geotermalnymi",
+        "Najwyższy szczyt Portugalii (2351 m n.p.m.) i unikatowe winnice na ścianach wulkanicznych (UNESCO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Na wyspie Pico (Azory) leży najwyższy szczyt Portugalii – wulkan Pico (2351 m n.p.m.); wpisane na listę UNESCO są też winnice na polach lawy ogradzanych kamiennymi murkami.",
+      "category": "Azory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "13",
+      "question": "Czym jest Lagoa das Sete Cidades na wyspie São Miguel (Azory)?",
+      "options": [
+        "Siedem połączonych jezior termalnych z geotermalnymi gejzerami",
+        "Naturalny aquapark z wodospadami i basenami wulkanicznymi",
+        "Jezioro kraterowe w dwóch połączonych kalderach z wodą o różnych kolorach (niebieską i zieloną)",
+        "Laguna przymorska z różowymi flamingami"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sete Cidades to jezioro kraterowe w kalderze wulkanicznej na São Miguel; składa się z dwóch połączonych jezior – jedno ma wodę niebieską, drugie zieloną, co tworzy spektakularny widok.",
+      "category": "Azory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "14",
+      "question": "Czym jest Laurisilva na Maderze (UNESCO)?",
+      "options": [
+        "System irygacyjny z XV wieku do nawadniania plantacji",
+        "Wulkaniczny ogród botaniczny z endemiczną florą Atlantyku",
+        "Plantacja laurowych drzew założona przez Henryka Żeglarza w XV wieku",
+        "Prehistoryczny las wawrzynowy (laurowy) – unikalny ekosystem z epoki trzeciorzędu zachowany tylko na Makaronezyji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laurisilva Madery (UNESCO) to prehistoryczny las wawrzynowy z epoki trzeciorzędu, jeden z ostatnich tego typu na świecie; zachował się dzięki korzystnemu mikroklimatowi wyspy.",
+      "category": "Madera",
+      "difficulty": "hard"
+    },
+    {
+      "id": "15",
+      "question": "Co to jest Levada na Maderze?",
+      "options": [
+        "System irygacyjnych kanałów nawadniających terenów górskich, wzdłuż których prowadzą popularne trasy trekkingowe",
+        "Lokalny napój alkoholowy z soku trzciny cukrowej",
+        "Tradycyjne drewniane sanie używane na zboczach Monte",
+        "Tradycyjne haftowane obrusy z Madery"
+      ],
+      "correctIndex": 0,
+      "explanation": "Levady to system wąskich kanałów irygacyjnych przebiegających przez górzysty teren Madery; wzdłuż ich brzegów poprowadzono popularniejsze trasy turystyczne trekkingowe.",
+      "category": "Madera",
+      "difficulty": "medium"
+    },
+    {
+      "id": "16",
+      "question": "Czym jest Fado – najbardziej rozpoznawalna tradycja muzyczna Portugalii?",
+      "options": [
+        "Odmianą śpiewu gregoriańskiego zachowaną w klasztorach Lizbony",
+        "Muzyką dworską z epoki manuelińskiej graną przez orkiestry dęte",
+        "Wesołym tańcem ludowym z północy kraju wykonywanym wyłącznie podczas winobrań",
+        "Melancholijną pieśnią miejską związaną z saudade, wykonywaną zwykle przy gitarze portugalskiej"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fado to najsłynniejszy gatunek muzyczny Portugalii, kojarzony z nastrojem saudade; wykonywany jest zazwyczaj z towarzyszeniem gitary portugalskiej, szczególnie w Lizbonie i Coimbrze.",
+      "category": "Kultura i tradycje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "17",
+      "question": "Jakie znaczenie ma rzeka Tejo (Tag) dla Portugalii?",
+      "options": [
+        "Najdłuższa rzeka Półwyspu Iberyjskiego przecinająca Portugalię i uchodząca szerokim estuarium w Lizbonie",
+        "Rzeka płynąca wyłącznie przez Maderę i Azory",
+        "To najkrótsza rzeka kraju, wykorzystywana wyłącznie do nawadniania pól",
+        "Naturalna granica między Portugalią a Marokiem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tejo to najdłuższa rzeka Półwyspu Iberyjskiego; w Portugalii ma ogromne znaczenie historyczne, gospodarcze i krajobrazowe, a jej estuarium kształtuje układ Lizbony i żeglugę oceaniczną.",
+      "category": "Lizbona i okolice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "18",
+      "question": "Czym jest Serra da Estrela w środkowej Portugalii?",
+      "options": [
+        "Regionem wyspiarskim z aktywnymi wulkanami na Atlantyku",
+        "Najwyższym pasmem górskim Portugalii kontynentalnej, znanym z granitowych krajobrazów i sportów zimowych",
+        "Nadmorskim pasmem wydm stanowiącym część Algarve",
+        "Pustynnym płaskowyżem z największymi plantacjami oliwek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Serra da Estrela to najwyższe pasmo górskie Portugalii kontynentalnej; słynie z surowych granitowych krajobrazów, owiec dających mleko do sera Serra i ośrodków sportów zimowych.",
+      "category": "Centrum Portugalii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "19",
+      "question": "Jakim regionem jest Alentejo?",
+      "options": [
+        "Regionem wyspiarskim słynącym wyłącznie z obserwacji wielorybów",
+        "Najważniejszym centrum przemysłu stoczniowego kraju",
+        "Rozległym, słabo zaludnionym regionem równin, korka, oliwek i bielonych miasteczek na południe od Tejo",
+        "Najbardziej górzystą częścią Portugalii z największą liczbą zamków mauretańskich"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alentejo to rozległy region na południe od Tejo, znany z równin, gajów oliwnych, dębów korkowych, spokojnego rytmu życia oraz bielonych miasteczek jak Évora.",
+      "category": "Alentejo",
+      "difficulty": "medium"
+    },
+    {
+      "id": "20",
+      "question": "Czym jest calçada portuguesa, widoczna na placach i ulicach Portugalii?",
+      "options": [
+        "Ludowym tańcem wykonywanym podczas świąt miejskich",
+        "Tradycyjną techniką brukowania chodników białym i czarnym kamieniem w dekoracyjne wzory",
+        "Stylem budowy mostów z epoki rzymskiej",
+        "Systemem fortyfikacji nadmorskich z czasów wielkich odkryć"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calçada portuguesa to charakterystyczna portugalska sztuka układania mozaikowych chodników z małych białych i czarnych kamieni; zdobi place i promenady m.in. Lizbony oraz Porto.",
+      "category": "Lizbona",
+      "difficulty": "easy"
+    },
+    {
+      "id": "21",
+      "question": "Czym słynie miejscowość Furnas na wyspie São Miguel na Azorach?",
+      "options": [
+        "Z największego stadionu piłkarskiego Atlantyku",
+        "Z najstarszej w Europie latarni morskiej",
+        "Z pól geotermalnych i potrawy cozido das Furnas, gotowanej w ziemi dzięki ciepłu wulkanicznemu",
+        "Z ogromnych wydm i pustynnych krajobrazów"
+      ],
+      "correctIndex": 2,
+      "explanation": "Furnas na São Miguel słynie z aktywności geotermalnej: fumaroli, gorących źródeł i tradycyjnego dania cozido, które gotuje się w garnkach umieszczanych w gorącej ziemi.",
+      "category": "Azory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "22",
+      "question": "Na czym polega słynna atrakcja Monte Toboggan na Maderze?",
+      "options": [
+        "To kolejka linowa biegnąca pod ziemią przez tunele lawowe",
+        "To tor bobslejowy używany podczas zimowych zawodów na Pico Ruivo",
+        "To spływ tratwami po kanałach lewad w centrum wyspy",
+        "To zjazd wiklinowymi saniami po stromych ulicach Funchalu, kierowany przez carreiros w białych strojach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monte Toboggan to tradycyjny zjazd wiklinowymi saniami z dzielnicy Monte w kierunku Funchalu; pojazdem kierują carreiros w charakterystycznych białych strojach i słomkowych kapeluszach.",
+      "category": "Madera",
+      "difficulty": "medium"
+    },
+    {
+      "id": "23",
+      "question": "Dlaczego Vila Nova de Gaia jest tak ważna dla regionu Porto?",
+      "options": [
+        "Po południowej stronie Douro znajdują się słynne piwnice, w których dojrzewa i jest degustowane wino porto",
+        "To dawna stolica Portugalii z największą katedrą kraju",
+        "Miasto słynie wyłącznie z produkcji płytek azulejo i ceramiki",
+        "To najważniejszy portugalski port wojenny nad Atlantykiem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vila Nova de Gaia leży naprzeciwko Porto, po drugiej stronie Douro; to właśnie tam znajdują się historyczne piwnice i centra degustacyjne słynnego wina porto.",
+      "category": "Porto",
+      "difficulty": "medium"
+    },
+    {
+      "id": "24",
+      "question": "Jaki status mają Azory i Madera w administracyjnym podziale Portugalii?",
+      "options": [
+        "Stanowią regiony autonomiczne Portugalii położone na Atlantyku",
+        "Mają status całkowicie niezależnych republik stowarzyszonych",
+        "Są zamorskimi terytoriami zarządzanymi bezpośrednio przez NATO",
+        "Są hiszpańskimi enklawami czasowo dzierżawionymi przez Portugalię"
+      ],
+      "correctIndex": 0,
+      "explanation": "Azory i Madera należą do Portugalii jako regiony autonomiczne; mimo położenia daleko na Atlantyku stanowią integralną część państwa.",
+      "category": "Podstawowe informacje",
+      "difficulty": "easy"
+    },
+    {
+      "id": "25",
+      "question": "Czym jest Zamek św. Jerzego (Castelo de São Jorge) w Lizbonie?",
+      "options": [
+        "Nowoczesnym muzeum odkryć geograficznych",
+        "Gotyckim klasztorem templariuszy",
+        "Barokowym pałacem królewskim na nabrzeżu Tagu",
+        "Dawną fortecą mauretańską górującą nad miastem, pełniącą dziś funkcję zabytku i punktu widokowego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Castelo de São Jorge to dawna forteca mauretańska wznosząca się nad Lizboną; dawniej miała funkcję obronną i rezydencjonalną, dziś jest ważnym zabytkiem i punktem widokowym.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "26",
+      "question": "Czym wyróżnia się dzielnica Baixa w centrum Lizbony?",
+      "options": [
+        "Została odbudowana po trzęsieniu ziemi w XVIII wieku w regularnym, geometrycznym układzie urbanistycznym",
+        "To średniowieczny labirynt uliczek, który cudem ocalał bez zmian",
+        "To dzielnica portowa z największym targiem rybnym kraju",
+        "Jest wyłącznie nowoczesnym centrum finansowym bez zabytków"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baixa została odbudowana po katastrofalnym trzęsieniu ziemi z 1755 roku według regularnego, oświeceniowego planu urbanistycznego; stanowi dziś handlowe i administracyjne centrum miasta.",
+      "category": "Lizbona",
+      "difficulty": "medium"
+    },
+    {
+      "id": "27",
+      "question": "Co wyróżnia tradycję Fado de Coimbra?",
+      "options": [
+        "To wyłącznie instrumentalna muzyka klasztorna",
+        "To morska odmiana fado śpiewana przez rybaków Algarve",
+        "To jedyna odmiana fado grana bez gitary",
+        "Jest wykonywane głównie przez mężczyzn – studentów Coimbry – i różni się stylem od fado lizbońskiego"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fado de Coimbra jest silnie związane z akademickim charakterem miasta; tradycyjnie wykonują je mężczyźni, zwłaszcza studenci, a jego styl różni się od fado z Lizbony.",
+      "category": "Coimbra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "28",
+      "question": "Czym jest Stara Katedra (Sé Velha) w Coimbrze?",
+      "options": [
+        "Nowoczesną świątynią z XX wieku z największą kopułą Portugalii",
+        "Mauzoleum królów Portugalii nad rzeką Douro",
+        "Romańską katedrą o obronnym charakterze, przypominającą twierdzę",
+        "Kościołem zbudowanym wyłącznie w stylu manuelińskim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sé Velha w Coimbrze to doskonały przykład romańskiej architektury obronnej; jej masywna bryła sprawia, że przypomina raczej fortecę niż delikatną świątynię.",
+      "category": "Coimbra",
+      "difficulty": "medium"
+    },
+    {
+      "id": "29",
+      "question": "Czym jest Kaplica Objawień w Fátimie?",
+      "options": [
+        "Niewielką kaplicą wzniesioną w miejscu objawień maryjnych z 1917 roku",
+        "Nowoczesnym centrum konferencyjnym pielgrzymów",
+        "Najstarszym klasztorem Portugalii z relikwiami apostołów",
+        "Główną katedrą diecezji Lizbona"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaplica Objawień stoi dokładnie w miejscu, gdzie – według tradycji – dzieciom objawiła się Matka Boża; dlatego jest jednym z najważniejszych punktów sanktuarium w Fátimie.",
+      "category": "Centrum Portugalii",
+      "difficulty": "easy"
+    },
+    {
+      "id": "30",
+      "question": "Po co w Fátimie zbudowano Bazylikę Trójcy Przenajświętszej?",
+      "options": [
+        "Aby pomieścić tysiące pielgrzymów odwiedzających sanktuarium maryjne",
+        "By przechowywać największą kolekcję azulejo w kraju",
+        "Jako dawną rezydencję królewską przeniesioną z Lizbony",
+        "By pełniła funkcję narodowego muzeum sztuki sakralnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bazylika Trójcy Przenajświętszej jest nowoczesną i bardzo dużą świątynią w Fátimie; powstała po to, by pomieścić ogromne liczby pielgrzymów przybywających do sanktuarium.",
+      "category": "Centrum Portugalii",
+      "difficulty": "medium"
+    },
+    {
+      "id": "31",
+      "question": "Czym wyróżnia się Faro w regionie Algarve?",
+      "options": [
+        "Jest stolicą regionu, ma główne lotnisko Algarve i leży przy lagunie Ria Formosa z systemem wysp i kanałów",
+        "Słynie wyłącznie z portu kontenerowego i stoczni",
+        "To niewielka górska osada bez dostępu do wybrzeża",
+        "To najwyżej położone miasto Portugalii kontynentalnej"
+      ],
+      "correctIndex": 0,
+      "explanation": "Faro to stolica Algarve i główna brama lotnicza regionu; jego położenie przy lagunie Ria Formosa łączy znaczenie komunikacyjne z walorami przyrodniczymi.",
+      "category": "Algarve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "32",
+      "question": "Z czego słynie Portimão na południu Portugalii?",
+      "options": [
+        "Z plaży Praia da Rocha, sportów motorowych i dawnej tradycji rybackiej",
+        "Z upraw herbaty i ogrodów botanicznych",
+        "Z zabytkowych kopalń srebra w górach",
+        "Z największego klasztoru benedyktynów w kraju"
+      ],
+      "correctIndex": 0,
+      "explanation": "Portimão było dawniej ważnym ośrodkiem rybackim, a dziś słynie przede wszystkim z plaży Praia da Rocha oraz wydarzeń związanych ze sportami motorowymi i regatami.",
+      "category": "Algarve",
+      "difficulty": "medium"
+    },
+    {
+      "id": "33",
+      "question": "Dlaczego wyspa Porto Santo jest ceniona w turystyce zdrowotnej?",
+      "options": [
+        "Dzięki całorocznym warunkom do narciarstwa",
+        "Bo znajduje się tam największy w Europie park lawowy",
+        "Ponieważ ma najwyższe wodospady Portugalii",
+        "Ze względu na leczniczy złoty piasek i długą plażę"
+      ],
+      "correctIndex": 3,
+      "explanation": "Porto Santo słynie z długiej, złocistej plaży; miejscowy piasek uchodzi za bogaty w minerały i jest ceniony w turystyce wypoczynkowej oraz zdrowotnej.",
+      "category": "Madera",
+      "difficulty": "easy"
+    },
+    {
+      "id": "34",
+      "question": "Z czego znana jest wyspa Terceira na Azorach?",
+      "options": [
+        "Z jedynego w kraju pola lawendowego na poziomie morza",
+        "Z wyłącznie pustynnego krajobrazu bez osad historycznych",
+        "Z historycznego miasta Angra do Heroísmo (UNESCO) oraz jaskiń wulkanicznych, m.in. Algar do Carvão",
+        "Z największej rafy koralowej Portugalii"
+      ],
+      "correctIndex": 2,
+      "explanation": "Terceira przyciąga zarówno zabytkami Angra do Heroísmo wpisanego na listę UNESCO, jak i atrakcjami wulkanicznymi, takimi jak jaskinia Algar do Carvão.",
+      "category": "Azory",
+      "difficulty": "medium"
+    }
+  ]
+}
