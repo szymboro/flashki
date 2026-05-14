@@ -1,4 +1,5 @@
 {
+  "id": "quiz-set-1769367740622",
   "title": "Belgia – Quiz geograficzny i turystyczny",
   "description": "Test wiedzy o geografii, historii, kulturze i atrakcjach turystycznych Belgii",
   "questions": [
@@ -33,12 +34,7 @@
     {
       "id": "3",
       "question": "Które belgijskie miasto nosi przydomek „Flamandzka Wenecja”?",
-      "options": [
-        "Gandawa",
-        "Brugia (Brugge)",
-        "Mechelen",
-        "Antwerpia"
-      ],
+      "options": ["Gandawa", "Brugia (Brugge)", "Mechelen", "Antwerpia"],
       "correctIndex": 1,
       "explanation": "Brugia (Brugge) jest nazywana „Flamandzką Wenecją” ze względu na rozległą sieć kanałów i doskonale zachowaną średniowieczną zabudowę (UNESCO).",
       "category": "Flandria – atrakcje turystyczne",
@@ -47,12 +43,7 @@
     {
       "id": "4",
       "question": "W którym belgijskim mieście znajduje się słynny Ołtarz Baranka Bożego braci van Eyck?",
-      "options": [
-        "Antwerpia",
-        "Mechelen",
-        "Brugia",
-        "Gandawa (Gent)"
-      ],
+      "options": ["Antwerpia", "Mechelen", "Brugia", "Gandawa (Gent)"],
       "correctIndex": 3,
       "explanation": "Ołtarz Baranka Bożego pędzla braci Jana i Huberta van Eyck znajduje się w Katedrze św. Bawona w Gandawie (Gent).",
       "category": "Flandria – atrakcje turystyczne",
@@ -75,12 +66,7 @@
     {
       "id": "6",
       "question": "Ile stopni liczy schody Montagne de Bueren w Liège?",
-      "options": [
-        "300",
-        "374",
-        "412",
-        "256"
-      ],
+      "options": ["300", "374", "412", "256"],
       "correctIndex": 1,
       "explanation": "Schody Montagne de Bueren w Liège prowadzące na wzgórze cytadeli liczą 374 stopnie i są jednym z bardziej ekstremalnych ciągów schodów w Europie.",
       "category": "Walonia – atrakcje turystyczne",
@@ -117,12 +103,7 @@
     {
       "id": "9",
       "question": "Który belgijski zabytek jest nieoficjalnym symbolem i maskotką Brukseli?",
-      "options": [
-        "Manneken Pis",
-        "Pałac Królewski",
-        "Atomium",
-        "Grand Place"
-      ],
+      "options": ["Manneken Pis", "Pałac Królewski", "Atomium", "Grand Place"],
       "correctIndex": 0,
       "explanation": "Manneken Pis – mała figurka sikającego chłopca – jest nieoficjalnym symbolem i maskotką Brukseli.",
       "category": "Bruksela i Brabancja",
@@ -131,12 +112,7 @@
     {
       "id": "10",
       "question": "Kiedy założono Katolicki Uniwersytet w Leuven (KU Leuven)?",
-      "options": [
-        "W 1325 roku",
-        "W 1525 roku",
-        "W 1425 roku",
-        "W 1625 roku"
-      ],
+      "options": ["W 1325 roku", "W 1525 roku", "W 1425 roku", "W 1625 roku"],
       "correctIndex": 2,
       "explanation": "Katolicki Uniwersytet w Leuven (KU Leuven) został założony w 1425 roku i jest jednym z najstarszych oraz najbardziej prestiżowych uniwersytetów w Europie.",
       "category": "Bruksela i Brabancja",
@@ -159,12 +135,7 @@
     {
       "id": "12",
       "question": "Które miasto jest najstarszym w Belgii, założonym przez Rzymian jako Atuatuca Tungrorum?",
-      "options": [
-        "Liège",
-        "Mechelen",
-        "Tongeren",
-        "Tournai"
-      ],
+      "options": ["Liège", "Mechelen", "Tongeren", "Tournai"],
       "correctIndex": 2,
       "explanation": "Tongeren to najstarsze miasto Belgii, założone przez Rzymian jako Atuatuca Tungrorum; słynie z Muzeum Galijsko-Rzymskiego i największego targu staroci w Beneluksie.",
       "category": "Historyczne perły Belgii",
@@ -173,12 +144,7 @@
     {
       "id": "13",
       "question": "W którym mieście urodził się Adolf Sax – wynalazca saksofonu?",
-      "options": [
-        "Dinant",
-        "Namur",
-        "Liège",
-        "Spa"
-      ],
+      "options": ["Dinant", "Namur", "Liège", "Spa"],
       "correctIndex": 0,
       "explanation": "Adolf Sax urodził się w Dinant – malowniczym mieście nad rzeką Mozą z cytadelą na skale i kolegiatą z cebulastym hełmem.",
       "category": "Walonia – atrakcje turystyczne",
@@ -215,12 +181,7 @@
     {
       "id": "16",
       "question": "W którym belgijskim regionie jest siedziba największego koncernu piwowarskiego świata (Anheuser-Busch InBev)?",
-      "options": [
-        "Antwerpia",
-        "Leuven",
-        "Gandawa",
-        "Bruksela"
-      ],
+      "options": ["Antwerpia", "Leuven", "Gandawa", "Bruksela"],
       "correctIndex": 1,
       "explanation": "W Leuven mieści się siedziba Anheuser-Busch InBev – największego koncernu piwowarskiego świata oraz miejsce powstania piwa Stella Artois.",
       "category": "Bruksela i Brabancja",
@@ -243,12 +204,7 @@
     {
       "id": "18",
       "question": "Gdzie mieści się najstarsza dzwonnica miejska (beffroi) w Belgii?",
-      "options": [
-        "W Brugii",
-        "W Mechelen",
-        "W Gandawie",
-        "W Tournai"
-      ],
+      "options": ["W Brugii", "W Mechelen", "W Gandawie", "W Tournai"],
       "correctIndex": 3,
       "explanation": "Najstarsza dzwonnica miejska (beffroi) w Belgii znajduje się w Tournai i jest wpisana na listę UNESCO.",
       "category": "Historyczne perły Belgii",
@@ -257,12 +213,7 @@
     {
       "id": "19",
       "question": "Które miasto jest stolicą Walonii?",
-      "options": [
-        "Namur",
-        "Charleroi",
-        "Liège",
-        "Mons"
-      ],
+      "options": ["Namur", "Charleroi", "Liège", "Mons"],
       "correctIndex": 0,
       "explanation": "Namur jest stolicą Walonii; leży u ujścia Sambry do Mozy i posiada jedną z największych cytadel w Europie.",
       "category": "Walonia – atrakcje turystyczne",
@@ -285,12 +236,7 @@
     {
       "id": "21",
       "question": "Gdzie w Belgii odbyły się słynne objawienia maryjne z 1933 roku, czyniąc to miejsce „Belgijskim Lourdes”?",
-      "options": [
-        "Tournai",
-        "Liège",
-        "Banneux",
-        "Mechelen"
-      ],
+      "options": ["Tournai", "Liège", "Banneux", "Mechelen"],
       "correctIndex": 2,
       "explanation": "Banneux jest belgijskim centrum kultu maryjnego, związanym z objawieniami z 1933 roku; przyciąga rocznie setki tysięcy pielgrzymów szukających uzdrowienia.",
       "category": "Walonia – atrakcje turystyczne",
@@ -341,12 +287,7 @@
     {
       "id": "25",
       "question": "Belgijskie wybrzeże Morza Północnego ma długość:",
-      "options": [
-        "67 km",
-        "135 km",
-        "42 km",
-        "200 km"
-      ],
+      "options": ["67 km", "135 km", "42 km", "200 km"],
       "correctIndex": 0,
       "explanation": "Belgijskie wybrzeże Morza Północnego ma zaledwie 67 km długości, ale jest bardzo intensywnie zagospodarowane turystycznie.",
       "category": "Geografia fizyczna",
@@ -383,12 +324,7 @@
     {
       "id": "28",
       "question": "Jaka jest stolica Belgii, pełniąca też rolę nieoficjalnej stolicy Unii Europejskiej?",
-      "options": [
-        "Leuven",
-        "Bruksela",
-        "Gandawa",
-        "Antwerpia"
-      ],
+      "options": ["Leuven", "Bruksela", "Gandawa", "Antwerpia"],
       "correctIndex": 1,
       "explanation": "Bruksela (Brussels/Brussel) to stolica Belgii oraz siedziba najważniejszych instytucji Unii Europejskiej (PE, Komisja, Rada UE) i NATO.",
       "category": "Bruksela i Brabancja",
